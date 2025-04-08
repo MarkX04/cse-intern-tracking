@@ -5,8 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>CSE Internship Tracking 2025</title>
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" 
-        integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" 
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+        integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
   <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.2/dist/echarts.min.js"></script>
 </head>
@@ -19,13 +19,29 @@
   </header>
 
   <main class="p-4 md:p-5">
+    <div class="hero-banner bg-gray-100 relative h-96 overflow-hidden rounded-lg shadow-lg mb-5 flex flex-col md:flex-row border-l-8 border-blue-600">
+      <div class="w-full md:w-1/2 p-2 flex flex-col items-center justify-center text-black text-center space-y-4">
+        <h1 class="text-4xl font-extrabold tracking-tight text-gray-900 sm:text-5xl md:text-4xl lg:text-5xl xl:text-6xl">
+          <span class="block text-blue-600 xl:inline">NỘP CV ĐI EM!</span>
+      </h1>
+        <div id="quote" class="text-lg md:text-xl max-w-2xl">Còn do dự, mất hết slot đó!</div>
+        <p class="text-xl font-semibold text-gray-700">
+          Total registers: <span id="totalStudentRegister">0</span> |
+          Total intern slots: <span id="totalMaxAccepted">0</span>
+        </p>
+      </div>
+      <div class="w-full md:w-1/2 p-2 relative flex items-center justify-center overflow-hidden rounded">
+        <div id="slideshow" class="w-full h-96"></div>
+      </div>      
+    </div>
+    
     <div class="mb-5">
       <h2 class="text-xl font-semibold mb-3">List of companies</h2>
       <div class="overflow-x-auto">
-        <table class="""min-w-full bg-white shadow-md rounded-2xl border border-gray-300 overflow-hidden">
+        <table class="min-w-full bg-white shadow-md rounded-2xl border border-gray-300 overflow-hidden">
           <thead class="bg-blue-600 text-white">
             <tr>
-              <th class="px-4 py-2 border border-blue-700 ">Short Name</th>
+              <th class="px-4 py-2 border border-blue-700">Short Name</th>
               <th class="px-4 py-2 border border-blue-700">Full Name</th>
               <th class="px-4 py-2 border border-blue-700">Student Register</th>
               <th class="px-4 py-2 border border-blue-700">Max Register</th>
@@ -38,9 +54,10 @@
         </table>
       </div>
     </div>
+    
 
     <div>
-      <h2 class="text-xl font-semibold mb-3">Company tracking</h2>
+      <h2 class="text-xl font-semibold mb-3">Company Tracking</h2>
       <div id="chartContainer" class="w-full h-96 bg-white rounded-lg shadow-md"></div>
     </div>
   </main>
@@ -60,9 +77,59 @@
   </footer>
 
   <script>
+    class Slideshow {
+      constructor(imageUrls) {
+        this.imageUrls = imageUrls;
+        this.container = document.getElementById('slideshow');
+        this.currentSlide = 0;
+        this.slides = [];
+        this.totalSlides = 0;
+        this.initializeSlideshow();
+        this.startSlideshow();
+      }
+  
+      initializeSlideshow() {
+        this.imageUrls.forEach((url, index) => {
+          const img = document.createElement('img');
+          img.src = url;
+          img.alt = `Image ${index + 1}`;
+          img.className = "absolute inset-0 w-full h-full object-contain object-center rounded-lg shadow-lg transition-opacity duration-1000 ease-in-out " + (index !== 0 ? 'opacity-0' : 'opacity-100');
+          this.container.appendChild(img);
+          this.slides.push(img);
+        });
+        this.totalSlides = this.slides.length;
+      }
+  
+      showSlide(index) {
+        this.slides.forEach((slide, i) => {
+          slide.style.opacity = (i === index) ? '1' : '0';
+        });
+      }
+  
+      nextSlide() {
+        this.currentSlide = (this.currentSlide + 1) % this.totalSlides;
+        this.showSlide(this.currentSlide);
+      }
+  
+      startSlideshow() {
+        setInterval(() => this.nextSlide(), 5000);
+      }
+    }
     let companiesData = {};
     let historyChart = null; 
     let selectedCompanyId = null;
+
+    function updateAggregatedStats(data) {
+      let totalStudentRegister = 0;
+      let totalMaxAccepted = 0;
+      Object.values(data).forEach(company => {
+        totalStudentRegister += parseInt(company.studentRegister || 0);
+        totalMaxAccepted += parseInt(company.maxAcceptedStudent || 0);
+      });
+      document.getElementById('totalStudentRegister').textContent = totalStudentRegister.toLocaleString();
+      document.getElementById('totalMaxAccepted').textContent = totalMaxAccepted.toLocaleString();
+    }
+
     function loadCompaniesData() {
       fetch('https://raw.githubusercontent.com/MarkX04/cse-intern-tracking/main/companies.json')
         .then(response => response.json())
@@ -70,20 +137,34 @@
           companiesData = data;
           populateCompaniesTable(data);
           populateCompanySelect(data);
+          updateAggregatedStats(data);
+          initializeSlideshowFromCompanies(data);
         })
-        .catch(error => console.error('Lỗi tải dữ liệu companies:', error));
+        .catch(error => console.error('Error loading companies data:', error));
     }
-
+    function initializeSlideshowFromCompanies(data) {
+      const imageUrls = Object.values(data)
+                            .map(company => {
+                              if (company.image) {
+                                return "https://internship.cse.hcmut.edu.vn" + company.image;
+                              }
+                              return null;
+                            })
+                            .filter(url => url !== null);
+      if (imageUrls.length > 0) {
+        new Slideshow(imageUrls);
+      }
+    }
     function populateCompaniesTable(data) {
       const tbody = document.getElementById('companiesTableBody');
       tbody.innerHTML = '';
       let companiesArray = Object.values(data);
       
       document.querySelectorAll('thead th').forEach((header, index) => {
-      if (index >= 2) {
-        header.classList.add('cursor-pointer', 'select-none');
-        header.addEventListener('click', () => sortTable(index, companiesArray));
-      }
+        if (index >= 2) {
+          header.classList.add('cursor-pointer', 'select-none');
+          header.addEventListener('click', () => sortTable(index, companiesArray));
+        }
       });
       
       renderCompanyRows(companiesArray, tbody);
@@ -97,27 +178,25 @@
       const properties = ['shortname', 'fullname', 'studentRegister', 'maxRegister', 'studentAccepted', 'maxAcceptedStudent'];
       
       if (currentSortColumn === columnIndex) {
-      currentSortDirection = currentSortDirection === 'asc' ? 'desc' : 'asc';
+        currentSortDirection = currentSortDirection === 'asc' ? 'desc' : 'asc';
       } else {
-      currentSortColumn = columnIndex;
-      currentSortDirection = 'asc';
+        currentSortColumn = columnIndex;
+        currentSortDirection = 'asc';
       }
       
       headers.forEach(h => h.classList.remove('after:content-["↑"]', 'after:content-["↓"]', 'after:ml-1'));
       headers[columnIndex].classList.add(
-      currentSortDirection === 'asc' ? 'after:content-["↑"]' : 'after:content-["↓"]',
-      'after:ml-1'
+        currentSortDirection === 'asc' ? 'after:content-["↑"]' : 'after:content-["↓"]',
+        'after:ml-1'
       );
       
       companiesArray.sort((a, b) => {
-      const propA = a[properties[columnIndex]];
-      const propB = b[properties[columnIndex]];
-      
-      if (propA === undefined) return 1;
-      if (propB === undefined) return -1;
-      
-      const comparison = propA - propB;
-      return currentSortDirection === 'asc' ? comparison : -comparison;
+        const propA = a[properties[columnIndex]];
+        const propB = b[properties[columnIndex]];
+        if (propA === undefined) return 1;
+        if (propB === undefined) return -1;
+        const comparison = propA - propB;
+        return currentSortDirection === 'asc' ? comparison : -comparison;
       });
       
       const tbody = document.getElementById('companiesTableBody');
@@ -147,6 +226,7 @@
 
     function populateCompanySelect(data) {
       const select = document.getElementById('companySelect');
+      if(!select) return;
       select.innerHTML = '';
       Object.values(data).forEach(company => {
         const option = document.createElement('option');
@@ -169,18 +249,18 @@
         .then(response => response.json())
         .then(historyData => {
           if (!Array.isArray(historyData) || historyData.length === 0) {
-            console.warn("Không có dữ liệu lịch sử cho công ty:", companyId);
+            console.warn("No history data for company:", companyId);
             return;
           }
           historyData.sort((a, b) => a.timestamp - b.timestamp);
-          const timestamps = historyData.map(entry => new Date(entry.timestamp * 1000).toLocaleString());
+          const labels = historyData.map(entry => new Date(entry.timestamp * 1000).toLocaleString());
           const studentRegister = historyData.map(entry => entry.studentRegister);
           const studentAccepted = historyData.map(entry => entry.studentAccepted);
           const maxRegister = historyData.map(entry => entry.maxRegister);
           const maxAcceptedStudent = historyData.map(entry => entry.maxAcceptedStudent);
-          updateHistoryChart(timestamps, studentRegister, studentAccepted, maxRegister, maxAcceptedStudent);
+          updateHistoryChart(labels, studentRegister, studentAccepted, maxRegister, maxAcceptedStudent);
         })
-        .catch(error => console.error('Lỗi tải lịch sử cho công ty ' + companyId, error));
+        .catch(error => console.error('Error loading history for company ' + companyId, error));
     }
 
     function updateHistoryChart(labels, studentRegisterData, studentAcceptedData, maxRegisterData, maxAcceptedStudentData) {
@@ -217,7 +297,7 @@
         },
         yAxis: {
           type: 'value',
-          name: 'Giá trị'
+          name: 'Value'
         },
         series: [
           {
@@ -231,7 +311,7 @@
             type: 'line',
             data: studentAcceptedData,
             smooth: true
-          },
+          }
         ]
       };
       historyChart.setOption(chartOption);
