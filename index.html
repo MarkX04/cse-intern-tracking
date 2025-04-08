@@ -94,7 +94,7 @@
     let historyChart = null; 
     let selectedCompanyId = null;
     function loadCompaniesData() {
-      fetch('https://raw.githubusercontent.com/MarkX04/refs/heads/main/companies.json')
+      fetch('https://raw.githubusercontent.com/MarkX04/cse-intern-tracking/main/companies.json')
         .then(response => response.json())
         .then(data => {
           companiesData = data;
@@ -147,7 +147,7 @@
     }
 
     function loadCompanyHistory(companyId) {
-      fetch(`https://raw.githubusercontent.com/MarkX04/refs/heads/main/data_history/${companyId}.json`)
+      fetch(`https://raw.githubusercontent.com/MarkX04/cse-intern-tracking/main/data_histories/${companyId}.json`)
         .then(response => response.json())
         .then(historyData => {
           if (!Array.isArray(historyData) || historyData.length === 0) {
