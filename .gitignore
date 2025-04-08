@@ -1,0 +1,6 @@
+*.DS_Store
+__pycache__/
+*.log
+venv/
+pip-log.txt
+.venv
