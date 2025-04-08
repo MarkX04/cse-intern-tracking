@@ -11,7 +11,7 @@
   <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.2/dist/echarts.min.js"></script>
 </head>
 <body class="bg-gray-50 text-gray-900 font-sans">
-  <header class="bg-red-600 text-white p-4 md:p-5 flex justify-between items-center">
+  <header class="bg-blue-600 text-white p-4 md:p-5 flex justify-between items-center">
     <div class="flex items-center">
       <img src="https://hcmut.edu.vn/img/nhanDienThuongHieu/01_logobachkhoasang.png" alt="CSE Logo" class="h-8 md:h-12">
       <h1 class="ml-2 md:ml-4 text-lg md:text-xl font-bold">CSE Internship Tracking 2025</h1>
@@ -19,51 +19,21 @@
   </header>
 
   <main class="p-4 md:p-5">
-    <div class="controls bg-white p-4 md:p-5 rounded-lg shadow mb-5">
-      <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-4 items-center">
-        <div class="flex flex-col">
-          <label for="companySelect" class="mb-2 font-medium">Company:</label>
-          <select id="companySelect" class="p-2 border rounded"></select>
-        </div>
-        <div class="flex flex-col">
-          <label for="startDate" class="mb-2 font-medium">Date start:</label>
-          <input type="date" id="startDate" class="p-2 border rounded">
-        </div>
-        <div class="flex flex-col">
-          <label for="endDate" class="mb-2 font-medium">Date end:</label>
-          <input type="date" id="endDate" class="p-2 border rounded">
-        </div>
-        <div class="flex flex-col">
-          <label for="timeRange" class="mb-2 font-medium">Durration:</label>
-          <select id="timeRange" class="p-2 border rounded">
-            <option value="15m">15 mins</option>
-            <option value="30m">30 mins</option>
-            <option value="1h">1 hour</option>
-            <option value="all">All</option>
-          </select>
-        </div>
-        <button id="modeToggle" class="bg-red-600 text-white py-2 px-4 rounded-full hover:bg-red-700 transition">
-          Switch view
-        </button>
-      </div>
-    </div>
-
     <div class="mb-5">
       <h2 class="text-xl font-semibold mb-3">List of companies</h2>
       <div class="overflow-x-auto">
-        <table class="min-w-full bg-white shadow-md rounded-lg">
-          <thead class="bg-red-600 text-white">
+        <table class="""min-w-full bg-white shadow-md rounded-2xl border border-gray-300 overflow-hidden">
+          <thead class="bg-blue-600 text-white">
             <tr>
-              <th class="px-4 py-2">ID</th>
-              <th class="px-4 py-2">Short Name</th>
-              <th class="px-4 py-2">Full Name</th>
-              <th class="px-4 py-2">Student Register</th>
-              <th class="px-4 py-2">Student Accepted</th>
-              <th class="px-4 py-2">Max Register</th>
-              <th class="px-4 py-2">Max Accepted</th>
+              <th class="px-4 py-2 border border-blue-700 ">Short Name</th>
+              <th class="px-4 py-2 border border-blue-700">Full Name</th>
+              <th class="px-4 py-2 border border-blue-700">Student Register</th>
+              <th class="px-4 py-2 border border-blue-700">Max Register</th>
+              <th class="px-4 py-2 border border-blue-700">Student Accepted</th>
+              <th class="px-4 py-2 border border-blue-700">Max Accepted</th>
             </tr>
           </thead>
-          <tbody id="companiesTableBody" class="text-gray-700">
+          <tbody id="companiesTableBody" class="text-gray-700 border-collapse">
           </tbody>
         </table>
       </div>
@@ -107,16 +77,64 @@
     function populateCompaniesTable(data) {
       const tbody = document.getElementById('companiesTableBody');
       tbody.innerHTML = '';
-      Object.values(data).forEach(company => {
+      let companiesArray = Object.values(data);
+      
+      document.querySelectorAll('thead th').forEach((header, index) => {
+      if (index >= 2) {
+        header.classList.add('cursor-pointer', 'select-none');
+        header.addEventListener('click', () => sortTable(index, companiesArray));
+      }
+      });
+      
+      renderCompanyRows(companiesArray, tbody);
+    }
+
+    let currentSortColumn = -1;
+    let currentSortDirection = 'asc';
+
+    function sortTable(columnIndex, companiesArray) {
+      const headers = document.querySelectorAll('thead th');
+      const properties = ['shortname', 'fullname', 'studentRegister', 'maxRegister', 'studentAccepted', 'maxAcceptedStudent'];
+      
+      if (currentSortColumn === columnIndex) {
+      currentSortDirection = currentSortDirection === 'asc' ? 'desc' : 'asc';
+      } else {
+      currentSortColumn = columnIndex;
+      currentSortDirection = 'asc';
+      }
+      
+      headers.forEach(h => h.classList.remove('after:content-["↑"]', 'after:content-["↓"]', 'after:ml-1'));
+      headers[columnIndex].classList.add(
+      currentSortDirection === 'asc' ? 'after:content-["↑"]' : 'after:content-["↓"]',
+      'after:ml-1'
+      );
+      
+      companiesArray.sort((a, b) => {
+      const propA = a[properties[columnIndex]];
+      const propB = b[properties[columnIndex]];
+      
+      if (propA === undefined) return 1;
+      if (propB === undefined) return -1;
+      
+      const comparison = propA - propB;
+      return currentSortDirection === 'asc' ? comparison : -comparison;
+      });
+      
+      const tbody = document.getElementById('companiesTableBody');
+      renderCompanyRows(companiesArray, tbody);
+    }
+
+    function renderCompanyRows(companies, tbody) {
+      tbody.innerHTML = '';
+      companies.forEach(company => {
         const tr = document.createElement('tr');
         tr.classList.add('hover:bg-gray-100', 'cursor-pointer');
         tr.innerHTML = `
-          <td class="border px-4 py-2">${company.id || ''}</td>
           <td class="border px-4 py-2">${company.shortname || ''}</td>
           <td class="border px-4 py-2">${company.fullname || ''}</td>
           <td class="border px-4 py-2">${company.studentRegister !== undefined ? company.studentRegister : 'N/A'}</td>
-          <td class="border px-4 py-2">${company.studentAccepted !== undefined ? company.studentAccepted : 'N/A'}</td>
           <td class="border px-4 py-2">${company.maxRegister !== undefined ? company.maxRegister : 'N/A'}</td>
+          <td class="border px-4 py-2">${company.studentAccepted !== undefined ? company.studentAccepted : 'N/A'}</td>
           <td class="border px-4 py-2">${company.maxAcceptedStudent !== undefined ? company.maxAcceptedStudent : 'N/A'}</td>
         `;
         tr.addEventListener('click', () => {
@@ -172,14 +190,14 @@
       }
       const chartOption = {
         title: {
-          text: 'Lịch sử Tracking Dữ liệu Công ty',
+          text: 'Company Tracking',
           left: 'center'
         },
         tooltip: {
           trigger: 'axis'
         },
         legend: {
-          data: ['Student Register', 'Student Accepted', 'Max Register', 'Max Accepted Student'],
+          data: ['Student Register', 'Student Accepted'],
           top: '10%'
         },
         grid: {
@@ -214,18 +232,6 @@
             data: studentAcceptedData,
             smooth: true
           },
-          {
-            name: 'Max Register',
-            type: 'line',
-            data: maxRegisterData,
-            smooth: true
-          },
-          {
-            name: 'Max Accepted Student',
-            type: 'line',
-            data: maxAcceptedStudentData,
-            smooth: true
-          }
         ]
       };
       historyChart.setOption(chartOption);
