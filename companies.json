@@ -219,7 +219,7 @@
     "width": 512,
     "height": 365,
     "address": "12 Đại lộ Khoa học, KV2, phường Ghềnh Ráng, TP. Quy Nhơn, tỉnh Bình Định",
-    "studentRegister": 27,
+    "studentRegister": 30,
     "studentAccepted": 0,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -233,9 +233,14 @@
         "_id": "67f3533b502455a6d360515a",
         "name": "TMA_BD_D2_TTNT_HK243.docx",
         "path": "/company/64780f59e7ad7cc2b72379f6TMA_BD_D2_TTNT_HK243.docx"
+      },
+      {
+        "_id": "67f4ee1b502455a6d3605423",
+        "name": "TMA_BD_D2_TTNT_HK243.pdf",
+        "path": "/company/64780f59e7ad7cc2b72379f6TMA_BD_D2_TTNT_HK243.pdf"
       }
     ],
-    "work": "Công ty TNHH Giải pháp Phần mềm Tường Minh Bình Định"
+    "work": "<p><span style=\"color:#1F4E79;\">Dear&nbsp;Intern,</span></p><p><span style=\"color:#1F4E79;\">Please apply via this&nbsp;</span><a href=\"https://docs.google.com/forms/d/1BOiNXiYBYHaQzcajZn66Ed-hT8QIBS2hfUmBTcLp4N8/edit\"><span style=\"color:#1F4E79;\">link</span></a><span style=\"color:#1F4E79;\"> so we can arrange&nbsp;for you to join the Internship Batch 19.</span></p>"
   },
   "660b6523d3e9eccc8c61e56a": {
     "id": "660b6523d3e9eccc8c61e56a",
@@ -439,6 +444,11 @@
         "_id": "67f35394502455a6d360515b",
         "name": "Datalogic_D2_TTNT_HK243.docx",
         "path": "/company/67efcc43502455a6d3604b47Datalogic_D2_TTNT_HK243.docx"
+      },
+      {
+        "_id": "67f4ed61502455a6d3605420",
+        "name": "Datalogic_D2_TTNT_HK243.pdf",
+        "path": "/company/67efcc43502455a6d3604b47Datalogic_D2_TTNT_HK243.pdf"
       }
     ],
     "work": ""
