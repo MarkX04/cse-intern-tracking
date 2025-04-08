@@ -16,14 +16,17 @@
       <img src="https://hcmut.edu.vn/img/nhanDienThuongHieu/01_logobachkhoasang.png" alt="CSE Logo" class="h-8 md:h-12">
       <h1 class="ml-2 md:ml-4 text-lg md:text-xl font-bold">CSE Internship Tracking 2025</h1>
     </div>
+    <div class="links">
+      <a href="https://internship.cse.hcmut.edu.vn/" id="homeButton" class="bg-white text-black font-bold py-1 px-2 md:py-2 md:px-4 rounded-full hover:bg-blue-800 transition text-sm md:text-base inline-block">Go to CSE Website</a>
+    </div>
   </header>
 
   <main class="p-4 md:p-5">
     <div class="hero-banner bg-gray-100 relative h-96 overflow-hidden rounded-lg shadow-lg mb-5 flex flex-col md:flex-row border-l-8 border-blue-600">
       <div class="w-full md:w-1/2 p-2 flex flex-col items-center justify-center text-black text-center space-y-4">
-        <h1 class="text-4xl font-extrabold tracking-tight text-gray-900 sm:text-5xl md:text-4xl lg:text-5xl xl:text-6xl">
+        <h1 class="text-4xl font-extrabold tracking-tight text-gray-900 sm:text-5xl md:text-4xl lg:text-6xl xl:text-6xl">
           <span class="block text-blue-600 xl:inline">NỘP CV ĐI EM!</span>
-      </h1>
+        </h1>
         <div id="quote" class="text-lg md:text-xl max-w-2xl">Còn do dự, mất hết slot đó!</div>
         <p class="text-xl font-semibold text-gray-700">
           Total registers: <span id="totalStudentRegister">0</span> |
@@ -32,7 +35,7 @@
       </div>
       <div class="w-full md:w-1/2 p-2 relative flex items-center justify-center overflow-hidden rounded">
         <div id="slideshow" class="w-full h-96"></div>
-      </div>      
+      </div>
     </div>
     
     <div class="mb-5">
@@ -41,12 +44,15 @@
         <table class="min-w-full bg-white shadow-md rounded-2xl border border-gray-300 overflow-hidden">
           <thead class="bg-blue-600 text-white">
             <tr>
+              <th class="px-4 py-2 border border-blue-700">No.</th>
               <th class="px-4 py-2 border border-blue-700">Short Name</th>
               <th class="px-4 py-2 border border-blue-700">Full Name</th>
+              <th class="px-4 py-2 border border-blue-700">Address</th>
               <th class="px-4 py-2 border border-blue-700">Student Register</th>
               <th class="px-4 py-2 border border-blue-700">Max Register</th>
               <th class="px-4 py-2 border border-blue-700">Student Accepted</th>
               <th class="px-4 py-2 border border-blue-700">Max Accepted</th>
+              <th class="px-4 py-2 border border-blue-700">Get JD</th>
             </tr>
           </thead>
           <tbody id="companiesTableBody" class="text-gray-700 border-collapse">
@@ -55,8 +61,7 @@
       </div>
     </div>
     
-
-    <div>
+    <div class="mb-5">
       <h2 class="text-xl font-semibold mb-3">Company Tracking</h2>
       <div id="chartContainer" class="w-full h-96 bg-white rounded-lg shadow-md"></div>
     </div>
@@ -64,19 +69,23 @@
 
   <footer class="flex justify-between items-center p-4 bg-black text-white">
     <div class="text-left">
-        <p>&copy; By @MarkX04. Data collected since 08/04/2025</p>
+      <p>&copy; By @MarkX04. Data collected since 08/04/2025</p>
     </div>
     <div class="flex space-x-4">
-        <a href="https://facebook.com/baodai.phamhuynh" target="_blank" class="hover:text-gray-400 transition">
-            <i class="fab fa-facebook-f"></i>
-        </a>
-        <a href="https://github.com/MarkX04" target="_blank" class="hover:text-gray-400 transition">
-            <i class="fab fa-github"></i>
-        </a>
+      <a href="https://facebook.com/baodai.phamhuynh" target="_blank" class="hover:text-gray-400 transition">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+      <a href="https://github.com/MarkX04" target="_blank" class="hover:text-gray-400 transition">
+        <i class="fab fa-github"></i>
+      </a>
     </div>
   </footer>
 
   <script>
+    let companiesData = {};
+    let selectedCompanyId = null;
+    let historyChart = null;
+
     class Slideshow {
       constructor(imageUrls) {
         this.imageUrls = imageUrls;
@@ -115,10 +124,7 @@
         setInterval(() => this.nextSlide(), 5000);
       }
     }
-    let companiesData = {};
-    let historyChart = null; 
-    let selectedCompanyId = null;
-
+    
     function updateAggregatedStats(data) {
       let totalStudentRegister = 0;
       let totalMaxAccepted = 0;
@@ -129,121 +135,93 @@
       document.getElementById('totalStudentRegister').textContent = totalStudentRegister.toLocaleString();
       document.getElementById('totalMaxAccepted').textContent = totalMaxAccepted.toLocaleString();
     }
-
+    
     function loadCompaniesData() {
       fetch('https://raw.githubusercontent.com/MarkX04/cse-intern-tracking/main/companies.json')
         .then(response => response.json())
         .then(data => {
           companiesData = data;
           populateCompaniesTable(data);
-          populateCompanySelect(data);
           updateAggregatedStats(data);
           initializeSlideshowFromCompanies(data);
         })
         .catch(error => console.error('Error loading companies data:', error));
     }
+    
     function initializeSlideshowFromCompanies(data) {
       const imageUrls = Object.values(data)
-                            .map(company => {
-                              if (company.image) {
-                                return "https://internship.cse.hcmut.edu.vn" + company.image;
-                              }
-                              return null;
-                            })
-                            .filter(url => url !== null);
+        .map(company => {
+          if (company.image) {
+            return "https://internship.cse.hcmut.edu.vn" + company.image;
+          }
+          return null;
+        })
+        .filter(url => url !== null);
       if (imageUrls.length > 0) {
         new Slideshow(imageUrls);
       }
     }
+    
     function populateCompaniesTable(data) {
       const tbody = document.getElementById('companiesTableBody');
       tbody.innerHTML = '';
-      let companiesArray = Object.values(data);
-      
-      document.querySelectorAll('thead th').forEach((header, index) => {
-        if (index >= 2) {
-          header.classList.add('cursor-pointer', 'select-none');
-          header.addEventListener('click', () => sortTable(index, companiesArray));
-        }
-      });
-      
-      renderCompanyRows(companiesArray, tbody);
-    }
-
-    let currentSortColumn = -1;
-    let currentSortDirection = 'asc';
-
-    function sortTable(columnIndex, companiesArray) {
-      const headers = document.querySelectorAll('thead th');
-      const properties = ['shortname', 'fullname', 'studentRegister', 'maxRegister', 'studentAccepted', 'maxAcceptedStudent'];
-      
-      if (currentSortColumn === columnIndex) {
-        currentSortDirection = currentSortDirection === 'asc' ? 'desc' : 'asc';
-      } else {
-        currentSortColumn = columnIndex;
-        currentSortDirection = 'asc';
-      }
-      
-      headers.forEach(h => h.classList.remove('after:content-["↑"]', 'after:content-["↓"]', 'after:ml-1'));
-      headers[columnIndex].classList.add(
-        currentSortDirection === 'asc' ? 'after:content-["↑"]' : 'after:content-["↓"]',
-        'after:ml-1'
-      );
-      
-      companiesArray.sort((a, b) => {
-        const propA = a[properties[columnIndex]];
-        const propB = b[properties[columnIndex]];
-        if (propA === undefined) return 1;
-        if (propB === undefined) return -1;
-        const comparison = propA - propB;
-        return currentSortDirection === 'asc' ? comparison : -comparison;
-      });
-      
-      const tbody = document.getElementById('companiesTableBody');
-      renderCompanyRows(companiesArray, tbody);
-    }
-
-    function renderCompanyRows(companies, tbody) {
-      tbody.innerHTML = '';
-      companies.forEach(company => {
+      const companiesArray = Object.values(data);
+      companiesArray.forEach((company, index) => {
         const tr = document.createElement('tr');
-        tr.classList.add('hover:bg-gray-100', 'cursor-pointer');
+        const studentRegister = parseInt(company.studentRegister || 0);
+        const maxRegister = parseInt(company.maxRegister || 0);
+        const rowBgClass = (studentRegister >= maxRegister) ? 'bg-red-100' : 'bg-green-100';
+        tr.classList.add(rowBgClass, 'hover:bg-gray-100', 'cursor-pointer');
+  
         tr.innerHTML = `
-          <td class="border px-4 py-2">${company.shortname || ''}</td>
-          <td class="border px-4 py-2">${company.fullname || ''}</td>
-          <td class="border px-4 py-2">${company.studentRegister !== undefined ? company.studentRegister : 'N/A'}</td>
-          <td class="border px-4 py-2">${company.maxRegister !== undefined ? company.maxRegister : 'N/A'}</td>
-          <td class="border px-4 py-2">${company.studentAccepted !== undefined ? company.studentAccepted : 'N/A'}</td>
-          <td class="border px-4 py-2">${company.maxAcceptedStudent !== undefined ? company.maxAcceptedStudent : 'N/A'}</td>
+          <td class="border px-4 py-2 text-center">${index + 1}</td>
+          <td class="border px-4 py-2 text-center">${company.shortname || ''}</td>
+          <td class="border px-4 py-2 text-center">${company.fullname || ''}</td>
+          <td class="border px-4 py-2 text-center">${company.address || 'N/A'}</td>
+          <td class="border px-4 py-2 text-center">${company.studentRegister !== undefined ? company.studentRegister : 'N/A'}</td>
+          <td class="border px-4 py-2 text-center">${company.maxRegister !== undefined ? company.maxRegister : 'N/A'}</td>
+          <td class="border px-4 py-2 text-center">${company.studentAccepted !== undefined ? company.studentAccepted : 'N/A'}</td>
+          <td class="border px-4 py-2 text-center">${company.maxAcceptedStudent !== undefined ? company.maxAcceptedStudent : 'N/A'}</td>
+          <td class="border px-4 py-2 text-center">
+            <button class="bg-blue-600 text-white py-1 px-2 rounded hover:bg-blue-700 transition download-btn">Get JD</button>
+          </td>
         `;
+  
+        tr.querySelector('.download-btn').addEventListener('click', (event) => {
+          event.stopPropagation();
+          downloadInternshipFiles(company.id);
+        });
+  
         tr.addEventListener('click', () => {
           selectedCompanyId = company.id;
           loadCompanyHistory(company.id);
         });
+  
         tbody.appendChild(tr);
       });
     }
-
-    function populateCompanySelect(data) {
-      const select = document.getElementById('companySelect');
-      if(!select) return;
-      select.innerHTML = '';
-      Object.values(data).forEach(company => {
-        const option = document.createElement('option');
-        option.value = company.id;
-        option.text = company.shortname + ' - ' + company.fullname;
-        select.appendChild(option);
-      });
-      if (select.options.length > 0) {
-        selectedCompanyId = select.options[0].value;
-        loadCompanyHistory(selectedCompanyId);
+    
+    function downloadInternshipFiles(companyId) {
+      const company = companiesData[companyId];
+      if (!company) {
+        console.error("No data found for company", companyId);
+        return;
       }
-      select.addEventListener('change', () => {
-        selectedCompanyId = select.value;
-        loadCompanyHistory(selectedCompanyId);
-      });
+      if (company.internshipFiles && company.internshipFiles.length > 0) {
+        company.internshipFiles.forEach(file => {
+          const fileUrl = "https://internship.cse.hcmut.edu.vn" + file.path.split('?')[0];
+          const a = document.createElement('a');
+          a.href = fileUrl;
+          a.download = file.name; 
+          document.body.appendChild(a);
+          a.click();
+          document.body.removeChild(a);
+        });
+      } else {
+        alert("No internship files available for download for this company.");
+      }
     }
-
+    
     function loadCompanyHistory(companyId) {
       fetch(`https://raw.githubusercontent.com/MarkX04/cse-intern-tracking/main/data_histories/${companyId}.json`)
         .then(response => response.json())
@@ -260,9 +238,9 @@
           const maxAcceptedStudent = historyData.map(entry => entry.maxAcceptedStudent);
           updateHistoryChart(labels, studentRegister, studentAccepted, maxRegister, maxAcceptedStudent);
         })
-        .catch(error => console.error('Error loading history for company ' + companyId, error));
+        .catch(error => console.error("Error loading history for company " + companyId, error));
     }
-
+    
     function updateHistoryChart(labels, studentRegisterData, studentAcceptedData, maxRegisterData, maxAcceptedStudentData) {
       const chartContainer = document.getElementById('chartContainer');
       if (!historyChart) {
@@ -317,8 +295,48 @@
       historyChart.setOption(chartOption);
       historyChart.resize();
     }
-
-    document.addEventListener('DOMContentLoaded', loadCompaniesData);
+    
+    function fetchRealTimeData() {
+      fetch("http://127.0.0.1:5001/api/company_data")
+        .then(response => response.json())
+        .then(data => {
+          if (data.error) {
+            console.error("API error:", data.error);
+            return;
+          }
+          updateAggregatedUI(data);
+        })
+        .catch(error => {
+          console.error("Error fetching real-time data:", error);
+        });
+    }
+    
+    function updateAggregatedUI(data) {
+      let totalStudentRegister = 0;
+      let totalMaxAccepted = 0;
+      Object.values(data).forEach(company => {
+        totalStudentRegister += parseInt(company.studentRegister || 0);
+        totalMaxAccepted += parseInt(company.maxAcceptedStudent || 0);
+      });
+      document.getElementById("totalStudentRegister").textContent = totalStudentRegister.toLocaleString();
+      document.getElementById("totalMaxAccepted").textContent = totalMaxAccepted.toLocaleString();
+    }
+    
+    window.addEventListener('resize', function() {
+      const slideshow = document.getElementById('slideshow');
+      if (slideshow) {
+        slideshow.style.height = '100%';
+      }
+      if (historyChart) {
+        historyChart.resize();
+      }
+    });
+    
+    document.addEventListener('DOMContentLoaded', () => {
+      loadCompaniesData();
+      fetchRealTimeData();
+      setInterval(fetchRealTimeData, 60000);
+    });
   </script>
 </body>
 </html>
