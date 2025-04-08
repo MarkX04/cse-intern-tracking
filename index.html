@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CSE Internship Tracking 2025</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" 
+        integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" 
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.2/dist/echarts.min.js"></script>
+</head>
+<body class="bg-gray-50 text-gray-900 font-sans">
+  <header class="bg-red-600 text-white p-4 md:p-5 flex justify-between items-center">
+    <div class="flex items-center">
+      <img src="https://hcmut.edu.vn/img/nhanDienThuongHieu/01_logobachkhoasang.png" alt="CSE Logo" class="h-8 md:h-12">
+      <h1 class="ml-2 md:ml-4 text-lg md:text-xl font-bold">CSE Internship Tracking 2025</h1>
+    </div>
+  </header>
+
+  <main class="p-4 md:p-5">
+    <div class="controls bg-white p-4 md:p-5 rounded-lg shadow mb-5">
+      <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-4 items-center">
+        <div class="flex flex-col">
+          <label for="companySelect" class="mb-2 font-medium">Company:</label>
+          <select id="companySelect" class="p-2 border rounded"></select>
+        </div>
+        <div class="flex flex-col">
+          <label for="startDate" class="mb-2 font-medium">Date start:</label>
+          <input type="date" id="startDate" class="p-2 border rounded">
+        </div>
+        <div class="flex flex-col">
+          <label for="endDate" class="mb-2 font-medium">Date end:</label>
+          <input type="date" id="endDate" class="p-2 border rounded">
+        </div>
+        <div class="flex flex-col">
+          <label for="timeRange" class="mb-2 font-medium">Durration:</label>
+          <select id="timeRange" class="p-2 border rounded">
+            <option value="15m">15 mins</option>
+            <option value="30m">30 mins</option>
+            <option value="1h">1 hour</option>
+            <option value="all">All</option>
+          </select>
+        </div>
+        <button id="modeToggle" class="bg-red-600 text-white py-2 px-4 rounded-full hover:bg-red-700 transition">
+          Switch view
+        </button>
+      </div>
+    </div>
+
+    <div class="mb-5">
+      <h2 class="text-xl font-semibold mb-3">List of companies</h2>
+      <div class="overflow-x-auto">
+        <table class="min-w-full bg-white shadow-md rounded-lg">
+          <thead class="bg-red-600 text-white">
+            <tr>
+              <th class="px-4 py-2">ID</th>
+              <th class="px-4 py-2">Short Name</th>
+              <th class="px-4 py-2">Full Name</th>
+              <th class="px-4 py-2">Student Register</th>
+              <th class="px-4 py-2">Student Accepted</th>
+              <th class="px-4 py-2">Max Register</th>
+              <th class="px-4 py-2">Max Accepted</th>
+            </tr>
+          </thead>
+          <tbody id="companiesTableBody" class="text-gray-700">
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div>
+      <h2 class="text-xl font-semibold mb-3">Company tracking</h2>
+      <div id="chartContainer" class="w-full h-96 bg-white rounded-lg shadow-md"></div>
+    </div>
+  </main>
+
+  <footer class="flex justify-between items-center p-4 bg-black text-white">
+    <div class="text-left">
+        <p>&copy; By @MarkX04. Data collected since 08/04/2025</p>
+    </div>
+    <div class="flex space-x-4">
+        <a href="https://facebook.com/baodai.phamhuynh" target="_blank" class="hover:text-gray-400 transition">
+            <i class="fab fa-facebook-f"></i>
+        </a>
+        <a href="https://github.com/MarkX04" target="_blank" class="hover:text-gray-400 transition">
+            <i class="fab fa-github"></i>
+        </a>
+    </div>
+  </footer>
+
+  <script>
+    let companiesData = {};
+    let historyChart = null; 
+    let selectedCompanyId = null;
+    function loadCompaniesData() {
+      fetch('https://raw.githubusercontent.com/MarkX04/refs/heads/main/companies.json')
+        .then(response => response.json())
+        .then(data => {
+          companiesData = data;
+          populateCompaniesTable(data);
+          populateCompanySelect(data);
+        })
+        .catch(error => console.error('Lỗi tải dữ liệu companies:', error));
+    }
+
+    function populateCompaniesTable(data) {
+      const tbody = document.getElementById('companiesTableBody');
+      tbody.innerHTML = '';
+      Object.values(data).forEach(company => {
+        const tr = document.createElement('tr');
+        tr.classList.add('hover:bg-gray-100', 'cursor-pointer');
+        tr.innerHTML = `
+          <td class="border px-4 py-2">${company.id || ''}</td>
+          <td class="border px-4 py-2">${company.shortname || ''}</td>
+          <td class="border px-4 py-2">${company.fullname || ''}</td>
+          <td class="border px-4 py-2">${company.studentRegister !== undefined ? company.studentRegister : 'N/A'}</td>
+          <td class="border px-4 py-2">${company.studentAccepted !== undefined ? company.studentAccepted : 'N/A'}</td>
+          <td class="border px-4 py-2">${company.maxRegister !== undefined ? company.maxRegister : 'N/A'}</td>
+          <td class="border px-4 py-2">${company.maxAcceptedStudent !== undefined ? company.maxAcceptedStudent : 'N/A'}</td>
+        `;
+        tr.addEventListener('click', () => {
+          selectedCompanyId = company.id;
+          loadCompanyHistory(company.id);
+        });
+        tbody.appendChild(tr);
+      });
+    }
+
+    function populateCompanySelect(data) {
+      const select = document.getElementById('companySelect');
+      select.innerHTML = '';
+      Object.values(data).forEach(company => {
+        const option = document.createElement('option');
+        option.value = company.id;
+        option.text = company.shortname + ' - ' + company.fullname;
+        select.appendChild(option);
+      });
+      if (select.options.length > 0) {
+        selectedCompanyId = select.options[0].value;
+        loadCompanyHistory(selectedCompanyId);
+      }
+      select.addEventListener('change', () => {
+        selectedCompanyId = select.value;
+        loadCompanyHistory(selectedCompanyId);
+      });
+    }
+
+    function loadCompanyHistory(companyId) {
+      fetch(`https://raw.githubusercontent.com/MarkX04/refs/heads/main/data_history/${companyId}.json`)
+        .then(response => response.json())
+        .then(historyData => {
+          if (!Array.isArray(historyData) || historyData.length === 0) {
+            console.warn("Không có dữ liệu lịch sử cho công ty:", companyId);
+            return;
+          }
+          historyData.sort((a, b) => a.timestamp - b.timestamp);
+          const timestamps = historyData.map(entry => new Date(entry.timestamp * 1000).toLocaleString());
+          const studentRegister = historyData.map(entry => entry.studentRegister);
+          const studentAccepted = historyData.map(entry => entry.studentAccepted);
+          const maxRegister = historyData.map(entry => entry.maxRegister);
+          const maxAcceptedStudent = historyData.map(entry => entry.maxAcceptedStudent);
+          updateHistoryChart(timestamps, studentRegister, studentAccepted, maxRegister, maxAcceptedStudent);
+        })
+        .catch(error => console.error('Lỗi tải lịch sử cho công ty ' + companyId, error));
+    }
+
+    function updateHistoryChart(labels, studentRegisterData, studentAcceptedData, maxRegisterData, maxAcceptedStudentData) {
+      const chartContainer = document.getElementById('chartContainer');
+      if (!historyChart) {
+        historyChart = echarts.init(chartContainer);
+      }
+      const chartOption = {
+        title: {
+          text: 'Lịch sử Tracking Dữ liệu Công ty',
+          left: 'center'
+        },
+        tooltip: {
+          trigger: 'axis'
+        },
+        legend: {
+          data: ['Student Register', 'Student Accepted', 'Max Register', 'Max Accepted Student'],
+          top: '10%'
+        },
+        grid: {
+          left: '3%',
+          right: '4%',
+          bottom: '3%',
+          containLabel: true
+        },
+        xAxis: {
+          type: 'category',
+          boundaryGap: false,
+          data: labels,
+          axisLabel: {
+            rotate: 45,
+            fontSize: 10
+          }
+        },
+        yAxis: {
+          type: 'value',
+          name: 'Giá trị'
+        },
+        series: [
+          {
+            name: 'Student Register',
+            type: 'line',
+            data: studentRegisterData,
+            smooth: true
+          },
+          {
+            name: 'Student Accepted',
+            type: 'line',
+            data: studentAcceptedData,
+            smooth: true
+          },
+          {
+            name: 'Max Register',
+            type: 'line',
+            data: maxRegisterData,
+            smooth: true
+          },
+          {
+            name: 'Max Accepted Student',
+            type: 'line',
+            data: maxAcceptedStudentData,
+            smooth: true
+          }
+        ]
+      };
+      historyChart.setOption(chartOption);
+      historyChart.resize();
+    }
+
+    document.addEventListener('DOMContentLoaded', loadCompaniesData);
+  </script>
+</body>
+</html>
