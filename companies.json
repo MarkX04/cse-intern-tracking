@@ -54,6 +54,34 @@
     "internshipFiles": [],
     "work": "<p><span style=\"color:#2980b9;\"><strong>Kính chào Quý Doanh nghiệp (DN),</strong></span></p><p><span style=\"color:#2980b9;\"><strong>Khoa Khoa học và Kỹ thuật Máy tính - Trường Đại học Bách Khoa - ĐHQG TPHCM (CSE), sau đây được gọi là \"Khoa\" xin thông tin triển khai một số chương trình gửi sinh viên (SV) đi thực tập như sau:</strong></span></p><p><span style=\"color:#c0392b;\"><strong>1 - Thực tập ngoài Trường (TTNT) đúng tuyến tại 03 học kỳ (HK) trong năm học</strong></span><span style=\"color:#2980b9;\"><strong>, mốc thời gian thực hiện như sau:</strong></span></p><p><span style=\"color:#2980b9;\"><strong>- Học kỳ 1: tháng 09-&gt;12 (</strong></span><span style=\"color:#c0392b;\"><strong>công tác chuẩn bị từ tháng 08</strong></span><span style=\"color:#2980b9;\"><strong>).</strong></span></p><p><span style=\"color:#2980b9;\"><strong>- Học kỳ 2: tháng 02-&gt;05 (</strong></span><span style=\"color:#c0392b;\"><strong>công tác chuẩn bị từ tháng 12</strong></span><span style=\"color:#2980b9;\"><strong>).</strong></span></p><p><span style=\"color:#2980b9;\"><strong>- Học kỳ 3/ hè: tháng 06-&gt;08 (</strong></span><span style=\"color:#c0392b;\"><strong>công tác chuẩn bị từ tháng 04</strong></span><span style=\"color:#2980b9;\"><strong>). Triển khai dùng website internship&nbsp;</strong></span><span style=\"color:#c0392b;\"><strong>https://internship.cse.hcmut.edu.vn/</strong></span></p><p><span style=\"color:#2980b9;\"><strong>Đối tượng SV tham gia: </strong></span><span style=\"color:#c0392b;\"><strong>năm 4&nbsp;trở về trước (chưa hoàn thành môn học)</strong></span><span style=\"color:#2980b9;\"><strong>. SV Khoa học chương trình </strong></span><span style=\"color:#c0392b;\"><strong>hệ 4 năm</strong></span><span style=\"color:#2980b9;\"><strong>.</strong></span></p><p><span style=\"color:#c0392b;\"><strong>2</strong></span><span style=\"color:#2980b9;\"><strong> - Chương trình hướng dẫn SV thực hiện </strong></span><span style=\"color:#c0392b;\"><strong>Đồ án tốt nghiệp (ĐATN)</strong></span><span style=\"color:#2980b9;\"><strong> kéo dài trong 02 học kỳ liên tiếp (01 năm học cuối Khóa).</strong></span></p><p><span style=\"color:#c0392b;\"><strong>3</strong></span><span style=\"color:#2980b9;\"><strong> - Chương trình hướng dẫn SV thực hiện </strong></span><span style=\"color:#c0392b;\"><strong>Học kỳ Doanh nghiệp (HKDN)</strong></span><span style=\"color:#2980b9;\"><strong> kéo dài trong 05 tháng (trọn 01 HK chính). SV tham gia chương trình này thường là làm việc toàn thời gian với DN như một nhân viên thực thụ, hoặc tham gia học thêm một số ít môn tại Khoa/ Trường (nếu còn → cho đủ tín chỉ quy định, và được sự đồng ý của DN).</strong></span></p><p><span style=\"color:#2980b9;\"><strong>Mốc thời gian thực hiện </strong></span><span style=\"color:#c0392b;\"><strong>chương trình 2 và 3</strong></span><span style=\"color:#2980b9;\"><strong> như sau:</strong></span></p><p><span style=\"color:#2980b9;\"><strong>- Học kỳ 1: tháng 08→12 (</strong></span><span style=\"color:#c0392b;\"><strong>công tác chuẩn bị từ tháng 07</strong></span><span style=\"color:#2980b9;\"><strong>).</strong></span></p><p><span style=\"color:#2980b9;\"><strong>- Học kỳ 2: tháng 01-&gt;05 (</strong></span><span style=\"color:#c0392b;\"><strong>công tác chuẩn bị từ tháng 11</strong></span><span style=\"color:#2980b9;\"><strong>).&nbsp;</strong></span></p><p><span style=\"color:#2980b9;\"><strong>Khoa có thể chấp nhận cho SV đi thực tập địa điểm xa TP.HCM,&nbsp;với điều kiện:&nbsp;</strong></span><span style=\"color:#c0392b;\"><strong>SV không đăng ký môn học nào khác tại Trường trong cùng HK thực tập</strong></span><span style=\"color:#2980b9;\"><strong>.</strong></span></p><p><span style=\"color:#2980b9;\"><strong>Nếu DN&nbsp;có nhu cầu nhận SV&nbsp;thực tập đúng tuyến như trên, vui lòng </strong></span><span style=\"color:#c0392b;\"><strong>chủ động liên hệ về Khoa đúng thời gian</strong></span><span style=\"color:#2980b9;\"><strong> để được hướng dẫn chi tiết tại từng HK.</strong></span></p><p><span style=\"color:#2980b9;\"><strong>Trân trọng cảm ơn!</strong></span></p><p>============================================================================</p>"
   },
+  "6078e9a9ee96ff021b97a21f": {
+    "id": "6078e9a9ee96ff021b97a21f",
+    "shortname": "BV - Bản Viên",
+    "fullname": "Công ty Cổ phần Bản Viên (BV)",
+    "isSponsor": false,
+    "image": "/img/company/6078e9a9ee96ff021b97a21f.png?t=67177564",
+    "level": 2,
+    "width": 512,
+    "height": 512,
+    "address": "Bản Viên Tower số 54 đường số 2, khu dân cư đô thị Vạn Phúc, phường Hiệp Bình Phước, TP. Thủ Đức, TP. Hồ Chí Minh.",
+    "studentRegister": 6,
+    "studentAccepted": 0,
+    "maxRegister": 21,
+    "maxAcceptedStudent": 7,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p>",
+    "internshipFiles": [
+      {
+        "_id": "67f73873502455a6d3605823",
+        "name": "BV_D2_TTNT_HK243.docx",
+        "path": "/company/6078e9a9ee96ff021b97a21fBV_D2_TTNT_HK243.docx"
+      }
+    ],
+    "work": "<p>Được thành lập từ 2010, đến nay Bản Viên đã trở thành Đối tác Công nghệ uy tín hàng đầu trong lĩnh vực phát triển phần mềm và hệ thống nhúng (Software Development &amp; Embedded System Development) trong nước và quốc tế. Bản Viên đồng hành làm việc và cộng tác với Doanh nghiệp để đưa ra giải pháp công nghệ (digital solutions) trên hành trình chuyển đổi công nghệ kỹ thuật số trong các lĩnh vực trọng tâm như Edutech, Fintech, Bán lẻ, Ô tô, Smart IoT và Logistics. Hiện Bản Viên đã cộng tác và cung cấp dịch vụ cho khách hàng khắp nơi trên thế giới như Mỹ, Đức, Nhật Bản, Singapore, Trung Quốc, Hàn Quốc, Hồng Kông, Thái Lan, Malaysia và Việt Nam.</p><p>&nbsp;</p>"
+  },
   "607d40f7ee96ff021b97a98f": {
     "id": "607d40f7ee96ff021b97a98f",
     "shortname": "R2S",
@@ -219,7 +247,7 @@
     "width": 512,
     "height": 365,
     "address": "12 Đại lộ Khoa học, KV2, phường Ghềnh Ráng, TP. Quy Nhơn, tỉnh Bình Định",
-    "studentRegister": 41,
+    "studentRegister": 40,
     "studentAccepted": 0,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -271,6 +299,62 @@
         "_id": "67ea4d37502455a6d36041b7",
         "name": "OpenWay_D2_TTNT_HK243.pdf",
         "path": "/company/660b6523d3e9eccc8c61e56aOpenWay_D2_TTNT_HK243.pdf"
+      }
+    ],
+    "work": "IT"
+  },
+  "660b6524d3e9eccc8c61e56b": {
+    "id": "660b6524d3e9eccc8c61e56b",
+    "shortname": "TNS - Nhật Bản",
+    "fullname": "TNS - Nhật Bản",
+    "isSponsor": false,
+    "image": "/img/company/660b6524d3e9eccc8c61e56b.png?t=24229277",
+    "level": 1,
+    "width": 512,
+    "height": 512,
+    "address": "TNS (Japan)",
+    "studentRegister": 1,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CN)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "67f73648502455a6d360581b",
+        "name": "TNS_JP_D2_インターンシップ引受書_Hk243  (Japanese) _TNS.pdf",
+        "path": "/company/660b6524d3e9eccc8c61e56bTNS_JP_D2_インターンシップ引受書_Hk243  (Japanese) _TNS.pdf"
+      }
+    ],
+    "work": "IT"
+  },
+  "660b6525d3e9eccc8c61e56d": {
+    "id": "660b6525d3e9eccc8c61e56d",
+    "shortname": "Sorimachi - Nhật Bản",
+    "fullname": "Sorimachi - Nhật Bản",
+    "isSponsor": false,
+    "image": "/img/company/660b6525d3e9eccc8c61e56d.png?t=25765971",
+    "level": 1,
+    "width": 512,
+    "height": 512,
+    "address": "Sorimachi (Japan)",
+    "studentRegister": 2,
+    "studentAccepted": 0,
+    "maxRegister": 2,
+    "maxAcceptedStudent": 2,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CN)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "67f73566502455a6d3605819",
+        "name": "Sorimachi_JP_D2_インターンシップ引受書_Hk243  (Japanese) _Sorimachi.pdf",
+        "path": "/company/660b6525d3e9eccc8c61e56dSorimachi_JP_D2_インターンシップ引受書_Hk243  (Japanese) _Sorimachi.pdf"
       }
     ],
     "work": "IT"
@@ -402,7 +486,7 @@
     "width": 512,
     "height": 264,
     "address": "4 Huyền Quang, P.Tân Định, Quận 1, TPHCM",
-    "studentRegister": 6,
+    "studentRegister": 5,
     "studentAccepted": 0,
     "maxRegister": 6,
     "maxAcceptedStudent": 2,
@@ -435,7 +519,7 @@
     "width": 512,
     "height": 90,
     "address": "F04, Lô I-4A, Khu công nghệ cao TP. Hồ Chí Minh, phường Long Thạnh Mỹ, TP. Thủ Đức",
-    "studentRegister": 12,
+    "studentRegister": 11,
     "studentAccepted": 0,
     "maxRegister": 12,
     "maxAcceptedStudent": 4,
@@ -454,6 +538,118 @@
         "_id": "67f4ed61502455a6d3605420",
         "name": "Datalogic_D2_TTNT_HK243.pdf",
         "path": "/company/67efcc43502455a6d3604b47Datalogic_D2_TTNT_HK243.pdf"
+      }
+    ],
+    "work": ""
+  },
+  "67f53d84502455a6d36054ad": {
+    "id": "67f53d84502455a6d36054ad",
+    "shortname": "ECQ (E-CQURITY)",
+    "fullname": "CÔNG TY TNHH E-CQURITY VIỆT NAM",
+    "isSponsor": false,
+    "image": "/img/company/67f53d84502455a6d36054ad.png?t=55022700",
+    "level": 1,
+    "width": 512,
+    "height": 193,
+    "address": "8Bis Hoàng Hoa Thám, Phường 7, Quận Bình Thạnh, TP. Hồ Chí Minh",
+    "studentRegister": 1,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "67f737b9502455a6d3605822",
+        "name": "ECQ_D2&3_TTNT_HK243.docx",
+        "path": "/company/67f53d84502455a6d36054adECQ_D2&3_TTNT_HK243.docx"
+      }
+    ],
+    "work": ""
+  },
+  "67f53d86502455a6d36054af": {
+    "id": "67f53d86502455a6d36054af",
+    "shortname": "JMACSOFT - Nhật Bản",
+    "fullname": "JMACSOFT Corp.",
+    "isSponsor": false,
+    "image": "/img/company/67f53d86502455a6d36054af.png?t=25532517",
+    "level": 1,
+    "width": 512,
+    "height": 186,
+    "address": "JMACSOFT - Nhật Bản",
+    "studentRegister": 2,
+    "studentAccepted": 0,
+    "maxRegister": 2,
+    "maxAcceptedStudent": 2,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CN)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "67f7370a502455a6d360581f",
+        "name": "JMACSOFT_JP_D2_インターンシップ引受書_Hk243 (Japanese)_JMACSOFT.pdf",
+        "path": "/company/67f53d86502455a6d36054afJMACSOFT_JP_D2_インターンシップ引受書_Hk243 (Japanese)_JMACSOFT.pdf"
+      }
+    ],
+    "work": ""
+  },
+  "67f53d87502455a6d36054b1": {
+    "id": "67f53d87502455a6d36054b1",
+    "shortname": "PNH - Nhật Bản",
+    "fullname": "PNH Co., Ltd. (Nhật Bản)",
+    "isSponsor": false,
+    "image": "/img/company/67f53d87502455a6d36054b1.png?t=25458687",
+    "level": 1,
+    "width": 512,
+    "height": 220,
+    "address": "2-13-2 Koshinminami, Nishi-ku, Niigata-shi, NIIGATA",
+    "studentRegister": 1,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CN)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập, SV bấm đăng ký, DN bấm accept thỉ kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "67f734da502455a6d3605816",
+        "name": "PNH_JP_D2_インターンシップ引受書_Hk243  (Japanese) _PNH.pdf",
+        "path": "/company/67f53d87502455a6d36054b1PNH_JP_D2_インターンシップ引受書_Hk243  (Japanese) _PNH.pdf"
+      }
+    ],
+    "work": ""
+  },
+  "67f53d88502455a6d36054b3": {
+    "id": "67f53d88502455a6d36054b3",
+    "shortname": "Mobius - Nhật Bản",
+    "fullname": "MOBIUS Co., Ltd. (Nhật Bản)",
+    "isSponsor": false,
+    "image": "/img/company/67f53d88502455a6d36054b3.png?t=25614024",
+    "level": 1,
+    "width": 512,
+    "height": 146,
+    "address": "1-12-3 Tenjin, Chuo-ku, Niigata-shi, Niigata",
+    "studentRegister": 1,
+    "studentAccepted": 0,
+    "maxRegister": 2,
+    "maxAcceptedStudent": 2,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CN)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập, SV bấm đăng ký, DN bấm accept thỉ kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "67f7342d502455a6d3605813",
+        "name": "Mobius_JP_D2_インターンシップ引受書_Hk243  (Japanese) _Mobius.pdf",
+        "path": "/company/67f53d88502455a6d36054b3Mobius_JP_D2_インターンシップ引受書_Hk243  (Japanese) _Mobius.pdf"
       }
     ],
     "work": ""
