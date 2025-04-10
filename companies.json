@@ -580,7 +580,7 @@
     "width": 512,
     "height": 186,
     "address": "JMACSOFT - Nhật Bản",
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 1,
     "maxRegister": 2,
     "maxAcceptedStudent": 2,
