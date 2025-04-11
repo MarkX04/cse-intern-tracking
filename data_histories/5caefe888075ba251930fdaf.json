@@ -2021,5 +2021,12 @@
     "maxRegister": 0,
     "maxAcceptedStudent": 0,
     "timestamp": 1744358181
+  },
+  {
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 0,
+    "maxAcceptedStudent": 0,
+    "timestamp": 1744359451
   }
 ]
