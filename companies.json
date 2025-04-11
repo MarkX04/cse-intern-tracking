@@ -78,6 +78,11 @@
         "_id": "67f73873502455a6d3605823",
         "name": "BV_D2_TTNT_HK243.docx",
         "path": "/company/6078e9a9ee96ff021b97a21fBV_D2_TTNT_HK243.docx"
+      },
+      {
+        "_id": "67f8b5f8502455a6d3605ab7",
+        "name": "BV_D2_TTNT_HK243.pdf",
+        "path": "/company/6078e9a9ee96ff021b97a21fBV_D2_TTNT_HK243.pdf"
       }
     ],
     "work": "<p>Được thành lập từ 2010, đến nay Bản Viên đã trở thành Đối tác Công nghệ uy tín hàng đầu trong lĩnh vực phát triển phần mềm và hệ thống nhúng (Software Development &amp; Embedded System Development) trong nước và quốc tế. Bản Viên đồng hành làm việc và cộng tác với Doanh nghiệp để đưa ra giải pháp công nghệ (digital solutions) trên hành trình chuyển đổi công nghệ kỹ thuật số trong các lĩnh vực trọng tâm như Edutech, Fintech, Bán lẻ, Ô tô, Smart IoT và Logistics. Hiện Bản Viên đã cộng tác và cung cấp dịch vụ cho khách hàng khắp nơi trên thế giới như Mỹ, Đức, Nhật Bản, Singapore, Trung Quốc, Hàn Quốc, Hồng Kông, Thái Lan, Malaysia và Việt Nam.</p><p>&nbsp;</p>"
@@ -186,7 +191,7 @@
     "width": 512,
     "height": 515,
     "address": "B10 Nội khu Nam Thông 2A, P.Tân Phú, Q.7, Tp.HCM",
-    "studentRegister": 10,
+    "studentRegister": 12,
     "studentAccepted": 0,
     "maxRegister": 12,
     "maxAcceptedStudent": 4,
@@ -341,7 +346,7 @@
     "width": 512,
     "height": 512,
     "address": "Sorimachi (Japan)",
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0,
     "maxRegister": 2,
     "maxAcceptedStudent": 2,
