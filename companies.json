@@ -341,7 +341,7 @@
     "width": 512,
     "height": 512,
     "address": "Sorimachi (Japan)",
-    "studentRegister": 2,
+    "studentRegister": 0,
     "studentAccepted": 0,
     "maxRegister": 2,
     "maxAcceptedStudent": 2,
@@ -580,8 +580,8 @@
     "width": 512,
     "height": 186,
     "address": "JMACSOFT - Nhật Bản",
-    "studentRegister": 2,
-    "studentAccepted": 1,
+    "studentRegister": 0,
+    "studentAccepted": 2,
     "maxRegister": 2,
     "maxAcceptedStudent": 2,
     "adminMaxRegister": 10,
@@ -650,6 +650,34 @@
         "_id": "67f7342d502455a6d3605813",
         "name": "Mobius_JP_D2_インターンシップ引受書_Hk243  (Japanese) _Mobius.pdf",
         "path": "/company/67f53d88502455a6d36054b3Mobius_JP_D2_インターンシップ引受書_Hk243  (Japanese) _Mobius.pdf"
+      }
+    ],
+    "work": ""
+  },
+  "67f7ad2d502455a6d36058f0": {
+    "id": "67f7ad2d502455a6d36058f0",
+    "shortname": "DayOne",
+    "fullname": "Công ty TNHH Công Nghệ Phần Mềm DayOne",
+    "isSponsor": false,
+    "image": "/img/company/67f7ad2d502455a6d36058f0.png?t=85022197",
+    "level": 1,
+    "width": 512,
+    "height": 178,
+    "address": "133/38/14 Trần Thị Trọng, P.15, Q.Tân Bình, TP.Hồ Chí Minh",
+    "studentRegister": 6,
+    "studentAccepted": 0,
+    "maxRegister": 6,
+    "maxAcceptedStudent": 2,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p>",
+    "internshipFiles": [
+      {
+        "_id": "67f867c1502455a6d3605a30",
+        "name": "Dayone_D2_TTNT_HK243.docx",
+        "path": "/company/67f7ad2d502455a6d36058f0Dayone_D2_TTNT_HK243.docx"
       }
     ],
     "work": ""
