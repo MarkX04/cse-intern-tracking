@@ -1,4 +1,32 @@
 {
+  "5caef41002c2e72195b4ce8c": {
+    "id": "5caef41002c2e72195b4ce8c",
+    "shortname": "Horus",
+    "fullname": "Công ty TNHH HORUSOFTACEAE",
+    "isSponsor": false,
+    "image": "/img/company/5caef41002c2e72195b4ce8c.png?t=29212322",
+    "level": 1,
+    "width": 512,
+    "height": 512,
+    "address": "766/3G đường Sư Vạn Hạnh, phường 12, quận 10, TPHCM",
+    "studentRegister": 3,
+    "studentAccepted": 0,
+    "maxRegister": 30,
+    "maxAcceptedStudent": 10,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": true,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "67fcbaf0502455a6d36061a1",
+        "name": "Horus_D2_TTNT_HK243.pdf",
+        "path": "/company/5caef41002c2e72195b4ce8cHorus_D2_TTNT_HK243.pdf"
+      }
+    ],
+    "work": "<p>Công ty TNHH HORUSOFTACEAE là công ty chuyên phát triển và cung cấp các dịch vụ công nghệ, ứng dụng trong lĩnh vực nghiên cứu Y Dược và Giáo dục Đào tạo. Đối tác và khách hàng của HORUSOFTACEAE bao gồm các doanh nghiệp trong nước và quốc tế ở nhiều quốc gia khác nhau. Hiện nay công ty HORUSOFTACEAE đang trong quá trình phát triển, mở rộng hoạt động kinh doanh, cần tập trung phát triển một số sản phẩm công nghệ tiên tiến đặc thù, nhằm phục vụ cho các đối tác và khách hàng của công ty.</p>"
+  },
   "5caef42b02c2e72195b4ceba": {
     "id": "5caef42b02c2e72195b4ceba",
     "shortname": "EA - PĐLH - Phương Đông Linh Hoạt (East Agile)",
@@ -97,7 +125,7 @@
     "width": 512,
     "height": 307,
     "address": "Sài Gòn Villas Hill, 99 Lê Văn Việt, P. Tăng Phú Nhơn A, TP. Thủ Đức, TP. Hồ Chí Minh, Việt Nam",
-    "studentRegister": 30,
+    "studentRegister": 29,
     "studentAccepted": 0,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
@@ -252,7 +280,7 @@
     "width": 512,
     "height": 365,
     "address": "12 Đại lộ Khoa học, KV2, phường Ghềnh Ráng, TP. Quy Nhơn, tỉnh Bình Định",
-    "studentRegister": 47,
+    "studentRegister": 46,
     "studentAccepted": 0,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -419,6 +447,62 @@
       }
     ],
     "work": "IT"
+  },
+  "6669061af5911d0a68b80c16": {
+    "id": "6669061af5911d0a68b80c16",
+    "shortname": "PH - Phượng Hải",
+    "fullname": "CÔNG TY CỔ PHẦN KHOA HỌC KỸ THUẬT PHƯỢNG HẢI",
+    "isSponsor": false,
+    "image": "/img/company/6669061af5911d0a68b80c16.png?t=60894882",
+    "level": 1,
+    "width": 512,
+    "height": 512,
+    "address": "103/23 Nguyễn Hữu Dật, Phường Tây Thạnh, Quận Tân Phú, Thành phố Hồ Chí Minh",
+    "studentRegister": 3,
+    "studentAccepted": 0,
+    "maxRegister": 3,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "67fcb9aa502455a6d360619d",
+        "name": "PH_D2_TTNT_HK243.docx",
+        "path": "/company/6669061af5911d0a68b80c16PH_D2_TTNT_HK243.docx"
+      }
+    ],
+    "work": "<p>-&nbsp;C&ocirc;ng ty Cổ Phần KHKT Phượng Hải được th&agrave;nh lập năm 2004, với gần 20 năm kinh nghiệm trở th&agrave;nh chuy&ecirc;n gia trong 2 lĩnh vực ch&iacute;nh:</p>\n\n<p>&nbsp; &nbsp; +&nbsp;Sản xuất Nội Thất v&agrave; Thiết Bị Ph&ograve;ng Th&iacute; Nghiệm - Thương hiệu BestLab&reg;</p>\n\n<p>&nbsp; &nbsp; +&nbsp;Sản xuất Thiết Bị Quan Trắc M&ocirc;i Trường - Thương hiệu SmartpH&reg;</p>\n\n<p>-&nbsp;L&agrave; một doanh nghiệp Khoa Học C&ocirc;ng Nghệ, Phượng Hải JSC đ&atilde; x&aacute;c định cho m&igrave;nh một sứ mệnh, phải tự chủ được c&aacute;c c&ocirc;ng nghệ cao trong ng&agrave;nh ph&acirc;n t&iacute;ch đo lường, để trở th&agrave;nh &ldquo;Biểu tượng Đo lường ở Đ&ocirc;ng Nam &Aacute;&rdquo; v&agrave;o một ng&agrave;y kh&ocirc;ng xa.</p>\n\n<p>-&nbsp;C&ugrave;ng với việc đầu tư nghi&ecirc;m t&uacute;c v&agrave;o nghi&ecirc;n cứu &amp; ph&aacute;t triển c&aacute;c sản phẩm (R&amp;D), Ph&ograve;ng R&amp;D được đầu tư m&aacute;y m&oacute;c thiết bị hiện đại c&ugrave;ng với đội ngũ kỹ sư chuy&ecirc;n m&ocirc;n cao, được xem l&agrave; bộ n&atilde;o của c&ocirc;ng ty. Từ đ&oacute; ph&aacute;t triển những c&ocirc;ng nghệ cao v&agrave; v&agrave;o một ng&agrave;y kh&ocirc;ng xa, chất lượng &ldquo;Made in Vietnam&rdquo; sẽ được đ&oacute;n nhận tr&ecirc;n to&agrave;n thế giới.</p>\n"
+  },
+  "6676c4f128ce7ef5bfd64d02": {
+    "id": "6676c4f128ce7ef5bfd64d02",
+    "shortname": "Revobricks",
+    "fullname": "Revobricks LLC",
+    "isSponsor": false,
+    "image": "/img/company/6676c4f128ce7ef5bfd64d02.png?t=59810877",
+    "level": 1,
+    "width": 512,
+    "height": 515,
+    "address": "46, đường D13, Phường Tây Thạnh, Quận Tân Phú, Hồ Chí Minh",
+    "studentRegister": 3,
+    "studentAccepted": 0,
+    "maxRegister": 18,
+    "maxAcceptedStudent": 6,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CE).</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "67fcb8b4502455a6d3606199",
+        "name": "Revobricks_D2_TTNT_HK243.docx",
+        "path": "/company/6676c4f128ce7ef5bfd64d02Revobricks_D2_TTNT_HK243.docx"
+      }
+    ],
+    "work": ""
   },
   "67ebe0c1502455a6d3604477": {
     "id": "67ebe0c1502455a6d3604477",
