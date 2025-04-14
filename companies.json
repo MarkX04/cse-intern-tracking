@@ -463,7 +463,7 @@
     "width": 512,
     "height": 512,
     "address": "103/23 Nguyễn Hữu Dật, Phường Tây Thạnh, Quận Tân Phú, Thành phố Hồ Chí Minh",
-    "studentRegister": 2,
+    "studentRegister": 3,
     "studentAccepted": 0,
     "maxRegister": 3,
     "maxAcceptedStudent": 1,
@@ -505,6 +505,11 @@
         "_id": "67fcb8b4502455a6d3606199",
         "name": "Revobricks_D2_TTNT_HK243.docx",
         "path": "/company/6676c4f128ce7ef5bfd64d02Revobricks_D2_TTNT_HK243.docx"
+      },
+      {
+        "_id": "67fd13f3502455a6d360623c",
+        "name": "Revobricks_D2_TTNT_HK243.pdf",
+        "path": "/company/6676c4f128ce7ef5bfd64d02Revobricks_D2_TTNT_HK243.pdf"
       }
     ],
     "work": ""
