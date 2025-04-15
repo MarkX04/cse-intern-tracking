@@ -280,8 +280,8 @@
     "width": 512,
     "height": 365,
     "address": "12 Đại lộ Khoa học, KV2, phường Ghềnh Ráng, TP. Quy Nhơn, tỉnh Bình Định",
-    "studentRegister": 34,
-    "studentAccepted": 4,
+    "studentRegister": 32,
+    "studentAccepted": 5,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
     "adminMaxRegister": 10,
@@ -463,7 +463,7 @@
     "width": 512,
     "height": 512,
     "address": "103/23 Nguyễn Hữu Dật, Phường Tây Thạnh, Quận Tân Phú, Thành phố Hồ Chí Minh",
-    "studentRegister": 2,
+    "studentRegister": 3,
     "studentAccepted": 0,
     "maxRegister": 3,
     "maxAcceptedStudent": 1,
@@ -477,6 +477,11 @@
         "_id": "67fcb9aa502455a6d360619d",
         "name": "PH_D2_TTNT_HK243.docx",
         "path": "/company/6669061af5911d0a68b80c16PH_D2_TTNT_HK243.docx"
+      },
+      {
+        "_id": "67fe180f502455a6d36063fd",
+        "name": "PH_D2_TTNT_HK243.pdf",
+        "path": "/company/6669061af5911d0a68b80c16PH_D2_TTNT_HK243.pdf"
       }
     ],
     "work": "<p>-&nbsp;C&ocirc;ng ty Cổ Phần KHKT Phượng Hải được th&agrave;nh lập năm 2004, với gần 20 năm kinh nghiệm trở th&agrave;nh chuy&ecirc;n gia trong 2 lĩnh vực ch&iacute;nh:</p>\n\n<p>&nbsp; &nbsp; +&nbsp;Sản xuất Nội Thất v&agrave; Thiết Bị Ph&ograve;ng Th&iacute; Nghiệm - Thương hiệu BestLab&reg;</p>\n\n<p>&nbsp; &nbsp; +&nbsp;Sản xuất Thiết Bị Quan Trắc M&ocirc;i Trường - Thương hiệu SmartpH&reg;</p>\n\n<p>-&nbsp;L&agrave; một doanh nghiệp Khoa Học C&ocirc;ng Nghệ, Phượng Hải JSC đ&atilde; x&aacute;c định cho m&igrave;nh một sứ mệnh, phải tự chủ được c&aacute;c c&ocirc;ng nghệ cao trong ng&agrave;nh ph&acirc;n t&iacute;ch đo lường, để trở th&agrave;nh &ldquo;Biểu tượng Đo lường ở Đ&ocirc;ng Nam &Aacute;&rdquo; v&agrave;o một ng&agrave;y kh&ocirc;ng xa.</p>\n\n<p>-&nbsp;C&ugrave;ng với việc đầu tư nghi&ecirc;m t&uacute;c v&agrave;o nghi&ecirc;n cứu &amp; ph&aacute;t triển c&aacute;c sản phẩm (R&amp;D), Ph&ograve;ng R&amp;D được đầu tư m&aacute;y m&oacute;c thiết bị hiện đại c&ugrave;ng với đội ngũ kỹ sư chuy&ecirc;n m&ocirc;n cao, được xem l&agrave; bộ n&atilde;o của c&ocirc;ng ty. Từ đ&oacute; ph&aacute;t triển những c&ocirc;ng nghệ cao v&agrave; v&agrave;o một ng&agrave;y kh&ocirc;ng xa, chất lượng &ldquo;Made in Vietnam&rdquo; sẽ được đ&oacute;n nhận tr&ecirc;n to&agrave;n thế giới.</p>\n"
