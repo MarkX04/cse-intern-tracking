@@ -1007,7 +1007,7 @@
     "width": 512,
     "height": 90,
     "address": "LK C41, Embassy Garden, phường Xuân Tảo, quận Bắc Từ Liêm, TP Hà Nội",
-    "studentRegister": 1,
+    "studentRegister": 0,
     "studentAccepted": 0,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
