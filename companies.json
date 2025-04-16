@@ -303,7 +303,7 @@
     "width": 512,
     "height": 565,
     "address": "12/20D Nguyễn Thị Minh Khai, P.Đao Kao , Q.1, TP. HCM",
-    "studentRegister": 11,
+    "studentRegister": 12,
     "studentAccepted": 0,
     "maxRegister": 12,
     "maxAcceptedStudent": 4,
@@ -974,20 +974,25 @@
     "width": 512,
     "height": 287,
     "address": "Trung Tâm VNPT-IT Khu Vực 2 - Chi Nhánh Công Ty Công Nghệ Thông Tin VNPT, Số 42 Phạm Ngọc Thạch, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
-    "studentRegister": 1,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 1,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
     "adminMaxRegister": 10,
     "acceptedIntern": true,
     "subscribeAcceptedEmail": false,
     "active": true,
-    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p>",
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
     "internshipFiles": [
       {
         "_id": "67ff11cb502455a6d36065af",
         "name": "VNPT_CI_D2&3_TTNT_HK243.docx",
         "path": "/company/67ff0dea502455a6d36065a0VNPT_CI_D2&3_TTNT_HK243.docx"
+      },
+      {
+        "_id": "67ff2b70502455a6d36065e2",
+        "name": "VNPT_CI_D2&3_TTNT_HK243.pdf",
+        "path": "/company/67ff0dea502455a6d36065a0VNPT_CI_D2&3_TTNT_HK243.pdf"
       }
     ],
     "work": ""
