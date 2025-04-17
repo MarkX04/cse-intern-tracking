@@ -110,6 +110,62 @@
     "internshipFiles": [],
     "work": "<p><span style=\"color:#2980b9;\"><strong>Kính chào Quý Doanh nghiệp (DN),</strong></span></p><p><span style=\"color:#2980b9;\"><strong>Khoa Khoa học và Kỹ thuật Máy tính - Trường Đại học Bách Khoa - ĐHQG TPHCM (CSE), sau đây được gọi là \"Khoa\" xin thông tin triển khai một số chương trình gửi sinh viên (SV) đi thực tập như sau:</strong></span></p><p><span style=\"color:#c0392b;\"><strong>1 - Thực tập ngoài Trường (TTNT) đúng tuyến tại 03 học kỳ (HK) trong năm học</strong></span><span style=\"color:#2980b9;\"><strong>, mốc thời gian thực hiện như sau:</strong></span></p><p><span style=\"color:#2980b9;\"><strong>- Học kỳ 1: tháng 09-&gt;12 (</strong></span><span style=\"color:#c0392b;\"><strong>công tác chuẩn bị từ tháng 08</strong></span><span style=\"color:#2980b9;\"><strong>).</strong></span></p><p><span style=\"color:#2980b9;\"><strong>- Học kỳ 2: tháng 02-&gt;05 (</strong></span><span style=\"color:#c0392b;\"><strong>công tác chuẩn bị từ tháng 12</strong></span><span style=\"color:#2980b9;\"><strong>).</strong></span></p><p><span style=\"color:#2980b9;\"><strong>- Học kỳ 3/ hè: tháng 06-&gt;08 (</strong></span><span style=\"color:#c0392b;\"><strong>công tác chuẩn bị từ tháng 04</strong></span><span style=\"color:#2980b9;\"><strong>). Triển khai dùng website internship&nbsp;</strong></span><span style=\"color:#c0392b;\"><strong>https://internship.cse.hcmut.edu.vn/</strong></span></p><p><span style=\"color:#2980b9;\"><strong>Đối tượng SV tham gia: </strong></span><span style=\"color:#c0392b;\"><strong>năm 4&nbsp;trở về trước (chưa hoàn thành môn học)</strong></span><span style=\"color:#2980b9;\"><strong>. SV Khoa học chương trình </strong></span><span style=\"color:#c0392b;\"><strong>hệ 4 năm</strong></span><span style=\"color:#2980b9;\"><strong>.</strong></span></p><p><span style=\"color:#c0392b;\"><strong>2</strong></span><span style=\"color:#2980b9;\"><strong> - Chương trình hướng dẫn SV thực hiện </strong></span><span style=\"color:#c0392b;\"><strong>Đồ án tốt nghiệp (ĐATN)</strong></span><span style=\"color:#2980b9;\"><strong> kéo dài trong 02 học kỳ liên tiếp (01 năm học cuối Khóa).</strong></span></p><p><span style=\"color:#c0392b;\"><strong>3</strong></span><span style=\"color:#2980b9;\"><strong> - Chương trình hướng dẫn SV thực hiện </strong></span><span style=\"color:#c0392b;\"><strong>Học kỳ Doanh nghiệp (HKDN)</strong></span><span style=\"color:#2980b9;\"><strong> kéo dài trong 05 tháng (trọn 01 HK chính). SV tham gia chương trình này thường là làm việc toàn thời gian với DN như một nhân viên thực thụ, hoặc tham gia học thêm một số ít môn tại Khoa/ Trường (nếu còn → cho đủ tín chỉ quy định, và được sự đồng ý của DN).</strong></span></p><p><span style=\"color:#2980b9;\"><strong>Mốc thời gian thực hiện </strong></span><span style=\"color:#c0392b;\"><strong>chương trình 2 và 3</strong></span><span style=\"color:#2980b9;\"><strong> như sau:</strong></span></p><p><span style=\"color:#2980b9;\"><strong>- Học kỳ 1: tháng 08→12 (</strong></span><span style=\"color:#c0392b;\"><strong>công tác chuẩn bị từ tháng 07</strong></span><span style=\"color:#2980b9;\"><strong>).</strong></span></p><p><span style=\"color:#2980b9;\"><strong>- Học kỳ 2: tháng 01-&gt;05 (</strong></span><span style=\"color:#c0392b;\"><strong>công tác chuẩn bị từ tháng 11</strong></span><span style=\"color:#2980b9;\"><strong>).&nbsp;</strong></span></p><p><span style=\"color:#2980b9;\"><strong>Khoa có thể chấp nhận cho SV đi thực tập địa điểm xa TP.HCM,&nbsp;với điều kiện:&nbsp;</strong></span><span style=\"color:#c0392b;\"><strong>SV không đăng ký môn học nào khác tại Trường trong cùng HK thực tập</strong></span><span style=\"color:#2980b9;\"><strong>.</strong></span></p><p><span style=\"color:#2980b9;\"><strong>Nếu DN&nbsp;có nhu cầu nhận SV&nbsp;thực tập đúng tuyến như trên, vui lòng </strong></span><span style=\"color:#c0392b;\"><strong>chủ động liên hệ về Khoa đúng thời gian</strong></span><span style=\"color:#2980b9;\"><strong> để được hướng dẫn chi tiết tại từng HK.</strong></span></p><p><span style=\"color:#2980b9;\"><strong>Trân trọng cảm ơn!</strong></span></p><p>============================================================================</p>"
   },
+  "5cbe7f25a03f03365f3adc86": {
+    "id": "5cbe7f25a03f03365f3adc86",
+    "shortname": "DSV - Designveloper",
+    "fullname": "Công ty Cổ Phần Công Nghệ Và Ứng Dụng DSV (Designveloper)",
+    "isSponsor": false,
+    "image": "/img/company/5cbe7f25a03f03365f3adc86.png?t=80698942",
+    "level": 2,
+    "width": 512,
+    "height": 112,
+    "address": "53-55-57 Phó Đức Chính, P. Nguyễn Thái Bình, Q.1, TP.HCM",
+    "studentRegister": 29,
+    "studentAccepted": 0,
+    "maxRegister": 60,
+    "maxAcceptedStudent": 20,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": true,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p>",
+    "internshipFiles": [
+      {
+        "_id": "68005d79502455a6d36067f0",
+        "name": "DSV_D2_TTNT_HK243_V2.pdf",
+        "path": "/company/5cbe7f25a03f03365f3adc86DSV_D2_TTNT_HK243_V2.pdf"
+      }
+    ],
+    "work": "Xin chào các bạn Sinh Viên Đại học Bách Khoa!\nDesignveloper là một công ty outsource, chuyên nghiệp giúp nhà sáng lập và khách hàng hiện thực hoá ý tưởng. \nChúng tôi đã có một số sản phẩm trên thị trường như: \n- www.songnhi.ai\n- www.cvsimply.com\n- HRM system ...\nChúng tôi đã giúp rất nhiều khách hàng hiện thực hoá ý tưởng của họ, trở thành những ứng dụng hàng chục triệu người dùng ở nhiều lĩnh vực khác nhau: pdf, y tế, điện năng lượng mặt trời, thương mại điện tử, kho sách nói, logistic ...\n- www.luminpdf.com\n- www.bananasign.co\n- www.aha.is\n- www.ordoclic.fr\n- www.swellenergy.com\n.....\nCác bạn sinh viên khi tham gia chương trình intern 02 tháng tại DSV sẽ trải nghiệm một chương trình chuyên nghiệp được xây dựng bởi Thạc sĩ ngành Khoa Học Máy Tính - ĐHBK, cựu sinh viên lớp cử nhân tài năng của trường ĐH Bách Khoa. Với hơn 9 năm kinh nghiệm thực tế, chúng tôi mong muốn mang đến các bạn một môi trường đào tạo thực tập sinh tốt nhất.\nSau thời gian thực tập, các bạn sẽ được công ty offer mức lương từ 8-12 triệu, được cấp macbook, mua bảo hiểm toàn diện PVI, tham gia các câu lạc bộ (bóng đá, bóng bàn, bi lắc, chạy bộ ...), tham gia các hoạt động tập thể của công ty. DSV cung cấp > 5000 khoá học miễn phí trên Udemy... Tài trợ các khoá học nâng cao, chuyên ngành khác. MONG ĐƯỢC HỢP TÁC CÙNG CÁC BẠN!!!"
+  },
+  "5cdfc49d4712e2108a871263": {
+    "id": "5cdfc49d4712e2108a871263",
+    "shortname": "CN - Cloud Nine",
+    "fullname": "Công ty TNHH Giải pháp Cloud Nine (CN)",
+    "isSponsor": false,
+    "image": "/img/company/5cdfc49d4712e2108a871263.png?t=67263890",
+    "level": 1,
+    "width": 512,
+    "height": 446,
+    "address": "Lầu 5, tòa nhà Scetpa, 19A Cộng Hòa, P12, Q. Tân Bình, TPHCM",
+    "studentRegister": 9,
+    "studentAccepted": 0,
+    "maxRegister": 9,
+    "maxAcceptedStudent": 3,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "68005ec9502455a6d36067f4",
+        "name": "CN_D2_TTNT_HK243.pdf",
+        "path": "/company/5cdfc49d4712e2108a871263CN_D2_TTNT_HK243.pdf"
+      }
+    ],
+    "work": "IT services, software outsourcing, software development for solutions: \n(a) maps and navigation using AI/AR technologies for map data presentation, travelling management, traffic management, cruise management and autonomous driving systems; \n(b) IoT and embedded systems development for Smart Home, Smart Building, Smart Agriculture and Automotive systems;"
+  },
   "606b081987e8b4bd3d4b4800": {
     "id": "606b081987e8b4bd3d4b4800",
     "shortname": "HS - Holistics Software",
@@ -141,10 +197,10 @@
   "6078e9a9ee96ff021b97a21f": {
     "id": "6078e9a9ee96ff021b97a21f",
     "shortname": "BV - Bản Viên",
-    "fullname": "Công ty Cổ phần Bản Viên (Ban Vien Corporation)",
+    "fullname": "Công ty Cổ phần Bản Viên (Ban Vien Corporation) - BV",
     "isSponsor": false,
     "image": "/img/company/6078e9a9ee96ff021b97a21f.png?t=67177564",
-    "level": 2,
+    "level": 3,
     "width": 512,
     "height": 512,
     "address": "Ban Vien Tower, 54-56-58 Đường số 2, Khu phố 5, Khu nhà ở Vạn Phúc 1, Phường Hiệp Bình Phước, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam.",
@@ -227,6 +283,34 @@
     ],
     "work": "<p>Thành lập năm 2018, SUN.STUDIO là nhà phát triển games trên nền tảng web các thiết bị di động với hơn 1 tỷ lượt chơi. Sứ mệnh của chúng tôi là tạo ra các trò chơi mà mọi người có thể dễ dàng tiếp cận (accessible) và yêu thích (enjoyable).&nbsp;</p><p style=\"text-align:justify;\">Hiện tại công ty có gần 70 thành viên&nbsp;với trên 40 đầu games. Là đối tác chiến lược của các nền tảng web-games hàng đầu thế giới như: Facebook Instant Games, Microsoft Instant Play, Yandex Games, Game Distribution, Glance Gaming… và có games phát hành trên Google Play và App Store.</p><p>Cùng với các bạn, chúng ta sẽ tạo ra những games hướng tới trải nghiệm người chơi tuyệt vời hơn nữa! Hiện email của chúng tôi đang bị quá tải nên nếu bạn gửi hồ sơ vào email thì chúng tôi sẽ không nhận được ạ. Các bạn ứng tuyển vui lòng gửi hồ sơ vào đường link: https://jobs.lever.co/sunstudio</p>"
   },
+  "628ef005bbe74fe7122fd281": {
+    "id": "628ef005bbe74fe7122fd281",
+    "shortname": "AC - AMPERE COMPUTING",
+    "fullname": "CÔNG TY TNHH AMPERE COMPUTING VIỆT NAM",
+    "isSponsor": false,
+    "image": "/img/company/628ef005bbe74fe7122fd281.png?t=50099601",
+    "level": 1,
+    "width": 512,
+    "height": 256,
+    "address": "Lầu 2,3 Tòa nhà Incubation A, Đường Tân Thuận, KCX Tân Thuận, P.Tân Thuận Đông, Q7, HCM",
+    "studentRegister": 9,
+    "studentAccepted": 0,
+    "maxRegister": 9,
+    "maxAcceptedStudent": 3,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "68005e38502455a6d36067f1",
+        "name": "AC_Ampere_D2_TTNT_HK243.pdf",
+        "path": "/company/628ef005bbe74fe7122fd281AC_Ampere_D2_TTNT_HK243.pdf"
+      }
+    ],
+    "work": "AMPERE COMPUTING"
+  },
   "62a6ba53bbe74fe7122ffb61": {
     "id": "62a6ba53bbe74fe7122ffb61",
     "shortname": "VGS - VGAMES",
@@ -237,7 +321,7 @@
     "width": 512,
     "height": 127,
     "address": "319 Nguyễn Thái Bình, Phường 12, Quận Tân Bình, TP Hồ Chí Minh",
-    "studentRegister": 10,
+    "studentRegister": 12,
     "studentAccepted": 3,
     "maxRegister": 12,
     "maxAcceptedStudent": 4,
@@ -420,7 +504,7 @@
     "width": 512,
     "height": 365,
     "address": "12 Đại lộ Khoa học, KV2, phường Ghềnh Ráng, TP. Quy Nhơn, tỉnh Bình Định",
-    "studentRegister": 36,
+    "studentRegister": 35,
     "studentAccepted": 6,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -628,11 +712,11 @@
   },
   "6676c4f128ce7ef5bfd64d02": {
     "id": "6676c4f128ce7ef5bfd64d02",
-    "shortname": "Revobricks",
-    "fullname": "Revobricks LLC",
+    "shortname": "RVB - Revobricks",
+    "fullname": "Revobricks LLC (RVB)",
     "isSponsor": false,
     "image": "/img/company/6676c4f128ce7ef5bfd64d02.png?t=59810877",
-    "level": 1,
+    "level": 1.5,
     "width": 512,
     "height": 515,
     "address": "46, đường D13, Phường Tây Thạnh, Quận Tân Phú, Hồ Chí Minh",
@@ -735,7 +819,7 @@
     "width": 512,
     "height": 264,
     "address": "4 Huyền Quang, P.Tân Định, Quận 1, TPHCM",
-    "studentRegister": 6,
+    "studentRegister": 5,
     "studentAccepted": 0,
     "maxRegister": 6,
     "maxAcceptedStudent": 2,
