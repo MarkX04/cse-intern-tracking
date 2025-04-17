@@ -84,6 +84,11 @@
         "_id": "67ff144c502455a6d36065b7",
         "name": "VNG_Verichains_D2&3_TTNT_HK243.docx",
         "path": "/company/5caef43402c2e72195b4cecaVNG_Verichains_D2&3_TTNT_HK243.docx"
+      },
+      {
+        "_id": "6800c571502455a6d36068a7",
+        "name": "VNG_Verichains_D2&3_TTNT_HK243.pdf",
+        "path": "/company/5caef43402c2e72195b4cecaVNG_Verichains_D2&3_TTNT_HK243.pdf"
       }
     ],
     "work": "Internet company"
@@ -509,7 +514,7 @@
     "width": 512,
     "height": 365,
     "address": "12 Đại lộ Khoa học, KV2, phường Ghềnh Ráng, TP. Quy Nhơn, tỉnh Bình Định",
-    "studentRegister": 36,
+    "studentRegister": 37,
     "studentAccepted": 8,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
