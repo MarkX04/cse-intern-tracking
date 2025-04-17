@@ -120,7 +120,7 @@
     "width": 512,
     "height": 112,
     "address": "53-55-57 Phó Đức Chính, P. Nguyễn Thái Bình, Q.1, TP.HCM",
-    "studentRegister": 41,
+    "studentRegister": 44,
     "studentAccepted": 0,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -190,6 +190,11 @@
         "_id": "67ff12e8502455a6d36065b3",
         "name": "HS_Holistics_D2_TTNT_HK243.pdf",
         "path": "/company/606b081987e8b4bd3d4b4800HS_Holistics_D2_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "680076ac502455a6d360681d",
+        "name": "HS_D2_TTNT_HK243.pdf",
+        "path": "/company/606b081987e8b4bd3d4b4800HS_D2_TTNT_HK243.pdf"
       }
     ],
     "work": "Holistics is a fast-growing data startup based out of Singapore, Saigon, and Jakarta. Our goal is to make data a little bit less frightening and more useful for people every day. And we plan to have a lot of fun while doing so.\n\nTo date, we're serving customers from over 20 countries worldwide from this part of the world.\n\nWe have a strong product engineering culture and understand what it takes to build a high-quality, scalable product. We are customer-obsessed, open-minded to new ideas, and focus on improving bit by bit every day."
@@ -198,7 +203,7 @@
     "id": "6078e9a9ee96ff021b97a21f",
     "shortname": "BV - Bản Viên",
     "fullname": "Công ty Cổ phần Bản Viên (Ban Vien Corporation) - BV",
-    "isSponsor": false,
+    "isSponsor": true,
     "image": "/img/company/6078e9a9ee96ff021b97a21f.png?t=67177564",
     "level": 3,
     "width": 512,
