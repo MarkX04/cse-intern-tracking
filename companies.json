@@ -491,7 +491,7 @@
     "width": 512,
     "height": 161,
     "address": "71 Bùi Tá Hán, P. An Phú, Q.2, TPHCM",
-    "studentRegister": 14,
+    "studentRegister": 15,
     "studentAccepted": 0,
     "maxRegister": 15,
     "maxAcceptedStudent": 5,
@@ -1181,6 +1181,16 @@
         "_id": "6801bd80502455a6d3606a55",
         "name": "SS_SENSE_D2&3_TTNT_HK243.docx",
         "path": "/company/6800f34b502455a6d36068f8SS_SENSE_D2&3_TTNT_HK243.docx"
+      },
+      {
+        "_id": "68020695502455a6d3606ad7",
+        "name": "SS_Sense_D2_TTNT_HK243.pdf",
+        "path": "/company/6800f34b502455a6d36068f8SS_Sense_D2_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "6802069d502455a6d3606ad8",
+        "name": "SS_Sense_D3_TTNT_HK243.pdf",
+        "path": "/company/6800f34b502455a6d36068f8SS_Sense_D3_TTNT_HK243.pdf"
       }
     ],
     "work": ""
