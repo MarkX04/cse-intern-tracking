@@ -27,6 +27,34 @@
     ],
     "work": "<p>Công ty TNHH HORUSOFTACEAE là công ty chuyên phát triển và cung cấp các dịch vụ công nghệ, ứng dụng trong lĩnh vực nghiên cứu Y Dược và Giáo dục Đào tạo. Đối tác và khách hàng của HORUSOFTACEAE bao gồm các doanh nghiệp trong nước và quốc tế ở nhiều quốc gia khác nhau. Hiện nay công ty HORUSOFTACEAE đang trong quá trình phát triển, mở rộng hoạt động kinh doanh, cần tập trung phát triển một số sản phẩm công nghệ tiên tiến đặc thù, nhằm phục vụ cho các đối tác và khách hàng của công ty.</p>"
   },
+  "5caef41902c2e72195b4ce9c": {
+    "id": "5caef41902c2e72195b4ce9c",
+    "shortname": "SRMC VN - Sorimachi VN",
+    "fullname": "Công ty TNHH Sorimachi Việt Nam (SRMC VN)",
+    "isSponsor": false,
+    "image": "/img/company/5caef41902c2e72195b4ce9c.jpg?t=45872639",
+    "level": 1,
+    "width": 512,
+    "height": 106,
+    "address": "Tầng 9, Cao Ốc Tuổi Trẻ, 60A Hoàng Văn Thụ, phường 9, quận Phú Nhuận, TPHCM",
+    "studentRegister": 1,
+    "studentAccepted": 0,
+    "maxRegister": 6,
+    "maxAcceptedStudent": 2,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": true,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "6801bcac502455a6d3606a54",
+        "name": "SRMC_VN_Sorimachi_VN_D2_TTNT_HK243.pdf",
+        "path": "/company/5caef41902c2e72195b4ce9cSRMC_VN_Sorimachi_VN_D2_TTNT_HK243.pdf"
+      }
+    ],
+    "work": "<p>Công ty TNHH Sorimachi Việt Nam (SRMC VN)</p>"
+  },
   "5caef42b02c2e72195b4ceba": {
     "id": "5caef42b02c2e72195b4ceba",
     "shortname": "EA - PĐLH - Phương Đông Linh Hoạt (East Agile)",
@@ -605,8 +633,8 @@
   },
   "660b6525d3e9eccc8c61e56d": {
     "id": "660b6525d3e9eccc8c61e56d",
-    "shortname": "Sorimachi - Nhật Bản",
-    "fullname": "Sorimachi - Nhật Bản",
+    "shortname": "SRMC JP - Sorimachi Nhật Bản",
+    "fullname": "Sorimachi - Nhật Bản (SRMC JP)",
     "isSponsor": false,
     "image": "/img/company/660b6525d3e9eccc8c61e56d.png?t=25765971",
     "level": 1,
@@ -1125,6 +1153,34 @@
         "_id": "6800e480502455a6d36068dd",
         "name": "ST_D2&3_TTNT_HK243.pdf",
         "path": "/company/67ff0dec502455a6d36065a2ST_D2&3_TTNT_HK243.pdf"
+      }
+    ],
+    "work": ""
+  },
+  "6800f34b502455a6d36068f8": {
+    "id": "6800f34b502455a6d36068f8",
+    "shortname": "SS - SENSE",
+    "fullname": "Công ty TNHH SENSE (SS)",
+    "isSponsor": false,
+    "image": "/img/company/6800f34b502455a6d36068f8.png?t=92803628",
+    "level": 1,
+    "width": 512,
+    "height": 512,
+    "address": "60 Vũ Tông Phan, An Phú, Quận 2, TP.HCM",
+    "studentRegister": 1,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p>",
+    "internshipFiles": [
+      {
+        "_id": "6801bd80502455a6d3606a55",
+        "name": "SS_SENSE_D2&3_TTNT_HK243.docx",
+        "path": "/company/6800f34b502455a6d36068f8SS_SENSE_D2&3_TTNT_HK243.docx"
       }
     ],
     "work": ""
