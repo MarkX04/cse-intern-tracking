@@ -240,7 +240,30 @@
     "image": "/img/company/6078e9a9ee96ff021b97a21f.png?t=67177564",
     "level": 3,
     "width": 512,
-    "height": 512
+    "height": 512,
+    "address": "Ban Vien Tower, 54-56-58 Đường số 2, Khu phố 5, Khu nhà ở Vạn Phúc 1, Phường Hiệp Bình Phước, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam.",
+    "studentRegister": 21,
+    "studentAccepted": 0,
+    "maxRegister": 21,
+    "maxAcceptedStudent": 7,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p>",
+    "internshipFiles": [
+      {
+        "_id": "67f73873502455a6d3605823",
+        "name": "BV_D2_TTNT_HK243.docx",
+        "path": "/company/6078e9a9ee96ff021b97a21fBV_D2_TTNT_HK243.docx"
+      },
+      {
+        "_id": "67f8b5f8502455a6d3605ab7",
+        "name": "BV_D2_TTNT_HK243.pdf",
+        "path": "/company/6078e9a9ee96ff021b97a21fBV_D2_TTNT_HK243.pdf"
+      }
+    ],
+    "work": "<p style=\"margin-left:24px;text-align:justify;\">Được thành lập từ 2010, đến nay Bản Viên đã trở thành Đối tác Công nghệ uy tín hàng đầu trong lĩnh vực phát triển phần mềm và hệ thống nhúng (Software Development &amp; Embedded System Development) mang tầm ảnh hưởng trong nước và quốc tế.&nbsp;</p><p style=\"margin-left:24px;text-align:justify;\"><span style=\"color:windowtext;\">Bản Viên không ngừng đổi mới sáng tạo trong nhiều lĩnh vực như Công nghệ giáo dục (Edutech), Công nghệ tài chính (Fintech), Bán lẻ, Ô tô, IoT thông minh và Logistics. Các dịch vụ toàn diện bao gồm Tư vấn chuyển đổi số, Phát triển phần mềm theo yêu cầu, Trung tâm phát triển chuyên biệt và Dịch vụ kiểm thử phần mềm. Quá trình mở rộng toàn cầu của Bản Viên bao gồm các khách hàng và đối tác chiến lược tại Hoa Kỳ, Đức, Nhật Bản, Singapore, Trung Quốc, Hồng Kông, Thái Lan, Malaysia và Việt Nam.&nbsp;</span></p><p style=\"margin-left:24px;text-align:justify;\"><span style=\"color:windowtext;\">Với tầm nhìn “Trao quyền thành công bằng các giải pháp CNTT hàng đầu toàn cầu”, Bản Viên không ngừng phát triển với đội ngũ hơn 600 nhân tài, cùng nhau xây dựng dựa trên các giá trị cốt lõi: Tin tưởng, Hợp tác, Cam kết, Đa dạng, Chính trực và Phát triển. Những nguyên tắc này chính là động lực thúc đẩy đổi mới sáng tạo, xây dựng quan hệ đối tác lâu dài và tạo nên một văn hóa doanh nghiệp năng động.&nbsp;</span></p><p style=\"margin-left:24px;text-align:justify;\">Khám phá thêm môi trường làm việc của Bản Viên tại: https://career.banvien.com.vn/&nbsp;</p><p>&nbsp;</p>"
   },
   "607d40f7ee96ff021b97a98f": {
     "id": "607d40f7ee96ff021b97a98f",
