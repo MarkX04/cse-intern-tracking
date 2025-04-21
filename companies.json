@@ -1307,7 +1307,7 @@
     "width": 512,
     "height": 512,
     "address": "60 Vũ Tông Phan, An Phú, Quận 2, TP.HCM",
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
