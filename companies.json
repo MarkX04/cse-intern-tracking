@@ -153,7 +153,7 @@
     "width": 512,
     "height": 112,
     "address": "53-55-57 Phó Đức Chính, P. Nguyễn Thái Bình, Q.1, TP.HCM",
-    "studentRegister": 60,
+    "studentRegister": 57,
     "studentAccepted": 0,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -171,6 +171,34 @@
     ],
     "work": "Xin chào các bạn Sinh Viên Đại học Bách Khoa!\nDesignveloper là một công ty outsource, chuyên nghiệp giúp nhà sáng lập và khách hàng hiện thực hoá ý tưởng. \nChúng tôi đã có một số sản phẩm trên thị trường như: \n- www.songnhi.ai\n- www.cvsimply.com\n- HRM system ...\nChúng tôi đã giúp rất nhiều khách hàng hiện thực hoá ý tưởng của họ, trở thành những ứng dụng hàng chục triệu người dùng ở nhiều lĩnh vực khác nhau: pdf, y tế, điện năng lượng mặt trời, thương mại điện tử, kho sách nói, logistic ...\n- www.luminpdf.com\n- www.bananasign.co\n- www.aha.is\n- www.ordoclic.fr\n- www.swellenergy.com\n.....\nCác bạn sinh viên khi tham gia chương trình intern 02 tháng tại DSV sẽ trải nghiệm một chương trình chuyên nghiệp được xây dựng bởi Thạc sĩ ngành Khoa Học Máy Tính - ĐHBK, cựu sinh viên lớp cử nhân tài năng của trường ĐH Bách Khoa. Với hơn 9 năm kinh nghiệm thực tế, chúng tôi mong muốn mang đến các bạn một môi trường đào tạo thực tập sinh tốt nhất.\nSau thời gian thực tập, các bạn sẽ được công ty offer mức lương từ 8-12 triệu, được cấp macbook, mua bảo hiểm toàn diện PVI, tham gia các câu lạc bộ (bóng đá, bóng bàn, bi lắc, chạy bộ ...), tham gia các hoạt động tập thể của công ty. DSV cung cấp > 5000 khoá học miễn phí trên Udemy... Tài trợ các khoá học nâng cao, chuyên ngành khác. MONG ĐƯỢC HỢP TÁC CÙNG CÁC BẠN!!!"
   },
+  "5cbe7f36a03f03365f3adca4": {
+    "id": "5cbe7f36a03f03365f3adca4",
+    "shortname": "KYANON - Kỳ Anh",
+    "fullname": "Công ty TNHH Kyanon Digital",
+    "isSponsor": false,
+    "image": "/img/company/5cbe7f36a03f03365f3adca4.png?t=49148791",
+    "level": 1,
+    "width": 512,
+    "height": 138,
+    "address": "294 - 296 Trường Sa, Phường 2, Phú Nhuận, TP. HCM",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "6805c022502455a6d3607143",
+        "name": "Kyanon_D2&3_TTNT_HK243.docx",
+        "path": "/company/5cbe7f36a03f03365f3adca4Kyanon_D2&3_TTNT_HK243.docx"
+      }
+    ],
+    "work": "Digital Consulting - Digital innovation - Digital Venture"
+  },
   "5cdfc49d4712e2108a871263": {
     "id": "5cdfc49d4712e2108a871263",
     "shortname": "CN - Cloud Nine",
@@ -181,7 +209,7 @@
     "width": 512,
     "height": 446,
     "address": "Lầu 5, tòa nhà Scetpa, 19A Cộng Hòa, P12, Q. Tân Bình, TPHCM",
-    "studentRegister": 9,
+    "studentRegister": 8,
     "studentAccepted": 0,
     "maxRegister": 9,
     "maxAcceptedStudent": 3,
@@ -231,6 +259,34 @@
       }
     ],
     "work": "Holistics is a fast-growing data startup based out of Singapore, Saigon, and Jakarta. Our goal is to make data a little bit less frightening and more useful for people every day. And we plan to have a lot of fun while doing so.\n\nTo date, we're serving customers from over 20 countries worldwide from this part of the world.\n\nWe have a strong product engineering culture and understand what it takes to build a high-quality, scalable product. We are customer-obsessed, open-minded to new ideas, and focus on improving bit by bit every day."
+  },
+  "606b13ec87e8b4bd3d4b4816": {
+    "id": "606b13ec87e8b4bd3d4b4816",
+    "shortname": "CS - Cube System",
+    "fullname": "Công ty TNHH Cube System Việt Nam (CS)",
+    "isSponsor": false,
+    "image": "/img/company/606b13ec87e8b4bd3d4b4816.png?t=63816359",
+    "level": 1.5,
+    "width": 512,
+    "height": 116,
+    "address": "Tầng 6, tòa nhà JVPE, CVPM Quang Trung, Phường Tân Chánh Hiệp, Quận 12, Tp.HCM",
+    "studentRegister": 6,
+    "studentAccepted": 0,
+    "maxRegister": 21,
+    "maxAcceptedStudent": 7,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "6805bcc5502455a6d3607136",
+        "name": "CS_CubeSystem_D2_TTNT_HK243.docx",
+        "path": "/company/606b13ec87e8b4bd3d4b4816CS_CubeSystem_D2_TTNT_HK243.docx"
+      }
+    ],
+    "work": "Công ty 100% vốn đầu tư Nhật Bản hoạt động trong lĩnh vực công nghệ thông tin/phần mềm.\nCube System Vietnam cung cấp dịch vụ phát triển phần mềm và giải pháp công nghệ cho các khách hàng hoạt động trong nhiều lĩnh vực từ sản xuất, logistics tới giáo dục, tài chính...tại thị trường Việt Nam và Nhật Bản.\nKế thừa DNA của công ty mẹ - Cube System INC, tại Việt Nam, với phương châm \"Khách hàng là số một\", \"Chủ nghĩa trọng điểm\", và \"Toàn nhân viên tham gia kinh doanh\", chúng tôi nuôi dưỡng những kỹ sư Việt Nam ưu tú - \"Kỹ sư hệ thống hướng đến khách hàng\" nhằm cống hiến cho sự nghiệp phát triển của hai quốc gia Việt - Nhật. Đi cùng với phương châm đó, Cube System hàng năm đều tổ chức chương trình trao học bổng KSYS - CUBE SYSTEM cho các sinh viên của trường Đại học Bách Khoa TPHCM, nhằm khuyến khích, hỗ trợ phát triển các nhân tài."
   },
   "6078e9a9ee96ff021b97a21f": {
     "id": "6078e9a9ee96ff021b97a21f",
@@ -570,6 +626,34 @@
     ],
     "work": "<p><span style=\"color:#1F4E79;\">Dear&nbsp;Intern,</span></p><p><span style=\"color:#1F4E79;\">Please apply via this&nbsp;</span><a href=\"https://docs.google.com/forms/d/1BOiNXiYBYHaQzcajZn66Ed-hT8QIBS2hfUmBTcLp4N8/edit\"><span style=\"color:#1F4E79;\">link</span></a><span style=\"color:#1F4E79;\"> so we can arrange&nbsp;for you to join the Internship Batch 19.</span></p>"
   },
+  "648fbcece6dfc5e17fdb5c45": {
+    "id": "648fbcece6dfc5e17fdb5c45",
+    "shortname": "CNNT.BK",
+    "fullname": "Công ty TNHH Công nghệ Nền tảng BK",
+    "isSponsor": false,
+    "image": "/img/company/648fbcece6dfc5e17fdb5c45.png?t=48488839",
+    "level": 1,
+    "width": 512,
+    "height": 512,
+    "address": "Phòng B.207, số 33 Lương Minh Nguyệt, phường Tân Thới Hoà, quận Tân Phú, Thành phố Hồ Chí Minh",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "6805beb1502455a6d360713d",
+        "name": "CNNT.BK_D2&3_TTNT_HK243.pdf",
+        "path": "/company/648fbcece6dfc5e17fdb5c45CNNT.BK_D2&3_TTNT_HK243.pdf"
+      }
+    ],
+    "work": "Công ty TNHH Công nghệ Nền tảng BK"
+  },
   "660b6523d3e9eccc8c61e56a": {
     "id": "660b6523d3e9eccc8c61e56a",
     "shortname": "OW - OpenWay",
@@ -720,6 +804,62 @@
     ],
     "work": "IT"
   },
+  "6635aaa7a36c17e66bd076c5": {
+    "id": "6635aaa7a36c17e66bd076c5",
+    "shortname": "Fsoft - Japan",
+    "fullname": "Công ty TNHH Phần mềm FPT Hồ Chí Minh - Tập đoàn FPT",
+    "isSponsor": false,
+    "image": "/img/company/6635aaa7a36c17e66bd076c5.png?t=93225384",
+    "level": 2,
+    "width": 512,
+    "height": 364,
+    "address": "Toà nhà F-town 3, số 3 đường Võ Chí Công, phường Long Thạnh Mỹ, thành phố Thủ Đức, Tp. HCM",
+    "studentRegister": 6,
+    "studentAccepted": 0,
+    "maxRegister": 6,
+    "maxAcceptedStudent": 2,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "6805be05502455a6d360713a",
+        "name": "Fsoft_Japan_D2_TTNT_HK243.docx",
+        "path": "/company/6635aaa7a36c17e66bd076c5Fsoft_Japan_D2_TTNT_HK243.docx"
+      }
+    ],
+    "work": ""
+  },
+  "66631323f5911d0a68b801ad": {
+    "id": "66631323f5911d0a68b801ad",
+    "shortname": "APLG - Apollogix",
+    "fullname": "Công ty TNHH Apollogix (APLG)",
+    "isSponsor": false,
+    "image": "/img/company/66631323f5911d0a68b801ad.png?t=07596294",
+    "level": 1,
+    "width": 512,
+    "height": 390,
+    "address": "39-41 Đường B4, Phường An Lợi Đông, Thành Phố Thủ Đức, Thành Phố Hồ Chí Minh",
+    "studentRegister": 7,
+    "studentAccepted": 0,
+    "maxRegister": 18,
+    "maxAcceptedStudent": 6,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "6805bc47502455a6d3607135",
+        "name": "APLG_APOLLOGIX_D2_TTNT_HK243.pdf",
+        "path": "/company/66631323f5911d0a68b801adAPLG_APOLLOGIX_D2_TTNT_HK243.pdf"
+      }
+    ],
+    "work": ""
+  },
   "6669061af5911d0a68b80c16": {
     "id": "6669061af5911d0a68b80c16",
     "shortname": "PH - Phượng Hải",
@@ -829,7 +969,7 @@
     "width": 512,
     "height": 389,
     "address": "Phòng 11, MindX Lê Văn Việt - Lầu trệt, 99 Lê Văn Việt, Phường Tăng Nhơn Phú A, Quận 9, Thủ Đức, Thành phố Hồ Chí Minh",
-    "studentRegister": 12,
+    "studentRegister": 10,
     "studentAccepted": 0,
     "maxRegister": 12,
     "maxAcceptedStudent": 4,
@@ -1191,6 +1331,62 @@
         "_id": "6802069d502455a6d3606ad8",
         "name": "SS_Sense_D3_TTNT_HK243.pdf",
         "path": "/company/6800f34b502455a6d36068f8SS_Sense_D3_TTNT_HK243.pdf"
+      }
+    ],
+    "work": ""
+  },
+  "680265d6502455a6d3606b7b": {
+    "id": "680265d6502455a6d3606b7b",
+    "shortname": "SM - SIEMENS",
+    "fullname": "CÔNG TY TNHH SIEMENS HEALTHCARE (SM)",
+    "isSponsor": false,
+    "image": "/img/company/680265d6502455a6d3606b7b.png?t=87873532",
+    "level": 1,
+    "width": 512,
+    "height": 130,
+    "address": "Tầng 7, Số 33, Đường Lê Duẩn, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
+    "studentRegister": 1,
+    "studentAccepted": 0,
+    "maxRegister": 3,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p>",
+    "internshipFiles": [
+      {
+        "_id": "6805bfbe502455a6d3607142",
+        "name": "SM_Siemens_D2_TTNT_HK243.docx",
+        "path": "/company/680265d6502455a6d3606b7bSM_Siemens_D2_TTNT_HK243.docx"
+      }
+    ],
+    "work": ""
+  },
+  "680265d8502455a6d3606b7d": {
+    "id": "680265d8502455a6d3606b7d",
+    "shortname": "HueCIT",
+    "fullname": "Trung tâm Công nghệ thông tin thành phố Huế (HueCIT)",
+    "isSponsor": false,
+    "image": "/img/company/680265d8502455a6d3606b7d.png?t=87780119",
+    "level": 1,
+    "width": 512,
+    "height": 158,
+    "address": "Số 6 Lê Lợi, P. Vĩnh Ninh, Q. Thuận Hóa, TP. Huế",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "6805bf2a502455a6d360713e",
+        "name": "HueCIT_D2_TTNT_HK243.pdf",
+        "path": "/company/680265d8502455a6d3606b7dHueCIT_D2_TTNT_HK243.pdf"
       }
     ],
     "work": ""
