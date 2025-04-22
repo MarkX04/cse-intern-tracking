@@ -209,8 +209,8 @@
     "width": 512,
     "height": 446,
     "address": "Lầu 5, tòa nhà Scetpa, 19A Cộng Hòa, P12, Q. Tân Bình, TPHCM",
-    "studentRegister": 9,
-    "studentAccepted": 0,
+    "studentRegister": 8,
+    "studentAccepted": 1,
     "maxRegister": 9,
     "maxAcceptedStudent": 3,
     "adminMaxRegister": 10,
@@ -514,7 +514,7 @@
     "width": 512,
     "height": 515,
     "address": "B10 Nội khu Nam Thông 2A, P.Tân Phú, Q.7, Tp.HCM",
-    "studentRegister": 11,
+    "studentRegister": 12,
     "studentAccepted": 0,
     "maxRegister": 12,
     "maxAcceptedStudent": 4,
@@ -536,34 +536,6 @@
       }
     ],
     "work": "<p>Techlab chuyên cung cấp các dịch vụ Tư vấn An toàn bảo mật thông tin với các văn phòng hoạt động hiện ở Việt Nam, Singapore và Campuchia. Đội ngũ chuyên gia tư vấn của chúng tôi với kinh nghiệm dày dạn tư vấn cho các khách hàng địa phương và quốc tế luôn luôn sẵn sàng hỗ trợ và đáp ứng các nhu cầu doanh nghiệp của bạn với dịch vụ chất lượng quốc tế. Chúng tôi cung cấp các dịch vụ tư vấn về An toàn bảo mật thông tin như:<br>&nbsp;• Dịch vụ Rà soát đánh giá kỹ thuật an toàn bảo mật&nbsp;</p><p>• Dịch vụ Đánh giá tổng thể an toàn thông tin&nbsp;</p><p>• Dịch vụ Tư vấn an toàn và bảo vệ dữ liệu&nbsp;</p><p>• Dịch vụ Tư vấn hoạt động an toàn thông tin&nbsp;</p><p>• Dịch vụ Đào tạo và nhận thức an toàn thông tin – E-learning</p><h4><span style=\"color:hsl(0, 75%, 60%);\"><strong>Sinh viên ứng tuyển vui lòng gửi đầy đủ CV &amp; bảng điểm về email: recruitment@techlabcorp.com</strong></span></h4>"
-  },
-  "6458768fe7ad7cc2b7234347": {
-    "id": "6458768fe7ad7cc2b7234347",
-    "shortname": "Beehexa Corp",
-    "fullname": "Công ty Cổ phần Beehexa - Beehexa Corp",
-    "isSponsor": false,
-    "image": "/img/company/6458768fe7ad7cc2b7234347.png?t=32863531",
-    "level": 1,
-    "width": 512,
-    "height": 161,
-    "address": "71 Bùi Tá Hán, P. An Phú, Q.2, TPHCM",
-    "studentRegister": 15,
-    "studentAccepted": 0,
-    "maxRegister": 15,
-    "maxAcceptedStudent": 5,
-    "adminMaxRegister": 10,
-    "acceptedIntern": true,
-    "subscribeAcceptedEmail": false,
-    "active": true,
-    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p>",
-    "internshipFiles": [
-      {
-        "_id": "67ef3c0c502455a6d3604a48",
-        "name": "Beehexa_D2_TTNT_HK243.pdf",
-        "path": "/company/6458768fe7ad7cc2b7234347Beehexa_D2_TTNT_HK243.pdf"
-      }
-    ],
-    "work": "<p>C&ocirc;ng ty Cổ phần Beehexa - Beehexa Corp</p>\n"
   },
   "646c2701e7ad7cc2b723655a": {
     "id": "646c2701e7ad7cc2b723655a",
@@ -1429,7 +1401,7 @@
     "width": 512,
     "height": 261,
     "address": "28 đường số 5, khu đô thị Him Lam, phường Tân Hưng, Quận 7, Thành phố Hồ Chí Minh",
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
