@@ -10,7 +10,7 @@
     "height": 512,
     "address": "766/3G đường Sư Vạn Hạnh, phường 12, quận 10, TPHCM",
     "studentRegister": 30,
-    "studentAccepted": 2,
+    "studentAccepted": 3,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
     "adminMaxRegister": 10,
@@ -514,7 +514,7 @@
     "width": 512,
     "height": 515,
     "address": "B10 Nội khu Nam Thông 2A, P.Tân Phú, Q.7, Tp.HCM",
-    "studentRegister": 12,
+    "studentRegister": 11,
     "studentAccepted": 0,
     "maxRegister": 12,
     "maxAcceptedStudent": 4,
@@ -1387,6 +1387,62 @@
         "_id": "6805bf2a502455a6d360713e",
         "name": "HueCIT_D2_TTNT_HK243.pdf",
         "path": "/company/680265d8502455a6d3606b7dHueCIT_D2_TTNT_HK243.pdf"
+      }
+    ],
+    "work": ""
+  },
+  "6806576e502455a6d3607247": {
+    "id": "6806576e502455a6d3607247",
+    "shortname": "DHL",
+    "fullname": "DHL supply chain",
+    "isSponsor": false,
+    "image": "/img/company/6806576e502455a6d3607247.png?t=46128347",
+    "level": 1,
+    "width": 512,
+    "height": 115,
+    "address": "142/18 Cộng Hòa, P4, Tân Bình, TP.Hồ Chí Minh",
+    "studentRegister": 1,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "6806e88f502455a6d3607345",
+        "name": "DHL_D2&3_TTNT_HK243.docx",
+        "path": "/company/6806576e502455a6d3607247DHL_D2&3_TTNT_HK243.docx"
+      }
+    ],
+    "work": ""
+  },
+  "6806576f502455a6d3607249": {
+    "id": "6806576f502455a6d3607249",
+    "shortname": "SGM - SaigonMio - Sài Gòn Mio",
+    "fullname": "CÔNG TY CỔ PHẦN CÔNG NGHỆ SÀI GÒN MIO",
+    "isSponsor": false,
+    "image": "/img/company/6806576f502455a6d3607249.png?t=46320255",
+    "level": 1,
+    "width": 512,
+    "height": 261,
+    "address": "28 đường số 5, khu đô thị Him Lam, phường Tân Hưng, Quận 7, Thành phố Hồ Chí Minh",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "6806e830502455a6d3607344",
+        "name": "SGM_SaigonMio_D2&3_TTNT_HK243.docx",
+        "path": "/company/6806576f502455a6d3607249SGM_SaigonMio_D2&3_TTNT_HK243.docx"
       }
     ],
     "work": ""
