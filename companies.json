@@ -9,7 +9,7 @@
     "width": 512,
     "height": 512,
     "address": "766/3G đường Sư Vạn Hạnh, phường 12, quận 10, TPHCM",
-    "studentRegister": 30,
+    "studentRegister": 29,
     "studentAccepted": 4,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
@@ -566,6 +566,11 @@
         "_id": "67ff1363502455a6d36065b4",
         "name": "M2_D2_TTNT_HK243.pdf",
         "path": "/company/646c2701e7ad7cc2b723655aM2_D2_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "68078ae6502455a6d360745f",
+        "name": "M2_D2_TTNT_HK243_Signed.pdf",
+        "path": "/company/646c2701e7ad7cc2b723655aM2_D2_TTNT_HK243_Signed.pdf"
       }
     ],
     "work": "Công ty TNHH M2 VIETNAM"
@@ -777,6 +782,11 @@
         "_id": "67ec9bf1502455a6d36045ba",
         "name": "IMT_D2_TTNT_HK243.docx",
         "path": "/company/66194c1ca36c17e66bd045c9IMT_D2_TTNT_HK243.docx"
+      },
+      {
+        "_id": "68078e2b502455a6d3607466",
+        "name": "IMT_D2_TTNT_HK243_Signed.pdf",
+        "path": "/company/66194c1ca36c17e66bd045c9IMT_D2_TTNT_HK243_Signed.pdf"
       }
     ],
     "work": "IT"
