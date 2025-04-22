@@ -9,7 +9,7 @@
     "width": 512,
     "height": 512,
     "address": "766/3G đường Sư Vạn Hạnh, phường 12, quận 10, TPHCM",
-    "studentRegister": 28,
+    "studentRegister": 27,
     "studentAccepted": 3,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
@@ -284,6 +284,11 @@
         "_id": "6805bcc5502455a6d3607136",
         "name": "CS_CubeSystem_D2_TTNT_HK243.docx",
         "path": "/company/606b13ec87e8b4bd3d4b4816CS_CubeSystem_D2_TTNT_HK243.docx"
+      },
+      {
+        "_id": "68076221502455a6d3607418",
+        "name": "CS_D2_TTNT_HK243.pdf",
+        "path": "/company/606b13ec87e8b4bd3d4b4816CS_D2_TTNT_HK243.pdf"
       }
     ],
     "work": "Công ty 100% vốn đầu tư Nhật Bản hoạt động trong lĩnh vực công nghệ thông tin/phần mềm.\nCube System Vietnam cung cấp dịch vụ phát triển phần mềm và giải pháp công nghệ cho các khách hàng hoạt động trong nhiều lĩnh vực từ sản xuất, logistics tới giáo dục, tài chính...tại thị trường Việt Nam và Nhật Bản.\nKế thừa DNA của công ty mẹ - Cube System INC, tại Việt Nam, với phương châm \"Khách hàng là số một\", \"Chủ nghĩa trọng điểm\", và \"Toàn nhân viên tham gia kinh doanh\", chúng tôi nuôi dưỡng những kỹ sư Việt Nam ưu tú - \"Kỹ sư hệ thống hướng đến khách hàng\" nhằm cống hiến cho sự nghiệp phát triển của hai quốc gia Việt - Nhật. Đi cùng với phương châm đó, Cube System hàng năm đều tổ chức chương trình trao học bổng KSYS - CUBE SYSTEM cho các sinh viên của trường Đại học Bách Khoa TPHCM, nhằm khuyến khích, hỗ trợ phát triển các nhân tài."
