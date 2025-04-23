@@ -951,7 +951,7 @@
     "width": 512,
     "height": 107,
     "address": "The Manor Officetel, Nguyễn Hữu Cảnh, P.22, Quận Bình Thạnh, Thành phố Hồ Chí Minh",
-    "studentRegister": 29,
+    "studentRegister": 30,
     "studentAccepted": 0,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
@@ -1050,7 +1050,7 @@
     "width": 512,
     "height": 90,
     "address": "F04, Lô I-4A, Khu công nghệ cao TP. Hồ Chí Minh, phường Long Thạnh Mỹ, TP. Thủ Đức",
-    "studentRegister": 10,
+    "studentRegister": 11,
     "studentAccepted": 0,
     "maxRegister": 12,
     "maxAcceptedStudent": 4,
@@ -1325,35 +1325,7 @@
     "image": "/img/company/6800f34b502455a6d36068f8.png?t=92803628",
     "level": 1,
     "width": 512,
-    "height": 512,
-    "address": "60 Vũ Tông Phan, An Phú, Quận 2, TP.HCM",
-    "studentRegister": 0,
-    "studentAccepted": 1,
-    "maxRegister": 1,
-    "maxAcceptedStudent": 1,
-    "adminMaxRegister": 10,
-    "acceptedIntern": true,
-    "subscribeAcceptedEmail": false,
-    "active": true,
-    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p>",
-    "internshipFiles": [
-      {
-        "_id": "6801bd80502455a6d3606a55",
-        "name": "SS_SENSE_D2&3_TTNT_HK243.docx",
-        "path": "/company/6800f34b502455a6d36068f8SS_SENSE_D2&3_TTNT_HK243.docx"
-      },
-      {
-        "_id": "68020695502455a6d3606ad7",
-        "name": "SS_Sense_D2_TTNT_HK243.pdf",
-        "path": "/company/6800f34b502455a6d36068f8SS_Sense_D2_TTNT_HK243.pdf"
-      },
-      {
-        "_id": "6802069d502455a6d3606ad8",
-        "name": "SS_Sense_D3_TTNT_HK243.pdf",
-        "path": "/company/6800f34b502455a6d36068f8SS_Sense_D3_TTNT_HK243.pdf"
-      }
-    ],
-    "work": ""
+    "height": 512
   },
   "680265d6502455a6d3606b7b": {
     "id": "680265d6502455a6d3606b7b",
@@ -1363,25 +1335,7 @@
     "image": "/img/company/680265d6502455a6d3606b7b.png?t=87873532",
     "level": 1,
     "width": 512,
-    "height": 130,
-    "address": "Tầng 7, Số 33, Đường Lê Duẩn, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
-    "studentRegister": 3,
-    "studentAccepted": 0,
-    "maxRegister": 3,
-    "maxAcceptedStudent": 1,
-    "adminMaxRegister": 10,
-    "acceptedIntern": true,
-    "subscribeAcceptedEmail": false,
-    "active": true,
-    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p>",
-    "internshipFiles": [
-      {
-        "_id": "6805bfbe502455a6d3607142",
-        "name": "SM_Siemens_D2_TTNT_HK243.docx",
-        "path": "/company/680265d6502455a6d3606b7bSM_Siemens_D2_TTNT_HK243.docx"
-      }
-    ],
-    "work": ""
+    "height": 130
   },
   "680265d8502455a6d3606b7d": {
     "id": "680265d8502455a6d3606b7d",
@@ -1391,25 +1345,7 @@
     "image": "/img/company/680265d8502455a6d3606b7d.png?t=87780119",
     "level": 1,
     "width": 512,
-    "height": 158,
-    "address": "Số 6 Lê Lợi, P. Vĩnh Ninh, Q. Thuận Hóa, TP. Huế",
-    "studentRegister": 1,
-    "studentAccepted": 0,
-    "maxRegister": 1,
-    "maxAcceptedStudent": 1,
-    "adminMaxRegister": 10,
-    "acceptedIntern": true,
-    "subscribeAcceptedEmail": false,
-    "active": true,
-    "description": "<p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
-    "internshipFiles": [
-      {
-        "_id": "6805bf2a502455a6d360713e",
-        "name": "HueCIT_D2_TTNT_HK243.pdf",
-        "path": "/company/680265d8502455a6d3606b7dHueCIT_D2_TTNT_HK243.pdf"
-      }
-    ],
-    "work": ""
+    "height": 158
   },
   "6806576e502455a6d3607247": {
     "id": "6806576e502455a6d3607247",
@@ -1419,35 +1355,7 @@
     "image": "/img/company/6806576e502455a6d3607247.png?t=46128347",
     "level": 1,
     "width": 512,
-    "height": 115,
-    "address": "142/18 Cộng Hòa, P4, Tân Bình, TP.Hồ Chí Minh",
-    "studentRegister": 0,
-    "studentAccepted": 1,
-    "maxRegister": 1,
-    "maxAcceptedStudent": 1,
-    "adminMaxRegister": 10,
-    "acceptedIntern": true,
-    "subscribeAcceptedEmail": false,
-    "active": true,
-    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
-    "internshipFiles": [
-      {
-        "_id": "6806e88f502455a6d3607345",
-        "name": "DHL_D2&3_TTNT_HK243.docx",
-        "path": "/company/6806576e502455a6d3607247DHL_D2&3_TTNT_HK243.docx"
-      },
-      {
-        "_id": "68085ba6502455a6d36075cc",
-        "name": "DHL_D2&3_TTNT_HK243_Signed.pdf",
-        "path": "/company/6806576e502455a6d3607247DHL_D2&3_TTNT_HK243_Signed.pdf"
-      },
-      {
-        "_id": "68085bab502455a6d36075cd",
-        "name": "DHL_D3_TTNT_HK243_Signed.pdf",
-        "path": "/company/6806576e502455a6d3607247DHL_D3_TTNT_HK243_Signed.pdf"
-      }
-    ],
-    "work": ""
+    "height": 115
   },
   "6806576f502455a6d3607249": {
     "id": "6806576f502455a6d3607249",
@@ -1457,25 +1365,7 @@
     "image": "/img/company/6806576f502455a6d3607249.png?t=46320255",
     "level": 1,
     "width": 512,
-    "height": 261,
-    "address": "28 đường số 5, khu đô thị Him Lam, phường Tân Hưng, Quận 7, Thành phố Hồ Chí Minh",
-    "studentRegister": 1,
-    "studentAccepted": 0,
-    "maxRegister": 1,
-    "maxAcceptedStudent": 1,
-    "adminMaxRegister": 10,
-    "acceptedIntern": true,
-    "subscribeAcceptedEmail": false,
-    "active": true,
-    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
-    "internshipFiles": [
-      {
-        "_id": "6806e830502455a6d3607344",
-        "name": "SGM_SaigonMio_D2&3_TTNT_HK243.docx",
-        "path": "/company/6806576f502455a6d3607249SGM_SaigonMio_D2&3_TTNT_HK243.docx"
-      }
-    ],
-    "work": ""
+    "height": 261
   },
   "68084543502455a6d360759f": {
     "id": "68084543502455a6d360759f",
@@ -1485,25 +1375,7 @@
     "image": "/img/company/68084543502455a6d360759f.png?t=72679555",
     "level": 1,
     "width": 512,
-    "height": 512,
-    "address": "59 Đ. Lam Sơn, Phường 2, Quận Tân Bình, Hồ Chí Minh",
-    "studentRegister": 1,
-    "studentAccepted": 0,
-    "maxRegister": 1,
-    "maxAcceptedStudent": 1,
-    "adminMaxRegister": 10,
-    "acceptedIntern": true,
-    "subscribeAcceptedEmail": false,
-    "active": true,
-    "description": "<p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
-    "internshipFiles": [
-      {
-        "_id": "68085946502455a6d36075c6",
-        "name": "PAX_D2_TTNT_HK243.docx",
-        "path": "/company/68084543502455a6d360759fPAX_D2_TTNT_HK243.docx"
-      }
-    ],
-    "work": ""
+    "height": 512
   },
   "68084544502455a6d36075a1": {
     "id": "68084544502455a6d36075a1",
@@ -1513,29 +1385,6 @@
     "image": "/img/company/68084544502455a6d36075a1.png?t=72621937",
     "level": 1,
     "width": 512,
-    "height": 431,
-    "address": "146 đường Bình Lợi, phường 13, quận Bình Thạnh, Thành phố Hồ Chí Minh",
-    "studentRegister": 0,
-    "studentAccepted": 1,
-    "maxRegister": 1,
-    "maxAcceptedStudent": 1,
-    "adminMaxRegister": 10,
-    "acceptedIntern": true,
-    "subscribeAcceptedEmail": false,
-    "active": true,
-    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
-    "internshipFiles": [
-      {
-        "_id": "68085882502455a6d36075c3",
-        "name": "CJS_Cloudjet_Solutions_D2&3_TTNT_HK243.docx",
-        "path": "/company/68084544502455a6d36075a1CJS_Cloudjet_Solutions_D2&3_TTNT_HK243.docx"
-      },
-      {
-        "_id": "6808a71e502455a6d360764f",
-        "name": "CJS_D2&3_TTNT_HK243.pdf",
-        "path": "/company/68084544502455a6d36075a1CJS_D2&3_TTNT_HK243.pdf"
-      }
-    ],
-    "work": ""
+    "height": 431
   }
 }
