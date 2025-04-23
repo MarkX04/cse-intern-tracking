@@ -121,6 +121,34 @@
     ],
     "work": "Internet company"
   },
+  "5caef43e02c2e72195b4cedc": {
+    "id": "5caef43e02c2e72195b4cedc",
+    "shortname": "Fsoft - HCM",
+    "fullname": "FPT SOFTWARE HỒ CHÍ MINH",
+    "isSponsor": false,
+    "image": "/img/company/5caef43e02c2e72195b4cedc.png?t=26457886",
+    "level": 3,
+    "width": 512,
+    "height": 362,
+    "address": "Lô T2, Đường D1 Khu Công nghệ Cao, P. Tân Phú, TP. Thủ Đức",
+    "studentRegister": 31,
+    "studentAccepted": 0,
+    "maxRegister": 150,
+    "maxAcceptedStudent": 50,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "680859f0502455a6d36075c7",
+        "name": "Fsoft_HCM_D2_TTNT_HK243.docx",
+        "path": "/company/5caef43e02c2e72195b4cedcFsoft_HCM_D2_TTNT_HK243.docx"
+      }
+    ],
+    "work": "1. Automotive\nFor the last 10 years, FPT Software has been offering numerous solutions and services to top global OEMs and Tier 1 companies. As an active member of GENIVI Alliance, we leverage forefront innovations and provide engineering services to customers in multiple industry-specific projects, ranging from HMI, middleware to driver and hardware layers\n\n2. Banking & Finance (BFSI)\nLeveraging the top-notch technologies like Blockchain, AI, Big Data, Analystics, FPT offers business process optimization, productivity enhancement, fraud detection, etc, to customers in Banking & Finance.\n\n3. Media & Entertainment Services\nWe use Knowledge Graph Search to help optimize the end-users digital content searching.\nOur Content Streaming System has helped Fortune 500 satellite broadcasters step up their game and enhance both backend and headend solutions.\n\n4.Health Care\nA comprehensive software system trusted by 100+ Big hospitals and Clinics to manage all activities from the point of patient registration to discharge from the facility.\n\n5. Digital logistics\nOver the years, FPT has been trusted by numerous businesses in Logistics industries to develop cutting-edge technologies and solutions."
+  },
   "5caefe888075ba251930fdaf": {
     "id": "5caefe888075ba251930fdaf",
     "shortname": "CSE",
@@ -153,7 +181,7 @@
     "width": 512,
     "height": 112,
     "address": "53-55-57 Phó Đức Chính, P. Nguyễn Thái Bình, Q.1, TP.HCM",
-    "studentRegister": 60,
+    "studentRegister": 59,
     "studentAccepted": 0,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -299,7 +327,7 @@
     "fullname": "Công ty Cổ phần Bản Viên (Ban Vien Corporation) - BV",
     "isSponsor": true,
     "image": "/img/company/6078e9a9ee96ff021b97a21f.png?t=67177564",
-    "level": 3,
+    "level": 2.5,
     "width": 512,
     "height": 512,
     "address": "Ban Vien Tower, 54-56-58 Đường số 2, Khu phố 5, Khu nhà ở Vạn Phúc 1, Phường Hiệp Bình Phước, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam.",
@@ -458,7 +486,7 @@
     "width": 512,
     "height": 118,
     "address": "Tầng 6, Tòa nhà D.C., số 111D Lý Chính Thắng, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
-    "studentRegister": 6,
+    "studentRegister": 5,
     "studentAccepted": 0,
     "maxRegister": 6,
     "maxAcceptedStudent": 2,
@@ -585,7 +613,7 @@
     "width": 512,
     "height": 365,
     "address": "12 Đại lộ Khoa học, KV2, phường Ghềnh Ráng, TP. Quy Nhơn, tỉnh Bình Định",
-    "studentRegister": 38,
+    "studentRegister": 36,
     "studentAccepted": 10,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -768,7 +796,7 @@
     "width": 512,
     "height": 304,
     "address": "55-57 Bau Cat 4 St., Tan Binh Dist., Ho Chi Minh City, Vietnam",
-    "studentRegister": 10,
+    "studentRegister": 11,
     "studentAccepted": 0,
     "maxRegister": 15,
     "maxAcceptedStudent": 5,
@@ -797,7 +825,7 @@
     "fullname": "Công ty TNHH Phần mềm FPT Hồ Chí Minh - Tập đoàn FPT",
     "isSponsor": false,
     "image": "/img/company/6635aaa7a36c17e66bd076c5.png?t=93225384",
-    "level": 2,
+    "level": 1,
     "width": 512,
     "height": 364,
     "address": "Toà nhà F-town 3, số 3 đường Võ Chí Công, phường Long Thạnh Mỹ, thành phố Thủ Đức, Tp. HCM",
@@ -857,7 +885,7 @@
     "width": 512,
     "height": 512,
     "address": "103/23 Nguyễn Hữu Dật, Phường Tây Thạnh, Quận Tân Phú, Thành phố Hồ Chí Minh",
-    "studentRegister": 3,
+    "studentRegister": 2,
     "studentAccepted": 0,
     "maxRegister": 3,
     "maxAcceptedStudent": 1,
@@ -1388,7 +1416,7 @@
     "width": 512,
     "height": 115,
     "address": "142/18 Cộng Hòa, P4, Tân Bình, TP.Hồ Chí Minh",
-    "studentRegister": 1,
+    "studentRegister": 0,
     "studentAccepted": 0,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
@@ -1402,6 +1430,16 @@
         "_id": "6806e88f502455a6d3607345",
         "name": "DHL_D2&3_TTNT_HK243.docx",
         "path": "/company/6806576e502455a6d3607247DHL_D2&3_TTNT_HK243.docx"
+      },
+      {
+        "_id": "68085ba6502455a6d36075cc",
+        "name": "DHL_D2&3_TTNT_HK243_Signed.pdf",
+        "path": "/company/6806576e502455a6d3607247DHL_D2&3_TTNT_HK243_Signed.pdf"
+      },
+      {
+        "_id": "68085bab502455a6d36075cd",
+        "name": "DHL_D3_TTNT_HK243_Signed.pdf",
+        "path": "/company/6806576e502455a6d3607247DHL_D3_TTNT_HK243_Signed.pdf"
       }
     ],
     "work": ""
@@ -1430,6 +1468,62 @@
         "_id": "6806e830502455a6d3607344",
         "name": "SGM_SaigonMio_D2&3_TTNT_HK243.docx",
         "path": "/company/6806576f502455a6d3607249SGM_SaigonMio_D2&3_TTNT_HK243.docx"
+      }
+    ],
+    "work": ""
+  },
+  "68084543502455a6d360759f": {
+    "id": "68084543502455a6d360759f",
+    "shortname": "PAX",
+    "fullname": "CÔNG TY TNHH CÔNG NGHỆ PAX VIỆT NAM",
+    "isSponsor": false,
+    "image": "/img/company/68084543502455a6d360759f.png?t=72679555",
+    "level": 1,
+    "width": 512,
+    "height": 512,
+    "address": "59 Đ. Lam Sơn, Phường 2, Quận Tân Bình, Hồ Chí Minh",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "68085946502455a6d36075c6",
+        "name": "PAX_D2_TTNT_HK243.docx",
+        "path": "/company/68084543502455a6d360759fPAX_D2_TTNT_HK243.docx"
+      }
+    ],
+    "work": ""
+  },
+  "68084544502455a6d36075a1": {
+    "id": "68084544502455a6d36075a1",
+    "shortname": "CJS - Cloudjet Solutions",
+    "fullname": "Công ty TNHH Cloudjet Solutions",
+    "isSponsor": false,
+    "image": "/img/company/68084544502455a6d36075a1.png?t=72621937",
+    "level": 1,
+    "width": 512,
+    "height": 431,
+    "address": "146 đường Bình Lợi, phường 13, quận Bình Thạnh, Thành phố Hồ Chí Minh",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "68085882502455a6d36075c3",
+        "name": "CJS_Cloudjet_Solutions_D2&3_TTNT_HK243.docx",
+        "path": "/company/68084544502455a6d36075a1CJS_Cloudjet_Solutions_D2&3_TTNT_HK243.docx"
       }
     ],
     "work": ""
