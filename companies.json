@@ -131,7 +131,7 @@
     "width": 512,
     "height": 362,
     "address": "Lô T2, Đường D1 Khu Công nghệ Cao, P. Tân Phú, TP. Thủ Đức",
-    "studentRegister": 31,
+    "studentRegister": 39,
     "studentAccepted": 0,
     "maxRegister": 150,
     "maxAcceptedStudent": 50,
@@ -331,7 +331,7 @@
     "width": 512,
     "height": 512,
     "address": "Ban Vien Tower, 54-56-58 Đường số 2, Khu phố 5, Khu nhà ở Vạn Phúc 1, Phường Hiệp Bình Phước, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam.",
-    "studentRegister": 21,
+    "studentRegister": 20,
     "studentAccepted": 0,
     "maxRegister": 21,
     "maxAcceptedStudent": 7,
@@ -392,7 +392,7 @@
     "width": 512,
     "height": 512,
     "address": "Tầng 19, Toà nhà AP Tower, 518B Điện Biên Phủ, Phường 19, Quận Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
-    "studentRegister": 15,
+    "studentRegister": 14,
     "studentAccepted": 1,
     "maxRegister": 15,
     "maxAcceptedStudent": 5,
@@ -486,7 +486,7 @@
     "width": 512,
     "height": 118,
     "address": "Tầng 6, Tòa nhà D.C., số 111D Lý Chính Thắng, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
-    "studentRegister": 5,
+    "studentRegister": 6,
     "studentAccepted": 0,
     "maxRegister": 6,
     "maxAcceptedStudent": 2,
@@ -796,7 +796,7 @@
     "width": 512,
     "height": 304,
     "address": "55-57 Bau Cat 4 St., Tan Binh Dist., Ho Chi Minh City, Vietnam",
-    "studentRegister": 11,
+    "studentRegister": 9,
     "studentAccepted": 0,
     "maxRegister": 15,
     "maxAcceptedStudent": 5,
@@ -1209,6 +1209,11 @@
         "_id": "67f867c1502455a6d3605a30",
         "name": "Dayone_D2_TTNT_HK243.docx",
         "path": "/company/67f7ad2d502455a6d36058f0Dayone_D2_TTNT_HK243.docx"
+      },
+      {
+        "_id": "68086340502455a6d36075da",
+        "name": "DO_DAYONE_D2_TTNT_HK243.pdf",
+        "path": "/company/67f7ad2d502455a6d36058f0DO_DAYONE_D2_TTNT_HK243.pdf"
       }
     ],
     "work": ""
