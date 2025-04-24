@@ -9,7 +9,7 @@
     "width": 512,
     "height": 512,
     "address": "766/3G đường Sư Vạn Hạnh, phường 12, quận 10, TPHCM",
-    "studentRegister": 29,
+    "studentRegister": 30,
     "studentAccepted": 4,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
@@ -125,7 +125,7 @@
     "id": "5caef43e02c2e72195b4cedc",
     "shortname": "Fsoft - HCM",
     "fullname": "Công ty TNHH Phần Mềm FPT Hồ Chí Minh",
-    "isSponsor": false,
+    "isSponsor": true,
     "image": "/img/company/5caef43e02c2e72195b4cedc.png?t=88168384",
     "level": 3,
     "width": 512,
@@ -1627,7 +1627,7 @@
     "acceptedIntern": true,
     "subscribeAcceptedEmail": false,
     "active": true,
-    "description": "<p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p>",
+    "description": "<p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
     "internshipFiles": [
       {
         "_id": "6809df1b3890995d799d89ce",
