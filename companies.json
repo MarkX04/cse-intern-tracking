@@ -65,7 +65,7 @@
     "width": 512,
     "height": 512,
     "address": "TT16B Tam Đảo, P.15, Q.10, TP.HCM",
-    "studentRegister": 9,
+    "studentRegister": 8,
     "studentAccepted": 1,
     "maxRegister": 9,
     "maxAcceptedStudent": 3,
@@ -209,8 +209,8 @@
     "width": 512,
     "height": 138,
     "address": "294 - 296 Trường Sa, Phường 2, Phú Nhuận, TP. HCM",
-    "studentRegister": 1,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 1,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
     "adminMaxRegister": 10,
@@ -223,6 +223,11 @@
         "_id": "6805c022502455a6d3607143",
         "name": "Kyanon_D2&3_TTNT_HK243.docx",
         "path": "/company/5cbe7f36a03f03365f3adca4Kyanon_D2&3_TTNT_HK243.docx"
+      },
+      {
+        "_id": "6809a7273890995d799d8969",
+        "name": "Kyanon_D2&3_TTNT_HK243.pdf",
+        "path": "/company/5cbe7f36a03f03365f3adca4Kyanon_D2&3_TTNT_HK243.pdf"
       }
     ],
     "work": "Digital Consulting - Digital innovation - Digital Venture"
