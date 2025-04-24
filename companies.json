@@ -1542,5 +1542,33 @@
       }
     ],
     "work": ""
+  },
+  "6808f1133890995d799d882b": {
+    "id": "6808f1133890995d799d882b",
+    "shortname": "InnEdu",
+    "fullname": "Công ty TNHH Tư vấn và Phát triển Giáo dục INNEDU",
+    "isSponsor": false,
+    "image": "/img/company/6808f1133890995d799d882b.png?t=16700087",
+    "level": 1,
+    "width": 512,
+    "height": 236,
+    "address": "26 đường 37, KDC Tân Quy Đông, P. Tân Phong, Q.7, TP.HCM",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "6809ddc23890995d799d89c7",
+        "name": "InnEdu_D2_TTNT_HK243_HuyPT.pdf",
+        "path": "/company/6808f1133890995d799d882bInnEdu_D2_TTNT_HK243_HuyPT.pdf"
+      }
+    ],
+    "work": ""
   }
 }
