@@ -331,7 +331,7 @@
     "width": 512,
     "height": 116,
     "address": "Tầng 4, Tòa nhà văn phòng ICT2, CVPM Quang Trung, Phường Tân Chánh Hiệp, Quận 12, Tp.HCM",
-    "studentRegister": 21,
+    "studentRegister": 20,
     "studentAccepted": 0,
     "maxRegister": 21,
     "maxAcceptedStudent": 7,
@@ -606,7 +606,30 @@
     "image": "/img/company/64545ff2e7ad7cc2b7233c34.png?t=03034040",
     "level": 1,
     "width": 512,
-    "height": 515
+    "height": 515,
+    "address": "B10 Nội khu Nam Thông 2A, P.Tân Phú, Q.7, Tp.HCM",
+    "studentRegister": 12,
+    "studentAccepted": 0,
+    "maxRegister": 12,
+    "maxAcceptedStudent": 4,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "67ec9b72502455a6d36045b9",
+        "name": "TechLab_D2_TTNT_HK243.docx",
+        "path": "/company/64545ff2e7ad7cc2b7233c34TechLab_D2_TTNT_HK243.docx"
+      },
+      {
+        "_id": "67ec9fb9502455a6d36045c2",
+        "name": "TechLab_D2_TTNT_HK243.pdf",
+        "path": "/company/64545ff2e7ad7cc2b7233c34TechLab_D2_TTNT_HK243.pdf"
+      }
+    ],
+    "work": "<p>Techlab chuyên cung cấp các dịch vụ Tư vấn An toàn bảo mật thông tin với các văn phòng hoạt động hiện ở Việt Nam, Singapore và Campuchia. Đội ngũ chuyên gia tư vấn của chúng tôi với kinh nghiệm dày dạn tư vấn cho các khách hàng địa phương và quốc tế luôn luôn sẵn sàng hỗ trợ và đáp ứng các nhu cầu doanh nghiệp của bạn với dịch vụ chất lượng quốc tế. Chúng tôi cung cấp các dịch vụ tư vấn về An toàn bảo mật thông tin như:<br>&nbsp;• Dịch vụ Rà soát đánh giá kỹ thuật an toàn bảo mật&nbsp;</p><p>• Dịch vụ Đánh giá tổng thể an toàn thông tin&nbsp;</p><p>• Dịch vụ Tư vấn an toàn và bảo vệ dữ liệu&nbsp;</p><p>• Dịch vụ Tư vấn hoạt động an toàn thông tin&nbsp;</p><p>• Dịch vụ Đào tạo và nhận thức an toàn thông tin – E-learning</p><h4><span style=\"color:hsl(0, 75%, 60%);\"><strong>Sinh viên ứng tuyển vui lòng gửi đầy đủ CV &amp; bảng điểm về email: recruitment@techlabcorp.com</strong></span></h4>"
   },
   "646c2701e7ad7cc2b723655a": {
     "id": "646c2701e7ad7cc2b723655a",
@@ -616,7 +639,30 @@
     "image": "/img/company/646c2701e7ad7cc2b723655a.png?t=24853563",
     "level": 1,
     "width": 512,
-    "height": 512
+    "height": 512,
+    "address": "Số 2 Nguyễn Huy Lượng, Phường 14, quận Bình Thạnh, TPHCM",
+    "studentRegister": 3,
+    "studentAccepted": 0,
+    "maxRegister": 3,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "67ff1363502455a6d36065b4",
+        "name": "M2_D2_TTNT_HK243.pdf",
+        "path": "/company/646c2701e7ad7cc2b723655aM2_D2_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "68078ae6502455a6d360745f",
+        "name": "M2_D2_TTNT_HK243_Signed.pdf",
+        "path": "/company/646c2701e7ad7cc2b723655aM2_D2_TTNT_HK243_Signed.pdf"
+      }
+    ],
+    "work": "Công ty TNHH M2 VIETNAM"
   },
   "64780f59e7ad7cc2b72379f6": {
     "id": "64780f59e7ad7cc2b72379f6",
@@ -626,7 +672,30 @@
     "image": "/img/company/64780f59e7ad7cc2b72379f6.png?t=89948786",
     "level": 1,
     "width": 512,
-    "height": 365
+    "height": 365,
+    "address": "12 Đại lộ Khoa học, KV2, phường Ghềnh Ráng, TP. Quy Nhơn, tỉnh Bình Định",
+    "studentRegister": 39,
+    "studentAccepted": 10,
+    "maxRegister": 60,
+    "maxAcceptedStudent": 20,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p>",
+    "internshipFiles": [
+      {
+        "_id": "67f3533b502455a6d360515a",
+        "name": "TMA_BD_D2_TTNT_HK243.docx",
+        "path": "/company/64780f59e7ad7cc2b72379f6TMA_BD_D2_TTNT_HK243.docx"
+      },
+      {
+        "_id": "67f4ee1b502455a6d3605423",
+        "name": "TMA_BD_D2_TTNT_HK243.pdf",
+        "path": "/company/64780f59e7ad7cc2b72379f6TMA_BD_D2_TTNT_HK243.pdf"
+      }
+    ],
+    "work": "<p><span style=\"color:#1F4E79;\">Dear&nbsp;Intern,</span></p><p><span style=\"color:#1F4E79;\">Please apply via this&nbsp;</span><a href=\"https://docs.google.com/forms/d/1BOiNXiYBYHaQzcajZn66Ed-hT8QIBS2hfUmBTcLp4N8/edit\"><span style=\"color:#1F4E79;\">link</span></a><span style=\"color:#1F4E79;\"> so we can arrange&nbsp;for you to join the Internship Batch 19.</span></p>"
   },
   "648fbcece6dfc5e17fdb5c45": {
     "id": "648fbcece6dfc5e17fdb5c45",
@@ -636,7 +705,25 @@
     "image": "/img/company/648fbcece6dfc5e17fdb5c45.png?t=48488839",
     "level": 1,
     "width": 512,
-    "height": 512
+    "height": 512,
+    "address": "Phòng B.207, số 33 Lương Minh Nguyệt, phường Tân Thới Hoà, quận Tân Phú, Thành phố Hồ Chí Minh",
+    "studentRegister": 1,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "6805beb1502455a6d360713d",
+        "name": "CNNT.BK_D2&3_TTNT_HK243.pdf",
+        "path": "/company/648fbcece6dfc5e17fdb5c45CNNT.BK_D2&3_TTNT_HK243.pdf"
+      }
+    ],
+    "work": "Công ty TNHH Công nghệ Nền tảng BK"
   },
   "660b6523d3e9eccc8c61e56a": {
     "id": "660b6523d3e9eccc8c61e56a",
