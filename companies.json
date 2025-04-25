@@ -247,7 +247,7 @@
     "width": 512,
     "height": 138,
     "address": "294 - 296 Trường Sa, Phường 2, Phú Nhuận, TP. HCM",
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 1,
     "maxRegister": 2,
     "maxAcceptedStudent": 2,
