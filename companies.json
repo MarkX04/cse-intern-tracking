@@ -65,7 +65,7 @@
     "width": 512,
     "height": 512,
     "address": "TT16B Tam Đảo, P.15, Q.10, TP.HCM",
-    "studentRegister": 8,
+    "studentRegister": 9,
     "studentAccepted": 1,
     "maxRegister": 9,
     "maxAcceptedStudent": 3,
@@ -164,7 +164,7 @@
     "width": 512,
     "height": 122,
     "address": "Tầng 4, tòa nhà Huy Sơn, số 7 - 9 - 11 đường Mai Thị Lựu, phường Đa Kao, quận 1, thành phố Hồ Chí Minh, Việt Nam",
-    "studentRegister": 7,
+    "studentRegister": 9,
     "studentAccepted": 0,
     "maxRegister": 9,
     "maxAcceptedStudent": 3,
@@ -956,7 +956,7 @@
     "width": 512,
     "height": 512,
     "address": "103/23 Nguyễn Hữu Dật, Phường Tây Thạnh, Quận Tân Phú, Thành phố Hồ Chí Minh",
-    "studentRegister": 3,
+    "studentRegister": 2,
     "studentAccepted": 0,
     "maxRegister": 3,
     "maxAcceptedStudent": 1,
@@ -978,6 +978,34 @@
       }
     ],
     "work": "<p>-&nbsp;C&ocirc;ng ty Cổ Phần KHKT Phượng Hải được th&agrave;nh lập năm 2004, với gần 20 năm kinh nghiệm trở th&agrave;nh chuy&ecirc;n gia trong 2 lĩnh vực ch&iacute;nh:</p>\n\n<p>&nbsp; &nbsp; +&nbsp;Sản xuất Nội Thất v&agrave; Thiết Bị Ph&ograve;ng Th&iacute; Nghiệm - Thương hiệu BestLab&reg;</p>\n\n<p>&nbsp; &nbsp; +&nbsp;Sản xuất Thiết Bị Quan Trắc M&ocirc;i Trường - Thương hiệu SmartpH&reg;</p>\n\n<p>-&nbsp;L&agrave; một doanh nghiệp Khoa Học C&ocirc;ng Nghệ, Phượng Hải JSC đ&atilde; x&aacute;c định cho m&igrave;nh một sứ mệnh, phải tự chủ được c&aacute;c c&ocirc;ng nghệ cao trong ng&agrave;nh ph&acirc;n t&iacute;ch đo lường, để trở th&agrave;nh &ldquo;Biểu tượng Đo lường ở Đ&ocirc;ng Nam &Aacute;&rdquo; v&agrave;o một ng&agrave;y kh&ocirc;ng xa.</p>\n\n<p>-&nbsp;C&ugrave;ng với việc đầu tư nghi&ecirc;m t&uacute;c v&agrave;o nghi&ecirc;n cứu &amp; ph&aacute;t triển c&aacute;c sản phẩm (R&amp;D), Ph&ograve;ng R&amp;D được đầu tư m&aacute;y m&oacute;c thiết bị hiện đại c&ugrave;ng với đội ngũ kỹ sư chuy&ecirc;n m&ocirc;n cao, được xem l&agrave; bộ n&atilde;o của c&ocirc;ng ty. Từ đ&oacute; ph&aacute;t triển những c&ocirc;ng nghệ cao v&agrave; v&agrave;o một ng&agrave;y kh&ocirc;ng xa, chất lượng &ldquo;Made in Vietnam&rdquo; sẽ được đ&oacute;n nhận tr&ecirc;n to&agrave;n thế giới.</p>\n"
+  },
+  "666b97def5911d0a68b8109e": {
+    "id": "666b97def5911d0a68b8109e",
+    "shortname": "DDX - DĐX - DI ĐỘNG XANH - TANCA",
+    "fullname": "CÔNG TY CP ỨNG DỤNG DI ĐỘNG XANH",
+    "isSponsor": false,
+    "image": "/img/company/666b97def5911d0a68b8109e.png?t=28720439",
+    "level": 1,
+    "width": 512,
+    "height": 227,
+    "address": "4th Floor - 259 Lê Quang Định, Phường 7, Bình Thạnh, TP Hồ Chí Minh",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p><p><span style=\"color:#c0392b;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, email cho DN nữa.</strong></span></p><p><span style=\"color:#c0392b;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập, SV bấm đăng ký, DN bấm accept thỉ kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "680ae6223890995d799d8b9e",
+        "name": "Tanca_D2&3_TTNT_HK243.docx",
+        "path": "/company/666b97def5911d0a68b8109eTanca_D2&3_TTNT_HK243.docx"
+      }
+    ],
+    "work": ""
   },
   "6676c4f128ce7ef5bfd64d02": {
     "id": "6676c4f128ce7ef5bfd64d02",
@@ -1436,7 +1464,7 @@
     "width": 512,
     "height": 130,
     "address": "Tầng 7, Số 33, Đường Lê Duẩn, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
-    "studentRegister": 3,
+    "studentRegister": 2,
     "studentAccepted": 0,
     "maxRegister": 3,
     "maxAcceptedStudent": 1,
@@ -1609,6 +1637,34 @@
     ],
     "work": ""
   },
+  "6808f1113890995d799d8827": {
+    "id": "6808f1113890995d799d8827",
+    "shortname": "Ologn",
+    "fullname": "Công ty TNHH TMDV ORCO – O(log n)",
+    "isSponsor": false,
+    "image": "/img/company/6808f1113890995d799d8827.png?t=16777000",
+    "level": 1,
+    "width": 512,
+    "height": 143,
+    "address": "Văn phòng Coworking Mindx, Lầu 2, Số 2 Song Hành, Phường An Phú, Quận 2, TP.HCM",
+    "studentRegister": 1,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "680ae52c3890995d799d8b99",
+        "name": "OLogn_D2_TTNT_HK243.docx",
+        "path": "/company/6808f1113890995d799d8827OLogn_D2_TTNT_HK243.docx"
+      }
+    ],
+    "work": ""
+  },
   "6808f1123890995d799d8829": {
     "id": "6808f1123890995d799d8829",
     "shortname": "HDBank",
@@ -1661,6 +1717,118 @@
         "_id": "6809ddc23890995d799d89c7",
         "name": "InnEdu_D2_TTNT_HK243_HuyPT.pdf",
         "path": "/company/6808f1133890995d799d882bInnEdu_D2_TTNT_HK243_HuyPT.pdf"
+      }
+    ],
+    "work": ""
+  },
+  "680a24ed3890995d799d8a48": {
+    "id": "680a24ed3890995d799d8a48",
+    "shortname": "Fsoft - NT (Nha Trang)",
+    "fullname": "Chi nhánh Công ty TNHH Phần mềm FPT Hồ Chí Minh tại Nha Trang, Tập đoàn FPT",
+    "isSponsor": false,
+    "image": "/img/company/680a24ed3890995d799d8a48.png?t=95622921",
+    "level": 1,
+    "width": 512,
+    "height": 512,
+    "address": "Tầng 6 Tòa nhà VCN Tower, số 2 Đường Tố Hữu, Phường Phước Hải, Thành  phố Nha Trang, Tỉnh Khánh Hòa",
+    "studentRegister": 2,
+    "studentAccepted": 0,
+    "maxRegister": 60,
+    "maxAcceptedStudent": 20,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p>",
+    "internshipFiles": [
+      {
+        "_id": "680ae6d13890995d799d8ba2",
+        "name": "Fsoft_NT_D2_TTNT_HK243.docx",
+        "path": "/company/680a24ed3890995d799d8a48Fsoft_NT_D2_TTNT_HK243.docx"
+      }
+    ],
+    "work": ""
+  },
+  "680a24ee3890995d799d8a4a": {
+    "id": "680a24ee3890995d799d8a4a",
+    "shortname": "Nixxis",
+    "fullname": "CÔNG TY CỔ PHẦN NIXXIS VIETNAM",
+    "isSponsor": false,
+    "image": "/img/company/680a24ee3890995d799d8a4a.png?t=95549163",
+    "level": 1,
+    "width": 512,
+    "height": 87,
+    "address": "138/30 Trương Công Định, Phường 14, Quận Tân Bình, TP. Hồ Chí Minh",
+    "studentRegister": 6,
+    "studentAccepted": 0,
+    "maxRegister": 6,
+    "maxAcceptedStudent": 2,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p>",
+    "internshipFiles": [
+      {
+        "_id": "680ae6733890995d799d8b9f",
+        "name": "Nixxis_D2_TTNT_HK243.docx",
+        "path": "/company/680a24ee3890995d799d8a4aNixxis_D2_TTNT_HK243.docx"
+      }
+    ],
+    "work": ""
+  },
+  "680a24ef3890995d799d8a4c": {
+    "id": "680a24ef3890995d799d8a4c",
+    "shortname": "IVT - Invitech",
+    "fullname": "CÔNG TY TNHH TẦM NHÌN SÁNG TẠO CÔNG NGHỆ",
+    "isSponsor": false,
+    "image": "/img/company/680a24ef3890995d799d8a4c.png?t=95476505",
+    "level": 1,
+    "width": 512,
+    "height": 140,
+    "address": "290/30/16 Nơ Trang Long, Phường 12, Quận Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "680ae5cb3890995d799d8b9d",
+        "name": "IVT_Invitech_D2_TTNT_HK243.docx",
+        "path": "/company/680a24ef3890995d799d8a4cIVT_Invitech_D2_TTNT_HK243.docx"
+      }
+    ],
+    "work": ""
+  },
+  "680a24f03890995d799d8a4e": {
+    "id": "680a24f03890995d799d8a4e",
+    "shortname": "GOSU",
+    "fullname": "VĂN PHÒNG ĐẠI DIỆN CÔNG TY CỔ PHẦN TRỰC TUYẾN GOSU",
+    "isSponsor": false,
+    "image": "/img/company/680a24f03890995d799d8a4e.png?t=95396974",
+    "level": 1,
+    "width": 512,
+    "height": 119,
+    "address": "Số 10 Phổ Quang, Phường 2, Tân Bình, TP. Hồ Chí Minh",
+    "studentRegister": 8,
+    "studentAccepted": 0,
+    "maxRegister": 18,
+    "maxAcceptedStudent": 6,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p>",
+    "internshipFiles": [
+      {
+        "_id": "680ae57c3890995d799d8b9a",
+        "name": "GOSU_D2_TTNT_HK243.docx",
+        "path": "/company/680a24f03890995d799d8a4eGOSU_D2_TTNT_HK243.docx"
       }
     ],
     "work": ""
