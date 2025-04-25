@@ -1568,8 +1568,8 @@
     "width": 512,
     "height": 261,
     "address": "28 đường số 5, khu đô thị Him Lam, phường Tân Hưng, Quận 7, Thành phố Hồ Chí Minh",
-    "studentRegister": 1,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 1,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
     "adminMaxRegister": 10,
@@ -1582,6 +1582,16 @@
         "_id": "6806e830502455a6d3607344",
         "name": "SGM_SaigonMio_D2&3_TTNT_HK243.docx",
         "path": "/company/6806576f502455a6d3607249SGM_SaigonMio_D2&3_TTNT_HK243.docx"
+      },
+      {
+        "_id": "680b4cbe3890995d799d8c5a",
+        "name": "SGM_D2&3_TTNT_HK243.pdf",
+        "path": "/company/6806576f502455a6d3607249SGM_D2&3_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "680b4cc33890995d799d8c5b",
+        "name": "SGM_D3_TTNT_HK243.pdf",
+        "path": "/company/6806576f502455a6d3607249SGM_D3_TTNT_HK243.pdf"
       }
     ],
     "work": ""
@@ -1671,6 +1681,11 @@
         "_id": "680ae52c3890995d799d8b99",
         "name": "OLogn_D2_TTNT_HK243.docx",
         "path": "/company/6808f1113890995d799d8827OLogn_D2_TTNT_HK243.docx"
+      },
+      {
+        "_id": "680b4b893890995d799d8c54",
+        "name": "Ologn_D2&3_TTNT_HK243.pdf",
+        "path": "/company/6808f1113890995d799d8827Ologn_D2&3_TTNT_HK243.pdf"
       }
     ],
     "work": ""
