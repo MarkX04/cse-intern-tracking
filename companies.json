@@ -164,7 +164,7 @@
     "width": 512,
     "height": 122,
     "address": "Tầng 4, tòa nhà Huy Sơn, số 7 - 9 - 11 đường Mai Thị Lựu, phường Đa Kao, quận 1, thành phố Hồ Chí Minh, Việt Nam",
-    "studentRegister": 8,
+    "studentRegister": 9,
     "studentAccepted": 0,
     "maxRegister": 9,
     "maxAcceptedStudent": 3,
@@ -1780,9 +1780,14 @@
     "description": "<p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p>",
     "internshipFiles": [
       {
-        "_id": "680ae6733890995d799d8b9f",
-        "name": "Nixxis_D2_TTNT_HK243.docx",
-        "path": "/company/680a24ee3890995d799d8a4aNixxis_D2_TTNT_HK243.docx"
+        "_id": "680b498d3890995d799d8c50",
+        "name": "Nixxis_D2_TTNT_HK243_V2.docx",
+        "path": "/company/680a24ee3890995d799d8a4aNixxis_D2_TTNT_HK243_V2.docx"
+      },
+      {
+        "_id": "680b49943890995d799d8c51",
+        "name": "Nixxis_D2_TTNT_HK243_V2.pdf",
+        "path": "/company/680a24ee3890995d799d8a4aNixxis_D2_TTNT_HK243_V2.pdf"
       }
     ],
     "work": ""
