@@ -249,8 +249,8 @@
     "address": "294 - 296 Trường Sa, Phường 2, Phú Nhuận, TP. HCM",
     "studentRegister": 0,
     "studentAccepted": 1,
-    "maxRegister": 1,
-    "maxAcceptedStudent": 1,
+    "maxRegister": 2,
+    "maxAcceptedStudent": 2,
     "adminMaxRegister": 10,
     "acceptedIntern": true,
     "subscribeAcceptedEmail": false,
@@ -266,6 +266,11 @@
         "_id": "6809a7273890995d799d8969",
         "name": "Kyanon_D2&3_TTNT_HK243.pdf",
         "path": "/company/5cbe7f36a03f03365f3adca4Kyanon_D2&3_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "680b3b8f3890995d799d8c34",
+        "name": "Kyanon_D2&3_TTNT_HK243_02SV.docx",
+        "path": "/company/5cbe7f36a03f03365f3adca4Kyanon_D2&3_TTNT_HK243_02SV.docx"
       }
     ],
     "work": "Digital Consulting - Digital innovation - Digital Venture"
