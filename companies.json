@@ -694,7 +694,7 @@
     "width": 512,
     "height": 365,
     "address": "12 Đại lộ Khoa học, KV2, phường Ghềnh Ráng, TP. Quy Nhơn, tỉnh Bình Định",
-    "studentRegister": 37,
+    "studentRegister": 36,
     "studentAccepted": 10,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -1741,7 +1741,7 @@
     "width": 512,
     "height": 512,
     "address": "Tầng 6 Tòa nhà VCN Tower, số 2 Đường Tố Hữu, Phường Phước Hải, Thành  phố Nha Trang, Tỉnh Khánh Hòa",
-    "studentRegister": 5,
+    "studentRegister": 6,
     "studentAccepted": 0,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -1839,6 +1839,11 @@
         "_id": "680ae57c3890995d799d8b9a",
         "name": "GOSU_D2_TTNT_HK243.docx",
         "path": "/company/680a24f03890995d799d8a4eGOSU_D2_TTNT_HK243.docx"
+      },
+      {
+        "_id": "680b3e643890995d799d8c39",
+        "name": "GOSU_D2_TTNT_HK243.pdf",
+        "path": "/company/680a24f03890995d799d8a4eGOSU_D2_TTNT_HK243.pdf"
       }
     ],
     "work": ""
