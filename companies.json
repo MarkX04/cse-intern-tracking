@@ -219,7 +219,7 @@
     "width": 512,
     "height": 512,
     "address": "Tầng 3B, Tòa nhà Scetpa, 19A Cộng Hòa, Tân Bình, HCM",
-    "studentRegister": 1,
+    "studentRegister": 3,
     "studentAccepted": 0,
     "maxRegister": 15,
     "maxAcceptedStudent": 5,
@@ -341,7 +341,7 @@
     "width": 512,
     "height": 195,
     "address": "Lầu 5, Block A, Tòa nhà Waseco, số 10 Phổ Quang, phường 2, Q. Tân Bình, TP.HCM",
-    "studentRegister": 4,
+    "studentRegister": 3,
     "studentAccepted": 0,
     "maxRegister": 15,
     "maxAcceptedStudent": 5,
@@ -811,7 +811,7 @@
     "width": 512,
     "height": 95,
     "address": "Phòng 505-506, Tầng 5, tòa nhà COBI Tower 1, số 5 Hoàng Văn Thái, phường Tân Phú, Quận 7, Thành phố Hồ Chí Minh",
-    "studentRegister": 12,
+    "studentRegister": 10,
     "studentAccepted": 1,
     "maxRegister": 12,
     "maxAcceptedStudent": 4,
@@ -1925,6 +1925,34 @@
         "_id": "680b3e643890995d799d8c39",
         "name": "GOSU_D2_TTNT_HK243.pdf",
         "path": "/company/680a24f03890995d799d8a4eGOSU_D2_TTNT_HK243.pdf"
+      }
+    ],
+    "work": ""
+  },
+  "680b75ef3890995d799d8ca2": {
+    "id": "680b75ef3890995d799d8ca2",
+    "shortname": "GOS - Golden Owl Solutions",
+    "fullname": "CÔNG TY CỔ PHẦN GOLDEN OWL SOLUTIONS",
+    "isSponsor": false,
+    "image": "/img/company/680b75ef3890995d799d8ca2.png?t=81903830",
+    "level": 1,
+    "width": 512,
+    "height": 374,
+    "address": "VP1: 31-33 Đ. Nguyễn Văn Đậu, Phường 6, Quận Bình Thạnh, Thành phố Hồ Chí Minh; VP2: C0013, Sarina Apt, 62 Hoàng Thế Thiện, An Lợi Đông, Thủ Đức, Thành phố Hồ Chí Minh",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 12,
+    "maxAcceptedStudent": 4,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p>",
+    "internshipFiles": [
+      {
+        "_id": "680c8b763890995d799d8e84",
+        "name": "GOS_D2_TTNT_HK243.docx",
+        "path": "/company/680b75ef3890995d799d8ca2GOS_D2_TTNT_HK243.docx"
       }
     ],
     "work": ""
