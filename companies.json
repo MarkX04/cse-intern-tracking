@@ -9,7 +9,7 @@
     "width": 512,
     "height": 512,
     "address": "766/3G đường Sư Vạn Hạnh, phường 12, quận 10, TPHCM",
-    "studentRegister": 30,
+    "studentRegister": 28,
     "studentAccepted": 4,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
@@ -209,6 +209,34 @@
     "internshipFiles": [],
     "work": "<p><span style=\"color:#2980b9;\"><strong>Kính chào Quý Doanh nghiệp (DN),</strong></span></p><p><span style=\"color:#2980b9;\"><strong>Khoa Khoa học và Kỹ thuật Máy tính - Trường Đại học Bách Khoa - ĐHQG TPHCM (CSE), sau đây được gọi là \"Khoa\" xin thông tin triển khai một số chương trình gửi sinh viên (SV) đi thực tập như sau:</strong></span></p><p><span style=\"color:#c0392b;\"><strong>1 - Thực tập ngoài Trường (TTNT) đúng tuyến tại 03 học kỳ (HK) trong năm học</strong></span><span style=\"color:#2980b9;\"><strong>, mốc thời gian thực hiện như sau:</strong></span></p><p><span style=\"color:#2980b9;\"><strong>- Học kỳ 1: tháng 09-&gt;12 (</strong></span><span style=\"color:#c0392b;\"><strong>công tác chuẩn bị từ tháng 08</strong></span><span style=\"color:#2980b9;\"><strong>).</strong></span></p><p><span style=\"color:#2980b9;\"><strong>- Học kỳ 2: tháng 02-&gt;05 (</strong></span><span style=\"color:#c0392b;\"><strong>công tác chuẩn bị từ tháng 12</strong></span><span style=\"color:#2980b9;\"><strong>).</strong></span></p><p><span style=\"color:#2980b9;\"><strong>- Học kỳ 3/ hè: tháng 06-&gt;08 (</strong></span><span style=\"color:#c0392b;\"><strong>công tác chuẩn bị từ tháng 04</strong></span><span style=\"color:#2980b9;\"><strong>). Triển khai dùng website internship&nbsp;</strong></span><span style=\"color:#c0392b;\"><strong>https://internship.cse.hcmut.edu.vn/</strong></span></p><p><span style=\"color:#2980b9;\"><strong>Đối tượng SV tham gia: </strong></span><span style=\"color:#c0392b;\"><strong>năm 4&nbsp;trở về trước (chưa hoàn thành môn học)</strong></span><span style=\"color:#2980b9;\"><strong>. SV Khoa học chương trình </strong></span><span style=\"color:#c0392b;\"><strong>hệ 4 năm</strong></span><span style=\"color:#2980b9;\"><strong>.</strong></span></p><p><span style=\"color:#c0392b;\"><strong>2</strong></span><span style=\"color:#2980b9;\"><strong> - Chương trình hướng dẫn SV thực hiện </strong></span><span style=\"color:#c0392b;\"><strong>Đồ án tốt nghiệp (ĐATN)</strong></span><span style=\"color:#2980b9;\"><strong> kéo dài trong 02 học kỳ liên tiếp (01 năm học cuối Khóa).</strong></span></p><p><span style=\"color:#c0392b;\"><strong>3</strong></span><span style=\"color:#2980b9;\"><strong> - Chương trình hướng dẫn SV thực hiện </strong></span><span style=\"color:#c0392b;\"><strong>Học kỳ Doanh nghiệp (HKDN)</strong></span><span style=\"color:#2980b9;\"><strong> kéo dài trong 05 tháng (trọn 01 HK chính). SV tham gia chương trình này thường là làm việc toàn thời gian với DN như một nhân viên thực thụ, hoặc tham gia học thêm một số ít môn tại Khoa/ Trường (nếu còn → cho đủ tín chỉ quy định, và được sự đồng ý của DN).</strong></span></p><p><span style=\"color:#2980b9;\"><strong>Mốc thời gian thực hiện </strong></span><span style=\"color:#c0392b;\"><strong>chương trình 2 và 3</strong></span><span style=\"color:#2980b9;\"><strong> như sau:</strong></span></p><p><span style=\"color:#2980b9;\"><strong>- Học kỳ 1: tháng 08→12 (</strong></span><span style=\"color:#c0392b;\"><strong>công tác chuẩn bị từ tháng 07</strong></span><span style=\"color:#2980b9;\"><strong>).</strong></span></p><p><span style=\"color:#2980b9;\"><strong>- Học kỳ 2: tháng 01-&gt;05 (</strong></span><span style=\"color:#c0392b;\"><strong>công tác chuẩn bị từ tháng 11</strong></span><span style=\"color:#2980b9;\"><strong>).&nbsp;</strong></span></p><p><span style=\"color:#2980b9;\"><strong>Khoa có thể chấp nhận cho SV đi thực tập địa điểm xa TP.HCM,&nbsp;với điều kiện:&nbsp;</strong></span><span style=\"color:#c0392b;\"><strong>SV không đăng ký môn học nào khác tại Trường trong cùng HK thực tập</strong></span><span style=\"color:#2980b9;\"><strong>.</strong></span></p><p><span style=\"color:#2980b9;\"><strong>Nếu DN&nbsp;có nhu cầu nhận SV&nbsp;thực tập đúng tuyến như trên, vui lòng </strong></span><span style=\"color:#c0392b;\"><strong>chủ động liên hệ về Khoa đúng thời gian</strong></span><span style=\"color:#2980b9;\"><strong> để được hướng dẫn chi tiết tại từng HK.</strong></span></p><p><span style=\"color:#2980b9;\"><strong>Trân trọng cảm ơn!</strong></span></p><p>============================================================================</p>"
   },
+  "5cb9f21181356c7c25789edc": {
+    "id": "5cb9f21181356c7c25789edc",
+    "shortname": "NUS Technology",
+    "fullname": "NUS TECHNOLOGY",
+    "isSponsor": false,
+    "image": "/img/company/5cb9f21181356c7c25789edc.png?t=03246979",
+    "level": 1,
+    "width": 512,
+    "height": 512,
+    "address": "Tầng 3B, Tòa nhà Scetpa, 19A Cộng Hòa, Tân Bình, HCM",
+    "studentRegister": 1,
+    "studentAccepted": 0,
+    "maxRegister": 15,
+    "maxAcceptedStudent": 5,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "680c88c93890995d799d8e7f",
+        "name": "NUS_D2_TTNT_HK243.pdf",
+        "path": "/company/5cb9f21181356c7c25789edcNUS_D2_TTNT_HK243.pdf"
+      }
+    ],
+    "work": "<p><big>At NUS Technology, we provide cutting-edge web and mobile software development services, as well as project and product management. We&#39;re proud to serve a diverse group of clients worldwide, from small businesses to large corporations.&nbsp;</big></p>\n\n<p><big>Our motto at NUS is &#39;<strong>Now You&#39;re Satisfied&#39;</strong> because our clients&#39; satisfaction is our top priority. We approach every challenge with passion and creativity, delivering excellent results in less time. We take the hassle and frustration out of our clients&#39; development projects, allowing them to focus on their business. &nbsp;</big></p>\n\n<p><big>We take a strategic approach to managing our clients&#39; projects and utilize various management methodologies, such as Agile, PMBOK, and CMMI, based on our clients&#39; needs. &nbsp;</big></p>\n\n<p><big>We employ a team of talented, passionate and skilled professionals who live and breathe NUS values. Our staff works hard and plays hard, carrying out our commitment to excellence in every project.&nbsp;</big></p>\n\n<p><big>We value our staff and strive to provide a dynamic work environment, where team members can excel, develop new skills and advance their careers. Our motto, &ldquo;Now you&#39;re satisfied&rdquo; is reflected in how we treat our staff, as we aim to create an atmosphere where our employees are content, fulfilled and valued.</big></p>\n\n<p><big>We offer training, coaching, tools and infrastructure to help our team members reach their personal and professional goals.</big></p>\n"
+  },
   "5cbe7f25a03f03365f3adc86": {
     "id": "5cbe7f25a03f03365f3adc86",
     "shortname": "DSV - Designveloper",
@@ -302,6 +330,34 @@
       }
     ],
     "work": "IT services, software outsourcing, software development for solutions: \n(a) maps and navigation using AI/AR technologies for map data presentation, travelling management, traffic management, cruise management and autonomous driving systems; \n(b) IoT and embedded systems development for Smart Home, Smart Building, Smart Agriculture and Automotive systems;"
+  },
+  "5ef01de52d83aed8ff642169": {
+    "id": "5ef01de52d83aed8ff642169",
+    "shortname": "GIHOT",
+    "fullname": "CÔNG TY CỔ PHẦN GIHOT",
+    "isSponsor": false,
+    "image": "/img/company/5ef01de52d83aed8ff642169.png?t=74490027",
+    "level": 1,
+    "width": 512,
+    "height": 195,
+    "address": "Lầu 5, Block A, Tòa nhà Waseco, số 10 Phổ Quang, phường 2, Q. Tân Bình, TP.HCM",
+    "studentRegister": 4,
+    "studentAccepted": 0,
+    "maxRegister": 15,
+    "maxAcceptedStudent": 5,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": true,
+    "active": true,
+    "description": "<p style=\"margin-left:0cm;text-align:justify;\"><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "680c874f3890995d799d8e7b",
+        "name": "GIHOT_D2_TTNT_HK243.docx",
+        "path": "/company/5ef01de52d83aed8ff642169GIHOT_D2_TTNT_HK243.docx"
+      }
+    ],
+    "work": "Online Game Development (Product)"
   },
   "606b081987e8b4bd3d4b4800": {
     "id": "606b081987e8b4bd3d4b4800",
@@ -999,8 +1055,8 @@
     "width": 512,
     "height": 227,
     "address": "4th Floor - 259 Lê Quang Định, Phường 7, Bình Thạnh, TP Hồ Chí Minh",
-    "studentRegister": 1,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 1,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
     "adminMaxRegister": 10,
@@ -1869,6 +1925,34 @@
         "_id": "680b3e643890995d799d8c39",
         "name": "GOSU_D2_TTNT_HK243.pdf",
         "path": "/company/680a24f03890995d799d8a4eGOSU_D2_TTNT_HK243.pdf"
+      }
+    ],
+    "work": ""
+  },
+  "680b75f23890995d799d8ca6": {
+    "id": "680b75f23890995d799d8ca6",
+    "shortname": "BioTuring",
+    "fullname": "Công ty TNHH Bioturing Việt Nam",
+    "isSponsor": false,
+    "image": "/img/company/680b75f23890995d799d8ca6.png?t=81740188",
+    "level": 1,
+    "width": 512,
+    "height": 248,
+    "address": "244/31 Huỳnh Văn Bánh, Phường 11, Quận Phú Nhuận, Hồ Chí Minh",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 15,
+    "maxAcceptedStudent": 5,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p>",
+    "internshipFiles": [
+      {
+        "_id": "680c87f43890995d799d8e7e",
+        "name": "BioTuring_D2_TTNT_HK243.pdf",
+        "path": "/company/680b75f23890995d799d8ca6BioTuring_D2_TTNT_HK243.pdf"
       }
     ],
     "work": ""
