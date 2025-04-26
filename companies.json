@@ -219,7 +219,7 @@
     "width": 512,
     "height": 512,
     "address": "Tầng 3B, Tòa nhà Scetpa, 19A Cộng Hòa, Tân Bình, HCM",
-    "studentRegister": 3,
+    "studentRegister": 4,
     "studentAccepted": 0,
     "maxRegister": 15,
     "maxAcceptedStudent": 5,
@@ -341,7 +341,7 @@
     "width": 512,
     "height": 195,
     "address": "Lầu 5, Block A, Tòa nhà Waseco, số 10 Phổ Quang, phường 2, Q. Tân Bình, TP.HCM",
-    "studentRegister": 3,
+    "studentRegister": 5,
     "studentAccepted": 0,
     "maxRegister": 15,
     "maxAcceptedStudent": 5,
@@ -1057,8 +1057,8 @@
     "address": "4th Floor - 259 Lê Quang Định, Phường 7, Bình Thạnh, TP Hồ Chí Minh",
     "studentRegister": 0,
     "studentAccepted": 1,
-    "maxRegister": 1,
-    "maxAcceptedStudent": 1,
+    "maxRegister": 2,
+    "maxAcceptedStudent": 2,
     "adminMaxRegister": 10,
     "acceptedIntern": true,
     "subscribeAcceptedEmail": false,
@@ -1074,6 +1074,11 @@
         "_id": "680c86153890995d799d8e78",
         "name": "Tanca_D2_TTNT_HK243.pdf",
         "path": "/company/666b97def5911d0a68b8109eTanca_D2_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "680c8de23890995d799d8e8b",
+        "name": "Tanca_D2&3_TTNT_HK243_TaiNT.docx",
+        "path": "/company/666b97def5911d0a68b8109eTanca_D2&3_TTNT_HK243_TaiNT.docx"
       }
     ],
     "work": ""
@@ -1939,7 +1944,7 @@
     "width": 512,
     "height": 374,
     "address": "VP1: 31-33 Đ. Nguyễn Văn Đậu, Phường 6, Quận Bình Thạnh, Thành phố Hồ Chí Minh; VP2: C0013, Sarina Apt, 62 Hoàng Thế Thiện, An Lợi Đông, Thủ Đức, Thành phố Hồ Chí Minh",
-    "studentRegister": 0,
+    "studentRegister": 4,
     "studentAccepted": 0,
     "maxRegister": 12,
     "maxAcceptedStudent": 4,
@@ -1967,7 +1972,7 @@
     "width": 512,
     "height": 248,
     "address": "244/31 Huỳnh Văn Bánh, Phường 11, Quận Phú Nhuận, Hồ Chí Minh",
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0,
     "maxRegister": 15,
     "maxAcceptedStudent": 5,
