@@ -2061,7 +2061,7 @@
     "width": 512,
     "height": 135,
     "address": "33 Lê Văn Huân, Phường 13, Quận Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
