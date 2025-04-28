@@ -9,7 +9,7 @@
     "width": 512,
     "height": 512,
     "address": "766/3G đường Sư Vạn Hạnh, phường 12, quận 10, TPHCM",
-    "studentRegister": 25,
+    "studentRegister": 24,
     "studentAccepted": 5,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
@@ -219,7 +219,7 @@
     "width": 512,
     "height": 512,
     "address": "Tầng 3B, Tòa nhà Scetpa, 19A Cộng Hòa, Tân Bình, HCM",
-    "studentRegister": 14,
+    "studentRegister": 15,
     "studentAccepted": 0,
     "maxRegister": 15,
     "maxAcceptedStudent": 5,
@@ -435,7 +435,7 @@
     "width": 512,
     "height": 512,
     "address": "Ban Vien Tower, 54-56-58 Đường số 2, Khu phố 5, Khu nhà ở Vạn Phúc 1, Phường Hiệp Bình Phước, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam.",
-    "studentRegister": 20,
+    "studentRegister": 21,
     "studentAccepted": 0,
     "maxRegister": 21,
     "maxAcceptedStudent": 7,
@@ -928,7 +928,7 @@
     "width": 512,
     "height": 216,
     "address": "Tầng 11, tòa nhà Vina, 131 Xô Viết Nghệ Tĩnh, Phường 17, Quận Bình Thạnh, TP. Hồ Chí Minh",
-    "studentRegister": 28,
+    "studentRegister": 29,
     "studentAccepted": 0,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
@@ -1568,7 +1568,7 @@
     "width": 512,
     "height": 130,
     "address": "Tầng 7, Số 33, Đường Lê Duẩn, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
-    "studentRegister": 3,
+    "studentRegister": 2,
     "studentAccepted": 0,
     "maxRegister": 3,
     "maxAcceptedStudent": 1,
@@ -1990,6 +1990,34 @@
     ],
     "work": ""
   },
+  "680b75f03890995d799d8ca4": {
+    "id": "680b75f03890995d799d8ca4",
+    "shortname": "HTSC",
+    "fullname": "CÔNG TY CỔ PHẦN GIẢI PHÁP CÔNG NGHỆ HTSC",
+    "isSponsor": false,
+    "image": "/img/company/680b75f03890995d799d8ca4.png?t=81847092",
+    "level": 1,
+    "width": 512,
+    "height": 334,
+    "address": "Tầng 16-VP2, Tòa nhà Sun Square, Số 21 Lê Đức Thọ, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Thành phố Hà Nội, Việt Nam",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "680f33c13890995d799d9319",
+        "name": "HTSC_D2&3_TTNT_HK243_V2.docx",
+        "path": "/company/680b75f03890995d799d8ca4HTSC_D2&3_TTNT_HK243_V2.docx"
+      }
+    ],
+    "work": ""
+  },
   "680b75f23890995d799d8ca6": {
     "id": "680b75f23890995d799d8ca6",
     "shortname": "BioTuring",
@@ -2014,6 +2042,39 @@
         "_id": "680c87f43890995d799d8e7e",
         "name": "BioTuring_D2_TTNT_HK243.pdf",
         "path": "/company/680b75f23890995d799d8ca6BioTuring_D2_TTNT_HK243.pdf"
+      }
+    ],
+    "work": ""
+  },
+  "680ccd753890995d799d8efa": {
+    "id": "680ccd753890995d799d8efa",
+    "shortname": "RISENS",
+    "fullname": "RISENS GROUP JOINT STOCK COMPANY",
+    "isSponsor": false,
+    "image": "/img/company/680ccd753890995d799d8efa.png?t=69635262",
+    "level": 1,
+    "width": 512,
+    "height": 135,
+    "address": "33 Lê Văn Huân, Phường 13, Quận Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "680f32e73890995d799d9315",
+        "name": "RISENS_D2_TTNT_HK243.docx",
+        "path": "/company/680ccd753890995d799d8efaRISENS_D2_TTNT_HK243.docx"
+      },
+      {
+        "_id": "680f33493890995d799d9318",
+        "name": "RISENS_D2_TTNT_HK243.pdf",
+        "path": "/company/680ccd753890995d799d8efaRISENS_D2_TTNT_HK243.pdf"
       }
     ],
     "work": ""
