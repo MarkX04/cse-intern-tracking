@@ -5325,5 +5325,12 @@
     "maxRegister": 18,
     "maxAcceptedStudent": 6,
     "timestamp": 1745880717
+  },
+  {
+    "studentRegister": 18,
+    "studentAccepted": 2,
+    "maxRegister": 18,
+    "maxAcceptedStudent": 6,
+    "timestamp": 1745881109
   }
 ]
