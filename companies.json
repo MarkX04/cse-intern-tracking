@@ -626,7 +626,30 @@
     "image": "/img/company/6440fc60e7ad7cc2b7231a7d.png?t=80805955",
     "level": 2,
     "width": 512,
-    "height": 118
+    "height": 118,
+    "address": "Tầng 6, Tòa nhà D.C., số 111D Lý Chính Thắng, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
+    "studentRegister": 6,
+    "studentAccepted": 0,
+    "maxRegister": 6,
+    "maxAcceptedStudent": 2,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "67ef3b82502455a6d3604a45",
+        "name": "TA_TecAlliance_D2_TTNT_HK243.docx",
+        "path": "/company/6440fc60e7ad7cc2b7231a7dTA_TecAlliance_D2_TTNT_HK243.docx"
+      },
+      {
+        "_id": "67f4dc26502455a6d3605401",
+        "name": "TA_D2_TTNT_HK243.pdf",
+        "path": "/company/6440fc60e7ad7cc2b7231a7dTA_D2_TTNT_HK243.pdf"
+      }
+    ],
+    "work": "Về tập đoàn TecAlliance\nTecAlliance đã và đang thúc đẩy quá trình chuyển đổi kỹ thuật số trong thị trường hậu mãi ôtô.\nTrong hơn 20 năm, chúng tôi đã thiết lập các tiêu chuẩn trong thị trường hậu mãi ô tô trên phạm vi toàn cầu; với tư cách là nhà đổi mới kỹ thuật số và nhà cung cấp các giải pháp hàng đầu. Chúng tôi nổi bật nhờ hiểu biết chuyên sâu về ngành, cũng như yêu cầu của chúng tôi về chất lượng và bảo mật cao nhất dựa trên các công nghệ bền vững.  \n•\tHơn 30 năm kinh nghiệm\n•\tHơn 900 nhân viên trên toàn thế giới\n•\tCó mặt hơn 140 quốc gia & trên 6 châu lục \n•\t35 ngôn ngữ\n•\t7,5 triệu bài viết từ hơn 700 thương hiệu\n•\t4 triệu hướng dẫn sửa chữa\n\nTecAlliance Việt Nam: Là trung tâm phát triển phần mềm thứ 3 trên thế giới của TecAlliance (02 trung tâm còn lại ở Đức và Tenerife – Tây Ban Nha)\n•\tThành lập từ tháng 04.2021\n•\tĐịa chỉ: Tầng 6, Tòa nhà D.C., số 111D Lý Chính Thắng, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh, Việt Nam\n•\tWebsite: www.tecalliance.net\n•\tFacebook:  TecAlliance Vietnam (link: https://www.facebook.com/profile.php?id=100083131396627 \n•\tSố lượng kỹ sư phần mềm tại Việt Nam: 30-60\n•\tCác công nghệ đang sử dụng:\n1) C#; Angular\t\t        2) Selenium; Serenity\n3) Java\t\t\t\t4) Javascript\n5) Big Data\t\t\t6) DevOps\n7) Python; \t\t\t8) Machine Learning \n9) Cloud; AWS\t\t       10) Spacy"
   },
   "644b346ce7ad7cc2b7232c45": {
     "id": "644b346ce7ad7cc2b7232c45",
@@ -636,7 +659,30 @@
     "image": "/img/company/644b346ce7ad7cc2b7232c45.png?t=50901298",
     "level": 3,
     "width": 512,
-    "height": 512
+    "height": 512,
+    "address": "Tầng 3, Tòa nhà Vina Giầy, 180-182 Lý Chính Thắng, P.9, Q.3, TP.HCM",
+    "studentRegister": 45,
+    "studentAccepted": 0,
+    "maxRegister": 45,
+    "maxAcceptedStudent": 15,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "680c90703890995d799d8e90",
+        "name": "IVS_D2_TTNT_HK243_V2.docx",
+        "path": "/company/644b346ce7ad7cc2b7232c45IVS_D2_TTNT_HK243_V2.docx"
+      },
+      {
+        "_id": "680f3d623890995d799d932b",
+        "name": "IVS_D2_TTNT_HK243.pdf",
+        "path": "/company/644b346ce7ad7cc2b7232c45IVS_D2_TTNT_HK243.pdf"
+      }
+    ],
+    "work": "Công ty Cổ phần IVS"
   },
   "64530d04e7ad7cc2b72339d8": {
     "id": "64530d04e7ad7cc2b72339d8",
@@ -646,7 +692,25 @@
     "image": "/img/company/64530d04e7ad7cc2b72339d8.png?t=66101306",
     "level": 1,
     "width": 512,
-    "height": 565
+    "height": 565,
+    "address": "12/20D Nguyễn Thị Minh Khai, P.Đao Kao , Q.1, TP. HCM",
+    "studentRegister": 12,
+    "studentAccepted": 0,
+    "maxRegister": 12,
+    "maxAcceptedStudent": 4,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "67ff1284502455a6d36065b0",
+        "name": "RS_RockShip_D2_TTNT_HK243.pdf",
+        "path": "/company/64530d04e7ad7cc2b72339d8RS_RockShip_D2_TTNT_HK243.pdf"
+      }
+    ],
+    "work": "IT"
   },
   "64545ff2e7ad7cc2b7233c34": {
     "id": "64545ff2e7ad7cc2b7233c34",
@@ -656,7 +720,30 @@
     "image": "/img/company/64545ff2e7ad7cc2b7233c34.png?t=03034040",
     "level": 1,
     "width": 512,
-    "height": 515
+    "height": 515,
+    "address": "B10 Nội khu Nam Thông 2A, P.Tân Phú, Q.7, Tp.HCM",
+    "studentRegister": 12,
+    "studentAccepted": 0,
+    "maxRegister": 12,
+    "maxAcceptedStudent": 4,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "67ec9b72502455a6d36045b9",
+        "name": "TechLab_D2_TTNT_HK243.docx",
+        "path": "/company/64545ff2e7ad7cc2b7233c34TechLab_D2_TTNT_HK243.docx"
+      },
+      {
+        "_id": "67ec9fb9502455a6d36045c2",
+        "name": "TechLab_D2_TTNT_HK243.pdf",
+        "path": "/company/64545ff2e7ad7cc2b7233c34TechLab_D2_TTNT_HK243.pdf"
+      }
+    ],
+    "work": "<p>Techlab chuyên cung cấp các dịch vụ Tư vấn An toàn bảo mật thông tin với các văn phòng hoạt động hiện ở Việt Nam, Singapore và Campuchia. Đội ngũ chuyên gia tư vấn của chúng tôi với kinh nghiệm dày dạn tư vấn cho các khách hàng địa phương và quốc tế luôn luôn sẵn sàng hỗ trợ và đáp ứng các nhu cầu doanh nghiệp của bạn với dịch vụ chất lượng quốc tế. Chúng tôi cung cấp các dịch vụ tư vấn về An toàn bảo mật thông tin như:<br>&nbsp;• Dịch vụ Rà soát đánh giá kỹ thuật an toàn bảo mật&nbsp;</p><p>• Dịch vụ Đánh giá tổng thể an toàn thông tin&nbsp;</p><p>• Dịch vụ Tư vấn an toàn và bảo vệ dữ liệu&nbsp;</p><p>• Dịch vụ Tư vấn hoạt động an toàn thông tin&nbsp;</p><p>• Dịch vụ Đào tạo và nhận thức an toàn thông tin – E-learning</p><h4><span style=\"color:hsl(0, 75%, 60%);\"><strong>Sinh viên ứng tuyển vui lòng gửi đầy đủ CV &amp; bảng điểm về email: recruitment@techlabcorp.com</strong></span></h4>"
   },
   "646c2701e7ad7cc2b723655a": {
     "id": "646c2701e7ad7cc2b723655a",
@@ -666,7 +753,30 @@
     "image": "/img/company/646c2701e7ad7cc2b723655a.png?t=24853563",
     "level": 1,
     "width": 512,
-    "height": 512
+    "height": 512,
+    "address": "Số 2 Nguyễn Huy Lượng, Phường 14, quận Bình Thạnh, TPHCM",
+    "studentRegister": 0,
+    "studentAccepted": 1,
+    "maxRegister": 3,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "67ff1363502455a6d36065b4",
+        "name": "M2_D2_TTNT_HK243.pdf",
+        "path": "/company/646c2701e7ad7cc2b723655aM2_D2_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "68078ae6502455a6d360745f",
+        "name": "M2_D2_TTNT_HK243_Signed.pdf",
+        "path": "/company/646c2701e7ad7cc2b723655aM2_D2_TTNT_HK243_Signed.pdf"
+      }
+    ],
+    "work": "Công ty TNHH M2 VIETNAM"
   },
   "64780f59e7ad7cc2b72379f6": {
     "id": "64780f59e7ad7cc2b72379f6",
