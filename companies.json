@@ -9,8 +9,8 @@
     "width": 512,
     "height": 512,
     "address": "766/3G đường Sư Vạn Hạnh, phường 12, quận 10, TPHCM",
-    "studentRegister": 30,
-    "studentAccepted": 5,
+    "studentRegister": 29,
+    "studentAccepted": 6,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
     "adminMaxRegister": 10,
@@ -534,7 +534,7 @@
     "width": 512,
     "height": 512,
     "address": "Tầng 19, Toà nhà AP Tower, 518B Điện Biên Phủ, Phường 19, Quận Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
-    "studentRegister": 15,
+    "studentRegister": 14,
     "studentAccepted": 1,
     "maxRegister": 15,
     "maxAcceptedStudent": 5,
@@ -1004,8 +1004,8 @@
     "width": 512,
     "height": 364,
     "address": "Toà nhà F-town 3, số 3 đường Võ Chí Công, phường Long Thạnh Mỹ, thành phố Thủ Đức, Tp. HCM",
-    "studentRegister": 1,
-    "studentAccepted": 1,
+    "studentRegister": 0,
+    "studentAccepted": 2,
     "maxRegister": 6,
     "maxAcceptedStudent": 2,
     "adminMaxRegister": 10,
@@ -1874,6 +1874,11 @@
         "_id": "680ae6d13890995d799d8ba2",
         "name": "Fsoft_NT_D2_TTNT_HK243.docx",
         "path": "/company/680a24ed3890995d799d8a48Fsoft_NT_D2_TTNT_HK243.docx"
+      },
+      {
+        "_id": "681083033890995d799d955f",
+        "name": "Fsoft_NT_D2_TTNT_HK243.pdf",
+        "path": "/company/680a24ed3890995d799d8a48Fsoft_NT_D2_TTNT_HK243.pdf"
       }
     ],
     "work": ""
