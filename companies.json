@@ -247,7 +247,7 @@
     "width": 512,
     "height": 112,
     "address": "53-55-57 Phó Đức Chính, P. Nguyễn Thái Bình, Q.1, TP.HCM",
-    "studentRegister": 60,
+    "studentRegister": 59,
     "studentAccepted": 0,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -362,7 +362,7 @@
         "path": "/company/5ef01de52d83aed8ff642169GiHot_D2_TTNT_HK243.pdf"
       }
     ],
-    "work": "Online Game Development (Product)"
+    "work": "<p>Game Development (Product)</p>"
   },
   "606b081987e8b4bd3d4b4800": {
     "id": "606b081987e8b4bd3d4b4800",
@@ -440,7 +440,7 @@
     "width": 512,
     "height": 512,
     "address": "Ban Vien Tower, 54-56-58 Đường số 2, Khu phố 5, Khu nhà ở Vạn Phúc 1, Phường Hiệp Bình Phước, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam.",
-    "studentRegister": 20,
+    "studentRegister": 21,
     "studentAccepted": 0,
     "maxRegister": 21,
     "maxAcceptedStudent": 7,
@@ -1164,7 +1164,7 @@
     "width": 512,
     "height": 107,
     "address": "The Manor Officetel, Nguyễn Hữu Cảnh, P.22, Quận Bình Thạnh, Thành phố Hồ Chí Minh",
-    "studentRegister": 29,
+    "studentRegister": 30,
     "studentAccepted": 0,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
