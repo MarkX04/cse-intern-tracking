@@ -468,7 +468,7 @@
     "width": 512,
     "height": 590,
     "address": "12/1 Nguyễn Thị Minh Khai, P. Đa Kao, Quận 1, TP.HCM",
-    "studentRegister": 13,
+    "studentRegister": 14,
     "studentAccepted": 0,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -496,7 +496,7 @@
     "width": 512,
     "height": 512,
     "address": "Ban Vien Tower, 54-56-58 Đường số 2, Khu phố 5, Khu nhà ở Vạn Phúc 1, Phường Hiệp Bình Phước, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam.",
-    "studentRegister": 20,
+    "studentRegister": 21,
     "studentAccepted": 0,
     "maxRegister": 21,
     "maxAcceptedStudent": 7,
@@ -959,30 +959,7 @@
     "image": "/img/company/660b6523d3e9eccc8c61e56a.png?t=24374880",
     "level": 1,
     "width": 512,
-    "height": 95,
-    "address": "Phòng 505-506, Tầng 5, tòa nhà COBI Tower 1, số 5 Hoàng Văn Thái, phường Tân Phú, Quận 7, Thành phố Hồ Chí Minh",
-    "studentRegister": 12,
-    "studentAccepted": 1,
-    "maxRegister": 12,
-    "maxAcceptedStudent": 4,
-    "adminMaxRegister": 10,
-    "acceptedIntern": true,
-    "subscribeAcceptedEmail": false,
-    "active": true,
-    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p>",
-    "internshipFiles": [
-      {
-        "_id": "67e60996502455a6d36037a1",
-        "name": "OpenWay_D2_TTNT_HK243.docx",
-        "path": "/company/660b6523d3e9eccc8c61e56aOpenWay_D2_TTNT_HK243.docx"
-      },
-      {
-        "_id": "67ea4d37502455a6d36041b7",
-        "name": "OpenWay_D2_TTNT_HK243.pdf",
-        "path": "/company/660b6523d3e9eccc8c61e56aOpenWay_D2_TTNT_HK243.pdf"
-      }
-    ],
-    "work": "IT"
+    "height": 95
   },
   "660b6524d3e9eccc8c61e56b": {
     "id": "660b6524d3e9eccc8c61e56b",
@@ -992,25 +969,7 @@
     "image": "/img/company/660b6524d3e9eccc8c61e56b.png?t=24229277",
     "level": 1,
     "width": 512,
-    "height": 512,
-    "address": "TNS (Japan)",
-    "studentRegister": 0,
-    "studentAccepted": 1,
-    "maxRegister": 1,
-    "maxAcceptedStudent": 1,
-    "adminMaxRegister": 10,
-    "acceptedIntern": true,
-    "subscribeAcceptedEmail": false,
-    "active": true,
-    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CN)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
-    "internshipFiles": [
-      {
-        "_id": "67f73648502455a6d360581b",
-        "name": "TNS_JP_D2_インターンシップ引受書_Hk243  (Japanese) _TNS.pdf",
-        "path": "/company/660b6524d3e9eccc8c61e56bTNS_JP_D2_インターンシップ引受書_Hk243  (Japanese) _TNS.pdf"
-      }
-    ],
-    "work": "IT"
+    "height": 512
   },
   "660b6525d3e9eccc8c61e56d": {
     "id": "660b6525d3e9eccc8c61e56d",
@@ -1020,25 +979,7 @@
     "image": "/img/company/660b6525d3e9eccc8c61e56d.png?t=25765971",
     "level": 1,
     "width": 512,
-    "height": 512,
-    "address": "Sorimachi (Japan)",
-    "studentRegister": 0,
-    "studentAccepted": 0,
-    "maxRegister": 2,
-    "maxAcceptedStudent": 2,
-    "adminMaxRegister": 10,
-    "acceptedIntern": true,
-    "subscribeAcceptedEmail": false,
-    "active": true,
-    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CN)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
-    "internshipFiles": [
-      {
-        "_id": "67f73566502455a6d3605819",
-        "name": "Sorimachi_JP_D2_インターンシップ引受書_Hk243  (Japanese) _Sorimachi.pdf",
-        "path": "/company/660b6525d3e9eccc8c61e56dSorimachi_JP_D2_インターンシップ引受書_Hk243  (Japanese) _Sorimachi.pdf"
-      }
-    ],
-    "work": "IT"
+    "height": 512
   },
   "66129a07d3e9eccc8c61f203": {
     "id": "66129a07d3e9eccc8c61f203",
@@ -1048,30 +989,7 @@
     "image": "/img/company/66129a07d3e9eccc8c61f203.png?t=68124690",
     "level": 1,
     "width": 512,
-    "height": 216,
-    "address": "Tầng 11, tòa nhà Vina, 131 Xô Viết Nghệ Tĩnh, Phường 17, Quận Bình Thạnh, TP. Hồ Chí Minh",
-    "studentRegister": 30,
-    "studentAccepted": 0,
-    "maxRegister": 30,
-    "maxAcceptedStudent": 10,
-    "adminMaxRegister": 10,
-    "acceptedIntern": true,
-    "subscribeAcceptedEmail": false,
-    "active": true,
-    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p>",
-    "internshipFiles": [
-      {
-        "_id": "67f356b3502455a6d3605163",
-        "name": "ZV_D2_TTNT_HK243.docx",
-        "path": "/company/66129a07d3e9eccc8c61f203ZV_D2_TTNT_HK243.docx"
-      },
-      {
-        "_id": "67fccb46502455a6d36061be",
-        "name": "ZV_D2_TTNT_HK243.pdf",
-        "path": "/company/66129a07d3e9eccc8c61f203ZV_D2_TTNT_HK243.pdf"
-      }
-    ],
-    "work": "<p dir=\"ltr\"><strong>About our parent company: ZIGExN Co.,Ltd</strong></p>\n\n<p>- <strong>ZIGEXN </strong>is a leading life media platform company in Japan, offering over 40 services in various life event domains such as jobs, housing, cars, and travel.</p>\n\n<p dir=\"ltr\">- <strong>ZIGExN</strong>, the company&#39;s flagship, received the Japan Technology Fast 50 award from Deloitte in 2015 and has been recognized as a Great Place to Work in Japan from 2011 to 2016.</p>\n\n<p dir=\"ltr\">- <strong>ZIGEN</strong> is listed on the Tokyo Stock Exchange&#39;s Prime Market.</p>\n\n<p><strong>Service Examples</strong></p>\n\n<p dir=\"ltr\">- B to C Services: ZIGEN operates &quot;Smocca,&quot; a real estate rental search website with 2 million monthly users in Japan, and &quot;Arubaito EX,&quot; a job information site attracting 500,000 monthly users in Japan.</p>\n\n<p dir=\"ltr\">- B to B Service: The company also runs &quot;Apple World,&quot; which offers information services for about 100,000 hotels worldwide<strong>.</strong></p>\n\n<p><br />\n<strong>About&nbsp; ZIGExN VeNtura Co.,Ltd</strong></p>\n\n<p dir=\"ltr\">- 100% Japanese investment company specialized in software development and Internet services.</p>\n\n<p dir=\"ltr\">- Developing multi-products software (over 10 services) based on a life media platform.</p>\n\n<p dir=\"ltr\">- Talent engineers in 3 offices in HCM/ Hanoi/ Danang working together.</p>\n\n<p dir=\"ltr\"><strong>Why Join Us:</strong></p>\n\n<ul>\n\t<li dir=\"ltr\">\n\t<p dir=\"ltr\">We provide ample opportunities for professional growth and skill development in a collaborative and sharing environment.</p>\n\t</li>\n\t<li dir=\"ltr\">\n\t<p dir=\"ltr\">Join a culture that encourages creativity, embraces challenges, and values the continuous enhancement of skills.</p>\n\t</li>\n\t<li dir=\"ltr\">\n\t<p dir=\"ltr\">Become a creator in our young and dynamic team.</p>\n\t</li>\n</ul>\n\n<p dir=\"ltr\"><strong>Headquarter at HCM:&nbsp; </strong>11th floor- Vina Building, 131 Xo Viet Nghe Tinh street, Ward 17, Binh Thanh District, Ho Chi Minh City<br />\n<strong>Branch at DANANG:&nbsp;</strong>3rd Floor, Diamond Time Building, 35 Thai Phien street, Hai Chau District, Da Nang City<br />\n<strong>Branch at HANOI:&nbsp;</strong>3rd floor, Tower 3-4, CEN X SPACE _DOLPHIN PLAZA, 6 Nguyen Hoang street, My Dinh 2 ward, Nam Tu Liem District, Hanoi City.</p>\n\n<p dir=\"ltr\">&nbsp;</p>\n"
+    "height": 216
   },
   "66194c1ca36c17e66bd045c9": {
     "id": "66194c1ca36c17e66bd045c9",
@@ -1081,30 +999,7 @@
     "image": "/img/company/66194c1ca36c17e66bd045c9.png?t=44709684",
     "level": 1,
     "width": 512,
-    "height": 304,
-    "address": "55-57 Bau Cat 4 St., Tan Binh Dist., Ho Chi Minh City, Vietnam",
-    "studentRegister": 15,
-    "studentAccepted": 1,
-    "maxRegister": 15,
-    "maxAcceptedStudent": 5,
-    "adminMaxRegister": 10,
-    "acceptedIntern": true,
-    "subscribeAcceptedEmail": false,
-    "active": true,
-    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p>",
-    "internshipFiles": [
-      {
-        "_id": "67ec9bf1502455a6d36045ba",
-        "name": "IMT_D2_TTNT_HK243.docx",
-        "path": "/company/66194c1ca36c17e66bd045c9IMT_D2_TTNT_HK243.docx"
-      },
-      {
-        "_id": "68078e2b502455a6d3607466",
-        "name": "IMT_D2_TTNT_HK243_Signed.pdf",
-        "path": "/company/66194c1ca36c17e66bd045c9IMT_D2_TTNT_HK243_Signed.pdf"
-      }
-    ],
-    "work": "IT"
+    "height": 304
   },
   "6635aaa7a36c17e66bd076c5": {
     "id": "6635aaa7a36c17e66bd076c5",
@@ -1114,25 +1009,7 @@
     "image": "/img/company/6635aaa7a36c17e66bd076c5.png?t=93225384",
     "level": 1,
     "width": 512,
-    "height": 364,
-    "address": "Toà nhà F-town 3, số 3 đường Võ Chí Công, phường Long Thạnh Mỹ, thành phố Thủ Đức, Tp. HCM",
-    "studentRegister": 0,
-    "studentAccepted": 2,
-    "maxRegister": 6,
-    "maxAcceptedStudent": 2,
-    "adminMaxRegister": 10,
-    "acceptedIntern": true,
-    "subscribeAcceptedEmail": false,
-    "active": true,
-    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p>",
-    "internshipFiles": [
-      {
-        "_id": "6805be05502455a6d360713a",
-        "name": "Fsoft_Japan_D2_TTNT_HK243.docx",
-        "path": "/company/6635aaa7a36c17e66bd076c5Fsoft_Japan_D2_TTNT_HK243.docx"
-      }
-    ],
-    "work": ""
+    "height": 364
   },
   "66631323f5911d0a68b801ad": {
     "id": "66631323f5911d0a68b801ad",
@@ -1142,25 +1019,7 @@
     "image": "/img/company/66631323f5911d0a68b801ad.png?t=07596294",
     "level": 1,
     "width": 512,
-    "height": 390,
-    "address": "39-41 Đường B4, Phường An Lợi Đông, Thành Phố Thủ Đức, Thành Phố Hồ Chí Minh",
-    "studentRegister": 18,
-    "studentAccepted": 2,
-    "maxRegister": 18,
-    "maxAcceptedStudent": 6,
-    "adminMaxRegister": 10,
-    "acceptedIntern": true,
-    "subscribeAcceptedEmail": false,
-    "active": true,
-    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p>",
-    "internshipFiles": [
-      {
-        "_id": "6805bc47502455a6d3607135",
-        "name": "APLG_APOLLOGIX_D2_TTNT_HK243.pdf",
-        "path": "/company/66631323f5911d0a68b801adAPLG_APOLLOGIX_D2_TTNT_HK243.pdf"
-      }
-    ],
-    "work": ""
+    "height": 390
   },
   "6669061af5911d0a68b80c16": {
     "id": "6669061af5911d0a68b80c16",
@@ -1170,30 +1029,7 @@
     "image": "/img/company/6669061af5911d0a68b80c16.png?t=60894882",
     "level": 1,
     "width": 512,
-    "height": 512,
-    "address": "103/23 Nguyễn Hữu Dật, Phường Tây Thạnh, Quận Tân Phú, Thành phố Hồ Chí Minh",
-    "studentRegister": 3,
-    "studentAccepted": 0,
-    "maxRegister": 3,
-    "maxAcceptedStudent": 1,
-    "adminMaxRegister": 10,
-    "acceptedIntern": true,
-    "subscribeAcceptedEmail": false,
-    "active": true,
-    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p>",
-    "internshipFiles": [
-      {
-        "_id": "67fcb9aa502455a6d360619d",
-        "name": "PH_D2_TTNT_HK243.docx",
-        "path": "/company/6669061af5911d0a68b80c16PH_D2_TTNT_HK243.docx"
-      },
-      {
-        "_id": "67fe180f502455a6d36063fd",
-        "name": "PH_D2_TTNT_HK243.pdf",
-        "path": "/company/6669061af5911d0a68b80c16PH_D2_TTNT_HK243.pdf"
-      }
-    ],
-    "work": "<p>-&nbsp;C&ocirc;ng ty Cổ Phần KHKT Phượng Hải được th&agrave;nh lập năm 2004, với gần 20 năm kinh nghiệm trở th&agrave;nh chuy&ecirc;n gia trong 2 lĩnh vực ch&iacute;nh:</p>\n\n<p>&nbsp; &nbsp; +&nbsp;Sản xuất Nội Thất v&agrave; Thiết Bị Ph&ograve;ng Th&iacute; Nghiệm - Thương hiệu BestLab&reg;</p>\n\n<p>&nbsp; &nbsp; +&nbsp;Sản xuất Thiết Bị Quan Trắc M&ocirc;i Trường - Thương hiệu SmartpH&reg;</p>\n\n<p>-&nbsp;L&agrave; một doanh nghiệp Khoa Học C&ocirc;ng Nghệ, Phượng Hải JSC đ&atilde; x&aacute;c định cho m&igrave;nh một sứ mệnh, phải tự chủ được c&aacute;c c&ocirc;ng nghệ cao trong ng&agrave;nh ph&acirc;n t&iacute;ch đo lường, để trở th&agrave;nh &ldquo;Biểu tượng Đo lường ở Đ&ocirc;ng Nam &Aacute;&rdquo; v&agrave;o một ng&agrave;y kh&ocirc;ng xa.</p>\n\n<p>-&nbsp;C&ugrave;ng với việc đầu tư nghi&ecirc;m t&uacute;c v&agrave;o nghi&ecirc;n cứu &amp; ph&aacute;t triển c&aacute;c sản phẩm (R&amp;D), Ph&ograve;ng R&amp;D được đầu tư m&aacute;y m&oacute;c thiết bị hiện đại c&ugrave;ng với đội ngũ kỹ sư chuy&ecirc;n m&ocirc;n cao, được xem l&agrave; bộ n&atilde;o của c&ocirc;ng ty. Từ đ&oacute; ph&aacute;t triển những c&ocirc;ng nghệ cao v&agrave; v&agrave;o một ng&agrave;y kh&ocirc;ng xa, chất lượng &ldquo;Made in Vietnam&rdquo; sẽ được đ&oacute;n nhận tr&ecirc;n to&agrave;n thế giới.</p>\n"
+    "height": 512
   },
   "666b97def5911d0a68b8109e": {
     "id": "666b97def5911d0a68b8109e",
