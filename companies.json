@@ -341,7 +341,7 @@
     "width": 512,
     "height": 363,
     "address": "Phòng I.102, Nhà A, Khu Công nghệ Phần mềm ĐHQG - HCM, đường Võ Trường Toản, Khu phố 6 , Phường Linh Trung, TP. Thủ Đức, TP.HCM",
-    "studentRegister": 1,
+    "studentRegister": 2,
     "studentAccepted": 0,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
@@ -457,6 +457,34 @@
       }
     ],
     "work": "<p>Công ty 100% vốn đầu tư Nhật Bản hoạt động trong lĩnh vực công nghệ thông tin/phần mềm. Cube System Vietnam cung cấp dịch vụ phát triển phần mềm và giải pháp công nghệ cho các khách hàng hoạt động trong nhiều lĩnh vực từ sản xuất, logistics tới giáo dục, tài chính...tại thị trường Việt Nam và Nhật Bản. Kế thừa DNA của công ty mẹ - Cube System INC, tại Việt Nam, với phương châm \"Khách hàng là số một\", \"Chủ nghĩa trọng điểm\", và \"Toàn nhân viên tham gia kinh doanh\", chúng tôi nuôi dưỡng những kỹ sư Việt Nam ưu tú - \"Kỹ sư hệ thống hướng đến khách hàng\" nhằm cống hiến cho sự nghiệp phát triển của hai quốc gia Việt - Nhật. Đi cùng với phương châm đó, Cube System hàng năm đều tổ chức chương trình trao học bổng KSYS - CUBE SYSTEM cho các sinh viên của trường Đại học Bách Khoa TPHCM, nhằm khuyến khích, hỗ trợ phát triển các nhân tài.</p>"
+  },
+  "607558f6ee96ff021b979bfe": {
+    "id": "607558f6ee96ff021b979bfe",
+    "shortname": "VNPT - TPHCM",
+    "fullname": "Viễn Thông TP.HCM (VNPT.TPHCM) - Tập đoàn Bưu chính Viễn thông Việt Nam",
+    "isSponsor": false,
+    "image": "/img/company/607558f6ee96ff021b979bfe.png?t=03486687",
+    "level": 1,
+    "width": 512,
+    "height": 590,
+    "address": "12/1 Nguyễn Thị Minh Khai, P. Đa Kao, Quận 1, TP.HCM",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 60,
+    "maxAcceptedStudent": 20,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "6811a32b3890995d799d9753",
+        "name": "VNPT_HCM_D2_TTNT_HK243.docx",
+        "path": "/company/607558f6ee96ff021b979bfeVNPT_HCM_D2_TTNT_HK243.docx"
+      }
+    ],
+    "work": "Viễn Thông TP.HCM (VNPT.TPHCM) - Tập đoàn Bưu chính Viễn thông Việt Nam"
   },
   "6078e9a9ee96ff021b97a21f": {
     "id": "6078e9a9ee96ff021b97a21f",
@@ -585,6 +613,62 @@
     ],
     "work": "<p>Thành lập năm 2018, SUN.STUDIO là nhà phát triển games trên nền tảng web các thiết bị di động với hơn 1 tỷ lượt chơi. Sứ mệnh của chúng tôi là tạo ra các trò chơi mà mọi người có thể dễ dàng tiếp cận (accessible) và yêu thích (enjoyable).&nbsp;</p><p style=\"text-align:justify;\">Hiện tại công ty có gần 70 thành viên&nbsp;với trên 40 đầu games. Là đối tác chiến lược của các nền tảng web-games hàng đầu thế giới như: Facebook Instant Games, Microsoft Instant Play, Yandex Games, Game Distribution, Glance Gaming… và có games phát hành trên Google Play và App Store.</p><p>Cùng với các bạn, chúng ta sẽ tạo ra những games hướng tới trải nghiệm người chơi tuyệt vời hơn nữa! Hiện email của chúng tôi đang bị quá tải nên nếu bạn gửi hồ sơ vào email thì chúng tôi sẽ không nhận được ạ. Các bạn ứng tuyển vui lòng gửi hồ sơ vào đường link: https://jobs.lever.co/sunstudio</p>"
   },
+  "62690991bbe74fe7122f915a": {
+    "id": "62690991bbe74fe7122f915a",
+    "shortname": "DTBK - ĐTBK - Điện toán Bách Khoa",
+    "fullname": "CÔNG TY CỔ PHẦN KỸ THUẬT ĐIỆN TOÁN BÁCH KHOA",
+    "isSponsor": false,
+    "image": "/img/company/62690991bbe74fe7122f915a.png?t=71182215",
+    "level": 1,
+    "width": 512,
+    "height": 588,
+    "address": "437/16 Hoàng Văn Thụ, phường 4, quận Tân Bình, TP. Hồ Chí Minh",
+    "studentRegister": 2,
+    "studentAccepted": 0,
+    "maxRegister": 27,
+    "maxAcceptedStudent": 9,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": true,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b\"><strong>Chương tr&igrave;nh TTNT HK233 (CS&amp;CE).</strong></span></p>\n\n<p><span style=\"color:#c0392b\"><strong>=&gt; Chương tr&igrave;nh đ&atilde; nhận đủ SV -&gt; Đề nghị SV kh&ocirc;ng gửi đăng k&yacute;, email cho DN nữa.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "6811a4333890995d799d9757",
+        "name": "DTBK_D2_TTNT_HK243.pdf",
+        "path": "/company/62690991bbe74fe7122f915aDTBK_D2_TTNT_HK243.pdf"
+      }
+    ],
+    "work": "<p>DTBK</p>"
+  },
+  "62748bbabbe74fe7122fa52c": {
+    "id": "62748bbabbe74fe7122fa52c",
+    "shortname": "atWare",
+    "fullname": "Công ty TNHH atWare Việt Nam",
+    "isSponsor": false,
+    "image": "/img/company/62748bbabbe74fe7122fa52c.png?t=05408584",
+    "level": 1,
+    "width": 512,
+    "height": 512,
+    "address": "Dreamplex Nguyễn Trung Ngạn, tòa nhà Miss Áo Dài, 21 Nguyễn Trung Ngạn, quận 1, TP.HCM",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "6811a3903890995d799d9754",
+        "name": "atWare_D2_TTNT_HK243.docx",
+        "path": "/company/62748bbabbe74fe7122fa52catWare_D2_TTNT_HK243.docx"
+      }
+    ],
+    "work": "Công ty TNHH atWare Việt Nam"
+  },
   "628ef005bbe74fe7122fd281": {
     "id": "628ef005bbe74fe7122fd281",
     "shortname": "AC - AMPERE COMPUTING",
@@ -689,7 +773,7 @@
     "width": 512,
     "height": 512,
     "address": "Tầng 3, Tòa nhà Vina Giầy, 180-182 Lý Chính Thắng, P.9, Q.3, TP.HCM",
-    "studentRegister": 45,
+    "studentRegister": 44,
     "studentAccepted": 0,
     "maxRegister": 45,
     "maxAcceptedStudent": 15,
@@ -1159,7 +1243,7 @@
     "width": 512,
     "height": 515,
     "address": "46, đường D13, Phường Tây Thạnh, Quận Tân Phú, Hồ Chí Minh",
-    "studentRegister": 17,
+    "studentRegister": 18,
     "studentAccepted": 0,
     "maxRegister": 18,
     "maxAcceptedStudent": 6,
@@ -1225,7 +1309,7 @@
     "width": 512,
     "height": 389,
     "address": "Phòng 11, MindX Lê Văn Việt - Lầu trệt, 99 Lê Văn Việt, Phường Tăng Nhơn Phú A, Quận 9, Thủ Đức, Thành phố Hồ Chí Minh",
-    "studentRegister": 12,
+    "studentRegister": 11,
     "studentAccepted": 0,
     "maxRegister": 12,
     "maxAcceptedStudent": 4,
@@ -2184,6 +2268,34 @@
         "_id": "6811a1e73890995d799d974f",
         "name": "CPD_COMPREDEV_D2&3_TTNT_HK243.pdf",
         "path": "/company/680f8b2b3890995d799d93b5CPD_COMPREDEV_D2&3_TTNT_HK243.pdf"
+      }
+    ],
+    "work": ""
+  },
+  "6810b6753890995d799d95b8": {
+    "id": "6810b6753890995d799d95b8",
+    "shortname": "TD - Tân Đức",
+    "fullname": "Công ty Cổ phần Phát triển Kỹ thuật & Thương mại Tân Đức (TD&T)",
+    "isSponsor": false,
+    "image": "/img/company/6810b6753890995d799d95b8.png?t=25814058",
+    "level": 1,
+    "width": 512,
+    "height": 331,
+    "address": "103 Pasteur, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "6811a4f43890995d799d975b",
+        "name": "TD_TanDuc_D2&3_TTNT_HK243.docx",
+        "path": "/company/6810b6753890995d799d95b8TD_TanDuc_D2&3_TTNT_HK243.docx"
       }
     ],
     "work": ""
