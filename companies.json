@@ -331,6 +331,34 @@
     ],
     "work": "IT services, software outsourcing, software development for solutions: \n(a) maps and navigation using AI/AR technologies for map data presentation, travelling management, traffic management, cruise management and autonomous driving systems; \n(b) IoT and embedded systems development for Smart Home, Smart Building, Smart Agriculture and Automotive systems;"
   },
+  "5ecb8c55d1a3a42ea357ddec": {
+    "id": "5ecb8c55d1a3a42ea357ddec",
+    "shortname": "Cohota",
+    "fullname": "Công ty Cổ Phần Cohota",
+    "isSponsor": false,
+    "image": "/img/company/5ecb8c55d1a3a42ea357ddec.png?t=98097864",
+    "level": 1,
+    "width": 512,
+    "height": 363,
+    "address": "Phòng I.102, Nhà A, Khu Công nghệ Phần mềm ĐHQG - HCM, đường Võ Trường Toản, Khu phố 6 , Phường Linh Trung, TP. Thủ Đức, TP.HCM",
+    "studentRegister": 1,
+    "studentAccepted": 0,
+    "maxRegister": 30,
+    "maxAcceptedStudent": 10,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": true,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "6811a17f3890995d799d974e",
+        "name": "Cohota_D2_TTNT_HK243_V2.docx",
+        "path": "/company/5ecb8c55d1a3a42ea357ddecCohota_D2_TTNT_HK243_V2.docx"
+      }
+    ],
+    "work": "Công nghệ dành cho giáo dục (Edtech), AI, Cloud-based LMS, Streaming, Mobile apps, Innovation & Education"
+  },
   "5ef01de52d83aed8ff642169": {
     "id": "5ef01de52d83aed8ff642169",
     "shortname": "GIHOT",
@@ -1724,6 +1752,16 @@
         "_id": "68085946502455a6d36075c6",
         "name": "PAX_D2_TTNT_HK243.docx",
         "path": "/company/68084543502455a6d360759fPAX_D2_TTNT_HK243.docx"
+      },
+      {
+        "_id": "6811a0663890995d799d974a",
+        "name": "PAX_D2&3_TTNT_HK243.pdf",
+        "path": "/company/68084543502455a6d360759fPAX_D2&3_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "6811a06e3890995d799d974b",
+        "name": "PAX_D3_TTNT_HK243_sign.pdf",
+        "path": "/company/68084543502455a6d360759fPAX_D3_TTNT_HK243_sign.pdf"
       }
     ],
     "work": ""
@@ -2090,6 +2128,62 @@
         "_id": "680f33493890995d799d9318",
         "name": "RISENS_D2_TTNT_HK243.pdf",
         "path": "/company/680ccd753890995d799d8efaRISENS_D2_TTNT_HK243.pdf"
+      }
+    ],
+    "work": ""
+  },
+  "680f8b2a3890995d799d93b3": {
+    "id": "680f8b2a3890995d799d93b3",
+    "shortname": "IA - Infoasia",
+    "fullname": "CÔNG TY TNHH HỆ THỐNG PHẦN MỀM VIỆT TIN",
+    "isSponsor": false,
+    "image": "/img/company/680f8b2a3890995d799d93b3.png?t=49273834",
+    "level": 1,
+    "width": 512,
+    "height": 512,
+    "address": "Tầng 2, Tòa nhà hành chính TTC, Số 1 đường Tân Thuận, KCX Tân Thuận, Phường Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "6811a2533890995d799d9750",
+        "name": "IA_Infoasia_D2&3_TTNT_HK243.docx",
+        "path": "/company/680f8b2a3890995d799d93b3IA_Infoasia_D2&3_TTNT_HK243.docx"
+      }
+    ],
+    "work": ""
+  },
+  "680f8b2b3890995d799d93b5": {
+    "id": "680f8b2b3890995d799d93b5",
+    "shortname": "CPD - COMPREDEV",
+    "fullname": "COMPREDEV SOLUTIONS COMPANY LIMITED",
+    "isSponsor": false,
+    "image": "/img/company/680f8b2b3890995d799d93b5.png?t=49195139",
+    "level": 1,
+    "width": 512,
+    "height": 209,
+    "address": "177/19 Đường số 6, KP. Tân Lập, P. Đông Hòa, TP. Dĩ An, Bình Dương; 10 Street 12, Quarter 6, Hiep Binh Chanh Ward, Thu Duc City, Ho Chi Minh City, Vietnam (Postal Code: 71315)",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "6811a1e73890995d799d974f",
+        "name": "CPD_COMPREDEV_D2&3_TTNT_HK243.pdf",
+        "path": "/company/680f8b2b3890995d799d93b5CPD_COMPREDEV_D2&3_TTNT_HK243.pdf"
       }
     ],
     "work": ""
