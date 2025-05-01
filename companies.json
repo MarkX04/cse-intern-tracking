@@ -367,30 +367,7 @@
     "image": "/img/company/5ef01de52d83aed8ff642169.png?t=74490027",
     "level": 1,
     "width": 512,
-    "height": 195,
-    "address": "Lầu 5, Block A, Tòa nhà Waseco, số 10 Phổ Quang, phường 2, Q. Tân Bình, TP.HCM",
-    "studentRegister": 15,
-    "studentAccepted": 0,
-    "maxRegister": 15,
-    "maxAcceptedStudent": 5,
-    "adminMaxRegister": 10,
-    "acceptedIntern": true,
-    "subscribeAcceptedEmail": true,
-    "active": true,
-    "description": "<p style=\"margin-left:0cm;text-align:justify;\"><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p>",
-    "internshipFiles": [
-      {
-        "_id": "680c874f3890995d799d8e7b",
-        "name": "GIHOT_D2_TTNT_HK243.docx",
-        "path": "/company/5ef01de52d83aed8ff642169GIHOT_D2_TTNT_HK243.docx"
-      },
-      {
-        "_id": "681058333890995d799d9516",
-        "name": "GiHot_D2_TTNT_HK243.pdf",
-        "path": "/company/5ef01de52d83aed8ff642169GiHot_D2_TTNT_HK243.pdf"
-      }
-    ],
-    "work": "<p>Game Development (Product)</p>"
+    "height": 195
   },
   "606b081987e8b4bd3d4b4800": {
     "id": "606b081987e8b4bd3d4b4800",
@@ -400,30 +377,7 @@
     "image": "/img/company/606b081987e8b4bd3d4b4800.png?t=27265210",
     "level": 1,
     "width": 512,
-    "height": 512,
-    "address": "Lầu 2, Tòa nhà PLS, số 457 Nguyễn Đình Chiểu, Phường 5, Quận 3, HCM",
-    "studentRegister": 9,
-    "studentAccepted": 1,
-    "maxRegister": 9,
-    "maxAcceptedStudent": 3,
-    "adminMaxRegister": 10,
-    "acceptedIntern": true,
-    "subscribeAcceptedEmail": true,
-    "active": true,
-    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p>",
-    "internshipFiles": [
-      {
-        "_id": "67ff12e8502455a6d36065b3",
-        "name": "HS_Holistics_D2_TTNT_HK243.pdf",
-        "path": "/company/606b081987e8b4bd3d4b4800HS_Holistics_D2_TTNT_HK243.pdf"
-      },
-      {
-        "_id": "680076ac502455a6d360681d",
-        "name": "HS_D2_TTNT_HK243.pdf",
-        "path": "/company/606b081987e8b4bd3d4b4800HS_D2_TTNT_HK243.pdf"
-      }
-    ],
-    "work": "Holistics is a fast-growing data startup based out of Singapore, Saigon, and Jakarta. Our goal is to make data a little bit less frightening and more useful for people every day. And we plan to have a lot of fun while doing so.\n\nTo date, we're serving customers from over 20 countries worldwide from this part of the world.\n\nWe have a strong product engineering culture and understand what it takes to build a high-quality, scalable product. We are customer-obsessed, open-minded to new ideas, and focus on improving bit by bit every day."
+    "height": 512
   },
   "606b13ec87e8b4bd3d4b4816": {
     "id": "606b13ec87e8b4bd3d4b4816",
