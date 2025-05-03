@@ -560,7 +560,25 @@
     "image": "/img/company/607d40f7ee96ff021b97a98f.png?t=22450709",
     "level": 1,
     "width": 512,
-    "height": 307
+    "height": 307,
+    "address": "Sài Gòn Villas Hill, 99 Lê Văn Việt, P. Tăng Phú Nhơn A, TP. Thủ Đức, TP. Hồ Chí Minh, Việt Nam",
+    "studentRegister": 30,
+    "studentAccepted": 0,
+    "maxRegister": 30,
+    "maxAcceptedStudent": 10,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "67eb3bec502455a6d3604358",
+        "name": "R2S_D2_TTNT_HK243.pdf",
+        "path": "/company/607d40f7ee96ff021b97a98fR2S_D2_TTNT_HK243.pdf"
+      }
+    ],
+    "work": "<p>C&ocirc;ng ty cổ phần R2S hoạt động ch&iacute;nh trong những lĩnh vực ph&aacute;t triển phần mềm, tư vấn giải ph&aacute;p c&ocirc;ng nghệ th&ocirc;ng tin v&agrave; huấn luyện nguồn nh&acirc;n lực cho doanh nghiệp. Ch&uacute;ng t&ocirc;i lu&ocirc;n cố gắng h&agrave;nh động để th&agrave;nh c&ocirc;ng; th&agrave;nh c&ocirc;ng của kh&aacute;ch h&agrave;ng l&agrave; th&agrave;nh c&ocirc;ng của ch&uacute;ng t&ocirc;i.</p>\n"
   },
   "607e305bee96ff021b97ab2e": {
     "id": "607e305bee96ff021b97ab2e",
@@ -570,7 +588,30 @@
     "image": "/img/company/607e305bee96ff021b97ab2e.png?t=71730542",
     "level": 1,
     "width": 512,
-    "height": 512
+    "height": 512,
+    "address": "Tầng 19, Toà nhà AP Tower, 518B Điện Biên Phủ, Phường 19, Quận Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
+    "studentRegister": 15,
+    "studentAccepted": 1,
+    "maxRegister": 15,
+    "maxAcceptedStudent": 5,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "67ff100e502455a6d36065a8",
+        "name": "SS_Sun.Studio_D2_TTNT_HK243.docx",
+        "path": "/company/607e305bee96ff021b97ab2eSS_Sun.Studio_D2_TTNT_HK243.docx"
+      },
+      {
+        "_id": "6800f816502455a6d3606902",
+        "name": "SS_Sun.Studio_D2_TTNT_HK243.pdf",
+        "path": "/company/607e305bee96ff021b97ab2eSS_Sun.Studio_D2_TTNT_HK243.pdf"
+      }
+    ],
+    "work": "<p>Thành lập năm 2018, SUN.STUDIO là nhà phát triển games trên nền tảng web các thiết bị di động với hơn 1 tỷ lượt chơi. Sứ mệnh của chúng tôi là tạo ra các trò chơi mà mọi người có thể dễ dàng tiếp cận (accessible) và yêu thích (enjoyable).&nbsp;</p><p style=\"text-align:justify;\">Hiện tại công ty có gần 70 thành viên&nbsp;với trên 40 đầu games. Là đối tác chiến lược của các nền tảng web-games hàng đầu thế giới như: Facebook Instant Games, Microsoft Instant Play, Yandex Games, Game Distribution, Glance Gaming… và có games phát hành trên Google Play và App Store.</p><p>Cùng với các bạn, chúng ta sẽ tạo ra những games hướng tới trải nghiệm người chơi tuyệt vời hơn nữa! Hiện email của chúng tôi đang bị quá tải nên nếu bạn gửi hồ sơ vào email thì chúng tôi sẽ không nhận được ạ. Các bạn ứng tuyển vui lòng gửi hồ sơ vào đường link: https://jobs.lever.co/sunstudio</p>"
   },
   "62690991bbe74fe7122f915a": {
     "id": "62690991bbe74fe7122f915a",
@@ -580,7 +621,25 @@
     "image": "/img/company/62690991bbe74fe7122f915a.png?t=71182215",
     "level": 1,
     "width": 512,
-    "height": 588
+    "height": 588,
+    "address": "437/16 Hoàng Văn Thụ, phường 4, quận Tân Bình, TP. Hồ Chí Minh",
+    "studentRegister": 27,
+    "studentAccepted": 0,
+    "maxRegister": 27,
+    "maxAcceptedStudent": 9,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": true,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "6811a4333890995d799d9757",
+        "name": "DTBK_D2_TTNT_HK243.pdf",
+        "path": "/company/62690991bbe74fe7122f915aDTBK_D2_TTNT_HK243.pdf"
+      }
+    ],
+    "work": "<p>DTBK</p>"
   },
   "62748bbabbe74fe7122fa52c": {
     "id": "62748bbabbe74fe7122fa52c",
@@ -590,7 +649,25 @@
     "image": "/img/company/62748bbabbe74fe7122fa52c.png?t=05408584",
     "level": 1,
     "width": 512,
-    "height": 512
+    "height": 512,
+    "address": "Dreamplex Nguyễn Trung Ngạn, tòa nhà Miss Áo Dài, 21 Nguyễn Trung Ngạn, quận 1, TP.HCM",
+    "studentRegister": 1,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "6811a3903890995d799d9754",
+        "name": "atWare_D2_TTNT_HK243.docx",
+        "path": "/company/62748bbabbe74fe7122fa52catWare_D2_TTNT_HK243.docx"
+      }
+    ],
+    "work": "Công ty TNHH atWare Việt Nam"
   },
   "628ef005bbe74fe7122fd281": {
     "id": "628ef005bbe74fe7122fd281",
