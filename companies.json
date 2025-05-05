@@ -2156,6 +2156,16 @@
         "_id": "680f33c13890995d799d9319",
         "name": "HTSC_D2&3_TTNT_HK243_V2.docx",
         "path": "/company/680b75f03890995d799d8ca4HTSC_D2&3_TTNT_HK243_V2.docx"
+      },
+      {
+        "_id": "6818678d841f239ff1b30702",
+        "name": "HTSC_D2&3_TTNT_HK243.pdf",
+        "path": "/company/680b75f03890995d799d8ca4HTSC_D2&3_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "68186791841f239ff1b30703",
+        "name": "HTSC_D3_TTNT_HK243.pdf",
+        "path": "/company/680b75f03890995d799d8ca4HTSC_D3_TTNT_HK243.pdf"
       }
     ],
     "work": ""
@@ -2170,7 +2180,7 @@
     "width": 512,
     "height": 248,
     "address": "244/31 Huỳnh Văn Bánh, Phường 11, Quận Phú Nhuận, Hồ Chí Minh",
-    "studentRegister": 15,
+    "studentRegister": 14,
     "studentAccepted": 0,
     "maxRegister": 15,
     "maxAcceptedStudent": 5,
