@@ -933,7 +933,7 @@
     "width": 512,
     "height": 512,
     "address": "Phòng B.207, số 33 Lương Minh Nguyệt, phường Tân Thới Hoà, quận Tân Phú, Thành phố Hồ Chí Minh",
-    "studentRegister": 1,
+    "studentRegister": 0,
     "studentAccepted": 0,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
@@ -947,6 +947,11 @@
         "_id": "6805beb1502455a6d360713d",
         "name": "CNNT.BK_D2&3_TTNT_HK243.pdf",
         "path": "/company/648fbcece6dfc5e17fdb5c45CNNT.BK_D2&3_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "68182e6e3890995d799da28b",
+        "name": "CNNT.BK_D2&3_TTNT_HK243_Signed.pdf",
+        "path": "/company/648fbcece6dfc5e17fdb5c45CNNT.BK_D2&3_TTNT_HK243_Signed.pdf"
       }
     ],
     "work": "Công ty TNHH Công nghệ Nền tảng BK"
