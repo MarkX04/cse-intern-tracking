@@ -131,7 +131,7 @@
     "width": 512,
     "height": 512,
     "address": "Lô T2, Đường D1 Khu Công nghệ Cao, P. Tân Phú, TP. Thủ Đức",
-    "studentRegister": 150,
+    "studentRegister": 149,
     "studentAccepted": 0,
     "maxRegister": 150,
     "maxAcceptedStudent": 50,
@@ -463,6 +463,34 @@
     ],
     "work": "<p>Công ty 100% vốn đầu tư Nhật Bản hoạt động trong lĩnh vực công nghệ thông tin/phần mềm. Cube System Vietnam cung cấp dịch vụ phát triển phần mềm và giải pháp công nghệ cho các khách hàng hoạt động trong nhiều lĩnh vực từ sản xuất, logistics tới giáo dục, tài chính...tại thị trường Việt Nam và Nhật Bản. Kế thừa DNA của công ty mẹ - Cube System INC, tại Việt Nam, với phương châm \"Khách hàng là số một\", \"Chủ nghĩa trọng điểm\", và \"Toàn nhân viên tham gia kinh doanh\", chúng tôi nuôi dưỡng những kỹ sư Việt Nam ưu tú - \"Kỹ sư hệ thống hướng đến khách hàng\" nhằm cống hiến cho sự nghiệp phát triển của hai quốc gia Việt - Nhật. Đi cùng với phương châm đó, Cube System hàng năm đều tổ chức chương trình trao học bổng KSYS - CUBE SYSTEM cho các sinh viên của trường Đại học Bách Khoa TPHCM, nhằm khuyến khích, hỗ trợ phát triển các nhân tài.</p>"
   },
+  "606d0b0087e8b4bd3d4b4b90": {
+    "id": "606d0b0087e8b4bd3d4b4b90",
+    "shortname": "AI Power",
+    "fullname": "AI POWER CO.,LTD",
+    "isSponsor": false,
+    "image": "/img/company/606d0b0087e8b4bd3d4b4b90.png?t=59039590",
+    "level": 1,
+    "width": 512,
+    "height": 195,
+    "address": "Tầng RF, Tòa nhà SABAY tầng 7, số 5 Đồng Nai, Phường 2, Quận Tân Bình TP. Hồ Chí Minh",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": true,
+    "active": true,
+    "description": "<p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "681956be841f239ff1b308a2",
+        "name": "AIPower_D2_TTNT_HK243.docx",
+        "path": "/company/606d0b0087e8b4bd3d4b4b90AIPower_D2_TTNT_HK243.docx"
+      }
+    ],
+    "work": "Web, App, AI"
+  },
   "607558f6ee96ff021b979bfe": {
     "id": "607558f6ee96ff021b979bfe",
     "shortname": "VNPT - TPHCM",
@@ -734,6 +762,34 @@
       }
     ],
     "work": "<p>CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ VGS</p>"
+  },
+  "643a13bae7ad7cc2b7230e76": {
+    "id": "643a13bae7ad7cc2b7230e76",
+    "shortname": "VIEROBOT",
+    "fullname": "CÔNG TY TNHH VIEROBOT",
+    "isSponsor": false,
+    "image": "/img/company/643a13bae7ad7cc2b7230e76.png?t=27881803",
+    "level": 1,
+    "width": 512,
+    "height": 224,
+    "address": "10/20 Đường số 30, Phường Linh Đông, TP Thủ Đức, TP Hồ Chí Minh",
+    "studentRegister": 3,
+    "studentAccepted": 0,
+    "maxRegister": 6,
+    "maxAcceptedStudent": 2,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "68195728841f239ff1b308a5",
+        "name": "VIEROBOT_D2_TTNT_HK243.pdf",
+        "path": "/company/643a13bae7ad7cc2b7230e76VIEROBOT_D2_TTNT_HK243.pdf"
+      }
+    ],
+    "work": "VieRobot Ltd., also VierCycle, a leading innovation and greentech company in the e-mobility market in\nSoutheast Asia.\nWe focus on:\n● AIOT Technologies\n● Industrial Design\n● High-Quality Products\n● Cloud Management Platform\n● Low Emissions and Sustainable Solution\nVisit us at\nhttps://www.facebook.com/vierobot\nhttps://www.facebook.com/viercycle\nhttps://www.linkedin.com/company/viercycle"
   },
   "6440fc60e7ad7cc2b7231a7d": {
     "id": "6440fc60e7ad7cc2b7231a7d",
@@ -1728,8 +1784,8 @@
     "width": 512,
     "height": 158,
     "address": "Số 6 Lê Lợi, P. Vĩnh Ninh, Q. Thuận Hóa, TP. Huế",
-    "studentRegister": 1,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 1,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
     "adminMaxRegister": 10,
@@ -2316,6 +2372,34 @@
         "_id": "6811a4f43890995d799d975b",
         "name": "TD_TanDuc_D2&3_TTNT_HK243.docx",
         "path": "/company/6810b6753890995d799d95b8TD_TanDuc_D2&3_TTNT_HK243.docx"
+      }
+    ],
+    "work": ""
+  },
+  "6818c2c6841f239ff1b307a2": {
+    "id": "6818c2c6841f239ff1b307a2",
+    "shortname": "XC - Xuân Cường",
+    "fullname": "Công ty TNHH TM & DV Công Nghệ Xuân Cường",
+    "isSponsor": false,
+    "image": "/img/company/6818c2c6841f239ff1b307a2.png?t=53282456",
+    "level": 1,
+    "width": 512,
+    "height": 276,
+    "address": "C7/13C10 Ấp 4, Xã Bình Hưng, Huyện Bình Chánh, TP.HCM",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "6819562e841f239ff1b308a1",
+        "name": "XC_D2_TTNT_HK243.pdf",
+        "path": "/company/6818c2c6841f239ff1b307a2XC_D2_TTNT_HK243.pdf"
       }
     ],
     "work": ""
