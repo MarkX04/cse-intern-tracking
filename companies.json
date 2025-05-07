@@ -1815,25 +1815,7 @@
     "image": "/img/company/680265d8502455a6d3606b7d.png?t=87780119",
     "level": 1,
     "width": 512,
-    "height": 158,
-    "address": "Số 6 Lê Lợi, P. Vĩnh Ninh, Q. Thuận Hóa, TP. Huế",
-    "studentRegister": 0,
-    "studentAccepted": 1,
-    "maxRegister": 1,
-    "maxAcceptedStudent": 1,
-    "adminMaxRegister": 10,
-    "acceptedIntern": true,
-    "subscribeAcceptedEmail": false,
-    "active": true,
-    "description": "<p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
-    "internshipFiles": [
-      {
-        "_id": "6805bf2a502455a6d360713e",
-        "name": "HueCIT_D2_TTNT_HK243.pdf",
-        "path": "/company/680265d8502455a6d3606b7dHueCIT_D2_TTNT_HK243.pdf"
-      }
-    ],
-    "work": ""
+    "height": 158
   },
   "6806576e502455a6d3607247": {
     "id": "6806576e502455a6d3607247",
