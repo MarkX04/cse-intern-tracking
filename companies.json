@@ -1344,8 +1344,8 @@
     "address": "SAV2, the Sun Avenue, 28 Mai Chí Thọ, An Phú, TP. Thủ Đức",
     "studentRegister": 9,
     "studentAccepted": 0,
-    "maxRegister": 9,
-    "maxAcceptedStudent": 3,
+    "maxRegister": 18,
+    "maxAcceptedStudent": 6,
     "adminMaxRegister": 10,
     "acceptedIntern": true,
     "subscribeAcceptedEmail": false,
@@ -1356,6 +1356,11 @@
         "_id": "681ab362841f239ff1b30afe",
         "name": "QX_QuestX_D2_TTNT_HK243.docx",
         "path": "/company/668b6a2bd2ff5fc162d1291bQX_QuestX_D2_TTNT_HK243.docx"
+      },
+      {
+        "_id": "681b0aef841f239ff1b30b96",
+        "name": "QX_QuestX_D2_TTNT_HK243.pdf",
+        "path": "/company/668b6a2bd2ff5fc162d1291bQX_QuestX_D2_TTNT_HK243.pdf"
       }
     ],
     "work": "<p>C&ocirc;ng ty TNHH QuestX&nbsp;kh&ocirc;ng chỉ l&agrave; một đơn vị chuy&ecirc;n về thiết kế Website, App, Phần mềm&nbsp;m&agrave; c&ograve;n hoạt động đa ng&agrave;n.&nbsp;&nbsp;Bao gồm c&aacute;c lĩnh vực c&ocirc;ng nghệ th&ocirc;ng tin, tiếp thị v&agrave; tư vấn kinh doanh.<br />\nCh&uacute;ng t&ocirc;i kh&ocirc;ng ngừng đa dạng h&oacute;a v&agrave; mở rộng hoạt động để đ&aacute;p ứng nhu cầu đa dạng của kh&aacute;ch h&agrave;ng v&agrave; mang lại gi&aacute; trị tốt nhất.<br />\nWebsite:&nbsp;<a href=\"https://questx.com.vn/\">https://questx.com.vn/</a>&nbsp;<br />\nHomeNest:&nbsp;<a href=\"https://homenest.com.vn/\">https://homenest.com.vn/</a><br />\nEmail:&nbsp;tuyendung.questx@gmail.com<br />\nĐT: 0898 994 298</p>\n"
