@@ -9,7 +9,7 @@
     "width": 512,
     "height": 512,
     "address": "766/3G đường Sư Vạn Hạnh, phường 12, quận 10, TPHCM",
-    "studentRegister": 25,
+    "studentRegister": 24,
     "studentAccepted": 6,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
@@ -247,7 +247,7 @@
     "width": 512,
     "height": 112,
     "address": "53-55-57 Phó Đức Chính, P. Nguyễn Thái Bình, Q.1, TP.HCM",
-    "studentRegister": 59,
+    "studentRegister": 60,
     "studentAccepted": 0,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -595,7 +595,7 @@
     "width": 512,
     "height": 307,
     "address": "Sài Gòn Villas Hill, 99 Lê Văn Việt, P. Tăng Phú Nhơn A, TP. Thủ Đức, TP. Hồ Chí Minh, Việt Nam",
-    "studentRegister": 29,
+    "studentRegister": 30,
     "studentAccepted": 0,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
@@ -672,7 +672,7 @@
         "path": "/company/62690991bbe74fe7122f915aDTBK_D2_TTNT_HK243.pdf"
       }
     ],
-    "work": "<p>DTBK</p>"
+    "work": "<p style=\"margin-left:17.85pt;text-align:justify;\">Công ty Cổ phần Kỹ thuật Điện Toán Bách Khoa được thành lập vào tháng 10 năm 2016 bởi một nhóm nhà khoa học trẻ là những kĩ sư/thạc sĩ/tiến sĩ và cũng là những cựu sinh viên của trường Đại học Bách Khoa, nhằm nghiên cứu những giải pháp và ứng dụng các công nghệ tiên tiến vào cuộc sống, với hoài bão góp phần tích cực vào công cuộc chuyển đổi, công nghiệp 4.0, hiện đại hóa quê hương Việt Nam.</p><p style=\"margin-left:17.85pt;text-align:justify;\">Trong suốt quá trình hoạt động, công ty luôn nhạy bén, đi đầu trong việc nhắm bắt, giới thiệu, cung cấp thiết bị hiện đại, dịch vụ kỹ thuật cao, giải pháp tích hợp và chuyển giao công nghệ, công ty có lĩnh hoạt động vừa đa dạng, vừa chuyên sâu, được đối tác và khách hàng tín nhiệm.</p><p style=\"margin-left:17.85pt;text-align:justify;\">Công ty Cổ phần Kỹ thuật Điện toán Bách Khoa hiện đang là một trong những doanh nghiệp đang đi đầu trong lĩnh vực công nghệ về trí tuệ nhân tạo. Với đội ngũ nhân viên có trình độ cao, nhiệt tình, giàu kinh nghiệm, trẻ tuổi và sáng tạo trong công việc. Bên cạnh đó bộ máy tổ chức năng động và chuyên nghiệp, nguồn tài chính lành mạnh, các thành viên của công ty luôn được các đối tác, khách hàng trong và ngoài nước tin tưởng, đánh giá cao. Không những hoạt động trong lĩnh vực trí tuệ nhân tạo, doanh nghiệp còn cung cấp các giải pháp tổng thể, triển khai kinh doanh và cung cấp dịch vụ chuyên nghiệp về công nghệ với trọng tâm là mang đến sự hài lòng nhất cho khách hàng.</p>"
   },
   "62748bbabbe74fe7122fa52c": {
     "id": "62748bbabbe74fe7122fa52c",
@@ -834,7 +834,7 @@
     "width": 512,
     "height": 512,
     "address": "Tầng 3, Tòa nhà Vina Giầy, 180-182 Lý Chính Thắng, P.9, Q.3, TP.HCM",
-    "studentRegister": 44,
+    "studentRegister": 45,
     "studentAccepted": 0,
     "maxRegister": 45,
     "maxAcceptedStudent": 15,
@@ -1116,7 +1116,7 @@
     "width": 512,
     "height": 216,
     "address": "Tầng 11, tòa nhà Vina, 131 Xô Viết Nghệ Tĩnh, Phường 17, Quận Bình Thạnh, TP. Hồ Chí Minh",
-    "studentRegister": 29,
+    "studentRegister": 30,
     "studentAccepted": 0,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
