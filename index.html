@@ -170,7 +170,9 @@
         const tr = document.createElement('tr');
         const studentRegister = parseInt(company.studentRegister || 0);
         const maxRegister = parseInt(company.maxRegister || 0);
-        const rowBgClass = (studentRegister >= maxRegister) ? 'bg-red-100' : 'bg-green-100';
+        const rowBgClass = (studentRegister >= maxRegister) ? 'bg-red-100' : 
+               (company.studentAccepted === company.maxAcceptedStudent) ? 'bg-yellow-100' : 
+               'bg-green-100';
         tr.classList.add(rowBgClass, 'hover:bg-gray-100', 'cursor-pointer');
   
         tr.innerHTML = `
