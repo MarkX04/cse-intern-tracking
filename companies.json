@@ -37,7 +37,7 @@
     "width": 512,
     "height": 111,
     "address": "Tầng 9, Cao Ốc Tuổi Trẻ, 60A Hoàng Văn Thụ, phường 9, quận Phú Nhuận, TPHCM",
-    "studentRegister": 6,
+    "studentRegister": 5,
     "studentAccepted": 0,
     "maxRegister": 6,
     "maxAcceptedStudent": 2,
@@ -131,7 +131,7 @@
     "width": 512,
     "height": 512,
     "address": "Lô T2, Đường D1 Khu Công nghệ Cao, P. Tân Phú, TP. Thủ Đức",
-    "studentRegister": 149,
+    "studentRegister": 147,
     "studentAccepted": 0,
     "maxRegister": 150,
     "maxAcceptedStudent": 50,
@@ -515,6 +515,11 @@
         "_id": "681956be841f239ff1b308a2",
         "name": "AIPower_D2_TTNT_HK243.docx",
         "path": "/company/606d0b0087e8b4bd3d4b4b90AIPower_D2_TTNT_HK243.docx"
+      },
+      {
+        "_id": "681c58d8841f239ff1b30ddb",
+        "name": "AIPower_D2&3_TTNT_HK243.pdf",
+        "path": "/company/606d0b0087e8b4bd3d4b4b90AIPower_D2&3_TTNT_HK243.pdf"
       }
     ],
     "work": "Web, App, AI"
@@ -1647,7 +1652,7 @@
     "width": 512,
     "height": 178,
     "address": "133/38/14 Trần Thị Trọng, P.15, Q.Tân Bình, TP.Hồ Chí Minh",
-    "studentRegister": 6,
+    "studentRegister": 5,
     "studentAccepted": 0,
     "maxRegister": 6,
     "maxAcceptedStudent": 2,
@@ -2109,8 +2114,8 @@
     "width": 512,
     "height": 512,
     "address": "Tầng 6 Tòa nhà VCN Tower, số 2 Đường Tố Hữu, Phường Phước Hải, Thành  phố Nha Trang, Tỉnh Khánh Hòa",
-    "studentRegister": 19,
-    "studentAccepted": 7,
+    "studentRegister": 16,
+    "studentAccepted": 10,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
     "adminMaxRegister": 10,
@@ -2236,7 +2241,7 @@
     "width": 512,
     "height": 374,
     "address": "VP1: 31-33 Đ. Nguyễn Văn Đậu, Phường 6, Quận Bình Thạnh, Thành phố Hồ Chí Minh; VP2: C0013, Sarina Apt, 62 Hoàng Thế Thiện, An Lợi Đông, Thủ Đức, Thành phố Hồ Chí Minh",
-    "studentRegister": 10,
+    "studentRegister": 9,
     "studentAccepted": 0,
     "maxRegister": 12,
     "maxAcceptedStudent": 4,
