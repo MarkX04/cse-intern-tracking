@@ -247,7 +247,7 @@
     "width": 512,
     "height": 112,
     "address": "53-55-57 Phó Đức Chính, P. Nguyễn Thái Bình, Q.1, TP.HCM",
-    "studentRegister": 59,
+    "studentRegister": 60,
     "studentAccepted": 0,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -302,6 +302,34 @@
       }
     ],
     "work": "Digital Consulting - Digital innovation - Digital Venture"
+  },
+  "5cbe7f43a03f03365f3adcba": {
+    "id": "5cbe7f43a03f03365f3adcba",
+    "shortname": "GEEK Up",
+    "fullname": "Công ty Cổ phần Công nghệ GEEK Up",
+    "isSponsor": false,
+    "image": "/img/company/5cbe7f43a03f03365f3adcba.png?t=96596903",
+    "level": 1,
+    "width": 512,
+    "height": 152,
+    "address": "27B/9 Nguyễn Đình Chiểu, P. Đa Kao, Q1, TPHCM",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 60,
+    "maxAcceptedStudent": 20,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "681c03d2841f239ff1b30d45",
+        "name": "GEEKup_D2_TTNT_HK243.docx",
+        "path": "/company/5cbe7f43a03f03365f3adcbaGEEKup_D2_TTNT_HK243.docx"
+      }
+    ],
+    "work": "Software Product Development"
   },
   "5cdfc49d4712e2108a871263": {
     "id": "5cdfc49d4712e2108a871263",
@@ -656,7 +684,7 @@
     "width": 512,
     "height": 588,
     "address": "437/16 Hoàng Văn Thụ, phường 4, quận Tân Bình, TP. Hồ Chí Minh",
-    "studentRegister": 26,
+    "studentRegister": 27,
     "studentAccepted": 0,
     "maxRegister": 27,
     "maxAcceptedStudent": 9,
@@ -673,6 +701,34 @@
       }
     ],
     "work": "<p style=\"margin-left:17.85pt;text-align:justify;\">Công ty Cổ phần Kỹ thuật Điện Toán Bách Khoa được thành lập vào tháng 10 năm 2016 bởi một nhóm nhà khoa học trẻ là những kĩ sư/thạc sĩ/tiến sĩ và cũng là những cựu sinh viên của trường Đại học Bách Khoa, nhằm nghiên cứu những giải pháp và ứng dụng các công nghệ tiên tiến vào cuộc sống, với hoài bão góp phần tích cực vào công cuộc chuyển đổi, công nghiệp 4.0, hiện đại hóa quê hương Việt Nam.</p><p style=\"margin-left:17.85pt;text-align:justify;\">Trong suốt quá trình hoạt động, công ty luôn nhạy bén, đi đầu trong việc nhắm bắt, giới thiệu, cung cấp thiết bị hiện đại, dịch vụ kỹ thuật cao, giải pháp tích hợp và chuyển giao công nghệ, công ty có lĩnh hoạt động vừa đa dạng, vừa chuyên sâu, được đối tác và khách hàng tín nhiệm.</p><p style=\"margin-left:17.85pt;text-align:justify;\">Công ty Cổ phần Kỹ thuật Điện toán Bách Khoa hiện đang là một trong những doanh nghiệp đang đi đầu trong lĩnh vực công nghệ về trí tuệ nhân tạo. Với đội ngũ nhân viên có trình độ cao, nhiệt tình, giàu kinh nghiệm, trẻ tuổi và sáng tạo trong công việc. Bên cạnh đó bộ máy tổ chức năng động và chuyên nghiệp, nguồn tài chính lành mạnh, các thành viên của công ty luôn được các đối tác, khách hàng trong và ngoài nước tin tưởng, đánh giá cao. Không những hoạt động trong lĩnh vực trí tuệ nhân tạo, doanh nghiệp còn cung cấp các giải pháp tổng thể, triển khai kinh doanh và cung cấp dịch vụ chuyên nghiệp về công nghệ với trọng tâm là mang đến sự hài lòng nhất cho khách hàng.</p>"
+  },
+  "626bcf4abbe74fe7122f962d": {
+    "id": "626bcf4abbe74fe7122f962d",
+    "shortname": "SiGlaz",
+    "fullname": "Công ty TNHH SiGlaz Việt Nam (SiGlazVN Ltd.)",
+    "isSponsor": false,
+    "image": "/img/company/626bcf4abbe74fe7122f962d.png?t=95654339",
+    "level": 1,
+    "width": 512,
+    "height": 247,
+    "address": "20C2, đường số 69, Khu dân cư Tân Quy Đông, Tân Phong, Q7, TpHCM",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 12,
+    "maxAcceptedStudent": 4,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b\"><strong>Chương tr&igrave;nh TTNT HK233 (CS&amp;CE).</strong></span></p>\n\n<p><span style=\"color:#c0392b\"><strong>=&gt; Chương tr&igrave;nh đ&atilde; nhận đủ SV -&gt; Đề nghị SV kh&ocirc;ng gửi đăng k&yacute;, email cho DN nữa.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "681c021a841f239ff1b30d3f",
+        "name": "SiGlaz_D2_TTNT_HK243.docx",
+        "path": "/company/626bcf4abbe74fe7122f962dSiGlaz_D2_TTNT_HK243.docx"
+      }
+    ],
+    "work": "Công ty TNHH SiGlaz Việt Nam (SiGlazVN Ltd.)"
   },
   "62748bbabbe74fe7122fa52c": {
     "id": "62748bbabbe74fe7122fa52c",
@@ -787,6 +843,11 @@
         "_id": "68195728841f239ff1b308a5",
         "name": "VIEROBOT_D2_TTNT_HK243.pdf",
         "path": "/company/643a13bae7ad7cc2b7230e76VIEROBOT_D2_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "681bfafa841f239ff1b30d30",
+        "name": "VIEROBOT_D2_TTNT_HK243_Signed.pdf",
+        "path": "/company/643a13bae7ad7cc2b7230e76VIEROBOT_D2_TTNT_HK243_Signed.pdf"
       }
     ],
     "work": "VieRobot Ltd., also VierCycle, a leading innovation and greentech company in the e-mobility market in\nSoutheast Asia.\nWe focus on:\n● AIOT Technologies\n● Industrial Design\n● High-Quality Products\n● Cloud Management Platform\n● Low Emissions and Sustainable Solution\nVisit us at\nhttps://www.facebook.com/vierobot\nhttps://www.facebook.com/viercycle\nhttps://www.linkedin.com/company/viercycle"
@@ -1342,7 +1403,7 @@
     "width": 512,
     "height": 511,
     "address": "SAV2, the Sun Avenue, 28 Mai Chí Thọ, An Phú, TP. Thủ Đức",
-    "studentRegister": 12,
+    "studentRegister": 15,
     "studentAccepted": 3,
     "maxRegister": 18,
     "maxAcceptedStudent": 6,
@@ -1591,8 +1652,8 @@
     "width": 512,
     "height": 146,
     "address": "1-12-3 Tenjin, Chuo-ku, Niigata-shi, Niigata",
-    "studentRegister": 1,
-    "studentAccepted": 1,
+    "studentRegister": 0,
+    "studentAccepted": 2,
     "maxRegister": 2,
     "maxAcceptedStudent": 2,
     "adminMaxRegister": 10,
@@ -2208,7 +2269,7 @@
     "width": 512,
     "height": 374,
     "address": "VP1: 31-33 Đ. Nguyễn Văn Đậu, Phường 6, Quận Bình Thạnh, Thành phố Hồ Chí Minh; VP2: C0013, Sarina Apt, 62 Hoàng Thế Thiện, An Lợi Đông, Thủ Đức, Thành phố Hồ Chí Minh",
-    "studentRegister": 11,
+    "studentRegister": 12,
     "studentAccepted": 0,
     "maxRegister": 12,
     "maxAcceptedStudent": 4,
@@ -2433,6 +2494,34 @@
         "_id": "6819562e841f239ff1b308a1",
         "name": "XC_D2_TTNT_HK243.pdf",
         "path": "/company/6818c2c6841f239ff1b307a2XC_D2_TTNT_HK243.pdf"
+      }
+    ],
+    "work": ""
+  },
+  "681c0321841f239ff1b30d40": {
+    "id": "681c0321841f239ff1b30d40",
+    "shortname": "Bosch",
+    "fullname": "Công ty TNHH Bosch Global Software Technologies",
+    "isSponsor": false,
+    "image": "/img/company/681c0321841f239ff1b30d40.png?t=66339286",
+    "level": 1,
+    "width": 512,
+    "height": 512,
+    "address": "Etown, 364 Cộng Hòa, P. 13, Q. Tân Bình, TP.HCM",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "681c036e841f239ff1b30d44",
+        "name": "Bosch_D2&3_TTNT_HK243.docx",
+        "path": "/company/681c0321841f239ff1b30d40Bosch_D2&3_TTNT_HK243.docx"
       }
     ],
     "work": ""
