@@ -473,7 +473,7 @@
     "width": 512,
     "height": 116,
     "address": "Tầng 4, Tòa nhà văn phòng ICT2, CVPM Quang Trung, Phường Tân Chánh Hiệp, Quận 12, Tp.HCM",
-    "studentRegister": 19,
+    "studentRegister": 20,
     "studentAccepted": 2,
     "maxRegister": 21,
     "maxAcceptedStudent": 7,
@@ -736,6 +736,11 @@
         "_id": "681c021a841f239ff1b30d3f",
         "name": "SiGlaz_D2_TTNT_HK243.docx",
         "path": "/company/626bcf4abbe74fe7122f962dSiGlaz_D2_TTNT_HK243.docx"
+      },
+      {
+        "_id": "681da7d9841f239ff1b3101f",
+        "name": "Siglaz_D2_TTNT_HK243.pdf",
+        "path": "/company/626bcf4abbe74fe7122f962dSiglaz_D2_TTNT_HK243.pdf"
       }
     ],
     "work": "Công ty TNHH SiGlaz Việt Nam (SiGlazVN Ltd.)"
