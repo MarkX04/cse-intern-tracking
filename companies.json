@@ -600,7 +600,7 @@
     "width": 512,
     "height": 484,
     "address": "Tầng 3, Phòng 301, 57 Lê Thị Hồng Gấm, P. Nguyễn Thái Bình, Quận 1. TP. Hồ Chí Minh",
-    "studentRegister": 12,
+    "studentRegister": 11,
     "studentAccepted": 0,
     "maxRegister": 12,
     "maxAcceptedStudent": 4,
@@ -895,6 +895,34 @@
     ],
     "work": "Về tập đoàn TecAlliance\nTecAlliance đã và đang thúc đẩy quá trình chuyển đổi kỹ thuật số trong thị trường hậu mãi ôtô.\nTrong hơn 20 năm, chúng tôi đã thiết lập các tiêu chuẩn trong thị trường hậu mãi ô tô trên phạm vi toàn cầu; với tư cách là nhà đổi mới kỹ thuật số và nhà cung cấp các giải pháp hàng đầu. Chúng tôi nổi bật nhờ hiểu biết chuyên sâu về ngành, cũng như yêu cầu của chúng tôi về chất lượng và bảo mật cao nhất dựa trên các công nghệ bền vững.  \n•\tHơn 30 năm kinh nghiệm\n•\tHơn 900 nhân viên trên toàn thế giới\n•\tCó mặt hơn 140 quốc gia & trên 6 châu lục \n•\t35 ngôn ngữ\n•\t7,5 triệu bài viết từ hơn 700 thương hiệu\n•\t4 triệu hướng dẫn sửa chữa\n\nTecAlliance Việt Nam: Là trung tâm phát triển phần mềm thứ 3 trên thế giới của TecAlliance (02 trung tâm còn lại ở Đức và Tenerife – Tây Ban Nha)\n•\tThành lập từ tháng 04.2021\n•\tĐịa chỉ: Tầng 6, Tòa nhà D.C., số 111D Lý Chính Thắng, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh, Việt Nam\n•\tWebsite: www.tecalliance.net\n•\tFacebook:  TecAlliance Vietnam (link: https://www.facebook.com/profile.php?id=100083131396627 \n•\tSố lượng kỹ sư phần mềm tại Việt Nam: 30-60\n•\tCác công nghệ đang sử dụng:\n1) C#; Angular\t\t        2) Selenium; Serenity\n3) Java\t\t\t\t4) Javascript\n5) Big Data\t\t\t6) DevOps\n7) Python; \t\t\t8) Machine Learning \n9) Cloud; AWS\t\t       10) Spacy"
   },
+  "6440fc63e7ad7cc2b7231a81": {
+    "id": "6440fc63e7ad7cc2b7231a81",
+    "shortname": "NOVENTIQ",
+    "fullname": "Công ty TNHH Noventiq Việt Nam",
+    "isSponsor": false,
+    "image": "/img/company/6440fc63e7ad7cc2b7231a81.png?t=99992521",
+    "level": 1,
+    "width": 512,
+    "height": 87,
+    "address": "Tòa nhà Phượng Long 2, 16 Nguyễn Trường Tộ, Phường 13, Quận 4, TP. Hồ Chí Minh",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 2,
+    "maxAcceptedStudent": 2,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "681d5982841f239ff1b30f97",
+        "name": "NVT_Noventiq_D2_TTNT_HK243.docx",
+        "path": "/company/6440fc63e7ad7cc2b7231a81NVT_Noventiq_D2_TTNT_HK243.docx"
+      }
+    ],
+    "work": "Công ty TNHH SL International"
+  },
   "644b346ce7ad7cc2b7232c45": {
     "id": "644b346ce7ad7cc2b7232c45",
     "shortname": "IVS - IndiviSys - Indivisual System",
@@ -1187,7 +1215,7 @@
     "width": 512,
     "height": 216,
     "address": "Tầng 11, tòa nhà Vina, 131 Xô Viết Nghệ Tĩnh, Phường 17, Quận Bình Thạnh, TP. Hồ Chí Minh",
-    "studentRegister": 29,
+    "studentRegister": 28,
     "studentAccepted": 0,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
@@ -2429,20 +2457,30 @@
     "width": 512,
     "height": 331,
     "address": "103 Pasteur, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",
-    "studentRegister": 1,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 1,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
     "adminMaxRegister": 10,
     "acceptedIntern": true,
     "subscribeAcceptedEmail": false,
     "active": true,
-    "description": "<p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p>",
+    "description": "<p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
     "internshipFiles": [
       {
         "_id": "6811a4f43890995d799d975b",
         "name": "TD_TanDuc_D2&3_TTNT_HK243.docx",
         "path": "/company/6810b6753890995d799d95b8TD_TanDuc_D2&3_TTNT_HK243.docx"
+      },
+      {
+        "_id": "681d6553841f239ff1b30fad",
+        "name": "TD_TanDuc_D2&3_TTNT_HK243.pdf",
+        "path": "/company/6810b6753890995d799d95b8TD_TanDuc_D2&3_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "681d6558841f239ff1b30fae",
+        "name": "TD_TanDuc_D3_TTNT_HK243.pdf",
+        "path": "/company/6810b6753890995d799d95b8TD_TanDuc_D3_TTNT_HK243.pdf"
       }
     ],
     "work": ""
@@ -2499,6 +2537,34 @@
         "_id": "681c036e841f239ff1b30d44",
         "name": "Bosch_D2&3_TTNT_HK243.docx",
         "path": "/company/681c0321841f239ff1b30d40Bosch_D2&3_TTNT_HK243.docx"
+      }
+    ],
+    "work": ""
+  },
+  "681c95bc841f239ff1b30e45": {
+    "id": "681c95bc841f239ff1b30e45",
+    "shortname": "EC - EyeCode",
+    "fullname": "Công Ty TNHH Kinh Doanh và Cung Cấp Giải Pháp Công Nghệ EyeCode",
+    "isSponsor": false,
+    "image": "/img/company/681c95bc841f239ff1b30e45.jpg?t=03911271",
+    "level": 1,
+    "width": 512,
+    "height": 370,
+    "address": "85 Trần Phú, quận Hải Châu, thành phố Đà Nẵng",
+    "studentRegister": 1,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "681d5a0c841f239ff1b30f98",
+        "name": "EC_D2&3_TTNT_HK243.docx",
+        "path": "/company/681c95bc841f239ff1b30e45EC_D2&3_TTNT_HK243.docx"
       }
     ],
     "work": ""
