@@ -247,8 +247,8 @@
     "width": 512,
     "height": 112,
     "address": "53-55-57 Phó Đức Chính, P. Nguyễn Thái Bình, Q.1, TP.HCM",
-    "studentRegister": 60,
-    "studentAccepted": 0,
+    "studentRegister": 56,
+    "studentAccepted": 4,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
     "adminMaxRegister": 10,
@@ -730,7 +730,7 @@
     "acceptedIntern": true,
     "subscribeAcceptedEmail": false,
     "active": true,
-    "description": "<p><span style=\"color:#c0392b\"><strong>Chương tr&igrave;nh TTNT HK233 (CS&amp;CE).</strong></span></p>\n\n<p><span style=\"color:#c0392b\"><strong>=&gt; Chương tr&igrave;nh đ&atilde; nhận đủ SV -&gt; Đề nghị SV kh&ocirc;ng gửi đăng k&yacute;, email cho DN nữa.</strong></span></p>",
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p>",
     "internshipFiles": [
       {
         "_id": "681c021a841f239ff1b30d3f",
@@ -933,7 +933,7 @@
     "width": 512,
     "height": 512,
     "address": "Tầng 3, Tòa nhà Vina Giầy, 180-182 Lý Chính Thắng, P.9, Q.3, TP.HCM",
-    "studentRegister": 45,
+    "studentRegister": 44,
     "studentAccepted": 0,
     "maxRegister": 45,
     "maxAcceptedStudent": 15,
