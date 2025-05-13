@@ -39,8 +39,8 @@
     "address": "Tầng 9, Cao Ốc Tuổi Trẻ, 60A Hoàng Văn Thụ, phường 9, quận Phú Nhuận, TPHCM",
     "studentRegister": 7,
     "studentAccepted": 3,
-    "maxRegister": 9,
-    "maxAcceptedStudent": 3,
+    "maxRegister": 12,
+    "maxAcceptedStudent": 4,
     "adminMaxRegister": 10,
     "acceptedIntern": true,
     "subscribeAcceptedEmail": true,
@@ -743,7 +743,7 @@
         "path": "/company/626bcf4abbe74fe7122f962dSiglaz_D2_TTNT_HK243.pdf"
       }
     ],
-    "work": "Công ty TNHH SiGlaz Việt Nam (SiGlazVN Ltd.)"
+    "work": "<p style=\"margin-left:18pt;text-align:justify;\"><span style=\"background-color:transparent;color:#000000;\">Chúng tôi - Công ty TNHH SiGlaz Việt Nam (</span><a href=\"http://www.siglaz.com\"><span style=\"background-color:transparent;color:#1155cc;\"><u>http://www.siglaz.com</u></span></a><span style=\"background-color:transparent;color:#000000;\">) trụ sở chính ở Walnut Creek, CA, USA từ năm 2005. SiGlaz cung cấp:</span></p><ul><li><span style=\"background-color:transparent;color:#000000;\">Các giải pháp phần mềm cho các ngành công nghệ sản xuất bán dẫn, màn hình phẳng, pin mặt trời, đĩa cứng và các ngành công nghệ cao khác.&nbsp;</span></li><li><span style=\"background-color:transparent;color:#000000;\">Sử dụng trí tuệ nhân tạo, thị giác máy tính, phân tích xử lý ảnh, phân tích dữ liệu đa chiều, dữ liệu không gian, dữ liệu lớn cùng với rất nhiều thuật toán, thuật giải để xây dựng các phần mềm phục vụ các tác vụ quản lý chất lượng và tầm soát lỗi của các sản phẩm trong nhà máy bằng việc&nbsp; phân tích khối lượng dữ liệu lớn trích xuất từ các công cụ đo lường với độ chính xác rất cao.</span></li><li><span style=\"background-color:transparent;color:#000000;\">Các hệ thống phân tích và quản lý dữ liệu đa nền tảng cho các doanh nghiệp thuộc nhiều lĩnh vực khác nhau.</span></li></ul><p style=\"margin-left:18pt;text-align:justify;\"><span style=\"background-color:transparent;color:#000000;\">Khoa Khoa Học và Kỹ Thuật&nbsp; Máy Tính, Trường Đại Học Bách Khoa - ĐHQG TPHCM là một trong những nơi đào tạo cung cấp nguồn nhân lực với các kỹ năng phù hợp để đồng hành lâu dài cùng chúng tôi giúp nâng cao chất lượng sản phẩm nhằm đáp ứng khối lượng công việc ngày càng nhiều, yêu cầu chất lượng ngày càng cao từ khách hàng. Chúng tôi mong muốn có sự hợp tác lâu dài cùng quý Khoa và các bạn sinh viên.</span></p><p><br>&nbsp;</p>"
   },
   "62748bbabbe74fe7122fa52c": {
     "id": "62748bbabbe74fe7122fa52c",
