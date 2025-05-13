@@ -346,7 +346,7 @@
     "width": 512,
     "height": 446,
     "address": "Lầu 5, tòa nhà Scetpa, 19A Cộng Hòa, P12, Q. Tân Bình, TPHCM",
-    "studentRegister": 6,
+    "studentRegister": 5,
     "studentAccepted": 3,
     "maxRegister": 9,
     "maxAcceptedStudent": 3,
@@ -1077,13 +1077,13 @@
     "address": "Số 2 Nguyễn Huy Lượng, Phường 14, quận Bình Thạnh, TPHCM",
     "studentRegister": 0,
     "studentAccepted": 1,
-    "maxRegister": 3,
+    "maxRegister": 0,
     "maxAcceptedStudent": 1,
     "adminMaxRegister": 10,
     "acceptedIntern": true,
     "subscribeAcceptedEmail": false,
     "active": true,
-    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p>",
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
     "internshipFiles": [
       {
         "_id": "67ff1363502455a6d36065b4",
@@ -1094,6 +1094,11 @@
         "_id": "68078ae6502455a6d360745f",
         "name": "M2_D2_TTNT_HK243_Signed.pdf",
         "path": "/company/646c2701e7ad7cc2b723655aM2_D2_TTNT_HK243_Signed.pdf"
+      },
+      {
+        "_id": "68230fea841f239ff1b31970",
+        "name": "M2_D3_TTNT_HK243.pdf",
+        "path": "/company/646c2701e7ad7cc2b723655aM2_D3_TTNT_HK243.pdf"
       }
     ],
     "work": "Công ty TNHH M2 VIETNAM"
@@ -1621,7 +1626,7 @@
     "width": 512,
     "height": 90,
     "address": "F04, Lô I-4A, Khu công nghệ cao TP. Hồ Chí Minh, phường Long Thạnh Mỹ, TP. Thủ Đức",
-    "studentRegister": 12,
+    "studentRegister": 11,
     "studentAccepted": 0,
     "maxRegister": 12,
     "maxAcceptedStudent": 4,
@@ -2632,8 +2637,8 @@
     "width": 512,
     "height": 370,
     "address": "85 Trần Phú, quận Hải Châu, thành phố Đà Nẵng",
-    "studentRegister": 1,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 1,
     "maxRegister": 2,
     "maxAcceptedStudent": 2,
     "adminMaxRegister": 10,
@@ -2651,6 +2656,11 @@
         "_id": "68230b05841f239ff1b31965",
         "name": "EC_D2&3_TTNT_HK243_NamND.docx",
         "path": "/company/681c95bc841f239ff1b30e45EC_D2&3_TTNT_HK243_NamND.docx"
+      },
+      {
+        "_id": "68230e0f841f239ff1b3196c",
+        "name": "EC_D2&3_TTNT_HK243_BaoHTC.pdf",
+        "path": "/company/681c95bc841f239ff1b30e45EC_D2&3_TTNT_HK243_BaoHTC.pdf"
       }
     ],
     "work": ""
