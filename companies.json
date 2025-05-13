@@ -131,7 +131,7 @@
     "width": 512,
     "height": 512,
     "address": "Lô T2, Đường D1 Khu Công nghệ Cao, P. Tân Phú, TP. Thủ Đức",
-    "studentRegister": 130,
+    "studentRegister": 131,
     "studentAccepted": 14,
     "maxRegister": 150,
     "maxAcceptedStudent": 50,
@@ -539,7 +539,7 @@
     "width": 512,
     "height": 590,
     "address": "12/1 Nguyễn Thị Minh Khai, P. Đa Kao, Quận 1, TP.HCM",
-    "studentRegister": 57,
+    "studentRegister": 58,
     "studentAccepted": 0,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -948,7 +948,7 @@
     "width": 512,
     "height": 512,
     "address": "Tầng 3, Tòa nhà Vina Giầy, 180-182 Lý Chính Thắng, P.9, Q.3, TP.HCM",
-    "studentRegister": 44,
+    "studentRegister": 45,
     "studentAccepted": 0,
     "maxRegister": 45,
     "maxAcceptedStudent": 15,
@@ -1296,7 +1296,7 @@
     "width": 512,
     "height": 304,
     "address": "55-57 Bau Cat 4 St., Tan Binh Dist., Ho Chi Minh City, Vietnam",
-    "studentRegister": 10,
+    "studentRegister": 11,
     "studentAccepted": 2,
     "maxRegister": 15,
     "maxAcceptedStudent": 5,
@@ -2634,8 +2634,8 @@
     "address": "85 Trần Phú, quận Hải Châu, thành phố Đà Nẵng",
     "studentRegister": 1,
     "studentAccepted": 0,
-    "maxRegister": 1,
-    "maxAcceptedStudent": 1,
+    "maxRegister": 2,
+    "maxAcceptedStudent": 2,
     "adminMaxRegister": 10,
     "acceptedIntern": true,
     "subscribeAcceptedEmail": false,
@@ -2646,6 +2646,11 @@
         "_id": "681d5a0c841f239ff1b30f98",
         "name": "EC_D2&3_TTNT_HK243.docx",
         "path": "/company/681c95bc841f239ff1b30e45EC_D2&3_TTNT_HK243.docx"
+      },
+      {
+        "_id": "68230b05841f239ff1b31965",
+        "name": "EC_D2&3_TTNT_HK243_NamND.docx",
+        "path": "/company/681c95bc841f239ff1b30e45EC_D2&3_TTNT_HK243_NamND.docx"
       }
     ],
     "work": ""
