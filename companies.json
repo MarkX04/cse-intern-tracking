@@ -192,8 +192,8 @@
     "width": 512,
     "height": 122,
     "address": "Tầng 4, tòa nhà Huy Sơn, số 7 - 9 - 11 đường Mai Thị Lựu, phường Đa Kao, quận 1, thành phố Hồ Chí Minh, Việt Nam",
-    "studentRegister": 3,
-    "studentAccepted": 0,
+    "studentRegister": 2,
+    "studentAccepted": 1,
     "maxRegister": 9,
     "maxAcceptedStudent": 3,
     "adminMaxRegister": 10,
@@ -247,7 +247,7 @@
     "width": 512,
     "height": 512,
     "address": "Tầng 3B, Tòa nhà Scetpa, 19A Cộng Hòa, Tân Bình, HCM",
-    "studentRegister": 15,
+    "studentRegister": 14,
     "studentAccepted": 2,
     "maxRegister": 15,
     "maxAcceptedStudent": 5,
@@ -1460,6 +1460,11 @@
         "_id": "68240952841f239ff1b31b24",
         "name": "BOS_D2_TTNT_HK243_CE.docx",
         "path": "/company/6657e01e24c9a126993b7c98BOS_D2_TTNT_HK243_CE.docx"
+      },
+      {
+        "_id": "68245cb7841f239ff1b31bb7",
+        "name": "BOS_D2_TTNT_HK243_CE.pdf",
+        "path": "/company/6657e01e24c9a126993b7c98BOS_D2_TTNT_HK243_CE.pdf"
       }
     ],
     "work": "<p style=\"margin-left:0in; margin-right:0in; text-align:justify\"><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Welcome to BOS Semiconductors, where innovation meets mobility. With a visionary focus on &quot;Leading mobility innovation with system semiconductors&rdquo;, we specialize in <strong>autonomous driving SOC, Mega MCU, and Gateway SOC</strong> for the <strong>automotive domain</strong>. Backed by seed funding from Hyundai Motors and ongoing support from diverse venture capitalists, we are committed to offering comprehensive solutions encompassing semiconductor and software design. </span></span></p>\n\n<p style=\"margin-left:0in; margin-right:0in; text-align:justify\"><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Our team, comprising experienced professionals from globally renowned semiconductor giants, drives our mission forward. Headquartered in Pangyo, Korea, we are expanding our horizons with the establishment of an engineering R&amp;D center in Vietnam &ndash; Floor 12A, The Grace Tower 71 Hoang Van Thai, dedicated to advancing automotive SOCs through cutting-edge semiconductor, software, and firmware development. </span></span></p>\n\n<p style=\"margin-left:0in; margin-right:0in; text-align:justify\"><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Join us in shaping the future of Automotive Technology!&nbsp;</span></span></p>\n\n<p style=\"margin-left:0in; margin-right:0in; text-align:justify\"><strong><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">We are currently open below positions for Internship:</span></span></strong></p>\n\n<p style=\"margin-left:0in; margin-right:0in; text-align:justify\"><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">1. AI Compiler&nbsp;</span></span></p>\n\n<p style=\"margin-left:0in; margin-right:0in; text-align:justify\"><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">2. Design Verification</span></span></p>\n\n<p style=\"margin-left:0in; margin-right:0in; text-align:justify\"><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">3. RTL Design&nbsp;</span></span></p>\n\n<p style=\"margin-left:0in; margin-right:0in; text-align:justify\"><span style=\"color:#ffffff\"><strong><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><span style=\"background-color:#c0392b\">HOW TO APPLY TO OUR INTERNSHIP PROGRAM?</span></span></span></strong></span></p>\n\n<p style=\"margin-left:0in; margin-right:0in; text-align:justify\"><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Send us your updated CV and your Transcript with SUBJECT: [Job Title] - FULL NAME&nbsp;to email: trangpham@bos-semi.com&nbsp;to</span></span>&nbsp;ad<span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">vance your career prospects!</span></span></p>\n"
