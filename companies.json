@@ -121,6 +121,34 @@
     ],
     "work": "Internet company"
   },
+  "5caef43d02c2e72195b4ceda": {
+    "id": "5caef43d02c2e72195b4ceda",
+    "shortname": "KMS",
+    "fullname": "CÔNG TY TNHH KMS TECHNOLOGY VIỆT NAM",
+    "isSponsor": false,
+    "image": "/img/company/5caef43d02c2e72195b4ceda.png?t=30490079",
+    "level": 3.5,
+    "width": 512,
+    "height": 249,
+    "address": "Số 2 Tản Viên, P.2, Q. Tân Bình",
+    "studentRegister": 1,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "682409e5841f239ff1b31b27",
+        "name": "KMS_D2&3_TTNT_HK243.docx",
+        "path": "/company/5caef43d02c2e72195b4cedaKMS_D2&3_TTNT_HK243.docx"
+      }
+    ],
+    "work": "o   Software Outsourcing Services\no   Product Development\no   Technology Consulting and Solutions\no   Tech – Startup Incubator"
+  },
   "5caef43e02c2e72195b4cedc": {
     "id": "5caef43e02c2e72195b4cedc",
     "shortname": "Fsoft - HCM",
@@ -131,7 +159,7 @@
     "width": 512,
     "height": 512,
     "address": "Lô T2, Đường D1 Khu Công nghệ Cao, P. Tân Phú, TP. Thủ Đức",
-    "studentRegister": 126,
+    "studentRegister": 127,
     "studentAccepted": 14,
     "maxRegister": 150,
     "maxAcceptedStudent": 50,
@@ -440,7 +468,7 @@
     "width": 512,
     "height": 512,
     "address": "Lầu 2, Tòa nhà PLS, số 457 Nguyễn Đình Chiểu, Phường 5, Quận 3, HCM",
-    "studentRegister": 8,
+    "studentRegister": 9,
     "studentAccepted": 1,
     "maxRegister": 9,
     "maxAcceptedStudent": 3,
@@ -539,7 +567,7 @@
     "width": 512,
     "height": 590,
     "address": "12/1 Nguyễn Thị Minh Khai, P. Đa Kao, Quận 1, TP.HCM",
-    "studentRegister": 57,
+    "studentRegister": 55,
     "studentAccepted": 0,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -683,6 +711,62 @@
       }
     ],
     "work": "<p>Thành lập năm 2018, SUN.STUDIO là nhà phát triển games trên nền tảng web các thiết bị di động với hơn 1 tỷ lượt chơi. Sứ mệnh của chúng tôi là tạo ra các trò chơi mà mọi người có thể dễ dàng tiếp cận (accessible) và yêu thích (enjoyable).&nbsp;</p><p style=\"text-align:justify;\">Hiện tại công ty có gần 70 thành viên&nbsp;với trên 40 đầu games. Là đối tác chiến lược của các nền tảng web-games hàng đầu thế giới như: Facebook Instant Games, Microsoft Instant Play, Yandex Games, Game Distribution, Glance Gaming… và có games phát hành trên Google Play và App Store.</p><p>Cùng với các bạn, chúng ta sẽ tạo ra những games hướng tới trải nghiệm người chơi tuyệt vời hơn nữa! Hiện email của chúng tôi đang bị quá tải nên nếu bạn gửi hồ sơ vào email thì chúng tôi sẽ không nhận được ạ. Các bạn ứng tuyển vui lòng gửi hồ sơ vào đường link: https://jobs.lever.co/sunstudio</p>"
+  },
+  "607f8d12ee96ff021b97ad88": {
+    "id": "607f8d12ee96ff021b97ad88",
+    "shortname": "MV - Marvell",
+    "fullname": "Công ty TNHH Công nghệ Marvell VN",
+    "isSponsor": false,
+    "image": "/img/company/607f8d12ee96ff021b97ad88.png?t=68420383",
+    "level": 1,
+    "width": 512,
+    "height": 206,
+    "address": "Lầu 5, Tòa nhà B, Khu nhà xưởng Văn Phòng, Lô D.01, Đường Tân Thuận, Khu chế xuất Tân Thuận, Phường Tân Thuận Đông, Quận 7, TP. Hồ Chí Minh",
+    "studentRegister": 3,
+    "studentAccepted": 0,
+    "maxRegister": 45,
+    "maxAcceptedStudent": 15,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b\"><strong>Chương tr&igrave;nh TTNT HK233 (CE).</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "68240781841f239ff1b31b1f",
+        "name": "MV_Marvell_D2_TTNT_HK243_CE.pdf",
+        "path": "/company/607f8d12ee96ff021b97ad88MV_Marvell_D2_TTNT_HK243_CE.pdf"
+      }
+    ],
+    "work": "Semiconductor, IC design"
+  },
+  "60a4791aee96ff021b97ecdc": {
+    "id": "60a4791aee96ff021b97ecdc",
+    "shortname": "Bosch 2",
+    "fullname": "Bosch 2 - CÔNG TY TNHH BOSCH GLOBAL SOFTWARE TECHNOLOGIES",
+    "isSponsor": false,
+    "image": "/img/company/60a4791aee96ff021b97ecdc.png?t=92055872",
+    "level": 1,
+    "width": 512,
+    "height": 210,
+    "address": "Tòa nhà Etown, 364 Cộng Hòa, P. 13, Q. Tân Bình, TP.HCM",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CE).</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "682406ec841f239ff1b31b1c",
+        "name": "Bosch_2_D2&3_TTNT_HK243_CE.docx",
+        "path": "/company/60a4791aee96ff021b97ecdcBosch_2_D2&3_TTNT_HK243_CE.docx"
+      }
+    ],
+    "work": "<p>C&Ocirc;NG TY TNHH BOSCH GLOBAL SOFTWARE TECHNOLOGIES</p>\n"
   },
   "62690991bbe74fe7122f915a": {
     "id": "62690991bbe74fe7122f915a",
@@ -1042,7 +1126,7 @@
     "width": 512,
     "height": 515,
     "address": "B10 Nội khu Nam Thông 2A, P.Tân Phú, Q.7, Tp.HCM",
-    "studentRegister": 12,
+    "studentRegister": 11,
     "studentAccepted": 1,
     "maxRegister": 12,
     "maxAcceptedStudent": 4,
@@ -1351,6 +1435,34 @@
       }
     ],
     "work": ""
+  },
+  "6657e01e24c9a126993b7c98": {
+    "id": "6657e01e24c9a126993b7c98",
+    "shortname": "BOS",
+    "fullname": "Công ty TNHH BOS Semiconductors Vietnam",
+    "isSponsor": false,
+    "image": "/img/company/6657e01e24c9a126993b7c98.png?t=71641189",
+    "level": 1,
+    "width": 512,
+    "height": 288,
+    "address": "71 Hoàng Văn Thái, Tân Phú, Quận 7, Hồ Chí Minh",
+    "studentRegister": 2,
+    "studentAccepted": 0,
+    "maxRegister": 30,
+    "maxAcceptedStudent": 10,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CE).</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "68240952841f239ff1b31b24",
+        "name": "BOS_D2_TTNT_HK243_CE.docx",
+        "path": "/company/6657e01e24c9a126993b7c98BOS_D2_TTNT_HK243_CE.docx"
+      }
+    ],
+    "work": "<p style=\"margin-left:0in; margin-right:0in; text-align:justify\"><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Welcome to BOS Semiconductors, where innovation meets mobility. With a visionary focus on &quot;Leading mobility innovation with system semiconductors&rdquo;, we specialize in <strong>autonomous driving SOC, Mega MCU, and Gateway SOC</strong> for the <strong>automotive domain</strong>. Backed by seed funding from Hyundai Motors and ongoing support from diverse venture capitalists, we are committed to offering comprehensive solutions encompassing semiconductor and software design. </span></span></p>\n\n<p style=\"margin-left:0in; margin-right:0in; text-align:justify\"><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Our team, comprising experienced professionals from globally renowned semiconductor giants, drives our mission forward. Headquartered in Pangyo, Korea, we are expanding our horizons with the establishment of an engineering R&amp;D center in Vietnam &ndash; Floor 12A, The Grace Tower 71 Hoang Van Thai, dedicated to advancing automotive SOCs through cutting-edge semiconductor, software, and firmware development. </span></span></p>\n\n<p style=\"margin-left:0in; margin-right:0in; text-align:justify\"><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Join us in shaping the future of Automotive Technology!&nbsp;</span></span></p>\n\n<p style=\"margin-left:0in; margin-right:0in; text-align:justify\"><strong><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">We are currently open below positions for Internship:</span></span></strong></p>\n\n<p style=\"margin-left:0in; margin-right:0in; text-align:justify\"><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">1. AI Compiler&nbsp;</span></span></p>\n\n<p style=\"margin-left:0in; margin-right:0in; text-align:justify\"><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">2. Design Verification</span></span></p>\n\n<p style=\"margin-left:0in; margin-right:0in; text-align:justify\"><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">3. RTL Design&nbsp;</span></span></p>\n\n<p style=\"margin-left:0in; margin-right:0in; text-align:justify\"><span style=\"color:#ffffff\"><strong><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><span style=\"background-color:#c0392b\">HOW TO APPLY TO OUR INTERNSHIP PROGRAM?</span></span></span></strong></span></p>\n\n<p style=\"margin-left:0in; margin-right:0in; text-align:justify\"><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Send us your updated CV and your Transcript with SUBJECT: [Job Title] - FULL NAME&nbsp;to email: trangpham@bos-semi.com&nbsp;to</span></span>&nbsp;ad<span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">vance your career prospects!</span></span></p>\n"
   },
   "66631323f5911d0a68b801ad": {
     "id": "66631323f5911d0a68b801ad",
@@ -2426,7 +2538,7 @@
     "width": 512,
     "height": 248,
     "address": "244/31 Huỳnh Văn Bánh, Phường 11, Quận Phú Nhuận, Hồ Chí Minh",
-    "studentRegister": 15,
+    "studentRegister": 13,
     "studentAccepted": 0,
     "maxRegister": 15,
     "maxAcceptedStudent": 5,
@@ -2717,6 +2829,34 @@
         "_id": "6822b06c841f239ff1b318c5",
         "name": "Garena_D2_TTNT_HK243.docx",
         "path": "/company/68220904841f239ff1b317a2Garena_D2_TTNT_HK243.docx"
+      }
+    ],
+    "work": ""
+  },
+  "6823197f841f239ff1b31983": {
+    "id": "6823197f841f239ff1b31983",
+    "shortname": "ODH",
+    "fullname": "ODH Technology Company Limited",
+    "isSponsor": false,
+    "image": "/img/company/6823197f841f239ff1b31983.png?t=30883974",
+    "level": 1,
+    "width": 512,
+    "height": 241,
+    "address": "Tầng 4, 515 511 509 495/4/10 Tô Hiến Thành, P.14, Q.10, TP.HCM",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 2,
+    "maxAcceptedStudent": 2,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "682408e0841f239ff1b31b23",
+        "name": "ODH_D2&3_TTNT_HK243.pdf",
+        "path": "/company/6823197f841f239ff1b31983ODH_D2&3_TTNT_HK243.pdf"
       }
     ],
     "work": ""
