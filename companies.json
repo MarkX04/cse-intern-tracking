@@ -2825,7 +2825,7 @@
     "width": 512,
     "height": 370,
     "address": "85 Trần Phú, quận Hải Châu, thành phố Đà Nẵng",
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 3,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
