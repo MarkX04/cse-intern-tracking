@@ -278,7 +278,25 @@
     "image": "/img/company/5cbdb50b32430223db649bb0.jpg?t=66482527",
     "level": 1,
     "width": 512,
-    "height": 192
+    "height": 192,
+    "address": "Tầng 7-8-9, Tòa nhà Pax Sky, 26 Ung Văn Khiêm, quận Bình Thạnh, TP HCM",
+    "studentRegister": 14,
+    "studentAccepted": 1,
+    "maxRegister": 30,
+    "maxAcceptedStudent": 10,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "68254cf1841f239ff1b31d60",
+        "name": "GL_Gameloft_D2_TTNT_HK243.pdf",
+        "path": "/company/5cbdb50b32430223db649bb0GL_Gameloft_D2_TTNT_HK243.pdf"
+      }
+    ],
+    "work": "Bắt đầu hành trình của mình tại TP. Hồ Chí Minh vào năm 2004, Gameloft đã trở thành một trong những doanh nghiệp đột phá và đi đầu trong lĩnh vực sản xuất các ứng dụng trò chơi trên nền tảng kỹ thuật số và mạng xã hội. Sau hơn 15 năm hoạt động tại Việt Nam, số lượng nhân tài của công ty đã tăng lên đến hơn 1,200 nhân viên làm việc tại 2 studios ở Hà Nội và Hồ Chí Minh.\n\nChính nhờ những sáng tạo và nỗ lực không ngừng nghỉ của toàn thể nhân viên mà Gameloft Việt Nam đã đóng góp một phần không nhỏ vào thành công của Gameloft thế giới để giành được những giải thưởng lớn toàn cầu như “TOP 10 game được tải về cao nhất mọi thời đại” cho 2 tựa game Asphalt 8 và Minion Rush do App Annie bình chọn năm 2018; và giải thưởng “Game có âm thanh và đồ họa xuất sắc nhất” cho tựa game Asphalt 9 trong lễ trao giải “Mobile Games 2019” của Pocket Gamer. Và gần đây nhất vào tháng 5/ 2020, Gameloft vinh dự nằm trong Top 50 “Thương hiệu nhà tuyển dụng hấp dẫn nhất với sinh viên Việt Nam” của Anphabe.\n    \nVới Gameloft, con người luôn là yếu tố then chốt tạo nên sự thành công của công ty ngày hôm nay. Chúng tôi luôn tạo điều kiện và hỗ trợ định hướng nghề nghiệp cho những nhân tài tràn đầy đam mê, nhiệt huyết và không ngừng sáng tạo."
   },
   "5cbe7f25a03f03365f3adc86": {
     "id": "5cbe7f25a03f03365f3adc86",
