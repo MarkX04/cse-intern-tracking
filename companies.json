@@ -131,7 +131,7 @@
     "width": 512,
     "height": 249,
     "address": "Số 2 Tản Viên, P.2, Q. Tân Bình",
-    "studentRegister": 1,
+    "studentRegister": 0,
     "studentAccepted": 0,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
@@ -145,6 +145,11 @@
         "_id": "682409e5841f239ff1b31b27",
         "name": "KMS_D2&3_TTNT_HK243.docx",
         "path": "/company/5caef43d02c2e72195b4cedaKMS_D2&3_TTNT_HK243.docx"
+      },
+      {
+        "_id": "6825c933841f239ff1b31e3d",
+        "name": "KMS_D2&3_TTNT_HK243_ThanhNC.pdf",
+        "path": "/company/5caef43d02c2e72195b4cedaKMS_D2&3_TTNT_HK243_ThanhNC.pdf"
       }
     ],
     "work": "o   Software Outsourcing Services\no   Product Development\no   Technology Consulting and Solutions\no   Tech – Startup Incubator"
