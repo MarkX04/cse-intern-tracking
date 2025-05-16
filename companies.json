@@ -9,7 +9,7 @@
     "width": 512,
     "height": 512,
     "address": "766/3G đường Sư Vạn Hạnh, phường 12, quận 10, TPHCM",
-    "studentRegister": 23,
+    "studentRegister": 19,
     "studentAccepted": 7,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
@@ -26,6 +26,34 @@
       }
     ],
     "work": "<p>Công ty TNHH HORUSOFTACEAE là công ty chuyên phát triển và cung cấp các dịch vụ công nghệ, ứng dụng trong lĩnh vực nghiên cứu Y Dược và Giáo dục Đào tạo. Đối tác và khách hàng của HORUSOFTACEAE bao gồm các doanh nghiệp trong nước và quốc tế ở nhiều quốc gia khác nhau. Hiện nay công ty HORUSOFTACEAE đang trong quá trình phát triển, mở rộng hoạt động kinh doanh, cần tập trung phát triển một số sản phẩm công nghệ tiên tiến đặc thù, nhằm phục vụ cho các đối tác và khách hàng của công ty.</p><p style=\"margin-left:0px;\"><span style=\"color:rgb(230,77,77);\"><strong>Sinh viên ứng tuyển vui lòng gửi đầy đủ CV &amp; bảng điểm về email: intern@horusoftaceae.com</strong></span></p>"
+  },
+  "5caef41802c2e72195b4ce9a": {
+    "id": "5caef41802c2e72195b4ce9a",
+    "shortname": "Vinova",
+    "fullname": "VINOVA PTE. LTD.",
+    "isSponsor": false,
+    "image": "/img/company/5caef41802c2e72195b4ce9a.png?t=34053999",
+    "level": 1,
+    "width": 512,
+    "height": 97,
+    "address": "No 160 Road 20, Ward 5, Go Vap District, Ho Chi Minh City",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "68269481841f239ff1b31fa3",
+        "name": "Vinova_D2&3_HK243_TTNT.docx",
+        "path": "/company/5caef41802c2e72195b4ce9aVinova_D2&3_HK243_TTNT.docx"
+      }
+    ],
+    "work": "VINOVA was founded in 2010. Headquarter is in Singapore\nOffshore Development Center (ODC) is in Ho Chi Minh City, Viet Nam\nWe are passionate developers, remarkable artist, and challenge talkers. We design and build innovative Mobile Apps, Web Apps, Mobile Games.\nWe combine agile development methodologies with the latest technologies to build your applications in the shortest possible time"
   },
   "5caef41902c2e72195b4ce9c": {
     "id": "5caef41902c2e72195b4ce9c",
@@ -197,7 +225,7 @@
     "width": 512,
     "height": 122,
     "address": "Tầng 4, tòa nhà Huy Sơn, số 7 - 9 - 11 đường Mai Thị Lựu, phường Đa Kao, quận 1, thành phố Hồ Chí Minh, Việt Nam",
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 1,
     "maxRegister": 9,
     "maxAcceptedStudent": 3,
@@ -280,10 +308,10 @@
     "width": 512,
     "height": 192,
     "address": "Tầng 7-8-9, Tòa nhà Pax Sky, 26 Ung Văn Khiêm, quận Bình Thạnh, TP HCM",
-    "studentRegister": 14,
+    "studentRegister": 0,
     "studentAccepted": 1,
-    "maxRegister": 30,
-    "maxAcceptedStudent": 10,
+    "maxRegister": 0,
+    "maxAcceptedStudent": 1,
     "adminMaxRegister": 10,
     "acceptedIntern": true,
     "subscribeAcceptedEmail": false,
@@ -308,7 +336,7 @@
     "width": 512,
     "height": 112,
     "address": "53-55-57 Phó Đức Chính, P. Nguyễn Thái Bình, Q.1, TP.HCM",
-    "studentRegister": 54,
+    "studentRegister": 55,
     "studentAccepted": 4,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -440,7 +468,7 @@
     "width": 512,
     "height": 363,
     "address": "Phòng I.102, Nhà A, Khu Công nghệ Phần mềm ĐHQG - HCM, đường Võ Trường Toản, Khu phố 6 , Phường Linh Trung, TP. Thủ Đức, TP.HCM",
-    "studentRegister": 29,
+    "studentRegister": 28,
     "studentAccepted": 1,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
@@ -462,6 +490,34 @@
       }
     ],
     "work": "Công nghệ dành cho giáo dục (Edtech), AI, Cloud-based LMS, Streaming, Mobile apps, Innovation & Education"
+  },
+  "5ed1c515d1a3a42ea357e8ba": {
+    "id": "5ed1c515d1a3a42ea357e8ba",
+    "shortname": "Viettel - VTNet",
+    "fullname": "Tập đoàn Công nghiệp – Viễn thông Quân đội",
+    "isSponsor": false,
+    "image": "/img/company/5ed1c515d1a3a42ea357e8ba.png?t=24031491",
+    "level": 1,
+    "width": 512,
+    "height": 258,
+    "address": "Viettel Tower, 285 đường Cách mạng tháng 8, phường 12, quận 10, TP HCM",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "68269d6c841f239ff1b31fb7",
+        "name": "Viettel_VTNet_D2&3_TTNT_HK243.docx",
+        "path": "/company/5ed1c515d1a3a42ea357e8baViettel_VTNet_D2&3_TTNT_HK243.docx"
+      }
+    ],
+    "work": "Internet Of Things, AI, BigData, Networking."
   },
   "5ef01de52d83aed8ff642169": {
     "id": "5ef01de52d83aed8ff642169",
@@ -539,7 +595,7 @@
     "width": 512,
     "height": 116,
     "address": "Tầng 4, Tòa nhà văn phòng ICT2, CVPM Quang Trung, Phường Tân Chánh Hiệp, Quận 12, Tp.HCM",
-    "studentRegister": 17,
+    "studentRegister": 18,
     "studentAccepted": 3,
     "maxRegister": 21,
     "maxAcceptedStudent": 7,
@@ -605,7 +661,7 @@
     "width": 512,
     "height": 590,
     "address": "12/1 Nguyễn Thị Minh Khai, P. Đa Kao, Quận 1, TP.HCM",
-    "studentRegister": 52,
+    "studentRegister": 51,
     "studentAccepted": 0,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -816,7 +872,7 @@
     "width": 512,
     "height": 588,
     "address": "437/16 Hoàng Văn Thụ, phường 4, quận Tân Bình, TP. Hồ Chí Minh",
-    "studentRegister": 27,
+    "studentRegister": 26,
     "studentAccepted": 0,
     "maxRegister": 27,
     "maxAcceptedStudent": 9,
@@ -3022,6 +3078,146 @@
         "_id": "68254b58841f239ff1b31d5c",
         "name": "PL_D2&3_TTNT_HK243.docx",
         "path": "/company/6824adfd841f239ff1b31c4aPL_D2&3_TTNT_HK243.docx"
+      }
+    ],
+    "work": ""
+  },
+  "6825d1f0841f239ff1b31e4c": {
+    "id": "6825d1f0841f239ff1b31e4c",
+    "shortname": "NBW - Nobiware",
+    "fullname": "CÔNG TY TNHH NOBIWARE",
+    "isSponsor": false,
+    "image": "/img/company/6825d1f0841f239ff1b31e4c.png?t=09680094",
+    "level": 1,
+    "width": 512,
+    "height": 242,
+    "address": "Y1 Hồng Lĩnh, Phường 15, Quận 10, Tp. Hồ Chí Minh",
+    "studentRegister": 2,
+    "studentAccepted": 0,
+    "maxRegister": 12,
+    "maxAcceptedStudent": 4,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p>",
+    "internshipFiles": [
+      {
+        "_id": "68269e37841f239ff1b31fb8",
+        "name": "NBW_NOBIWARE_D2_TTNT_HK243.docx",
+        "path": "/company/6825d1f0841f239ff1b31e4cNBW_NOBIWARE_D2_TTNT_HK243.docx"
+      }
+    ],
+    "work": ""
+  },
+  "6825d1f1841f239ff1b31e4e": {
+    "id": "6825d1f1841f239ff1b31e4e",
+    "shortname": "PL - Prime Labo",
+    "fullname": "CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHỆ PRIME - LABO",
+    "isSponsor": false,
+    "image": "/img/company/6825d1f1841f239ff1b31e4e.png?t=09585976",
+    "level": 1,
+    "width": 512,
+    "height": 512,
+    "address": "L17-11, Tầng 17, Tòa nhà Vincom Center, 72 Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
+    "studentRegister": 1,
+    "studentAccepted": 0,
+    "maxRegister": 15,
+    "maxAcceptedStudent": 5,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p>",
+    "internshipFiles": [
+      {
+        "_id": "682699f0841f239ff1b31fb0",
+        "name": "PL_D2_TTNT_HK243.docx",
+        "path": "/company/6825d1f1841f239ff1b31e4ePL_D2_TTNT_HK243.docx"
+      }
+    ],
+    "work": ""
+  },
+  "6825d1f2841f239ff1b31e50": {
+    "id": "6825d1f2841f239ff1b31e50",
+    "shortname": "TPLA - Trường Phước Long An",
+    "fullname": "Công ty TNHH Trường Phước Long An",
+    "isSponsor": false,
+    "image": "/img/company/6825d1f2841f239ff1b31e50.png?t=09468633",
+    "level": 1,
+    "width": 512,
+    "height": 512,
+    "address": "141 Nguyễn Đình Chiểu, đường Võ Thị Sáu, Quận 3, TP HCM",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "6826985f841f239ff1b31fab",
+        "name": "TPLA_D2&3_TTNT_HK243.docx",
+        "path": "/company/6825d1f2841f239ff1b31e50TPLA_D2&3_TTNT_HK243.docx"
+      }
+    ],
+    "work": ""
+  },
+  "6825d1f4841f239ff1b31e52": {
+    "id": "6825d1f4841f239ff1b31e52",
+    "shortname": "JK",
+    "fullname": "CÔNG TY CỔ PHẦN JK TECHNOLOGIES VIETNAM",
+    "isSponsor": false,
+    "image": "/img/company/6825d1f4841f239ff1b31e52.png?t=09389983",
+    "level": 1,
+    "width": 512,
+    "height": 382,
+    "address": "46-48 Trần Thiện Chánh, Phường 12, Quận 10, TPHCM",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 3,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p>",
+    "internshipFiles": [
+      {
+        "_id": "682697fe841f239ff1b31faa",
+        "name": "JK_D2&3_TTNT_HK243.docx",
+        "path": "/company/6825d1f4841f239ff1b31e52JK_D2&3_TTNT_HK243.docx"
+      }
+    ],
+    "work": ""
+  },
+  "6825d1f5841f239ff1b31e54": {
+    "id": "6825d1f5841f239ff1b31e54",
+    "shortname": "KNS - Kỷ Nguyên Số",
+    "fullname": "CÔNG TY CỔ PHẦN GIẢI PHÁP TỔNG THỂ KỶ NGUYÊN SỐ",
+    "isSponsor": false,
+    "image": "/img/company/6825d1f5841f239ff1b31e54.png?t=09297967",
+    "level": 1,
+    "width": 512,
+    "height": 287,
+    "address": "26 Nguyễn Đình Khơi, Phường 4, Quận Tân Bình, Thành phố Hồ Chí Minh",
+    "studentRegister": 4,
+    "studentAccepted": 0,
+    "maxRegister": 18,
+    "maxAcceptedStudent": 6,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p>",
+    "internshipFiles": [
+      {
+        "_id": "68269402841f239ff1b31fa2",
+        "name": "KNS_D2_TTNT_HK243.docx",
+        "path": "/company/6825d1f5841f239ff1b31e54KNS_D2_TTNT_HK243.docx"
       }
     ],
     "work": ""
