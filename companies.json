@@ -2543,7 +2543,7 @@
     "width": 512,
     "height": 140,
     "address": "290/30/16 Nơ Trang Long, Phường 12, Quận Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
-    "studentRegister": 1,
+    "studentRegister": 0,
     "studentAccepted": 0,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
@@ -2557,6 +2557,11 @@
         "_id": "680ae5cb3890995d799d8b9d",
         "name": "IVT_Invitech_D2_TTNT_HK243.docx",
         "path": "/company/680a24ef3890995d799d8a4cIVT_Invitech_D2_TTNT_HK243.docx"
+      },
+      {
+        "_id": "6826d71b841f239ff1b3201c",
+        "name": "IVT_Invitech_D2&3_TTNT_HK243.pdf",
+        "path": "/company/680a24ef3890995d799d8a4cIVT_Invitech_D2&3_TTNT_HK243.pdf"
       }
     ],
     "work": ""
@@ -2670,7 +2675,7 @@
     "width": 512,
     "height": 248,
     "address": "244/31 Huỳnh Văn Bánh, Phường 11, Quận Phú Nhuận, Hồ Chí Minh",
-    "studentRegister": 14,
+    "studentRegister": 15,
     "studentAccepted": 0,
     "maxRegister": 15,
     "maxAcceptedStudent": 5,
@@ -3036,8 +3041,8 @@
     "width": 512,
     "height": 512,
     "address": "Tòa nhà FPT Complex, đường Nam Kỳ Khởi Nghĩa, Phường Hoà Hải, Quận Ngũ Hành Sơn, Thành phố Đà Nẵng, Việt Nam",
-    "studentRegister": 1,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 1,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
     "adminMaxRegister": 10,
@@ -3050,6 +3055,11 @@
         "_id": "68254c5d841f239ff1b31d5f",
         "name": "Fsoft_MT_MienTrung_D2&3_TTNT_HK243.docx",
         "path": "/company/6824adfc841f239ff1b31c48Fsoft_MT_MienTrung_D2&3_TTNT_HK243.docx"
+      },
+      {
+        "_id": "6826d892841f239ff1b3201f",
+        "name": "Fsoft_MT_D2&3_TTNT_HK243.pdf",
+        "path": "/company/6824adfc841f239ff1b31c48Fsoft_MT_D2&3_TTNT_HK243.pdf"
       }
     ],
     "work": ""
@@ -3106,6 +3116,11 @@
         "_id": "68269e37841f239ff1b31fb8",
         "name": "NBW_NOBIWARE_D2_TTNT_HK243.docx",
         "path": "/company/6825d1f0841f239ff1b31e4cNBW_NOBIWARE_D2_TTNT_HK243.docx"
+      },
+      {
+        "_id": "6826d618841f239ff1b32019",
+        "name": "NBW_NOBIWARE_D2_TTNT_HK243.pdf",
+        "path": "/company/6825d1f0841f239ff1b31e4cNBW_NOBIWARE_D2_TTNT_HK243.pdf"
       }
     ],
     "work": ""
@@ -3218,6 +3233,11 @@
         "_id": "68269402841f239ff1b31fa2",
         "name": "KNS_D2_TTNT_HK243.docx",
         "path": "/company/6825d1f5841f239ff1b31e54KNS_D2_TTNT_HK243.docx"
+      },
+      {
+        "_id": "6826d95b841f239ff1b32022",
+        "name": "KNS_D2_TTNT_HK243.pdf",
+        "path": "/company/6825d1f5841f239ff1b31e54KNS_D2_TTNT_HK243.pdf"
       }
     ],
     "work": ""
