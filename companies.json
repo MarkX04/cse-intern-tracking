@@ -468,7 +468,7 @@
     "width": 512,
     "height": 363,
     "address": "Phòng I.102, Nhà A, Khu Công nghệ Phần mềm ĐHQG - HCM, đường Võ Trường Toản, Khu phố 6 , Phường Linh Trung, TP. Thủ Đức, TP.HCM",
-    "studentRegister": 28,
+    "studentRegister": 29,
     "studentAccepted": 1,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
@@ -1301,7 +1301,7 @@
     "width": 512,
     "height": 365,
     "address": "12 Đại lộ Khoa học, KV2, phường Ghềnh Ráng, TP. Quy Nhơn, tỉnh Bình Định",
-    "studentRegister": 23,
+    "studentRegister": 22,
     "studentAccepted": 10,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -3128,7 +3128,7 @@
         "path": "/company/6825d1f0841f239ff1b31e4cNBW_NOBIWARE_D2_TTNT_HK243.pdf"
       }
     ],
-    "work": "<p>CÔNG TY TNHH NOBIWARE</p><p>Y1 Hồng Lĩnh, Phường 15, Quận 10, Tp. Hồ Chí Minh</p>"
+    "work": "<p style=\"margin-left:18.0pt;text-align:justify;\">Nobiware là công ty chuyên về phát triển và vận hành hệ thống thông tin y tế 24/7 (Healthcare Informatics: EMR, E-Prescribing, Labs, Patient Portal etc.) trên nền Cloud cho thị trường Mỹ.&nbsp;</p><p style=\"margin-left:18.0pt;text-align:justify;\">Với rất nhiều dữ liệu đa dạng và đa chiều trong lĩnh vực y tế, việc ứng dụng AI có thể trợ giúp nhân viên y tế trong nhiều công việc hàng ngày để giảm áp lực và tăng chất lượng điều trị.</p><p style=\"margin-left:18.0pt;text-align:justify;\">Ở đợt thực tập này Công ty mong muốn hỗ trợ các bạn Sinh viên tiếp cận với kiến thức về <strong>phát triển hệ thống thông tin y tế hiện đại </strong>và <strong>khả năng ứng dụng AI vào giải quyết các vấn đề thực tế của cuộc sống</strong>.</p><p><strong>&nbsp; &nbsp; &nbsp;&nbsp;</strong>Nộp <strong>CV, bảng điểm và trả lời câu hỏi&nbsp;</strong>thông qua Google Form tại đường link sau: <a href=\"https://docs.google.com/forms/d/1KMcUYINEzTnhpgFOBBwI-lRrQ73ZaCe5nz75bFG4Haw\"><span style=\"color:#1155CC;\">https://docs.google.com/forms/d/1KMcUYINEzTnhpgFOBBwI-lRrQ73ZaCe5nz75bFG4Haw</span></a></p><p style=\"margin-left:18.0pt;text-align:justify;\">Phụ cấp thực tập mỗi Sinh viên <strong>3.000.000 VNĐ/tháng</strong>. Hạn nộp hồ sơ: <strong>21/05/2025 </strong>- ưu tiên các bạn nộp hồ sơ sớm.</p>"
   },
   "6825d1f1841f239ff1b31e4e": {
     "id": "6825d1f1841f239ff1b31e4e",
@@ -3140,7 +3140,7 @@
     "width": 512,
     "height": 512,
     "address": "L17-11, Tầng 17, Tòa nhà Vincom Center, 72 Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
-    "studentRegister": 15,
+    "studentRegister": 14,
     "studentAccepted": 2,
     "maxRegister": 15,
     "maxAcceptedStudent": 5,
