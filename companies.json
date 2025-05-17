@@ -1776,7 +1776,7 @@
     "width": 512,
     "height": 107,
     "address": "The Manor Officetel, Nguyễn Hữu Cảnh, P.22, Quận Bình Thạnh, Thành phố Hồ Chí Minh",
-    "studentRegister": 30,
+    "studentRegister": 29,
     "studentAccepted": 0,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
@@ -2614,7 +2614,7 @@
     "width": 512,
     "height": 374,
     "address": "VP1: 31-33 Đ. Nguyễn Văn Đậu, Phường 6, Quận Bình Thạnh, Thành phố Hồ Chí Minh; VP2: C0013, Sarina Apt, 62 Hoàng Thế Thiện, An Lợi Đông, Thủ Đức, Thành phố Hồ Chí Minh",
-    "studentRegister": 11,
+    "studentRegister": 12,
     "studentAccepted": 0,
     "maxRegister": 12,
     "maxAcceptedStudent": 4,
@@ -3107,7 +3107,7 @@
     "width": 512,
     "height": 242,
     "address": "Y1 Hồng Lĩnh, Phường 15, Quận 10, Tp. Hồ Chí Minh",
-    "studentRegister": 10,
+    "studentRegister": 11,
     "studentAccepted": 0,
     "maxRegister": 12,
     "maxAcceptedStudent": 4,
@@ -3128,7 +3128,7 @@
         "path": "/company/6825d1f0841f239ff1b31e4cNBW_NOBIWARE_D2_TTNT_HK243.pdf"
       }
     ],
-    "work": "<p style=\"margin-left:18.0pt;text-align:justify;\">Nobiware là công ty chuyên về phát triển và vận hành hệ thống thông tin y tế 24/7 (Healthcare Informatics: EMR, E-Prescribing, Labs, Patient Portal etc.) trên nền Cloud cho thị trường Mỹ.&nbsp;</p><p style=\"margin-left:18.0pt;text-align:justify;\">Với rất nhiều dữ liệu đa dạng và đa chiều trong lĩnh vực y tế, việc ứng dụng AI có thể trợ giúp nhân viên y tế trong nhiều công việc hàng ngày để giảm áp lực và tăng chất lượng điều trị.</p><p style=\"margin-left:18.0pt;text-align:justify;\">Ở đợt thực tập này Công ty mong muốn hỗ trợ các bạn Sinh viên tiếp cận với kiến thức về <strong>phát triển hệ thống thông tin y tế hiện đại </strong>và <strong>khả năng ứng dụng AI vào giải quyết các vấn đề thực tế của cuộc sống</strong>.</p><p><strong>&nbsp; &nbsp; &nbsp;&nbsp;</strong>Nộp <strong>CV, bảng điểm và trả lời câu hỏi&nbsp;</strong>thông qua Google Form tại đường link sau: <a href=\"https://docs.google.com/forms/d/1KMcUYINEzTnhpgFOBBwI-lRrQ73ZaCe5nz75bFG4Haw\"><span style=\"color:#1155CC;\">https://docs.google.com/forms/d/1KMcUYINEzTnhpgFOBBwI-lRrQ73ZaCe5nz75bFG4Haw</span></a></p><p style=\"margin-left:18.0pt;text-align:justify;\">Phụ cấp thực tập mỗi Sinh viên <strong>3.000.000 VNĐ/tháng</strong>. Hạn nộp hồ sơ: <strong>21/05/2025 </strong>- ưu tiên các bạn nộp hồ sơ sớm.</p>"
+    "work": "<p style=\"margin-left:18.0pt;text-align:justify;\">Nobiware là công ty chuyên về phát triển và vận hành hệ thống thông tin y tế 24/7 (Healthcare Informatics: EMR, E-Prescribing, Labs, Patient Portal etc.) trên nền Cloud cho thị trường Mỹ.&nbsp;</p><p style=\"margin-left:18.0pt;text-align:justify;\">Với rất nhiều dữ liệu đa dạng và đa chiều trong lĩnh vực y tế, việc ứng dụng AI có thể trợ giúp nhân viên y tế trong nhiều công việc hàng ngày để giảm áp lực và tăng chất lượng điều trị.</p><p style=\"margin-left:18.0pt;text-align:justify;\">Ở đợt thực tập này Công ty mong muốn hỗ trợ các bạn Sinh viên tiếp cận với kiến thức về <strong>phát triển hệ thống thông tin y tế hiện đại </strong>và <strong>khả năng ứng dụng AI vào giải quyết các vấn đề thực tế của cuộc sống</strong>.</p><p><strong>&nbsp; &nbsp; &nbsp;&nbsp;</strong>Nộp <strong>CV, bảng điểm và trả lời câu hỏi&nbsp;</strong>thông qua Google Form tại đường link sau: <a href=\"https://docs.google.com/forms/d/1KMcUYINEzTnhpgFOBBwI-lRrQ73ZaCe5nz75bFG4Haw\"><span style=\"color:#1155CC;\">https://docs.google.com/forms/d/1KMcUYINEzTnhpgFOBBwI-lRrQ73ZaCe5nz75bFG4Haw</span></a></p><p style=\"margin-left:18.0pt;text-align:justify;\">Phụ cấp thực tập mỗi Sinh viên <strong>3.000.000 VNĐ/tháng</strong>. Hạn nộp hồ sơ: <strong>21/05/2025 </strong>- ưu tiên các bạn nộp hồ sơ sớm. Lưu ý: Sinh viên <strong>khi đăng ký cần nộp hồ sơ ngay trong ngày</strong>, nếu không sẽ bị reject để nhường chỗ cho các bạn khác.</p>"
   },
   "6825d1f1841f239ff1b31e4e": {
     "id": "6825d1f1841f239ff1b31e4e",
