@@ -37,7 +37,7 @@
     "width": 512,
     "height": 97,
     "address": "No 160 Road 20, Ward 5, Go Vap District, Ho Chi Minh City",
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
