@@ -22412,5 +22412,12 @@
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
     "timestamp": 1747677335
+  },
+  {
+    "studentRegister": 52,
+    "studentAccepted": 4,
+    "maxRegister": 60,
+    "maxAcceptedStudent": 20,
+    "timestamp": 1747678548
   }
 ]
