@@ -192,8 +192,8 @@
     "width": 512,
     "height": 512,
     "address": "Lô T2, Đường D1 Khu Công nghệ Cao, P. Tân Phú, TP. Thủ Đức",
-    "studentRegister": 107,
-    "studentAccepted": 25,
+    "studentRegister": 78,
+    "studentAccepted": 27,
     "maxRegister": 150,
     "maxAcceptedStudent": 50,
     "adminMaxRegister": 10,
@@ -407,7 +407,7 @@
     "width": 512,
     "height": 152,
     "address": "27B/9 Nguyễn Đình Chiểu, P. Đa Kao, Q1, TPHCM",
-    "studentRegister": 59,
+    "studentRegister": 58,
     "studentAccepted": 0,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -867,6 +867,34 @@
     ],
     "work": "<p>C&Ocirc;NG TY TNHH BOSCH GLOBAL SOFTWARE TECHNOLOGIES</p>\n"
   },
+  "6267fb60bbe74fe7122f8f8b": {
+    "id": "6267fb60bbe74fe7122f8f8b",
+    "shortname": "UGO - UGOTECHS",
+    "fullname": "CÔNG TY TNHH UGOTECHS",
+    "isSponsor": false,
+    "image": "/img/company/6267fb60bbe74fe7122f8f8b.png?t=81967033",
+    "level": 1,
+    "width": 512,
+    "height": 155,
+    "address": "Số nhà 39, Đường số 9, khu Vạn Phúc City, Phường Hiệp Bình Phước, Quận Thủ Đức - Thành phố Thủ Đức, Thành phố Hồ Chí Minh",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 30,
+    "maxAcceptedStudent": 10,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": true,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "682ab36e841f239ff1b326cd",
+        "name": "UGO_Ugotechs_D2_TTNT_HK243.docx",
+        "path": "/company/6267fb60bbe74fe7122f8f8bUGO_Ugotechs_D2_TTNT_HK243.docx"
+      }
+    ],
+    "work": "CÔNG TY TNHH UGOTECHS"
+  },
   "62690991bbe74fe7122f915a": {
     "id": "62690991bbe74fe7122f915a",
     "shortname": "DTBK - ĐTBK - Điện toán Bách Khoa",
@@ -973,8 +1001,8 @@
     "address": "Lầu 2,3 Tòa nhà Incubation A, Đường Tân Thuận, KCX Tân Thuận, P.Tân Thuận Đông, Q7, HCM",
     "studentRegister": 3,
     "studentAccepted": 2,
-    "maxRegister": 9,
-    "maxAcceptedStudent": 3,
+    "maxRegister": 18,
+    "maxAcceptedStudent": 6,
     "adminMaxRegister": 10,
     "acceptedIntern": true,
     "subscribeAcceptedEmail": false,
@@ -985,6 +1013,11 @@
         "_id": "68005e38502455a6d36067f1",
         "name": "AC_Ampere_D2_TTNT_HK243.pdf",
         "path": "/company/628ef005bbe74fe7122fd281AC_Ampere_D2_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "682ab2ec841f239ff1b326cc",
+        "name": "AC_Ampere_D2_TTNT_HK243_20250516.pdf",
+        "path": "/company/628ef005bbe74fe7122fd281AC_Ampere_D2_TTNT_HK243_20250516.pdf"
       }
     ],
     "work": "AMPERE COMPUTING"
@@ -2614,7 +2647,7 @@
     "width": 512,
     "height": 374,
     "address": "VP1: 31-33 Đ. Nguyễn Văn Đậu, Phường 6, Quận Bình Thạnh, Thành phố Hồ Chí Minh; VP2: C0013, Sarina Apt, 62 Hoàng Thế Thiện, An Lợi Đông, Thủ Đức, Thành phố Hồ Chí Minh",
-    "studentRegister": 12,
+    "studentRegister": 11,
     "studentAccepted": 0,
     "maxRegister": 12,
     "maxAcceptedStudent": 4,
@@ -2924,6 +2957,34 @@
     ],
     "work": ""
   },
+  "68220902841f239ff1b3179e": {
+    "id": "68220902841f239ff1b3179e",
+    "shortname": "US - UpSkill",
+    "fullname": "CÔNG TY TNHH HỌC VIỆN UPSKILL",
+    "isSponsor": false,
+    "image": "/img/company/68220902841f239ff1b3179e.png?t=61046263",
+    "level": 1,
+    "width": 512,
+    "height": 95,
+    "address": "48A Dương Thị Mười, Phường Tân Chánh Hiệp, Q.12",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 2,
+    "maxAcceptedStudent": 2,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "682ab1cc841f239ff1b326c8",
+        "name": "US_UpSkill_D2_TTNT_HK243.docx",
+        "path": "/company/68220902841f239ff1b3179eUS_UpSkill_D2_TTNT_HK243.docx"
+      }
+    ],
+    "work": "<p>CÔNG TY TNHH HỌC VIỆN UPSKILL</p>"
+  },
   "68220903841f239ff1b317a0": {
     "id": "68220903841f239ff1b317a0",
     "shortname": "VG - VTC - Vitrasnchart - Viet Green Center",
@@ -3107,7 +3168,7 @@
     "width": 512,
     "height": 242,
     "address": "Y1 Hồng Lĩnh, Phường 15, Quận 10, Tp. Hồ Chí Minh",
-    "studentRegister": 11,
+    "studentRegister": 10,
     "studentAccepted": 0,
     "maxRegister": 12,
     "maxAcceptedStudent": 4,
