@@ -595,7 +595,7 @@
     "width": 512,
     "height": 116,
     "address": "Tầng 4, Tòa nhà văn phòng ICT2, CVPM Quang Trung, Phường Tân Chánh Hiệp, Quận 12, Tp.HCM",
-    "studentRegister": 18,
+    "studentRegister": 17,
     "studentAccepted": 3,
     "maxRegister": 21,
     "maxAcceptedStudent": 7,
@@ -877,7 +877,7 @@
     "width": 512,
     "height": 155,
     "address": "Số nhà 39, Đường số 9, khu Vạn Phúc City, Phường Hiệp Bình Phước, Quận Thủ Đức - Thành phố Thủ Đức, Thành phố Hồ Chí Minh",
-    "studentRegister": 21,
+    "studentRegister": 22,
     "studentAccepted": 0,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
@@ -1809,7 +1809,7 @@
     "width": 512,
     "height": 107,
     "address": "The Manor Officetel, Nguyễn Hữu Cảnh, P.22, Quận Bình Thạnh, Thành phố Hồ Chí Minh",
-    "studentRegister": 30,
+    "studentRegister": 29,
     "studentAccepted": 0,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
@@ -3350,5 +3350,89 @@
       }
     ],
     "work": "<p>CÔNG TY TNHH DỊCH VỤ GIẢI PHÁP MÊ KÔNG (Gọi tắt là MKS)</p>"
+  },
+  "682bcd3f5d905d4f0dba53ff": {
+    "id": "682bcd3f5d905d4f0dba53ff",
+    "shortname": "KYONS",
+    "fullname": "Công Ty TNHH KYONS",
+    "isSponsor": false,
+    "image": "/img/company/682bcd3f5d905d4f0dba53ff.png?t=01583981",
+    "level": 1,
+    "width": 512,
+    "height": 256,
+    "address": "343/27 Nguyễn Trọng Tuyển, P1, Quận Tân Bình, TP.HCM",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "682bcf715d905d4f0dba540b",
+        "name": "KYONS_D2&3_TTNT_HK243.docx",
+        "path": "/company/682bcd3f5d905d4f0dba53ffKYONS_D2&3_TTNT_HK243.docx"
+      }
+    ],
+    "work": ""
+  },
+  "682bcd405d905d4f0dba5401": {
+    "id": "682bcd405d905d4f0dba5401",
+    "shortname": "Wishare",
+    "fullname": "Công ty TNHH Wishare",
+    "isSponsor": false,
+    "image": "/img/company/682bcd405d905d4f0dba5401.png?t=01355812",
+    "level": 1,
+    "width": 512,
+    "height": 168,
+    "address": "Chung cư Tropic Garden, đường 49, phường Thảo Điền, TP Thủ Đức, TP HCM",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "682bce7e5d905d4f0dba5408",
+        "name": "Wishare_D2&3_TTNT_HK243.docx",
+        "path": "/company/682bcd405d905d4f0dba5401Wishare_D2&3_TTNT_HK243.docx"
+      }
+    ],
+    "work": "<p>Công ty TNHH Wishare</p>"
+  },
+  "682bcd415d905d4f0dba5403": {
+    "id": "682bcd415d905d4f0dba5403",
+    "shortname": "BBB - Bubobot",
+    "fullname": "Công Ty TNHH Bubobot",
+    "isSponsor": false,
+    "image": "/img/company/682bcd415d905d4f0dba5403.png?t=01165059",
+    "level": 1,
+    "width": 512,
+    "height": 512,
+    "address": "D-00.03, Tháp D, Chung cư Sadora, Số 2 Đường số 13, Phường Thủ Thiêm, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
+    "studentRegister": 1,
+    "studentAccepted": 0,
+    "maxRegister": 2,
+    "maxAcceptedStudent": 2,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "682bcdb85d905d4f0dba5405",
+        "name": "BBB_BUBOBOT_D2&3_TTNT_HK243.docx",
+        "path": "/company/682bcd415d905d4f0dba5403BBB_BUBOBOT_D2&3_TTNT_HK243.docx"
+      }
+    ],
+    "work": "<p>Công Ty TNHH Bubobot</p>"
   }
 }
