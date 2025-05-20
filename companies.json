@@ -192,7 +192,7 @@
     "width": 512,
     "height": 512,
     "address": "Lô T2, Đường D1 Khu Công nghệ Cao, P. Tân Phú, TP. Thủ Đức",
-    "studentRegister": 59,
+    "studentRegister": 60,
     "studentAccepted": 28,
     "maxRegister": 150,
     "maxAcceptedStudent": 50,
@@ -336,7 +336,7 @@
     "width": 512,
     "height": 112,
     "address": "53-55-57 Phó Đức Chính, P. Nguyễn Thái Bình, Q.1, TP.HCM",
-    "studentRegister": 52,
+    "studentRegister": 51,
     "studentAccepted": 4,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -877,7 +877,7 @@
     "width": 512,
     "height": 155,
     "address": "Số nhà 39, Đường số 9, khu Vạn Phúc City, Phường Hiệp Bình Phước, Quận Thủ Đức - Thành phố Thủ Đức, Thành phố Hồ Chí Minh",
-    "studentRegister": 23,
+    "studentRegister": 24,
     "studentAccepted": 0,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
@@ -2237,6 +2237,11 @@
         "_id": "6805bfbe502455a6d3607142",
         "name": "SM_Siemens_D2_TTNT_HK243.docx",
         "path": "/company/680265d6502455a6d3606b7bSM_Siemens_D2_TTNT_HK243.docx"
+      },
+      {
+        "_id": "682c34255d905d4f0dba54b8",
+        "name": "SM_SIEMENS_D2&3_TTNT_HK243.pdf",
+        "path": "/company/680265d6502455a6d3606b7bSM_SIEMENS_D2&3_TTNT_HK243.pdf"
       }
     ],
     "work": ""
