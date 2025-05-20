@@ -877,7 +877,7 @@
     "width": 512,
     "height": 155,
     "address": "Số nhà 39, Đường số 9, khu Vạn Phúc City, Phường Hiệp Bình Phước, Quận Thủ Đức - Thành phố Thủ Đức, Thành phố Hồ Chí Minh",
-    "studentRegister": 24,
+    "studentRegister": 25,
     "studentAccepted": 0,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
@@ -905,7 +905,7 @@
     "width": 512,
     "height": 588,
     "address": "437/16 Hoàng Văn Thụ, phường 4, quận Tân Bình, TP. Hồ Chí Minh",
-    "studentRegister": 26,
+    "studentRegister": 27,
     "studentAccepted": 2,
     "maxRegister": 27,
     "maxAcceptedStudent": 9,
@@ -1169,7 +1169,7 @@
     "width": 512,
     "height": 512,
     "address": "Tầng 3, Tòa nhà Vina Giầy, 180-182 Lý Chính Thắng, P.9, Q.3, TP.HCM",
-    "studentRegister": 33,
+    "studentRegister": 35,
     "studentAccepted": 13,
     "maxRegister": 45,
     "maxAcceptedStudent": 15,
@@ -1644,7 +1644,7 @@
     "width": 512,
     "height": 512,
     "address": "103/23 Nguyễn Hữu Dật, Phường Tây Thạnh, Quận Tân Phú, Thành phố Hồ Chí Minh",
-    "studentRegister": 2,
+    "studentRegister": 3,
     "studentAccepted": 0,
     "maxRegister": 3,
     "maxAcceptedStudent": 1,
@@ -3041,12 +3041,17 @@
     "acceptedIntern": true,
     "subscribeAcceptedEmail": false,
     "active": true,
-    "description": "",
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p>",
     "internshipFiles": [
       {
         "_id": "6822b06c841f239ff1b318c5",
         "name": "Garena_D2_TTNT_HK243.docx",
         "path": "/company/68220904841f239ff1b317a2Garena_D2_TTNT_HK243.docx"
+      },
+      {
+        "_id": "682c61845d905d4f0dba5507",
+        "name": "Garena_D2_TTNT_HK243.pdf",
+        "path": "/company/68220904841f239ff1b317a2Garena_D2_TTNT_HK243.pdf"
       }
     ],
     "work": "<p>CÔNG TY CỔ PHẦN GIẢI TRÍ VÀ THỂ THAO ĐIỆN TỬ VIỆT NAM</p>"
