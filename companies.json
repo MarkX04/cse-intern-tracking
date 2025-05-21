@@ -83,6 +83,34 @@
     ],
     "work": "<p>Công ty TNHH Sorimachi Việt Nam (SRMC VN)</p>"
   },
+  "5caef42002c2e72195b4cea8": {
+    "id": "5caef42002c2e72195b4cea8",
+    "shortname": "Bosch 3",
+    "fullname": "Bosch 3 - ROBERT BOSCH ENGINEERING & BUSINESS SOLUTIONS VN Co., Ltd.",
+    "isSponsor": false,
+    "image": "/img/company/5caef42002c2e72195b4cea8.png?t=74257893",
+    "level": 1,
+    "width": 512,
+    "height": 167,
+    "address": "G Floor, Etown 2 Building, 364 Cong Hoa St, Ward 13, Tan Binh District, Ho Chi Minh City, VIETNAM",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p dir=\"ltr\"><span style=\"color:#c0392b\"><strong>Chương tr&igrave;nh TTNT HK233 (CS&amp;CE) - Bosch 3.</strong></span></p>\n\n<p><span style=\"color:#c0392b\"><strong>=&gt; Chương tr&igrave;nh đ&atilde; nhận đủ SV -&gt; Đề nghị SV kh&ocirc;ng gửi đăng k&yacute;, email cho DN nữa.</strong></span></p>\n\n<p dir=\"ltr\"><span style=\"color:#c0392b\"><strong>=&gt; SV tr&uacute;ng tuyển v&agrave; DN cần đăng nhập, SV bấm đăng k&yacute;, DN bấm accept thỉ kết quả x&eacute;t tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "682d489d5d905d4f0dba569e",
+        "name": "Bosch_3_D2&3_TTNT_HK243.docx",
+        "path": "/company/5caef42002c2e72195b4cea8Bosch_3_D2&3_TTNT_HK243.docx"
+      }
+    ],
+    "work": "ROBERT BOSCH ENGINEERING & BUSINESS SOLUTIONS VN Co., Ltd."
+  },
   "5caef42b02c2e72195b4ceba": {
     "id": "5caef42b02c2e72195b4ceba",
     "shortname": "EA - PĐLH - Phương Đông Linh Hoạt (East Agile)",
@@ -694,7 +722,7 @@
     "width": 512,
     "height": 512,
     "address": "Ban Vien Tower, 54-56-58 Đường số 2, Khu phố 5, Khu nhà ở Vạn Phúc 1, Phường Hiệp Bình Phước, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam.",
-    "studentRegister": 16,
+    "studentRegister": 17,
     "studentAccepted": 4,
     "maxRegister": 21,
     "maxAcceptedStudent": 7,
@@ -866,6 +894,39 @@
       }
     ],
     "work": "<p>C&Ocirc;NG TY TNHH BOSCH GLOBAL SOFTWARE TECHNOLOGIES</p>\n"
+  },
+  "62511aeebbe74fe7122f6843": {
+    "id": "62511aeebbe74fe7122f6843",
+    "shortname": "DGV Digital",
+    "fullname": "Công ty Cổ phần DGV Digital",
+    "isSponsor": false,
+    "image": "/img/company/62511aeebbe74fe7122f6843.png?t=82616420",
+    "level": 1,
+    "width": 512,
+    "height": 385,
+    "address": "151-153 Nguyễn Đình Chiểu, Phường Võ Thị Sáu, Quận 3, TP.HCM",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "682d4c9f5d905d4f0dba56a9",
+        "name": "DGV_D2_TTNT_HK243.docx",
+        "path": "/company/62511aeebbe74fe7122f6843DGV_D2_TTNT_HK243.docx"
+      },
+      {
+        "_id": "682d4ca45d905d4f0dba56aa",
+        "name": "DGV_D2_TTNT_HK243.pdf",
+        "path": "/company/62511aeebbe74fe7122f6843DGV_D2_TTNT_HK243.pdf"
+      }
+    ],
+    "work": "Công ty Cổ phần DGV Digital"
   },
   "6267fb60bbe74fe7122f8f8b": {
     "id": "6267fb60bbe74fe7122f8f8b",
@@ -3315,7 +3376,7 @@
     "width": 512,
     "height": 287,
     "address": "26 Nguyễn Đình Khơi, Phường 4, Quận Tân Bình, Thành phố Hồ Chí Minh",
-    "studentRegister": 18,
+    "studentRegister": 17,
     "studentAccepted": 0,
     "maxRegister": 18,
     "maxAcceptedStudent": 6,
@@ -3455,6 +3516,90 @@
     ],
     "work": "<p>Công Ty TNHH Bubobot</p>"
   },
+  "682c73f45d905d4f0dba552a": {
+    "id": "682c73f45d905d4f0dba552a",
+    "shortname": "ACL - AppsCyclone (Lốc Xoáy)",
+    "fullname": "CÔNG TY CỔ PHẦN CÔNG NGHỆ APPS CYCLONE (Công ty TNHH Giải Pháp Di Động Ứng Dụng Lốc Xoáy)",
+    "isSponsor": false,
+    "image": "/img/company/682c73f45d905d4f0dba552a.png?t=44093527",
+    "level": 1,
+    "width": 512,
+    "height": 518,
+    "address": "168/6 Bùi Thị Xuân, P.3, Q. Tân Bình, TP.HCM",
+    "studentRegister": 1,
+    "studentAccepted": 0,
+    "maxRegister": 30,
+    "maxAcceptedStudent": 10,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p>",
+    "internshipFiles": [
+      {
+        "_id": "682d4ad75d905d4f0dba56a4",
+        "name": "ACL_D2_TTNT_HK243.docx",
+        "path": "/company/682c73f45d905d4f0dba552aACL_D2_TTNT_HK243.docx"
+      }
+    ],
+    "work": "<p>CÔNG TY CỔ PHẦN CÔNG NGHỆ APPS CYCLONE (Công ty TNHH Giải Pháp Di Động Ứng Dụng Lốc Xoáy)</p>"
+  },
+  "682c73f55d905d4f0dba552c": {
+    "id": "682c73f55d905d4f0dba552c",
+    "shortname": "BO - BeOne",
+    "fullname": "Công ty TNHH Công nghệ & Dịch vụ BeOne",
+    "isSponsor": false,
+    "image": "/img/company/682c73f55d905d4f0dba552c.png?t=44032399",
+    "level": 1,
+    "width": 512,
+    "height": 162,
+    "address": "14 đường 16, Khu dân cư Phong Phú 5, Bình Chánh, TPHCM",
+    "studentRegister": 1,
+    "studentAccepted": 0,
+    "maxRegister": 9,
+    "maxAcceptedStudent": 3,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p>",
+    "internshipFiles": [
+      {
+        "_id": "682d4a805d905d4f0dba56a3",
+        "name": "BO_BEONE_D2&3_TTNT_HK243_20250520.docx",
+        "path": "/company/682c73f55d905d4f0dba552cBO_BEONE_D2&3_TTNT_HK243_20250520.docx"
+      }
+    ],
+    "work": ""
+  },
+  "682c73f75d905d4f0dba552e": {
+    "id": "682c73f75d905d4f0dba552e",
+    "shortname": "Jayace",
+    "fullname": "Công ty TNHH Công Nghệ Phần Mềm Jayace",
+    "isSponsor": false,
+    "image": "/img/company/682c73f75d905d4f0dba552e.png?t=43935660",
+    "level": 1,
+    "width": 512,
+    "height": 120,
+    "address": "Tòa nhà Vinaconex 1 Building, 289B Khuất Duy Tiến, Thanh Xuân, Hà Nội",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "682d483a5d905d4f0dba569d",
+        "name": "Jayace_D2&3_TTNT_HK243.docx",
+        "path": "/company/682c73f75d905d4f0dba552eJayace_D2&3_TTNT_HK243.docx"
+      }
+    ],
+    "work": ""
+  },
   "682c73f85d905d4f0dba5530": {
     "id": "682c73f85d905d4f0dba5530",
     "shortname": "Inovaetion",
@@ -3465,7 +3610,7 @@
     "width": 512,
     "height": 178,
     "address": "46 Lê Tấn Quốc, Phường 13, Quận Tân Bình, Thành phố Hồ Chí Minh",
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
