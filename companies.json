@@ -3569,7 +3569,7 @@
     "width": 512,
     "height": 162,
     "address": "14 đường 16, Khu dân cư Phong Phú 5, Bình Chánh, TPHCM",
-    "studentRegister": 3,
+    "studentRegister": 5,
     "studentAccepted": 0,
     "maxRegister": 9,
     "maxAcceptedStudent": 3,
@@ -3639,6 +3639,11 @@
         "_id": "682d46f85d905d4f0dba569a",
         "name": "Inovaetion_D2&3_TTNT_HK243.docx",
         "path": "/company/682c73f85d905d4f0dba5530Inovaetion_D2&3_TTNT_HK243.docx"
+      },
+      {
+        "_id": "682d847b5d905d4f0dba570d",
+        "name": "Inovaetion_D2_TTNT_HK243.pdf",
+        "path": "/company/682c73f85d905d4f0dba5530Inovaetion_D2_TTNT_HK243.pdf"
       }
     ],
     "work": "<p>CÔNG TY TNHH INOVAETION</p>"
