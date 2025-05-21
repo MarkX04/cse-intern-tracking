@@ -994,7 +994,7 @@
     "width": 512,
     "height": 247,
     "address": "20C2, đường số 69, Khu dân cư Tân Quy Đông, Tân Phong, Q7, TpHCM",
-    "studentRegister": 8,
+    "studentRegister": 9,
     "studentAccepted": 3,
     "maxRegister": 12,
     "maxAcceptedStudent": 4,
@@ -2986,9 +2986,19 @@
         "_id": "681c036e841f239ff1b30d44",
         "name": "Bosch_D2&3_TTNT_HK243.docx",
         "path": "/company/681c0321841f239ff1b30d40Bosch_D2&3_TTNT_HK243.docx"
+      },
+      {
+        "_id": "682d77695d905d4f0dba56f5",
+        "name": "Bosch_D2&3_TTNT_HK243.pdf",
+        "path": "/company/681c0321841f239ff1b30d40Bosch_D2&3_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "682d776e5d905d4f0dba56f6",
+        "name": "Bosch_D3_TTNT_HK243.pdf",
+        "path": "/company/681c0321841f239ff1b30d40Bosch_D3_TTNT_HK243.pdf"
       }
     ],
-    "work": ""
+    "work": "<p>Bosch - Công ty TNHH Bosch Global Software Technologies</p>"
   },
   "681c95bc841f239ff1b30e45": {
     "id": "681c95bc841f239ff1b30e45",
