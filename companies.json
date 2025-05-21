@@ -220,7 +220,7 @@
     "width": 512,
     "height": 512,
     "address": "Lô T2, Đường D1 Khu Công nghệ Cao, P. Tân Phú, TP. Thủ Đức",
-    "studentRegister": 67,
+    "studentRegister": 69,
     "studentAccepted": 28,
     "maxRegister": 150,
     "maxAcceptedStudent": 50,
@@ -788,7 +788,7 @@
     "width": 512,
     "height": 307,
     "address": "Sài Gòn Villas Hill, 99 Lê Văn Việt, P. Tăng Phú Nhơn A, TP. Thủ Đức, TP. Hồ Chí Minh, Việt Nam",
-    "studentRegister": 25,
+    "studentRegister": 24,
     "studentAccepted": 1,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
@@ -1414,6 +1414,11 @@
         "_id": "67f4ee1b502455a6d3605423",
         "name": "TMA_BD_D2_TTNT_HK243.pdf",
         "path": "/company/64780f59e7ad7cc2b72379f6TMA_BD_D2_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "682d54065d905d4f0dba56b8",
+        "name": "TMA_BD_D3_TTNT_HK243_11SV.pdf",
+        "path": "/company/64780f59e7ad7cc2b72379f6TMA_BD_D3_TTNT_HK243_11SV.pdf"
       }
     ],
     "work": "<p><span style=\"color:#1F4E79;\">Dear&nbsp;Intern,</span></p><p><span style=\"color:#1F4E79;\">Please apply via this&nbsp;</span><a href=\"https://docs.google.com/forms/d/1BOiNXiYBYHaQzcajZn66Ed-hT8QIBS2hfUmBTcLp4N8/edit\"><span style=\"color:#1F4E79;\">link</span></a><span style=\"color:#1F4E79;\"> so we can arrange&nbsp;for you to join the Internship Batch 19.</span></p>"
@@ -3377,7 +3382,7 @@
     "height": 287,
     "address": "26 Nguyễn Đình Khơi, Phường 4, Quận Tân Bình, Thành phố Hồ Chí Minh",
     "studentRegister": 17,
-    "studentAccepted": 0,
+    "studentAccepted": 1,
     "maxRegister": 18,
     "maxAcceptedStudent": 6,
     "adminMaxRegister": 10,
