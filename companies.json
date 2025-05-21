@@ -788,7 +788,7 @@
     "width": 512,
     "height": 307,
     "address": "Sài Gòn Villas Hill, 99 Lê Văn Việt, P. Tăng Phú Nhơn A, TP. Thủ Đức, TP. Hồ Chí Minh, Việt Nam",
-    "studentRegister": 23,
+    "studentRegister": 22,
     "studentAccepted": 1,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
@@ -3625,8 +3625,8 @@
     "width": 512,
     "height": 178,
     "address": "46 Lê Tấn Quốc, Phường 13, Quận Tân Bình, Thành phố Hồ Chí Minh",
-    "studentRegister": 1,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 1,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
     "adminMaxRegister": 10,
@@ -3641,9 +3641,9 @@
         "path": "/company/682c73f85d905d4f0dba5530Inovaetion_D2&3_TTNT_HK243.docx"
       },
       {
-        "_id": "682d847b5d905d4f0dba570d",
-        "name": "Inovaetion_D2_TTNT_HK243.pdf",
-        "path": "/company/682c73f85d905d4f0dba5530Inovaetion_D2_TTNT_HK243.pdf"
+        "_id": "682d84935d905d4f0dba5710",
+        "name": "Inovaetion_D2&3_TTNT_HK243.pdf",
+        "path": "/company/682c73f85d905d4f0dba5530Inovaetion_D2&3_TTNT_HK243.pdf"
       }
     ],
     "work": "<p>CÔNG TY TNHH INOVAETION</p>"
