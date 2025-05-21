@@ -2223,8 +2223,8 @@
     "width": 512,
     "height": 130,
     "address": "Tầng 7, Số 33, Đường Lê Duẩn, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
-    "studentRegister": 3,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 1,
     "maxRegister": 3,
     "maxAcceptedStudent": 1,
     "adminMaxRegister": 10,
@@ -2521,7 +2521,7 @@
     "height": 512,
     "address": "Tầng 6 Tòa nhà VCN Tower, số 2 Đường Tố Hữu, Phường Phước Hải, Thành  phố Nha Trang, Tỉnh Khánh Hòa",
     "studentRegister": 11,
-    "studentAccepted": 14,
+    "studentAccepted": 13,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
     "adminMaxRegister": 10,
@@ -3454,5 +3454,33 @@
       }
     ],
     "work": "<p>Công Ty TNHH Bubobot</p>"
+  },
+  "682c73f85d905d4f0dba5530": {
+    "id": "682c73f85d905d4f0dba5530",
+    "shortname": "Inovaetion",
+    "fullname": "CÔNG TY TNHH INOVAETION",
+    "isSponsor": false,
+    "image": "/img/company/682c73f85d905d4f0dba5530.png?t=43858645",
+    "level": 1,
+    "width": 512,
+    "height": 178,
+    "address": "46 Lê Tấn Quốc, Phường 13, Quận Tân Bình, Thành phố Hồ Chí Minh",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "682d46f85d905d4f0dba569a",
+        "name": "Inovaetion_D2&3_TTNT_HK243.docx",
+        "path": "/company/682c73f85d905d4f0dba5530Inovaetion_D2&3_TTNT_HK243.docx"
+      }
+    ],
+    "work": "<p>CÔNG TY TNHH INOVAETION</p>"
   }
 }
