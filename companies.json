@@ -496,7 +496,7 @@
     "width": 512,
     "height": 363,
     "address": "Phòng I.102, Nhà A, Khu Công nghệ Phần mềm ĐHQG - HCM, đường Võ Trường Toản, Khu phố 6 , Phường Linh Trung, TP. Thủ Đức, TP.HCM",
-    "studentRegister": 29,
+    "studentRegister": 30,
     "studentAccepted": 1,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
@@ -1927,6 +1927,11 @@
         "_id": "67f8ca6b502455a6d3605ada",
         "name": "TRUINOVATE_D2_TTNT_HK243.pdf",
         "path": "/company/67ee0ae0502455a6d3604837TRUINOVATE_D2_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "682de60d5d905d4f0dba57c2",
+        "name": "TRUINOVATE_D3_TTNT_HK243.pdf",
+        "path": "/company/67ee0ae0502455a6d3604837TRUINOVATE_D3_TTNT_HK243.pdf"
       }
     ],
     "work": "<p>CÔNG TY TNHH TRUINOVATE</p>"
@@ -3358,7 +3363,7 @@
     "width": 512,
     "height": 382,
     "address": "46-48 Trần Thiện Chánh, Phường 12, Quận 10, TPHCM",
-    "studentRegister": 7,
+    "studentRegister": 8,
     "studentAccepted": 2,
     "maxRegister": 9,
     "maxAcceptedStudent": 3,
