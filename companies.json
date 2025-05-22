@@ -364,7 +364,7 @@
     "width": 512,
     "height": 112,
     "address": "53-55-57 Phó Đức Chính, P. Nguyễn Thái Bình, Q.1, TP.HCM",
-    "studentRegister": 50,
+    "studentRegister": 51,
     "studentAccepted": 4,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -905,7 +905,7 @@
     "width": 512,
     "height": 385,
     "address": "151-153 Nguyễn Đình Chiểu, Phường Võ Thị Sáu, Quận 3, TP.HCM",
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
@@ -1296,7 +1296,7 @@
     "width": 512,
     "height": 565,
     "address": "12/20D Nguyễn Thị Minh Khai, P.Đao Kao , Q.1, TP. HCM",
-    "studentRegister": 10,
+    "studentRegister": 11,
     "studentAccepted": 3,
     "maxRegister": 12,
     "maxAcceptedStudent": 4,
@@ -1908,7 +1908,7 @@
     "width": 512,
     "height": 389,
     "address": "Phòng 11, MindX Lê Văn Việt - Lầu trệt, 99 Lê Văn Việt, Phường Tăng Nhơn Phú A, Quận 9, Thủ Đức, Thành phố Hồ Chí Minh",
-    "studentRegister": 12,
+    "studentRegister": 11,
     "studentAccepted": 0,
     "maxRegister": 0,
     "maxAcceptedStudent": 4,
@@ -1979,7 +1979,7 @@
     "width": 512,
     "height": 90,
     "address": "F04, Lô I-4A, Khu công nghệ cao TP. Hồ Chí Minh, phường Long Thạnh Mỹ, TP. Thủ Đức",
-    "studentRegister": 9,
+    "studentRegister": 10,
     "studentAccepted": 3,
     "maxRegister": 12,
     "maxAcceptedStudent": 4,
@@ -3180,8 +3180,8 @@
     "width": 512,
     "height": 182,
     "address": "Số 35, Đường số 3, Cư Xá Đô Thành, P. 4, Q. 3, TP HCM",
-    "studentRegister": 1,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 1,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
     "adminMaxRegister": 10,
@@ -3194,6 +3194,11 @@
         "_id": "68254d54841f239ff1b31d63",
         "name": "TT_D2&3_TTNT_HK243.docx",
         "path": "/company/6824adfb841f239ff1b31c46TT_D2&3_TTNT_HK243.docx"
+      },
+      {
+        "_id": "682e98905d905d4f0dba58f5",
+        "name": "TT_D2&3_TTNT_HK243.pdf",
+        "path": "/company/6824adfb841f239ff1b31c46TT_D2&3_TTNT_HK243.pdf"
       }
     ],
     "work": "<p>CTY CP CÔNG NGHỆ GIẢI PHÁP THI THIÊN</p>"
@@ -3396,7 +3401,7 @@
     "width": 512,
     "height": 287,
     "address": "26 Nguyễn Đình Khơi, Phường 4, Quận Tân Bình, Thành phố Hồ Chí Minh",
-    "studentRegister": 17,
+    "studentRegister": 18,
     "studentAccepted": 1,
     "maxRegister": 18,
     "maxAcceptedStudent": 6,
@@ -3490,7 +3495,7 @@
     "width": 512,
     "height": 168,
     "address": "Chung cư Tropic Garden, đường 49, phường Thảo Điền, TP Thủ Đức, TP HCM",
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
@@ -3518,8 +3523,8 @@
     "width": 512,
     "height": 512,
     "address": "D-00.03, Tháp D, Chung cư Sadora, Số 2 Đường số 13, Phường Thủ Thiêm, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
-    "studentRegister": 2,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 2,
     "maxRegister": 2,
     "maxAcceptedStudent": 2,
     "adminMaxRegister": 10,
@@ -3539,7 +3544,7 @@
         "path": "/company/682bcd415d905d4f0dba5403BBB_D2&3_TTNT_HK243.pdf"
       }
     ],
-    "work": "<p>Công Ty TNHH Bubobot</p>"
+    "work": "<p style=\"margin-left:18.0pt;text-align:justify;\">Bubobot is a SaaS monitoring platform designed to keep your systems up and running. We offer comprehensive monitoring tools to give you full visibility and control over your system's health.</p>"
   },
   "682c73f45d905d4f0dba552a": {
     "id": "682c73f45d905d4f0dba552a",
