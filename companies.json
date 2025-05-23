@@ -27,6 +27,34 @@
     ],
     "work": "<p>Công ty TNHH HORUSOFTACEAE là công ty chuyên phát triển và cung cấp các dịch vụ công nghệ, ứng dụng trong lĩnh vực nghiên cứu Y Dược và Giáo dục Đào tạo. Đối tác và khách hàng của HORUSOFTACEAE bao gồm các doanh nghiệp trong nước và quốc tế ở nhiều quốc gia khác nhau. Hiện nay công ty HORUSOFTACEAE đang trong quá trình phát triển, mở rộng hoạt động kinh doanh, cần tập trung phát triển một số sản phẩm công nghệ tiên tiến đặc thù, nhằm phục vụ cho các đối tác và khách hàng của công ty.</p><p style=\"margin-left:0px;\"><span style=\"color:rgb(230,77,77);\"><strong>Sinh viên ứng tuyển vui lòng gửi đầy đủ CV &amp; bảng điểm về email: intern@horusoftaceae.com</strong></span></p>"
   },
+  "5caef41202c2e72195b4ce90": {
+    "id": "5caef41202c2e72195b4ce90",
+    "shortname": "DLVN (Dai-Ichi Life VN)",
+    "fullname": "CÔNG TY TNHH BẢO HIỂM NHÂN THỌ DAI-ICHI VIỆT NAM",
+    "isSponsor": false,
+    "image": "/img/company/5caef41202c2e72195b4ce90.png?t=40119777",
+    "level": 1,
+    "width": 512,
+    "height": 512,
+    "address": "149-151 Nguyễn Văn Trỗi, P.11, Q. Phú Nhuận, TP.HCM",
+    "studentRegister": 1,
+    "studentAccepted": 0,
+    "maxRegister": 39,
+    "maxAcceptedStudent": 13,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": true,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "6830961e5d905d4f0dba5c78",
+        "name": "DLVN_D2_TTNT_HK243.pdf",
+        "path": "/company/5caef41202c2e72195b4ce90DLVN_D2_TTNT_HK243.pdf"
+      }
+    ],
+    "work": "Công ty TNHH Bảo hiểm Nhân thọ Dai-ichi Việt Nam (“Dai-ichi Life Việt Nam  - DLVN”) được thành lập ngày 18 tháng 01 năm 2007, là thành viên của The Dai-ichi Life Insurance Company, Limited (“Dai-ichi Life”) – Nhật Bản, một trong những công ty bảo hiểm nhân thọ hàng đầu tại Nhật Bản và trên thế giới.\nVới kinh nghiệm hơn 110 năm hoạt động trong ngành bảo hiểm nhân thọ và giá trị nền tảng “Khách hàng là trên hết”, Dai-ichi Life Việt Nam luôn nỗ lực cung cấp các sản phẩm và dịch vụ tài chính tốt nhất nhằm đáp ứng nhu cầu tài chính đa dạng và sự tin tưởng của khách hàng Việt Nam."
+  },
   "5caef41802c2e72195b4ce9a": {
     "id": "5caef41802c2e72195b4ce9a",
     "shortname": "Vinova",
@@ -181,6 +209,34 @@
       }
     ],
     "work": "Internet company"
+  },
+  "5caef43b02c2e72195b4ced6": {
+    "id": "5caef43b02c2e72195b4ced6",
+    "shortname": "Renesas",
+    "fullname": "Renesas Design Vietnam Co., Ltd.",
+    "isSponsor": false,
+    "image": "/img/company/5caef43b02c2e72195b4ced6.png?t=37297008",
+    "level": 1,
+    "width": 512,
+    "height": 512,
+    "address": "Lot W.29-30-31a, Tan Thuan Road, Tan Thuan Export Processing Zone, Tan Thuan Dong Ward, District 7, HCMC.",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 15,
+    "maxAcceptedStudent": 5,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p style=\"margin-left:0in;\"><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CE).</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683097425d905d4f0dba5c7c",
+        "name": "Renesas_D2_TTNT_HK243.docx",
+        "path": "/company/5caef43b02c2e72195b4ced6Renesas_D2_TTNT_HK243.docx"
+      }
+    ],
+    "work": "At Renesas we continuously strive to drive innovation with a comprehensive portfolio of microcontrollers, analog and power devices. Our mission is to develop a safer, healthier, greener, and smarter world by providing intelligence to our four focus growth segments: Automotive, Industrial, Infrastructure, and IoT which are all vital to our daily lives, meaning our products and solutions are embedded everywhere.\nRenesas Design Vietnam Co., Ltd."
   },
   "5caef43d02c2e72195b4ceda": {
     "id": "5caef43d02c2e72195b4ceda",
@@ -3794,5 +3850,61 @@
       }
     ],
     "work": ""
+  },
+  "682f05cd5d905d4f0dba59b5": {
+    "id": "682f05cd5d905d4f0dba59b5",
+    "shortname": "PA - Phan Anh",
+    "fullname": "CÔNG TY TNHH SẢN XUẤT- THƯƠNG MẠI - TRANG THIẾT BỊ Y TẾ PHAN ANH",
+    "isSponsor": false,
+    "image": "/img/company/682f05cd5d905d4f0dba59b5.png?t=12391163",
+    "level": 1,
+    "width": 512,
+    "height": 375,
+    "address": "T3 - T4 Hồng Lĩnh, Cư Xá Bắc Hải, Phường 15, Quận 10, Thành phố Hồ Chí Minh",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683097bb5d905d4f0dba5c7d",
+        "name": "PA_PhanAnh_D2_TTNT_HK243.docx",
+        "path": "/company/682f05cd5d905d4f0dba59b5PA_PhanAnh_D2_TTNT_HK243.docx"
+      }
+    ],
+    "work": "<p>CÔNG TY TNHH SẢN XUẤT- THƯƠNG MẠI - TRANG THIẾT BỊ Y TẾ PHAN ANH</p>"
+  },
+  "682f05ce5d905d4f0dba59b7": {
+    "id": "682f05ce5d905d4f0dba59b7",
+    "shortname": "Hội SVVN - ĐHBK",
+    "fullname": "Hội SVVN - Trường ĐH Bách Khoa",
+    "isSponsor": false,
+    "image": "/img/company/682f05ce5d905d4f0dba59b7.png?t=12228549",
+    "level": 1,
+    "width": 512,
+    "height": 437,
+    "address": "114-B1 Trường ĐH Bách Khoa, 268 Lý Thường Kiệt, P14, Q10, TPHCM; Phòng 105-106 BK.B6 Trường ĐH Bách Khoa, P. Đông Hòa, TP. Dĩ An, tỉnh Bình Dương",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 45,
+    "maxAcceptedStudent": 15,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683096c55d905d4f0dba5c79",
+        "name": "HSVVN_DHBK_D2_TTNT_HK243.pdf",
+        "path": "/company/682f05ce5d905d4f0dba59b7HSVVN_DHBK_D2_TTNT_HK243.pdf"
+      }
+    ],
+    "work": "<p>Hội SVVN - Trường ĐH Bách Khoa</p>"
   }
 }
