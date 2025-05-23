@@ -562,7 +562,7 @@
     "width": 512,
     "height": 195,
     "address": "Lầu 5, Block A, Tòa nhà Waseco, số 10 Phổ Quang, phường 2, Q. Tân Bình, TP.HCM",
-    "studentRegister": 14,
+    "studentRegister": 15,
     "studentAccepted": 4,
     "maxRegister": 15,
     "maxAcceptedStudent": 5,
@@ -2714,6 +2714,11 @@
         "_id": "680b3e643890995d799d8c39",
         "name": "GOSU_D2_TTNT_HK243.pdf",
         "path": "/company/680a24f03890995d799d8a4eGOSU_D2_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "6830369a5d905d4f0dba5bc5",
+        "name": "GOSU_D3_TTNT_HK243.pdf",
+        "path": "/company/680a24f03890995d799d8a4eGOSU_D3_TTNT_HK243.pdf"
       }
     ],
     "work": ""
@@ -2794,7 +2799,7 @@
     "width": 512,
     "height": 248,
     "address": "244/31 Huỳnh Văn Bánh, Phường 11, Quận Phú Nhuận, Hồ Chí Minh",
-    "studentRegister": 14,
+    "studentRegister": 12,
     "studentAccepted": 0,
     "maxRegister": 15,
     "maxAcceptedStudent": 5,
@@ -3406,7 +3411,7 @@
     "width": 512,
     "height": 287,
     "address": "26 Nguyễn Đình Khơi, Phường 4, Quận Tân Bình, Thành phố Hồ Chí Minh",
-    "studentRegister": 17,
+    "studentRegister": 18,
     "studentAccepted": 1,
     "maxRegister": 18,
     "maxAcceptedStudent": 6,
