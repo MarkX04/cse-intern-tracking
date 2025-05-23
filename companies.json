@@ -440,7 +440,7 @@
     "width": 512,
     "height": 152,
     "address": "27B/9 Nguyễn Đình Chiểu, P. Đa Kao, Q1, TPHCM",
-    "studentRegister": 60,
+    "studentRegister": 59,
     "studentAccepted": 0,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -523,6 +523,34 @@
       }
     ],
     "work": "Công nghệ dành cho giáo dục (Edtech), AI, Cloud-based LMS, Streaming, Mobile apps, Innovation & Education"
+  },
+  "5ecf3c9bd1a3a42ea357e45b": {
+    "id": "5ecf3c9bd1a3a42ea357e45b",
+    "shortname": "GCALLS",
+    "fullname": "Công ty cổ phần Gcalls",
+    "isSponsor": false,
+    "image": "/img/company/5ecf3c9bd1a3a42ea357e45b.jpg?t=39834913",
+    "level": 1,
+    "width": 512,
+    "height": 512,
+    "address": "Lầu 7, Tòa Nhà Minh Long, số 17, Phường 6, Đường Bà Huyên Thanh Quan, Quận 3, Tp. Hồ Chí Minh",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 36,
+    "maxAcceptedStudent": 12,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": true,
+    "active": true,
+    "description": "<p style=\"margin-left:0in;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683095025d905d4f0dba5c74",
+        "name": "Gcalls_D2_TTNT_HK243.docx",
+        "path": "/company/5ecf3c9bd1a3a42ea357e45bGcalls_D2_TTNT_HK243.docx"
+      }
+    ],
+    "work": "Software as a Service, Integrated Telephony Application, Voice Regconization"
   },
   "5ed1c515d1a3a42ea357e8ba": {
     "id": "5ed1c515d1a3a42ea357e8ba",
@@ -3682,5 +3710,89 @@
       }
     ],
     "work": "<p>CÔNG TY TNHH INOVAETION</p>"
+  },
+  "682d881b5d905d4f0dba5717": {
+    "id": "682d881b5d905d4f0dba5717",
+    "shortname": "DE - DOCUMENT EASY",
+    "fullname": "CÔNG TY TNHH DOCUMENT EASY",
+    "isSponsor": false,
+    "image": "/img/company/682d881b5d905d4f0dba5717.png?t=14694261",
+    "level": 1,
+    "width": 512,
+    "height": 231,
+    "address": "Phòng I.115B, Nhà A, Khu Công nghệ Phần mềm, đường nội bộ Đại học Quốc gia TP. Hồ Chí Minh, Khu phố 6, Phường Linh Trung, Thành phố Thủ Đức",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 60,
+    "maxAcceptedStudent": 20,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683095815d905d4f0dba5c75",
+        "name": "DE_D2_TTNT_HK243.docx",
+        "path": "/company/682d881b5d905d4f0dba5717DE_D2_TTNT_HK243.docx"
+      }
+    ],
+    "work": "<p>CÔNG TY TNHH DOCUMENT EASY</p>"
+  },
+  "682d881d5d905d4f0dba571b": {
+    "id": "682d881d5d905d4f0dba571b",
+    "shortname": "NDS",
+    "fullname": "Công ty CP NDS Việt Nam",
+    "isSponsor": false,
+    "image": "/img/company/682d881d5d905d4f0dba571b.png?t=14607660",
+    "level": 1,
+    "width": 512,
+    "height": 498,
+    "address": "42/2 Nguyễn Văn Trỗi, P.15, Q. Phú Nhuận",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683094865d905d4f0dba5c73",
+        "name": "NDS_D2&3_TTNT_HK243.pdf",
+        "path": "/company/682d881d5d905d4f0dba571bNDS_D2&3_TTNT_HK243.pdf"
+      }
+    ],
+    "work": ""
+  },
+  "682d881f5d905d4f0dba571d": {
+    "id": "682d881f5d905d4f0dba571d",
+    "shortname": "NW - Nextwaves",
+    "fullname": "CÔNG TY TNHH GIẢI PHÁP PHẦN MỀM NEXTWAVES",
+    "isSponsor": false,
+    "image": "/img/company/682d881f5d905d4f0dba571d.png?t=14504115",
+    "level": 1,
+    "width": 512,
+    "height": 512,
+    "address": "Tầng 14, Tòa Nhà HM Town, 412 Nguyễn Thị Minh Khai, Phường 05, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683093fc5d905d4f0dba5c70",
+        "name": "NW_Nextwaves_D2_TTNT_HK243.docx",
+        "path": "/company/682d881f5d905d4f0dba571dNW_Nextwaves_D2_TTNT_HK243.docx"
+      }
+    ],
+    "work": ""
   }
 }
