@@ -140,6 +140,11 @@
         "_id": "67efc783502455a6d3604b3e",
         "name": "EA_D2_TTNT_HK243.pdf",
         "path": "/company/5caef42b02c2e72195b4cebaEA_D2_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "682ffaae5d905d4f0dba5b5b",
+        "name": "EA_D3_TTNT_HK243.pdf",
+        "path": "/company/5caef42b02c2e72195b4cebaEA_D3_TTNT_HK243.pdf"
       }
     ],
     "work": "Công ty TNHH MTV Phương Đông Linh Hoạt Việt Nam (East Agile)"
@@ -435,7 +440,7 @@
     "width": 512,
     "height": 152,
     "address": "27B/9 Nguyễn Đình Chiểu, P. Đa Kao, Q1, TPHCM",
-    "studentRegister": 54,
+    "studentRegister": 55,
     "studentAccepted": 0,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -496,7 +501,7 @@
     "width": 512,
     "height": 363,
     "address": "Phòng I.102, Nhà A, Khu Công nghệ Phần mềm ĐHQG - HCM, đường Võ Trường Toản, Khu phố 6 , Phường Linh Trung, TP. Thủ Đức, TP.HCM",
-    "studentRegister": 29,
+    "studentRegister": 28,
     "studentAccepted": 1,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
@@ -755,7 +760,7 @@
     "width": 512,
     "height": 484,
     "address": "Tầng 3, Phòng 301, 57 Lê Thị Hồng Gấm, P. Nguyễn Thái Bình, Quận 1. TP. Hồ Chí Minh",
-    "studentRegister": 11,
+    "studentRegister": 10,
     "studentAccepted": 0,
     "maxRegister": 12,
     "maxAcceptedStudent": 4,
@@ -1395,8 +1400,8 @@
     "width": 512,
     "height": 365,
     "address": "12 Đại lộ Khoa học, KV2, phường Ghềnh Ráng, TP. Quy Nhơn, tỉnh Bình Định",
-    "studentRegister": 18,
-    "studentAccepted": 12,
+    "studentRegister": 17,
+    "studentAccepted": 13,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
     "adminMaxRegister": 10,
@@ -3556,7 +3561,7 @@
     "width": 512,
     "height": 518,
     "address": "168/6 Bùi Thị Xuân, P.3, Q. Tân Bình, TP.HCM",
-    "studentRegister": 14,
+    "studentRegister": 15,
     "studentAccepted": 0,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
