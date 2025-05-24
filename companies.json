@@ -37,7 +37,7 @@
     "width": 512,
     "height": 512,
     "address": "149-151 Nguyễn Văn Trỗi, P.11, Q. Phú Nhuận, TP.HCM",
-    "studentRegister": 21,
+    "studentRegister": 22,
     "studentAccepted": 0,
     "maxRegister": 39,
     "maxAcceptedStudent": 13,
@@ -811,7 +811,7 @@
     "width": 512,
     "height": 512,
     "address": "Ban Vien Tower, 54-56-58 Đường số 2, Khu phố 5, Khu nhà ở Vạn Phúc 1, Phường Hiệp Bình Phước, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam.",
-    "studentRegister": 2,
+    "studentRegister": 3,
     "studentAccepted": 4,
     "maxRegister": 21,
     "maxAcceptedStudent": 7,
@@ -1055,7 +1055,7 @@
     "width": 512,
     "height": 588,
     "address": "437/16 Hoàng Văn Thụ, phường 4, quận Tân Bình, TP. Hồ Chí Minh",
-    "studentRegister": 25,
+    "studentRegister": 26,
     "studentAccepted": 2,
     "maxRegister": 27,
     "maxAcceptedStudent": 9,
@@ -3905,6 +3905,6 @@
         "path": "/company/682f05ce5d905d4f0dba59b7HSVVN_DHBK_D2_TTNT_HK243.pdf"
       }
     ],
-    "work": "<p>Hội Sinh viên Việt Nam Trường Đai học Bách khoa (Hội Sinh viên trường)</p>"
+    "work": "<p>Hội Sinh viên Việt Nam Trường Đai học Bách khoa (Hội Sinh viên trường).</p><p>Vui lòng điền form tại đây: <a href=\"https://forms.gle/FBeUfgxAeQWdfjLE6\">https://forms.gle/FBeUfgxAeQWdfjLE6</a> để ứng tuyển, không gửi mail.</p>"
   }
 }
