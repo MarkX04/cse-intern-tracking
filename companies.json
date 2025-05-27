@@ -4054,6 +4054,62 @@
     ],
     "work": "<p>SKYLINK Technology</p>"
   },
+  "68355d625d905d4f0dba64bb": {
+    "id": "68355d625d905d4f0dba64bb",
+    "shortname": "AVT - ADVANCE VISION TECHNOLOGY",
+    "fullname": "CÔNG TY TNHH ADVANCE VISION TECHNOLOGY VIỆT NAM",
+    "isSponsor": false,
+    "image": "/img/company/68355d625d905d4f0dba64bb.png?t=32267923",
+    "level": 1,
+    "width": 512,
+    "height": 135,
+    "address": "Lầu 6, 195-197 Phan Đăng Lưu, Phường 1, Quận Phú Nhuận, Tp.HCM, Việt Nam",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "68356efe5d905d4f0dba64fb",
+        "name": "AVT_AVTECH_D2&3_TTNT_HK243.docx",
+        "path": "/company/68355d625d905d4f0dba64bbAVT_AVTECH_D2&3_TTNT_HK243.docx"
+      }
+    ],
+    "work": "<p>CÔNG TY TNHH ADVANCE VISION TECHNOLOGY VIỆT NAM</p>"
+  },
+  "68355d635d905d4f0dba64bd": {
+    "id": "68355d635d905d4f0dba64bd",
+    "shortname": "SMA - SOLUTION MINDED AGENCY",
+    "fullname": "CÔNG TY TNHH SOLUTION MINDED AGENCY",
+    "isSponsor": false,
+    "image": "/img/company/68355d635d905d4f0dba64bd.png?t=32112616",
+    "level": 1,
+    "width": 512,
+    "height": 181,
+    "address": "Lầu 9 Viễn Đông Building, 14 Phan Tôn, Phường Đa Kao, Quận 1",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "68356e645d905d4f0dba64f8",
+        "name": "SMA_D2&3_TTNT_HK243.docx",
+        "path": "/company/68355d635d905d4f0dba64bdSMA_D2&3_TTNT_HK243.docx"
+      }
+    ],
+    "work": "<p>CÔNG TY TNHH SOLUTION MINDED AGENCY</p>"
+  },
   "68355d645d905d4f0dba64bf": {
     "id": "68355d645d905d4f0dba64bf",
     "shortname": "OS - OhStem",
@@ -4064,7 +4120,7 @@
     "width": 512,
     "height": 128,
     "address": "42B Hồ Bá Phấn, Phước Long A, TP. Thủ Đức, Thành phố Hồ Chí Minh",
-    "studentRegister": 1,
+    "studentRegister": 0,
     "studentAccepted": 0,
     "maxRegister": 5,
     "maxAcceptedStudent": 5,
