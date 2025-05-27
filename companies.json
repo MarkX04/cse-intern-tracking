@@ -2050,7 +2050,7 @@
     "width": 512,
     "height": 389,
     "address": "Phòng 11, MindX Lê Văn Việt - Lầu trệt, 99 Lê Văn Việt, Phường Tăng Nhơn Phú A, Quận 9, Thủ Đức, Thành phố Hồ Chí Minh",
-    "studentRegister": 4,
+    "studentRegister": 5,
     "studentAccepted": 1,
     "maxRegister": 12,
     "maxAcceptedStudent": 4,
@@ -4081,6 +4081,90 @@
       }
     ],
     "work": "<p style=\"margin-left:.25in;text-align:justify;\">mgm technology partners là công ty phần mềm đa quốc gia, chuyên phát triển các ứng dụng thiết yếu cho doanh nghiệp trong lĩnh vực dịch vụ công, thương mại và bảo hiểm thương mại. mgm được thành lập vào năm 1994 và đã phát triển từ một công ty phát triển dự án CNTT thành chuyên gia về kỹ thuật phần mềm định hướng mô hình (model-driven software engineering). Chúng tôi hiện có hơn 1.000 nhân viên làm việc tại 19 chi nhánh trên toàn thế giới.</p><p style=\"margin-left:.25in;text-align:justify;\">mgm thành lập văn phòng đầu tiên tại Việt Nam vào năm 2016. Hiện tại, chúng tôi có 2 văn phòng tại Đà Nẵng và 1 văn phòng tại TP. Hồ Chí Minh với hơn 150 kỹ sư phần mềm và vẫn đang tiếp tục mở rộng.</p>"
+  },
+  "68355d685d905d4f0dba64c5": {
+    "id": "68355d685d905d4f0dba64c5",
+    "shortname": "Resource",
+    "fullname": "CÔNG TY TNHH CH RESOURCE VIETNAM",
+    "isSponsor": false,
+    "image": "/img/company/68355d685d905d4f0dba64c5.png?t=31600071",
+    "level": 1,
+    "width": 512,
+    "height": 91,
+    "address": "196A NGUYỄN VĂN HƯỞNG, THẢO ĐIỀN, THÀNH PHỐ THỦ ĐỨC",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "68356c675d905d4f0dba64f3",
+        "name": "Resource_D2&3_TTNT_HK243.docx",
+        "path": "/company/68355d685d905d4f0dba64c5Resource_D2&3_TTNT_HK243.docx"
+      }
+    ],
+    "work": "<p>CÔNG TY TNHH CH RESOURCE VIETNAM</p>"
+  },
+  "68355d695d905d4f0dba64c7": {
+    "id": "68355d695d905d4f0dba64c7",
+    "shortname": "NT - Nha Trang",
+    "fullname": "Công ty TNHH MTV Công Nghệ Cao Nha Trang",
+    "isSponsor": false,
+    "image": "/img/company/68355d695d905d4f0dba64c7.png?t=31379230",
+    "level": 1,
+    "width": 512,
+    "height": 188,
+    "address": "VP.HCM, 40/6 Đ. Lữ Gia, Phường 15, Quận 11, Hồ Chí Minh",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "68356b885d905d4f0dba64f0",
+        "name": "NT_NhaTrang_D2&3_TTNT_HK243.docx",
+        "path": "/company/68355d695d905d4f0dba64c7NT_NhaTrang_D2&3_TTNT_HK243.docx"
+      }
+    ],
+    "work": "<p>Công ty TNHH MTV Công Nghệ Cao Nha Trang</p>"
+  },
+  "68355d6a5d905d4f0dba64c9": {
+    "id": "68355d6a5d905d4f0dba64c9",
+    "shortname": "Appvity",
+    "fullname": "A ONE MEMBER APPVITY SYSTEM VIET NAM COMPANY LIMITED",
+    "isSponsor": false,
+    "image": "/img/company/68355d6a5d905d4f0dba64c9.png?t=31158496",
+    "level": 1,
+    "width": 512,
+    "height": 149,
+    "address": "Lầu 8, Toà Nhà Kicotrans, Số 44-46-48, Đường Bạch Đằng 2, Phường 2, Quận Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
+    "studentRegister": 1,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "68356aa25d905d4f0dba64ed",
+        "name": "Appvity_D2&3_TTNT_HK243.docx",
+        "path": "/company/68355d6a5d905d4f0dba64c9Appvity_D2&3_TTNT_HK243.docx"
+      }
+    ],
+    "work": "<p>A ONE MEMBER APPVITY SYSTEM VIET NAM COMPANY LIMITED</p>"
   },
   "68355d6d5d905d4f0dba64cc": {
     "id": "68355d6d5d905d4f0dba64cc",
