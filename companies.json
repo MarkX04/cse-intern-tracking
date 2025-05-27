@@ -4054,6 +4054,62 @@
     ],
     "work": "<p>SKYLINK Technology</p>"
   },
+  "68355d645d905d4f0dba64bf": {
+    "id": "68355d645d905d4f0dba64bf",
+    "shortname": "OS - OhStem",
+    "fullname": "OhStem Education (thuộc Cty TNHH Công nghệ Giáo dục ADT)",
+    "isSponsor": false,
+    "image": "/img/company/68355d645d905d4f0dba64bf.png?t=31914676",
+    "level": 1,
+    "width": 512,
+    "height": 128,
+    "address": "42B Hồ Bá Phấn, Phước Long A, TP. Thủ Đức, Thành phố Hồ Chí Minh",
+    "studentRegister": 1,
+    "studentAccepted": 0,
+    "maxRegister": 5,
+    "maxAcceptedStudent": 5,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "68356dae5d905d4f0dba64f7",
+        "name": "OS_D2&3_TTNT_HK243.docx",
+        "path": "/company/68355d645d905d4f0dba64bfOS_D2&3_TTNT_HK243.docx"
+      }
+    ],
+    "work": "<p>OhStem Education (thuộc Cty TNHH Công nghệ Giáo dục ADT)</p>"
+  },
+  "68355d665d905d4f0dba64c1": {
+    "id": "68355d665d905d4f0dba64c1",
+    "shortname": "SG - Star Global",
+    "fullname": "STAR GLOBAL EXPERT SOLUTIONS JOINT STOCK COMPANY",
+    "isSponsor": false,
+    "image": "/img/company/68355d665d905d4f0dba64c1.png?t=31779409",
+    "level": 1,
+    "width": 512,
+    "height": 512,
+    "address": "04 N8 Street, Quarter 2, Phu Huu Ward, Thu Duc City, Ho Chi Minh City, Vietnam",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 2,
+    "maxAcceptedStudent": 2,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "68356d1d5d905d4f0dba64f4",
+        "name": "SG_StarGlobal_D2&3_TTNT_HK243.docx",
+        "path": "/company/68355d665d905d4f0dba64c1SG_StarGlobal_D2&3_TTNT_HK243.docx"
+      }
+    ],
+    "work": "<p>STAR GLOBAL EXPERT SOLUTIONS JOINT STOCK COMPANY</p>"
+  },
   "68355d675d905d4f0dba64c3": {
     "id": "68355d675d905d4f0dba64c3",
     "shortname": "MGM",
