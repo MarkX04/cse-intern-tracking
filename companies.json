@@ -651,7 +651,7 @@
     "width": 512,
     "height": 195,
     "address": "Lầu 5, Block A, Tòa nhà Waseco, số 10 Phổ Quang, phường 2, Q. Tân Bình, TP.HCM",
-    "studentRegister": 13,
+    "studentRegister": 14,
     "studentAccepted": 4,
     "maxRegister": 15,
     "maxAcceptedStudent": 5,
@@ -1324,7 +1324,7 @@
     "width": 512,
     "height": 512,
     "address": "Tầng 3, Tòa nhà Vina Giầy, 180-182 Lý Chính Thắng, P.9, Q.3, TP.HCM",
-    "studentRegister": 22,
+    "studentRegister": 21,
     "studentAccepted": 14,
     "maxRegister": 45,
     "maxAcceptedStudent": 15,
@@ -1687,7 +1687,7 @@
     "width": 512,
     "height": 304,
     "address": "55-57 Bau Cat 4 St., Tan Binh Dist., Ho Chi Minh City, Vietnam",
-    "studentRegister": 14,
+    "studentRegister": 15,
     "studentAccepted": 2,
     "maxRegister": 15,
     "maxAcceptedStudent": 5,
@@ -2898,7 +2898,7 @@
     "width": 512,
     "height": 248,
     "address": "244/31 Huỳnh Văn Bánh, Phường 11, Quận Phú Nhuận, Hồ Chí Minh",
-    "studentRegister": 11,
+    "studentRegister": 10,
     "studentAccepted": 0,
     "maxRegister": 15,
     "maxAcceptedStudent": 5,
@@ -4015,5 +4015,61 @@
       }
     ],
     "work": "<p>SKYLINK Technology</p>"
+  },
+  "68355d675d905d4f0dba64c3": {
+    "id": "68355d675d905d4f0dba64c3",
+    "shortname": "MGM",
+    "fullname": "Công ty TNHH MTV mgm technology partners Việt Nam",
+    "isSponsor": false,
+    "image": "/img/company/68355d675d905d4f0dba64c3.png?t=28243881",
+    "level": 1,
+    "width": 512,
+    "height": 512,
+    "address": "195A Hai Bà Trưng, P. Võ Thị Sáu, Q3, HCM",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 30,
+    "maxAcceptedStudent": 10,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p>",
+    "internshipFiles": [
+      {
+        "_id": "68355f445d905d4f0dba64d3",
+        "name": "MGM_D2&3_TTNT_HK243.pdf",
+        "path": "/company/68355d675d905d4f0dba64c3MGM_D2&3_TTNT_HK243.pdf"
+      }
+    ],
+    "work": "<p style=\"margin-left:.25in;text-align:justify;\">mgm technology partners là công ty phần mềm đa quốc gia, chuyên phát triển các ứng dụng thiết yếu cho doanh nghiệp trong lĩnh vực dịch vụ công, thương mại và bảo hiểm thương mại. mgm được thành lập vào năm 1994 và đã phát triển từ một công ty phát triển dự án CNTT thành chuyên gia về kỹ thuật phần mềm định hướng mô hình (model-driven software engineering). Chúng tôi hiện có hơn 1.000 nhân viên làm việc tại 19 chi nhánh trên toàn thế giới.</p><p style=\"margin-left:.25in;text-align:justify;\">mgm thành lập văn phòng đầu tiên tại Việt Nam vào năm 2016. Hiện tại, chúng tôi có 2 văn phòng tại Đà Nẵng và 1 văn phòng tại TP. Hồ Chí Minh với hơn 150 kỹ sư phần mềm và vẫn đang tiếp tục mở rộng.</p>"
+  },
+  "68355d6e5d905d4f0dba64ce": {
+    "id": "68355d6e5d905d4f0dba64ce",
+    "shortname": "GSW - Green Software",
+    "fullname": "Green Software Technology Service Company Limited",
+    "isSponsor": false,
+    "image": "/img/company/68355d6e5d905d4f0dba64ce.png?t=27914048",
+    "level": 1,
+    "width": 512,
+    "height": 475,
+    "address": "175/2/54/13 Hồ Văn Long, KP.1, P. Bình Hưng Hòa B, Q. Bình Tân, TPHCM",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "68355dfc5d905d4f0dba64d0",
+        "name": "GSW_D2&3_TTNT_HK243.pdf",
+        "path": "/company/68355d6e5d905d4f0dba64ceGSW_D2&3_TTNT_HK243.pdf"
+      }
+    ],
+    "work": "<p>Green Software Technology Service Company Limited</p>"
   }
 }
