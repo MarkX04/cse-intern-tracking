@@ -3879,6 +3879,11 @@
         "_id": "683095815d905d4f0dba5c75",
         "name": "DE_D2_TTNT_HK243.docx",
         "path": "/company/682d881b5d905d4f0dba5717DE_D2_TTNT_HK243.docx"
+      },
+      {
+        "_id": "68359efc5d905d4f0dba6559",
+        "name": "DE_D2_TTNT_HK243.pdf",
+        "path": "/company/682d881b5d905d4f0dba5717DE_D2_TTNT_HK243.pdf"
       }
     ],
     "work": "<p>CÔNG TY TNHH DOCUMENT EASY</p>"
@@ -4231,7 +4236,7 @@
   },
   "68355d685d905d4f0dba64c5": {
     "id": "68355d685d905d4f0dba64c5",
-    "shortname": "Resource",
+    "shortname": "CHR - Resource",
     "fullname": "CÔNG TY TNHH CH RESOURCE VIETNAM",
     "isSponsor": false,
     "image": "/img/company/68355d685d905d4f0dba64c5.png?t=31600071",
@@ -4253,6 +4258,11 @@
         "_id": "68356c675d905d4f0dba64f3",
         "name": "Resource_D2&3_TTNT_HK243.docx",
         "path": "/company/68355d685d905d4f0dba64c5Resource_D2&3_TTNT_HK243.docx"
+      },
+      {
+        "_id": "68359cab5d905d4f0dba6553",
+        "name": "Resource_D2&3_TTNT_HK243.pdf",
+        "path": "/company/68355d685d905d4f0dba64c5Resource_D2&3_TTNT_HK243.pdf"
       }
     ],
     "work": "<p>CÔNG TY TNHH CH RESOURCE VIETNAM</p>"
@@ -4325,8 +4335,8 @@
     "address": "125/45C Âu Dương Lân, p.2, q.8, tp.HCM",
     "studentRegister": 0,
     "studentAccepted": 1,
-    "maxRegister": 4,
-    "maxAcceptedStudent": 4,
+    "maxRegister": 15,
+    "maxAcceptedStudent": 5,
     "adminMaxRegister": 10,
     "acceptedIntern": true,
     "subscribeAcceptedEmail": false,
