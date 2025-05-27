@@ -1065,7 +1065,7 @@
     "width": 512,
     "height": 155,
     "address": "Số nhà 39, Đường số 9, khu Vạn Phúc City, Phường Hiệp Bình Phước, Quận Thủ Đức - Thành phố Thủ Đức, Thành phố Hồ Chí Minh",
-    "studentRegister": 29,
+    "studentRegister": 30,
     "studentAccepted": 0,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
@@ -2266,7 +2266,7 @@
     "width": 512,
     "height": 178,
     "address": "133/38/14 Trần Thị Trọng, P.15, Q.Tân Bình, TP.Hồ Chí Minh",
-    "studentRegister": 5,
+    "studentRegister": 4,
     "studentAccepted": 1,
     "maxRegister": 6,
     "maxAcceptedStudent": 2,
@@ -3840,7 +3840,7 @@
     "width": 512,
     "height": 231,
     "address": "Phòng I.115B, Nhà A, Khu Công nghệ Phần mềm, đường nội bộ Đại học Quốc gia TP. Hồ Chí Minh, Khu phố 6, Phường Linh Trung, Thành phố Thủ Đức",
-    "studentRegister": 23,
+    "studentRegister": 24,
     "studentAccepted": 0,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -4078,6 +4078,11 @@
         "_id": "68356efe5d905d4f0dba64fb",
         "name": "AVT_AVTECH_D2&3_TTNT_HK243.docx",
         "path": "/company/68355d625d905d4f0dba64bbAVT_AVTECH_D2&3_TTNT_HK243.docx"
+      },
+      {
+        "_id": "6835750c5d905d4f0dba6507",
+        "name": "AVT_D2&3_TTNT_HK243.pdf",
+        "path": "/company/68355d625d905d4f0dba64bbAVT_D2&3_TTNT_HK243.pdf"
       }
     ],
     "work": "<p>CÔNG TY TNHH ADVANCE VISION TECHNOLOGY VIỆT NAM</p>"
@@ -4307,6 +4312,11 @@
         "_id": "683568e55d905d4f0dba64e9",
         "name": "TT_T4Tek_D2&3_TTNT_HK243_TinTT.docx",
         "path": "/company/68355d6d5d905d4f0dba64ccTT_T4Tek_D2&3_TTNT_HK243_TinTT.docx"
+      },
+      {
+        "_id": "683572225d905d4f0dba6500",
+        "name": "TT_T4TEK_D2&3_TTNT_HK243.pdf",
+        "path": "/company/68355d6d5d905d4f0dba64ccTT_T4TEK_D2&3_TTNT_HK243.pdf"
       }
     ],
     "work": "<p>Công ty TNHH T4 Tek</p>"
