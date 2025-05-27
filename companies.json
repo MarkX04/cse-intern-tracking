@@ -9,10 +9,10 @@
     "width": 512,
     "height": 512,
     "address": "766/3G đường Sư Vạn Hạnh, phường 12, quận 10, TPHCM",
-    "studentRegister": 1,
-    "studentAccepted": 10,
-    "maxRegister": 30,
-    "maxAcceptedStudent": 10,
+    "studentRegister": 0,
+    "studentAccepted": 11,
+    "maxRegister": 36,
+    "maxAcceptedStudent": 12,
     "adminMaxRegister": 10,
     "acceptedIntern": true,
     "subscribeAcceptedEmail": true,
@@ -286,7 +286,7 @@
     "width": 512,
     "height": 512,
     "address": "Lô T2, Đường D1 Khu Công nghệ Cao, P. Tân Phú, TP. Thủ Đức",
-    "studentRegister": 3,
+    "studentRegister": 2,
     "studentAccepted": 50,
     "maxRegister": 150,
     "maxAcceptedStudent": 50,
@@ -741,6 +741,11 @@
         "_id": "68076221502455a6d3607418",
         "name": "CS_D2_TTNT_HK243.pdf",
         "path": "/company/606b13ec87e8b4bd3d4b4816CS_D2_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "683579a15d905d4f0dba6512",
+        "name": "CS_Cube_D3_TTNT_HK243_03SV.pdf",
+        "path": "/company/606b13ec87e8b4bd3d4b4816CS_Cube_D3_TTNT_HK243_03SV.pdf"
       }
     ],
     "work": "<p>Công ty 100% vốn đầu tư Nhật Bản hoạt động trong lĩnh vực công nghệ thông tin/phần mềm. Cube System Vietnam cung cấp dịch vụ phát triển phần mềm và giải pháp công nghệ cho các khách hàng hoạt động trong nhiều lĩnh vực từ sản xuất, logistics tới giáo dục, tài chính...tại thị trường Việt Nam và Nhật Bản. Kế thừa DNA của công ty mẹ - Cube System INC, tại Việt Nam, với phương châm \"Khách hàng là số một\", \"Chủ nghĩa trọng điểm\", và \"Toàn nhân viên tham gia kinh doanh\", chúng tôi nuôi dưỡng những kỹ sư Việt Nam ưu tú - \"Kỹ sư hệ thống hướng đến khách hàng\" nhằm cống hiến cho sự nghiệp phát triển của hai quốc gia Việt - Nhật. Đi cùng với phương châm đó, Cube System hàng năm đều tổ chức chương trình trao học bổng KSYS - CUBE SYSTEM cho các sinh viên của trường Đại học Bách Khoa TPHCM, nhằm khuyến khích, hỗ trợ phát triển các nhân tài.</p>"
@@ -840,6 +845,11 @@
         "_id": "67f8b5f8502455a6d3605ab7",
         "name": "BV_D2_TTNT_HK243.pdf",
         "path": "/company/6078e9a9ee96ff021b97a21fBV_D2_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "683575e45d905d4f0dba650a",
+        "name": "BV_D3_TTNT_HK243.pdf",
+        "path": "/company/6078e9a9ee96ff021b97a21fBV_D3_TTNT_HK243.pdf"
       }
     ],
     "work": "<p style=\"margin-left:24px;text-align:justify;\">Được thành lập từ 2010, đến nay Bản Viên đã trở thành Đối tác Công nghệ uy tín hàng đầu trong lĩnh vực phát triển phần mềm và hệ thống nhúng (Software Development &amp; Embedded System Development) mang tầm ảnh hưởng trong nước và quốc tế.&nbsp;</p><p style=\"margin-left:24px;text-align:justify;\"><span style=\"color:windowtext;\">Bản Viên không ngừng đổi mới sáng tạo trong nhiều lĩnh vực như Công nghệ giáo dục (Edutech), Công nghệ tài chính (Fintech), Bán lẻ, Ô tô, IoT thông minh và Logistics. Các dịch vụ toàn diện bao gồm Tư vấn chuyển đổi số, Phát triển phần mềm theo yêu cầu, Trung tâm phát triển chuyên biệt và Dịch vụ kiểm thử phần mềm. Quá trình mở rộng toàn cầu của Bản Viên bao gồm các khách hàng và đối tác chiến lược tại Hoa Kỳ, Đức, Nhật Bản, Singapore, Trung Quốc, Hồng Kông, Thái Lan, Malaysia và Việt Nam.&nbsp;</span></p><p style=\"margin-left:24px;text-align:justify;\"><span style=\"color:windowtext;\">Với tầm nhìn “Trao quyền thành công bằng các giải pháp CNTT hàng đầu toàn cầu”, Bản Viên không ngừng phát triển với đội ngũ hơn 600 nhân tài, cùng nhau xây dựng dựa trên các giá trị cốt lõi: Tin tưởng, Hợp tác, Cam kết, Đa dạng, Chính trực và Phát triển. Những nguyên tắc này chính là động lực thúc đẩy đổi mới sáng tạo, xây dựng quan hệ đối tác lâu dài và tạo nên một văn hóa doanh nghiệp năng động.&nbsp;</span></p><p style=\"margin-left:24px;text-align:justify;\"><span style=\"background-color:rgb(255,255,255);color:rgb(8,8,9);\">Ứng tuyển ngay tại đây: </span><a href=\"https://career.banvien.com/internship-program?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExMHR3WGJrMFVudTNoRW9EeAEeu0fqObxKGUywTxtJuKBGysakrew8RiiLALWLddTrkmLsZcRN6ZFH9-UGe8Q_aem_PEVzqdgcmbp9OBVAs-IJ4g\"><span style=\"background-color:rgb(255,255,255);color:rgb(8,8,9);\"><strong>https://career.banvien.com/internship-program</strong></span></a><span style=\"background-color:rgb(255,255,255);color:rgb(8,8,9);\">&nbsp;</span></p><p>&nbsp;</p>"
@@ -854,7 +864,7 @@
     "width": 512,
     "height": 484,
     "address": "Tầng 3, Phòng 301, 57 Lê Thị Hồng Gấm, P. Nguyễn Thái Bình, Quận 1. TP. Hồ Chí Minh",
-    "studentRegister": 12,
+    "studentRegister": 11,
     "studentAccepted": 0,
     "maxRegister": 12,
     "maxAcceptedStudent": 4,
@@ -976,7 +986,7 @@
     "width": 512,
     "height": 128,
     "address": "34/31 Cư xá Lữ Gia, P.15, Q.11, TP.HCM",
-    "studentRegister": 0,
+    "studentRegister": 4,
     "studentAccepted": 0,
     "maxRegister": 13,
     "maxAcceptedStudent": 13,
@@ -1187,7 +1197,7 @@
     "width": 512,
     "height": 256,
     "address": "Lầu 2,3 Tòa nhà Incubation A, Đường Tân Thuận, KCX Tân Thuận, P.Tân Thuận Đông, Q7, HCM",
-    "studentRegister": 11,
+    "studentRegister": 12,
     "studentAccepted": 2,
     "maxRegister": 18,
     "maxAcceptedStudent": 6,
@@ -1357,7 +1367,7 @@
     "width": 512,
     "height": 512,
     "address": "Tầng 3, Tòa nhà Vina Giầy, 180-182 Lý Chính Thắng, P.9, Q.3, TP.HCM",
-    "studentRegister": 21,
+    "studentRegister": 22,
     "studentAccepted": 14,
     "maxRegister": 45,
     "maxAcceptedStudent": 15,
@@ -1553,9 +1563,9 @@
         "path": "/company/64780f59e7ad7cc2b72379f6TMA_BD_D2_TTNT_HK243.pdf"
       },
       {
-        "_id": "682d54065d905d4f0dba56b8",
-        "name": "TMA_BD_D3_TTNT_HK243_11SV.pdf",
-        "path": "/company/64780f59e7ad7cc2b72379f6TMA_BD_D3_TTNT_HK243_11SV.pdf"
+        "_id": "683578595d905d4f0dba650f",
+        "name": "TMA_BD_D3_TTNT_HK243_20250527.pdf",
+        "path": "/company/64780f59e7ad7cc2b72379f6TMA_BD_D3_TTNT_HK243_20250527.pdf"
       }
     ],
     "work": "<p><span style=\"color:#1F4E79;\">Dear&nbsp;Intern,</span></p><p><span style=\"color:#1F4E79;\">Please apply via this&nbsp;</span><a href=\"https://docs.google.com/forms/d/1BOiNXiYBYHaQzcajZn66Ed-hT8QIBS2hfUmBTcLp4N8/edit\"><span style=\"color:#1F4E79;\">link</span></a><span style=\"color:#1F4E79;\"> so we can arrange&nbsp;for you to join the Internship Batch 19.</span></p>"
@@ -2050,7 +2060,7 @@
     "width": 512,
     "height": 389,
     "address": "Phòng 11, MindX Lê Văn Việt - Lầu trệt, 99 Lê Văn Việt, Phường Tăng Nhơn Phú A, Quận 9, Thủ Đức, Thành phố Hồ Chí Minh",
-    "studentRegister": 5,
+    "studentRegister": 4,
     "studentAccepted": 1,
     "maxRegister": 12,
     "maxAcceptedStudent": 4,
@@ -2266,7 +2276,7 @@
     "width": 512,
     "height": 178,
     "address": "133/38/14 Trần Thị Trọng, P.15, Q.Tân Bình, TP.Hồ Chí Minh",
-    "studentRegister": 4,
+    "studentRegister": 3,
     "studentAccepted": 1,
     "maxRegister": 6,
     "maxAcceptedStudent": 2,
@@ -2870,7 +2880,7 @@
     "width": 512,
     "height": 374,
     "address": "VP1: 31-33 Đ. Nguyễn Văn Đậu, Phường 6, Quận Bình Thạnh, Thành phố Hồ Chí Minh; VP2: C0013, Sarina Apt, 62 Hoàng Thế Thiện, An Lợi Đông, Thủ Đức, Thành phố Hồ Chí Minh",
-    "studentRegister": 10,
+    "studentRegister": 9,
     "studentAccepted": 0,
     "maxRegister": 12,
     "maxAcceptedStudent": 4,
@@ -3840,7 +3850,7 @@
     "width": 512,
     "height": 231,
     "address": "Phòng I.115B, Nhà A, Khu Công nghệ Phần mềm, đường nội bộ Đại học Quốc gia TP. Hồ Chí Minh, Khu phố 6, Phường Linh Trung, Thành phố Thủ Đức",
-    "studentRegister": 24,
+    "studentRegister": 25,
     "studentAccepted": 0,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -4097,7 +4107,7 @@
     "width": 512,
     "height": 181,
     "address": "Lầu 9 Viễn Đông Building, 14 Phan Tôn, Phường Đa Kao, Quận 1",
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
