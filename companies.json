@@ -1032,7 +1032,7 @@
     "width": 512,
     "height": 155,
     "address": "Số nhà 39, Đường số 9, khu Vạn Phúc City, Phường Hiệp Bình Phước, Quận Thủ Đức - Thành phố Thủ Đức, Thành phố Hồ Chí Minh",
-    "studentRegister": 28,
+    "studentRegister": 29,
     "studentAccepted": 0,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
@@ -3468,6 +3468,11 @@
         "_id": "6826985f841f239ff1b31fab",
         "name": "TPLA_D2&3_TTNT_HK243.docx",
         "path": "/company/6825d1f2841f239ff1b31e50TPLA_D2&3_TTNT_HK243.docx"
+      },
+      {
+        "_id": "68355bac5d905d4f0dba64b6",
+        "name": "TPLA_D2&3_TTNT_HK243.pdf",
+        "path": "/company/6825d1f2841f239ff1b31e50TPLA_D2&3_TTNT_HK243.pdf"
       }
     ],
     "work": "<p>Công ty TNHH Trường Phước Long An</p>"
