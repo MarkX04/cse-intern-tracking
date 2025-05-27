@@ -966,6 +966,34 @@
     ],
     "work": "Semiconductor, IC design"
   },
+  "60823ef7ee96ff021b97b224": {
+    "id": "60823ef7ee96ff021b97b224",
+    "shortname": "ABC Solutions",
+    "fullname": "Công ty TNHH Thương mại Dịch vụ Sản xuât ABC Solutions",
+    "isSponsor": false,
+    "image": "/img/company/60823ef7ee96ff021b97b224.png?t=40163339",
+    "level": 1,
+    "width": 512,
+    "height": 128,
+    "address": "34/31 Cư xá Lữ Gia, P.15, Q.11, TP.HCM",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 13,
+    "maxAcceptedStudent": 13,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p><p><span style=\"color:#c0392b;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, email cho DN nữa.</strong></span></p><p><span style=\"color:#c0392b;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập, SV bấm đăng ký, DN bấm accept thỉ kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683569965d905d4f0dba64ea",
+        "name": "ABC_D2&3_TTNT_HK243.docx",
+        "path": "/company/60823ef7ee96ff021b97b224ABC_D2&3_TTNT_HK243.docx"
+      }
+    ],
+    "work": "Công ty TNHH Thương mại Dịch vụ Sản xuât ABC Solutions"
+  },
   "60a4791aee96ff021b97ecdc": {
     "id": "60a4791aee96ff021b97ecdc",
     "shortname": "Bosch 2",
@@ -1428,7 +1456,7 @@
     "width": 512,
     "height": 515,
     "address": "B10 Nội khu Nam Thông 2A, P.Tân Phú, Q.7, Tp.HCM",
-    "studentRegister": 11,
+    "studentRegister": 10,
     "studentAccepted": 2,
     "maxRegister": 12,
     "maxAcceptedStudent": 4,
@@ -3464,8 +3492,8 @@
     "width": 512,
     "height": 512,
     "address": "141 Nguyễn Đình Chiểu, đường Võ Thị Sáu, Quận 3, TP HCM",
-    "studentRegister": 1,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 1,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
     "adminMaxRegister": 10,
@@ -3980,7 +4008,7 @@
     "width": 512,
     "height": 194,
     "address": "Chi nhánh HCM: Tòa nhà Ereka, 17 Hồ Bá Kiện, Phường 15, Quận 10, Tp.HCM, Việt Nam",
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
@@ -4036,8 +4064,8 @@
     "width": 512,
     "height": 512,
     "address": "195A Hai Bà Trưng, P. Võ Thị Sáu, Q3, HCM",
-    "studentRegister": 1,
-    "studentAccepted": 2,
+    "studentRegister": 0,
+    "studentAccepted": 3,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
     "adminMaxRegister": 10,
@@ -4053,6 +4081,39 @@
       }
     ],
     "work": "<p style=\"margin-left:.25in;text-align:justify;\">mgm technology partners là công ty phần mềm đa quốc gia, chuyên phát triển các ứng dụng thiết yếu cho doanh nghiệp trong lĩnh vực dịch vụ công, thương mại và bảo hiểm thương mại. mgm được thành lập vào năm 1994 và đã phát triển từ một công ty phát triển dự án CNTT thành chuyên gia về kỹ thuật phần mềm định hướng mô hình (model-driven software engineering). Chúng tôi hiện có hơn 1.000 nhân viên làm việc tại 19 chi nhánh trên toàn thế giới.</p><p style=\"margin-left:.25in;text-align:justify;\">mgm thành lập văn phòng đầu tiên tại Việt Nam vào năm 2016. Hiện tại, chúng tôi có 2 văn phòng tại Đà Nẵng và 1 văn phòng tại TP. Hồ Chí Minh với hơn 150 kỹ sư phần mềm và vẫn đang tiếp tục mở rộng.</p>"
+  },
+  "68355d6d5d905d4f0dba64cc": {
+    "id": "68355d6d5d905d4f0dba64cc",
+    "shortname": "TT - T4 Tek",
+    "fullname": "Công ty TNHH T4 Tek",
+    "isSponsor": false,
+    "image": "/img/company/68355d6d5d905d4f0dba64cc.png?t=30702722",
+    "level": 1,
+    "width": 512,
+    "height": 512,
+    "address": "125/45C Âu Dương Lân, p.2, q.8, tp.HCM",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683568dc5d905d4f0dba64e8",
+        "name": "TT_T4Tek_D2&3_TTNT_HK243_BaoCQ.docx",
+        "path": "/company/68355d6d5d905d4f0dba64ccTT_T4Tek_D2&3_TTNT_HK243_BaoCQ.docx"
+      },
+      {
+        "_id": "683568e55d905d4f0dba64e9",
+        "name": "TT_T4Tek_D2&3_TTNT_HK243_TinTT.docx",
+        "path": "/company/68355d6d5d905d4f0dba64ccTT_T4Tek_D2&3_TTNT_HK243_TinTT.docx"
+      }
+    ],
+    "work": "<p>Công ty TNHH T4 Tek</p>"
   },
   "68355d6e5d905d4f0dba64ce": {
     "id": "68355d6e5d905d4f0dba64ce",
