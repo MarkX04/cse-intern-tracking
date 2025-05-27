@@ -986,7 +986,7 @@
     "width": 512,
     "height": 128,
     "address": "34/31 Cư xá Lữ Gia, P.15, Q.11, TP.HCM",
-    "studentRegister": 4,
+    "studentRegister": 5,
     "studentAccepted": 0,
     "maxRegister": 13,
     "maxAcceptedStudent": 13,
@@ -1103,7 +1103,7 @@
     "width": 512,
     "height": 588,
     "address": "437/16 Hoàng Văn Thụ, phường 4, quận Tân Bình, TP. Hồ Chí Minh",
-    "studentRegister": 23,
+    "studentRegister": 22,
     "studentAccepted": 2,
     "maxRegister": 27,
     "maxAcceptedStudent": 9,
@@ -1367,7 +1367,7 @@
     "width": 512,
     "height": 512,
     "address": "Tầng 3, Tòa nhà Vina Giầy, 180-182 Lý Chính Thắng, P.9, Q.3, TP.HCM",
-    "studentRegister": 22,
+    "studentRegister": 21,
     "studentAccepted": 14,
     "maxRegister": 45,
     "maxAcceptedStudent": 15,
@@ -3234,6 +3234,16 @@
         "_id": "682c6a515d905d4f0dba5519",
         "name": "US_D2&3_TTNT_HK243_AI.docx",
         "path": "/company/68220902841f239ff1b3179eUS_D2&3_TTNT_HK243_AI.docx"
+      },
+      {
+        "_id": "683586f15d905d4f0dba652b",
+        "name": "US_D2&3_TTNT_HK243_1.pdf",
+        "path": "/company/68220902841f239ff1b3179eUS_D2&3_TTNT_HK243_1.pdf"
+      },
+      {
+        "_id": "683586f75d905d4f0dba652c",
+        "name": "US_D2&3_TTNT_HK243_2.pdf",
+        "path": "/company/68220902841f239ff1b3179eUS_D2&3_TTNT_HK243_2.pdf"
       }
     ],
     "work": "<p>CÔNG TY TNHH HỌC VIỆN UPSKILL</p>"
@@ -3789,8 +3799,8 @@
     "width": 512,
     "height": 120,
     "address": "Tòa nhà Vinaconex 1 Building, 289B Khuất Duy Tiến, Thanh Xuân, Hà Nội",
-    "studentRegister": 1,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 1,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
     "adminMaxRegister": 10,
@@ -3953,6 +3963,11 @@
         "_id": "683097bb5d905d4f0dba5c7d",
         "name": "PA_PhanAnh_D2_TTNT_HK243.docx",
         "path": "/company/682f05cd5d905d4f0dba59b5PA_PhanAnh_D2_TTNT_HK243.docx"
+      },
+      {
+        "_id": "683584375d905d4f0dba6526",
+        "name": "PA_D2&3_TTNT_HK243.pdf",
+        "path": "/company/682f05cd5d905d4f0dba59b5PA_D2&3_TTNT_HK243.pdf"
       }
     ],
     "work": "<p>CÔNG TY TNHH SẢN XUẤT- THƯƠNG MẠI - TRANG THIẾT BỊ Y TẾ PHAN ANH</p>"
@@ -3995,7 +4010,7 @@
     "width": 512,
     "height": 516,
     "address": "269 Lê Sao, Phường Phú Thạnh, Quận Tân Phú, Thành phố Hồ Chí Minh",
-    "studentRegister": 4,
+    "studentRegister": 3,
     "studentAccepted": 0,
     "maxRegister": 9,
     "maxAcceptedStudent": 3,
@@ -4168,7 +4183,7 @@
     "width": 512,
     "height": 512,
     "address": "04 N8 Street, Quarter 2, Phu Huu Ward, Thu Duc City, Ho Chi Minh City, Vietnam",
-    "studentRegister": 0,
+    "studentRegister": 2,
     "studentAccepted": 0,
     "maxRegister": 2,
     "maxAcceptedStudent": 2,
