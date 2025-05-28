@@ -338,6 +338,11 @@
         "_id": "680a1be53890995d799d8a37",
         "name": "AIT_D2_TTNT_HK243.pdf",
         "path": "/company/5caef44302c2e72195b4cee4AIT_D2_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "6836c10a5d905d4f0dba6755",
+        "name": "AIT_D3_TTNT_HK243.pdf",
+        "path": "/company/5caef44302c2e72195b4cee4AIT_D3_TTNT_HK243.pdf"
       }
     ],
     "work": "<h4 style=\"text-align:justify;\"><strong>CÔNG TY TNHH CÔNG NGHỆ THÔNG TIN AUREOLE&nbsp;</strong></h4><h4 style=\"text-align:justify;\"><i><strong>Aureole Information Technology Inc. (Aureole IT Inc.)</strong></i></h4><p style=\"text-align:justify;\"><i>Được thành lập vào tháng 3 năm 2001 tại Thành phố Hồ Chí Minh, Công ty TNHH Công nghệ Thông tin Aureole là công ty với 100% vốn đầu tư từ Nhật Bản. Công ty cung cấp các dịch vụ phát triển phần mềm, hỗ trợ triển khai gói phần mềm tại Việt Nam và phái cử kỹ sư cầu nối đến nhiều nơi tại Nhật Bản để đảm bảo việc phát triển offshore diễn ra thuận lợi. Trong lĩnh vực phát triển phần mềm, Công ty phát triển các ứng dụng web và di động hiện đại trên nền tảng đám mây, sử dụng các công nghệ như React, React Native, NestJS, .v.v. Chúng tôi còn phân công kỹ sư và trưởng nhóm kỹ thuật để thực hiện phát triển theo phương pháp Agile. Bên cạnh đó, Công ty hỗ trợ triển khai các gói phần mềm kế toán, mua bán hàng, quản lý sản xuất, quản lý bán hàng, phần mềm hỗ trợ làm việc nhóm và hệ thống quy trình công việc.</i></p><p style=\"text-align:justify;\"><i>Địa chỉ: Tầng 4, tòa nhà Huy Sơn, số 7 - 9 - 11 đường Mai Thị Lựu, phường Đa Kao, quận 1, thành phố Hồ Chí Minh, Việt Nam&nbsp;</i></p><p style=\"text-align:justify;\"><i>Mã số thuế: 0302260491</i></p><p style=\"text-align:justify;\"><i>Điện thoại: (028)3911 0200&nbsp; -&nbsp; Mobile: 0944 33 70 79</i></p><p style=\"text-align:justify;\"><i>Email: tuyendung@aureole-it.vn</i></p><p style=\"text-align:justify;\"><i>Website link: https://www.mitani.co.jp/VN/aureole/ait</i></p>"
@@ -958,7 +963,7 @@
     "width": 512,
     "height": 206,
     "address": "Lầu 5, Tòa nhà B, Khu nhà xưởng Văn Phòng, Lô D.01, Đường Tân Thuận, Khu chế xuất Tân Thuận, Phường Tân Thuận Đông, Quận 7, TP. Hồ Chí Minh",
-    "studentRegister": 44,
+    "studentRegister": 45,
     "studentAccepted": 0,
     "maxRegister": 45,
     "maxAcceptedStudent": 15,
@@ -1400,7 +1405,7 @@
     "width": 512,
     "height": 208,
     "address": "Etown, 364 Cộng Hòa, P. 13, Q. Tân Bình, TP.HCM",
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
