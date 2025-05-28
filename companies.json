@@ -286,7 +286,7 @@
     "width": 512,
     "height": 512,
     "address": "Lô T2, Đường D1 Khu Công nghệ Cao, P. Tân Phú, TP. Thủ Đức",
-    "studentRegister": 14,
+    "studentRegister": 15,
     "studentAccepted": 48,
     "maxRegister": 210,
     "maxAcceptedStudent": 70,
@@ -897,7 +897,7 @@
     "width": 512,
     "height": 307,
     "address": "Sài Gòn Villas Hill, 99 Lê Văn Việt, P. Tăng Phú Nhơn A, TP. Thủ Đức, TP. Hồ Chí Minh, Việt Nam",
-    "studentRegister": 20,
+    "studentRegister": 19,
     "studentAccepted": 2,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
@@ -3246,7 +3246,7 @@
         "path": "/company/68220902841f239ff1b3179eUS_D2&3_TTNT_HK243_2.pdf"
       }
     ],
-    "work": "<p>CÔNG TY TNHH HỌC VIỆN UPSKILL</p>"
+    "work": "<p><strong>CÔNG TY TNHH HỌC VIỆN UPSKILL</strong></p><p style=\"text-align:justify;\"><strong>Học viện UpSkill</strong> chính thức đưa vào hoạt động ngày 06/08/2023 nhằm cung ứng nguồn lực chất lượng cao cho tất cả doanh nghiệp trong và ngoài nước. Hiện tại, Học viện đã triển khai các khóa học liên kết với Doanh nghiệp thực chiến như Alta Software, Momo, Cánh Cam, Kanic, Fisoft, Apollo, ... với các vị trí khác nhau trong lĩnh vực Công nghệ thông tin; Quản trị; Chuyển đổi số; Blockchain; AI.&nbsp;</p><p style=\"text-align:justify;\">Bên cạnh đó, <strong>Học viện UpSkill</strong> cũng không ngừng ký kết hợp tác chiến lược với các Tổ chức Chứng chỉ Quốc tế (OCA, OCP, LPIC, MOS, …) để hỗ trợ học viên có thể tham gia thi và lấy chứng nhận phổ biến toàn cầu.&nbsp;</p><p style=\"text-align:justify;\"><strong>Học viện UpSkill</strong> mong muốn đem lại cho tất cả cho người học những trải nghiệm thật thú vị và hiệu quả khi tham gia học tập &amp; thực tập tại Học viện. Với phương châm xây dựng và kết hợp cùng với Doanh nghiệp nên tất cả chương trình đào tạo ngắn hạn hay dài hạn đều tập trung thực tiễn vào vị trí việc làm tại Doanh nghiệp trong và ngoài nước. Đội ngũ Cố vấn chuyên môn cũng như Giáo viên đều là những người đã có kinh nghiệm làm việc nhằm giúp việc học của tất cả học viên tốt hơn, tự tin thời gian các dự án thực tế.&nbsp;</p><p style=\"text-align:justify;\">Ngoài ra, <strong>Học viện UpSkill</strong> phát triển, xây dựng và cung cấp giải pháp phần mềm cho Doanh nghiệp. Vào ngày 07/10/2024, Học viện UpSkill chính thức trở thành Hội viên của Liên đoàn Thương mại và Công nghiệp Việt Nam – VCCI nhằm tăng cường tính kết nối giữa các doanh nghiệp.&nbsp;</p>"
   },
   "68220903841f239ff1b317a0": {
     "id": "68220903841f239ff1b317a0",
