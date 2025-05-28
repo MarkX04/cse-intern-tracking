@@ -286,7 +286,7 @@
     "width": 512,
     "height": 512,
     "address": "Lô T2, Đường D1 Khu Công nghệ Cao, P. Tân Phú, TP. Thủ Đức",
-    "studentRegister": 3,
+    "studentRegister": 6,
     "studentAccepted": 50,
     "maxRegister": 210,
     "maxAcceptedStudent": 70,
@@ -506,7 +506,7 @@
     "width": 512,
     "height": 152,
     "address": "27B/9 Nguyễn Đình Chiểu, P. Đa Kao, Q1, TPHCM",
-    "studentRegister": 57,
+    "studentRegister": 55,
     "studentAccepted": 0,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -1892,8 +1892,8 @@
     "address": "Lầu 3, Tòa nhà SaigonTel, Lô 46, CVPM Quang Trung, P. Tân Chánh Hiệp, Q. 12, TP HCM",
     "studentRegister": 1,
     "studentAccepted": 2,
-    "maxRegister": 2,
-    "maxAcceptedStudent": 2,
+    "maxRegister": 3,
+    "maxAcceptedStudent": 3,
     "adminMaxRegister": 10,
     "acceptedIntern": true,
     "subscribeAcceptedEmail": false,
@@ -2880,7 +2880,7 @@
     "width": 512,
     "height": 374,
     "address": "VP1: 31-33 Đ. Nguyễn Văn Đậu, Phường 6, Quận Bình Thạnh, Thành phố Hồ Chí Minh; VP2: C0013, Sarina Apt, 62 Hoàng Thế Thiện, An Lợi Đông, Thủ Đức, Thành phố Hồ Chí Minh",
-    "studentRegister": 8,
+    "studentRegister": 9,
     "studentAccepted": 0,
     "maxRegister": 12,
     "maxAcceptedStudent": 4,
@@ -3733,7 +3733,7 @@
     "width": 512,
     "height": 518,
     "address": "168/6 Bùi Thị Xuân, P.3, Q. Tân Bình, TP.HCM",
-    "studentRegister": 13,
+    "studentRegister": 14,
     "studentAccepted": 0,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
@@ -4029,6 +4029,11 @@
         "_id": "68347c695d905d4f0dba6339",
         "name": "BXV_D2_TTNT_HK243.docx",
         "path": "/company/6830934b5d905d4f0dba5c68BXV_D2_TTNT_HK243.docx"
+      },
+      {
+        "_id": "68368eff5d905d4f0dba66fd",
+        "name": "BXV_D2_TTNT_HK243.pdf",
+        "path": "/company/6830934b5d905d4f0dba5c68BXV_D2_TTNT_HK243.pdf"
       }
     ],
     "work": "<p>Công ty TNHH Bếp Xuyên Việt</p>"
