@@ -220,7 +220,7 @@
     "width": 512,
     "height": 512,
     "address": "Lot W.29-30-31a, Tan Thuan Road, Tan Thuan Export Processing Zone, Tan Thuan Dong Ward, District 7, HCMC.",
-    "studentRegister": 15,
+    "studentRegister": 14,
     "studentAccepted": 0,
     "maxRegister": 15,
     "maxAcceptedStudent": 5,
@@ -286,7 +286,7 @@
     "width": 512,
     "height": 512,
     "address": "Lô T2, Đường D1 Khu Công nghệ Cao, P. Tân Phú, TP. Thủ Đức",
-    "studentRegister": 30,
+    "studentRegister": 32,
     "studentAccepted": 48,
     "maxRegister": 210,
     "maxAcceptedStudent": 70,
@@ -963,7 +963,7 @@
     "width": 512,
     "height": 206,
     "address": "Lầu 5, Tòa nhà B, Khu nhà xưởng Văn Phòng, Lô D.01, Đường Tân Thuận, Khu chế xuất Tân Thuận, Phường Tân Thuận Đông, Quận 7, TP. Hồ Chí Minh",
-    "studentRegister": 45,
+    "studentRegister": 44,
     "studentAccepted": 0,
     "maxRegister": 45,
     "maxAcceptedStudent": 15,
@@ -3291,7 +3291,7 @@
     "width": 512,
     "height": 152,
     "address": "Tầng 24, Saigon Centre 2, 65 Lê Lợi, phường Bến Nghé, quận 1, TP Hồ Chí Minh",
-    "studentRegister": 8,
+    "studentRegister": 7,
     "studentAccepted": 0,
     "maxRegister": 9,
     "maxAcceptedStudent": 3,
@@ -4189,6 +4189,11 @@
         "_id": "68356dae5d905d4f0dba64f7",
         "name": "OS_D2&3_TTNT_HK243.docx",
         "path": "/company/68355d645d905d4f0dba64bfOS_D2&3_TTNT_HK243.docx"
+      },
+      {
+        "_id": "68372235bff0349643c5fa08",
+        "name": "OS_D2&3_TTNT_HK243.pdf",
+        "path": "/company/68355d645d905d4f0dba64bfOS_D2&3_TTNT_HK243.pdf"
       }
     ],
     "work": "<p>OhStem Education (thuộc Cty TNHH Công nghệ Giáo dục ADT)</p>"
@@ -4292,7 +4297,7 @@
     "width": 512,
     "height": 188,
     "address": "VP.HCM, 40/6 Đ. Lữ Gia, Phường 15, Quận 11, Hồ Chí Minh",
-    "studentRegister": 1,
+    "studentRegister": 2,
     "studentAccepted": 0,
     "maxRegister": 2,
     "maxAcceptedStudent": 2,
@@ -4313,7 +4318,7 @@
         "path": "/company/68355d695d905d4f0dba64c7NT_NhaTrang_D2&3_TTNT_HK243.pdf"
       }
     ],
-    "work": "<p>Công ty TNHH MTV Công Nghệ Cao Nha Trang</p>"
+    "work": "<p>Công ty TNHH MTV Công Nghệ Cao Nha Trang&nbsp;</p><p>AI Engineer Intern&nbsp;</p>"
   },
   "68355d6a5d905d4f0dba64c9": {
     "id": "68355d6a5d905d4f0dba64c9",
