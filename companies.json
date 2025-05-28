@@ -220,7 +220,7 @@
     "width": 512,
     "height": 512,
     "address": "Lot W.29-30-31a, Tan Thuan Road, Tan Thuan Export Processing Zone, Tan Thuan Dong Ward, District 7, HCMC.",
-    "studentRegister": 14,
+    "studentRegister": 15,
     "studentAccepted": 0,
     "maxRegister": 15,
     "maxAcceptedStudent": 5,
@@ -1037,6 +1037,34 @@
     ],
     "work": "<p>C&Ocirc;NG TY TNHH BOSCH GLOBAL SOFTWARE TECHNOLOGIES</p>\n"
   },
+  "60f64a9a0722b4e5ac2f6beb": {
+    "id": "60f64a9a0722b4e5ac2f6beb",
+    "shortname": "LOTUS",
+    "fullname": "CÔNG TY TNHH SẢN XUẤT – THƯƠNG MẠI – DỊCH VỤ ĐIỆN TỬ LOTUS VIỆT NAM",
+    "isSponsor": false,
+    "image": "/img/company/60f64a9a0722b4e5ac2f6beb.png?t=53955632",
+    "level": 1,
+    "width": 512,
+    "height": 163,
+    "address": "C7B/125 Bình Hưng, Bình Chánh",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 20,
+    "maxAcceptedStudent": 20,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p dir=\"ltr\"><span style=\"color:#c0392b\"><strong>Chương tr&igrave;nh TTNT HK233 (CS&amp;CE).</strong></span></p>\n\n<p dir=\"ltr\"><span style=\"color:#c0392b\"><strong>=&gt; Chương tr&igrave;nh đ&atilde; nhận đủ SV -&gt; Đề nghị SV kh&ocirc;ng gửi đăng k&yacute;, email cho DN nữa.</strong></span></p>\n\n<p dir=\"ltr\"><span style=\"color:#c0392b\"><strong>=&gt; SV tr&uacute;ng tuyển v&agrave; DN cần đăng nhập, SV bấm đăng k&yacute;, DN bấm accept thỉ kết quả x&eacute;t tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683724d2bff0349643c5fa0d",
+        "name": "Lotus_D2&3_TTNT_HK243.pdf",
+        "path": "/company/60f64a9a0722b4e5ac2f6bebLotus_D2&3_TTNT_HK243.pdf"
+      }
+    ],
+    "work": "CÔNG TY TNHH SẢN XUẤT – THƯƠNG MẠI – DỊCH VỤ ĐIỆN TỬ LOTUS VIỆT NAM"
+  },
   "62511aeebbe74fe7122f6843": {
     "id": "62511aeebbe74fe7122f6843",
     "shortname": "DGV Digital",
@@ -1537,6 +1565,34 @@
     ],
     "work": "Công ty TNHH M2 VIETNAM"
   },
+  "647080bce7ad7cc2b7236ce8": {
+    "id": "647080bce7ad7cc2b7236ce8",
+    "shortname": "GSOFT",
+    "fullname": "Công ty Cổ Phần Phần mềm Hoàn Cầu (GSOFT)",
+    "isSponsor": false,
+    "image": "/img/company/647080bce7ad7cc2b7236ce8.png?t=05413628",
+    "level": 1,
+    "width": 512,
+    "height": 196,
+    "address": "6, 7, 8th Floor, GOBRANDING & GSOFT Tower, 235 Ly Thuong Kiet St, W. 6, Tan Binh Dist., HCMC",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 30,
+    "maxAcceptedStudent": 10,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683725d2bff0349643c5fa11",
+        "name": "GSOFT_D2_TTNT_HK243.docx",
+        "path": "/company/647080bce7ad7cc2b7236ce8GSOFT_D2_TTNT_HK243.docx"
+      }
+    ],
+    "work": "Công ty Cổ Phần Phần mềm Hoàn Cầu (GSOFT)"
+  },
   "64780f59e7ad7cc2b72379f6": {
     "id": "64780f59e7ad7cc2b72379f6",
     "shortname": "TMA - Bình Định",
@@ -1574,6 +1630,34 @@
       }
     ],
     "work": "<p><span style=\"color:#1F4E79;\">Dear&nbsp;Intern,</span></p><p><span style=\"color:#1F4E79;\">Please apply via this&nbsp;</span><a href=\"https://docs.google.com/forms/d/1BOiNXiYBYHaQzcajZn66Ed-hT8QIBS2hfUmBTcLp4N8/edit\"><span style=\"color:#1F4E79;\">link</span></a><span style=\"color:#1F4E79;\"> so we can arrange&nbsp;for you to join the Internship Batch 19.</span></p>"
+  },
+  "648c1293e6dfc5e17fdb5600": {
+    "id": "648c1293e6dfc5e17fdb5600",
+    "shortname": "Bosch 4",
+    "fullname": "Bosch 4 - CÔNG TY TNHH ROBERT BOSCH ENGINEERING AND BUSINESS SOLUTIONS VIỆT NAM",
+    "isSponsor": false,
+    "image": "/img/company/648c1293e6dfc5e17fdb5600.png?t=01531277",
+    "level": 1,
+    "width": 512,
+    "height": 288,
+    "address": "Etas department, 1st Floor, Etown 2 Building, 364 Cong Hoa, Ward 13, Tan Binh District, HCMC",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 2,
+    "maxAcceptedStudent": 2,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE) - Bosch 4.</strong></span></p><p><span style=\"color:#c0392b;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, email cho DN nữa.</strong></span></p><p><span style=\"color:#c0392b;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập, SV bấm đăng ký, DN bấm accept thỉ kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "68372694bff0349643c5fa15",
+        "name": "Bosch_4_D2&3_TTNT_HK243.pdf",
+        "path": "/company/648c1293e6dfc5e17fdb5600Bosch_4_D2&3_TTNT_HK243.pdf"
+      }
+    ],
+    "work": "[Bosch 4] CÔNG TY TNHH ROBERT BOSCH ENGINEERING AND BUSINESS SOLUTIONS VIỆT NAM"
   },
   "648fbcece6dfc5e17fdb5c45": {
     "id": "648fbcece6dfc5e17fdb5c45",
@@ -1740,7 +1824,7 @@
     "width": 512,
     "height": 304,
     "address": "55-57 Bau Cat 4 St., Tan Binh Dist., Ho Chi Minh City, Vietnam",
-    "studentRegister": 15,
+    "studentRegister": 13,
     "studentAccepted": 2,
     "maxRegister": 15,
     "maxAcceptedStudent": 5,
@@ -3583,7 +3667,7 @@
     "width": 512,
     "height": 287,
     "address": "26 Nguyễn Đình Khơi, Phường 4, Quận Tân Bình, Thành phố Hồ Chí Minh",
-    "studentRegister": 15,
+    "studentRegister": 16,
     "studentAccepted": 1,
     "maxRegister": 18,
     "maxAcceptedStudent": 6,
@@ -4413,5 +4497,61 @@
       }
     ],
     "work": "<p>Green Software Technology Service Company Limited</p>"
+  },
+  "6835ae7a5d905d4f0dba6576": {
+    "id": "6835ae7a5d905d4f0dba6576",
+    "shortname": "MBFP - Mobifone Plus",
+    "fullname": "CÔNG TY CỔ PHẦN DỊCH VỤ GIA TĂNG MOBIFONE",
+    "isSponsor": false,
+    "image": "/img/company/6835ae7a5d905d4f0dba6576.png?t=48600721",
+    "level": 1,
+    "width": 512,
+    "height": 136,
+    "address": "MM18, Trường Sơn, Phường 14, Quận 10, TP.HCM",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "6837262abff0349643c5fa14",
+        "name": "MBFP_MobiFonePlus_D2_TTNT_HK243.docx",
+        "path": "/company/6835ae7a5d905d4f0dba6576MBFP_MobiFonePlus_D2_TTNT_HK243.docx"
+      }
+    ],
+    "work": "<p>CÔNG TY CỔ PHẦN DỊCH VỤ GIA TĂNG MOBIFONE</p>"
+  },
+  "6835ae7b5d905d4f0dba6578": {
+    "id": "6835ae7b5d905d4f0dba6578",
+    "shortname": "CL - Code Leap",
+    "fullname": "Công ty TNHH CODE LEAP",
+    "isSponsor": false,
+    "image": "/img/company/6835ae7b5d905d4f0dba6578.png?t=48689156",
+    "level": 1,
+    "width": 512,
+    "height": 512,
+    "address": "Tầng 17, Toà nhà L'mak Long Tower, 101-103 Nguyễn Cửu Vân, P.17, Q.Bình Thạnh, TP.HCM",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "68372562bff0349643c5fa10",
+        "name": "CL_CodeLeap_D2&3_TTNT_HK243.docx",
+        "path": "/company/6835ae7b5d905d4f0dba6578CL_CodeLeap_D2&3_TTNT_HK243.docx"
+      }
+    ],
+    "work": "<p>Công ty TNHH CODE LEAP</p>"
   }
 }
