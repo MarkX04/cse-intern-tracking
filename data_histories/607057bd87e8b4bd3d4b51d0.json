@@ -1,0 +1,9 @@
+[
+  {
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 300,
+    "maxAcceptedStudent": 100,
+    "timestamp": 1748485691
+  }
+]
