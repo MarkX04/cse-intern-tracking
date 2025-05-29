@@ -286,7 +286,7 @@
     "width": 512,
     "height": 512,
     "address": "Lô T2, Đường D1 Khu Công nghệ Cao, P. Tân Phú, TP. Thủ Đức",
-    "studentRegister": 44,
+    "studentRegister": 45,
     "studentAccepted": 49,
     "maxRegister": 210,
     "maxAcceptedStudent": 70,
@@ -440,7 +440,7 @@
     "width": 512,
     "height": 112,
     "address": "53-55-57 Phó Đức Chính, P. Nguyễn Thái Bình, Q.1, TP.HCM",
-    "studentRegister": 39,
+    "studentRegister": 38,
     "studentAccepted": 4,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -803,7 +803,7 @@
     "width": 512,
     "height": 331,
     "address": "TMA Tower, Đường số 2, Lô 17, Khu CNPM Quang Trung, P. Tân Chánh Hiệp, Q.12, TPHCM",
-    "studentRegister": 17,
+    "studentRegister": 18,
     "studentAccepted": 0,
     "maxRegister": 300,
     "maxAcceptedStudent": 100,
@@ -963,7 +963,7 @@
     "width": 512,
     "height": 512,
     "address": "Tầng 19, Toà nhà AP Tower, 518B Điện Biên Phủ, Phường 19, Quận Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
-    "studentRegister": 9,
+    "studentRegister": 8,
     "studentAccepted": 4,
     "maxRegister": 15,
     "maxAcceptedStudent": 5,
@@ -1459,15 +1459,15 @@
   "644b346fe7ad7cc2b7232c49": {
     "id": "644b346fe7ad7cc2b7232c49",
     "shortname": "Bosch 1",
-    "fullname": "Bosch 1 - CÔNG TY TNHH ROBERT BOSCH ENGINEERING AND BUSINESS SOLUTIONS VIỆT NAM",
+    "fullname": "Bosch 1 - Bosch Global Software Technologies Company Limited  (BGSW)",
     "isSponsor": false,
-    "image": "/img/company/644b346fe7ad7cc2b7232c49.png?t=50440751",
+    "image": "/img/company/644b346fe7ad7cc2b7232c49.png?t=02439962",
     "level": 1,
     "width": 512,
-    "height": 208,
-    "address": "Etown, 364 Cộng Hòa, P. 13, Q. Tân Bình, TP.HCM",
-    "studentRegister": 1,
-    "studentAccepted": 0,
+    "height": 288,
+    "address": "32 Tan Thang, Son Ky Ward, Tan Phu Dist., HCMC, Vietnam",
+    "studentRegister": 0,
+    "studentAccepted": 1,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
     "adminMaxRegister": 10,
@@ -1492,7 +1492,7 @@
         "path": "/company/644b346fe7ad7cc2b7232c49Bosch_1_D2&3_TTNT_HK243.pdf"
       }
     ],
-    "work": "CÔNG TY TNHH ROBERT BOSCH ENGINEERING AND BUSINESS SOLUTIONS VIỆT NAM"
+    "work": "<p>Bosch Global Software Technologies Company Limited (BGSW) is a 100% subsidiary of Robert Bosch GmbH, one of the world’s leading global technology and services providers, providing comprehensive solutions in the fields of Engineering, Information Technology and Business.</p><p>&nbsp;</p>"
   },
   "64530d04e7ad7cc2b72339d8": {
     "id": "64530d04e7ad7cc2b72339d8",
@@ -3556,7 +3556,7 @@
         "path": "/company/6824adfd841f239ff1b31c4aPL_D2&3_TTNT_HK243.docx"
       }
     ],
-    "work": ""
+    "work": "<p>Phenomics Laboratory</p>"
   },
   "6825d1f0841f239ff1b31e4c": {
     "id": "6825d1f0841f239ff1b31e4c",
@@ -3606,7 +3606,7 @@
     "width": 512,
     "height": 512,
     "address": "L17-11, Tầng 17, Tòa nhà Vincom Center, 72 Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
-    "studentRegister": 14,
+    "studentRegister": 13,
     "studentAccepted": 3,
     "maxRegister": 15,
     "maxAcceptedStudent": 5,
