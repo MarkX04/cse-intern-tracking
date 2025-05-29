@@ -603,7 +603,30 @@
     "image": "/img/company/5ecf3c9bd1a3a42ea357e45b.jpg?t=39834913",
     "level": 1,
     "width": 512,
-    "height": 512
+    "height": 512,
+    "address": "Lầu 7, Tòa Nhà Minh Long, số 17, Phường 6, Đường Bà Huyên Thanh Quan, Quận 3, Tp. Hồ Chí Minh",
+    "studentRegister": 17,
+    "studentAccepted": 0,
+    "maxRegister": 36,
+    "maxAcceptedStudent": 12,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": true,
+    "active": true,
+    "description": "<p style=\"margin-left:0in;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683095025d905d4f0dba5c74",
+        "name": "Gcalls_D2_TTNT_HK243.docx",
+        "path": "/company/5ecf3c9bd1a3a42ea357e45bGcalls_D2_TTNT_HK243.docx"
+      },
+      {
+        "_id": "68384f2cbff0349643c5fc34",
+        "name": "Gcalls_D2_TTNT_HK243.pdf",
+        "path": "/company/5ecf3c9bd1a3a42ea357e45bGcalls_D2_TTNT_HK243.pdf"
+      }
+    ],
+    "work": "Software as a Service, Integrated Telephony Application, Voice Regconization"
   },
   "5ed1c515d1a3a42ea357e8ba": {
     "id": "5ed1c515d1a3a42ea357e8ba",
