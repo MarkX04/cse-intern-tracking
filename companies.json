@@ -803,7 +803,7 @@
     "width": 512,
     "height": 331,
     "address": "TMA Tower, Đường số 2, Lô 17, Khu CNPM Quang Trung, P. Tân Chánh Hiệp, Q.12, TPHCM",
-    "studentRegister": 32,
+    "studentRegister": 34,
     "studentAccepted": 0,
     "maxRegister": 300,
     "maxAcceptedStudent": 100,
@@ -935,7 +935,7 @@
     "width": 512,
     "height": 307,
     "address": "Sài Gòn Villas Hill, 99 Lê Văn Việt, P. Tăng Phú Nhơn A, TP. Thủ Đức, TP. Hồ Chí Minh, Việt Nam",
-    "studentRegister": 19,
+    "studentRegister": 20,
     "studentAccepted": 2,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
@@ -1532,7 +1532,7 @@
     "width": 512,
     "height": 515,
     "address": "B10 Nội khu Nam Thông 2A, P.Tân Phú, Q.7, Tp.HCM",
-    "studentRegister": 10,
+    "studentRegister": 9,
     "studentAccepted": 2,
     "maxRegister": 12,
     "maxAcceptedStudent": 4,
@@ -2865,7 +2865,7 @@
     "width": 512,
     "height": 512,
     "address": "Tầng 6 Tòa nhà VCN Tower, số 2 Đường Tố Hữu, Phường Phước Hải, Thành  phố Nha Trang, Tỉnh Khánh Hòa",
-    "studentRegister": 7,
+    "studentRegister": 6,
     "studentAccepted": 14,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -3233,7 +3233,7 @@
     "width": 512,
     "height": 276,
     "address": "C7/13C10 Ấp 4, Xã Bình Hưng, Huyện Bình Chánh, TP.HCM",
-    "studentRegister": 1,
+    "studentRegister": 0,
     "studentAccepted": 0,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
@@ -3860,7 +3860,7 @@
     "width": 512,
     "height": 518,
     "address": "168/6 Bùi Thị Xuân, P.3, Q. Tân Bình, TP.HCM",
-    "studentRegister": 9,
+    "studentRegister": 10,
     "studentAccepted": 0,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
@@ -3874,6 +3874,11 @@
         "_id": "682d4ad75d905d4f0dba56a4",
         "name": "ACL_D2_TTNT_HK243.docx",
         "path": "/company/682c73f45d905d4f0dba552aACL_D2_TTNT_HK243.docx"
+      },
+      {
+        "_id": "68383f89bff0349643c5fc15",
+        "name": "ACL_D2_TTNT_HK243.pdf",
+        "path": "/company/682c73f45d905d4f0dba552aACL_D2_TTNT_HK243.pdf"
       }
     ],
     "work": "<p>CÔNG TY CỔ PHẦN CÔNG NGHỆ APPS CYCLONE (Công ty TNHH Giải Pháp Di Động Ứng Dụng Lốc Xoáy)</p>"
@@ -4705,6 +4710,11 @@
         "_id": "6837c211bff0349643c5fb32",
         "name": "VT_VietTech_D2&3_TTNT_HK243.docx",
         "path": "/company/6837bf74bff0349643c5fb24VT_VietTech_D2&3_TTNT_HK243.docx"
+      },
+      {
+        "_id": "683841dbbff0349643c5fc1a",
+        "name": "VT_VietTech_D2&3_TTNT_HK243.pdf",
+        "path": "/company/6837bf74bff0349643c5fb24VT_VietTech_D2&3_TTNT_HK243.pdf"
       }
     ],
     "work": "<p>CÔNG TY CỔ PHẦN HỆ THỐNG THÔNG MINH VIETTECH</p>"
