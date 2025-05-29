@@ -287,7 +287,7 @@
     "height": 512,
     "address": "Lô T2, Đường D1 Khu Công nghệ Cao, P. Tân Phú, TP. Thủ Đức",
     "studentRegister": 39,
-    "studentAccepted": 48,
+    "studentAccepted": 49,
     "maxRegister": 210,
     "maxAcceptedStudent": 70,
     "adminMaxRegister": 10,
@@ -511,7 +511,7 @@
     "width": 512,
     "height": 152,
     "address": "27B/9 Nguyễn Đình Chiểu, P. Đa Kao, Q1, TPHCM",
-    "studentRegister": 54,
+    "studentRegister": 52,
     "studentAccepted": 0,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -605,7 +605,7 @@
     "width": 512,
     "height": 512,
     "address": "Lầu 7, Tòa Nhà Minh Long, số 17, Phường 6, Đường Bà Huyên Thanh Quan, Quận 3, Tp. Hồ Chí Minh",
-    "studentRegister": 23,
+    "studentRegister": 22,
     "studentAccepted": 0,
     "maxRegister": 36,
     "maxAcceptedStudent": 12,
@@ -765,8 +765,8 @@
     "width": 512,
     "height": 195,
     "address": "Tầng RF, Tòa nhà SABAY tầng 7, số 5 Đồng Nai, Phường 2, Quận Tân Bình TP. Hồ Chí Minh",
-    "studentRegister": 1,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 1,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
     "adminMaxRegister": 10,
@@ -784,6 +784,11 @@
         "_id": "681c58d8841f239ff1b30ddb",
         "name": "AIPower_D2&3_TTNT_HK243.pdf",
         "path": "/company/606d0b0087e8b4bd3d4b4b90AIPower_D2&3_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "6837cd97bff0349643c5fb4b",
+        "name": "AIPower_D3_TTNT_HK243.pdf",
+        "path": "/company/606d0b0087e8b4bd3d4b4b90AIPower_D3_TTNT_HK243.pdf"
       }
     ],
     "work": "Web, App, AI"
@@ -798,7 +803,7 @@
     "width": 512,
     "height": 331,
     "address": "TMA Tower, Đường số 2, Lô 17, Khu CNPM Quang Trung, P. Tân Chánh Hiệp, Q.12, TPHCM",
-    "studentRegister": 0,
+    "studentRegister": 2,
     "studentAccepted": 0,
     "maxRegister": 300,
     "maxAcceptedStudent": 100,
@@ -826,7 +831,7 @@
     "width": 512,
     "height": 590,
     "address": "12/1 Nguyễn Thị Minh Khai, P. Đa Kao, Quận 1, TP.HCM",
-    "studentRegister": 16,
+    "studentRegister": 17,
     "studentAccepted": 15,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -1974,7 +1979,7 @@
     "width": 512,
     "height": 512,
     "address": "103/23 Nguyễn Hữu Dật, Phường Tây Thạnh, Quận Tân Phú, Thành phố Hồ Chí Minh",
-    "studentRegister": 2,
+    "studentRegister": 3,
     "studentAccepted": 0,
     "maxRegister": 3,
     "maxAcceptedStudent": 1,
@@ -3077,6 +3082,11 @@
         "_id": "680c87f43890995d799d8e7e",
         "name": "BioTuring_D2_TTNT_HK243.pdf",
         "path": "/company/680b75f23890995d799d8ca6BioTuring_D2_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "6837ce8abff0349643c5fb4e",
+        "name": "BioTuring_D2_TTNT_HK243_Signed.pdf",
+        "path": "/company/680b75f23890995d799d8ca6BioTuring_D2_TTNT_HK243_Signed.pdf"
       }
     ],
     "work": ""
@@ -3596,7 +3606,7 @@
     "width": 512,
     "height": 512,
     "address": "L17-11, Tầng 17, Tòa nhà Vincom Center, 72 Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
-    "studentRegister": 15,
+    "studentRegister": 14,
     "studentAccepted": 3,
     "maxRegister": 15,
     "maxAcceptedStudent": 5,
@@ -3878,7 +3888,7 @@
     "width": 512,
     "height": 162,
     "address": "14 đường 16, Khu dân cư Phong Phú 5, Bình Chánh, TPHCM",
-    "studentRegister": 9,
+    "studentRegister": 8,
     "studentAccepted": 2,
     "maxRegister": 9,
     "maxAcceptedStudent": 3,
@@ -4057,6 +4067,11 @@
         "_id": "683093fc5d905d4f0dba5c70",
         "name": "NW_Nextwaves_D2_TTNT_HK243.docx",
         "path": "/company/682d881f5d905d4f0dba571dNW_Nextwaves_D2_TTNT_HK243.docx"
+      },
+      {
+        "_id": "6837d026bff0349643c5fb53",
+        "name": "NW_D2&3_TTNT_HK243.pdf",
+        "path": "/company/682d881f5d905d4f0dba571dNW_D2&3_TTNT_HK243.pdf"
       }
     ],
     "work": ""
