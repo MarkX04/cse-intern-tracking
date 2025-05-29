@@ -803,7 +803,7 @@
     "width": 512,
     "height": 331,
     "address": "TMA Tower, Đường số 2, Lô 17, Khu CNPM Quang Trung, P. Tân Chánh Hiệp, Q.12, TPHCM",
-    "studentRegister": 35,
+    "studentRegister": 34,
     "studentAccepted": 0,
     "maxRegister": 300,
     "maxAcceptedStudent": 100,
@@ -1622,6 +1622,11 @@
         "_id": "683725d2bff0349643c5fa11",
         "name": "GSOFT_D2_TTNT_HK243.docx",
         "path": "/company/647080bce7ad7cc2b7236ce8GSOFT_D2_TTNT_HK243.docx"
+      },
+      {
+        "_id": "6838454ebff0349643c5fc22",
+        "name": "GSOFT_D2_TTNT_HK243.pdf",
+        "path": "/company/647080bce7ad7cc2b7236ce8GSOFT_D2_TTNT_HK243.pdf"
       }
     ],
     "work": "Công ty Cổ Phần Phần mềm Hoàn Cầu (GSOFT)"
@@ -1688,6 +1693,11 @@
         "_id": "68372694bff0349643c5fa15",
         "name": "Bosch_4_D2&3_TTNT_HK243.pdf",
         "path": "/company/648c1293e6dfc5e17fdb5600Bosch_4_D2&3_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "683845c6bff0349643c5fc23",
+        "name": "Bosch_4_D3_TTNT_HK243.pdf",
+        "path": "/company/648c1293e6dfc5e17fdb5600Bosch_4_D3_TTNT_HK243.pdf"
       }
     ],
     "work": "[Bosch 4] CÔNG TY TNHH ROBERT BOSCH ENGINEERING AND BUSINESS SOLUTIONS VIỆT NAM"
