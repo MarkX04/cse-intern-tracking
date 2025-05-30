@@ -23,6 +23,11 @@
         "_id": "67fcbaf0502455a6d36061a1",
         "name": "Horus_D2_TTNT_HK243.pdf",
         "path": "/company/5caef41002c2e72195b4ce8cHorus_D2_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "683926e5bff0349643c5fdaa",
+        "name": "Horus_D3_TTNT_HK243_20250530.pdf",
+        "path": "/company/5caef41002c2e72195b4ce8cHorus_D3_TTNT_HK243_20250530.pdf"
       }
     ],
     "work": "<p>Công ty TNHH HORUSOFTACEAE là công ty chuyên phát triển và cung cấp các dịch vụ công nghệ, ứng dụng trong lĩnh vực nghiên cứu Y Dược và Giáo dục Đào tạo. Đối tác và khách hàng của HORUSOFTACEAE bao gồm các doanh nghiệp trong nước và quốc tế ở nhiều quốc gia khác nhau. Hiện nay công ty HORUSOFTACEAE đang trong quá trình phát triển, mở rộng hoạt động kinh doanh, cần tập trung phát triển một số sản phẩm công nghệ tiên tiến đặc thù, nhằm phục vụ cho các đối tác và khách hàng của công ty.</p><p style=\"margin-left:0px;\"><span style=\"color:rgb(230,77,77);\"><strong>Sinh viên ứng tuyển vui lòng gửi đầy đủ CV &amp; bảng điểm về email: intern@horusoftaceae.com</strong></span></p>"
@@ -286,7 +291,7 @@
     "width": 512,
     "height": 512,
     "address": "Lô T2, Đường D1 Khu Công nghệ Cao, P. Tân Phú, TP. Thủ Đức",
-    "studentRegister": 46,
+    "studentRegister": 45,
     "studentAccepted": 54,
     "maxRegister": 210,
     "maxAcceptedStudent": 70,
@@ -836,8 +841,8 @@
     "width": 512,
     "height": 590,
     "address": "12/1 Nguyễn Thị Minh Khai, P. Đa Kao, Quận 1, TP.HCM",
-    "studentRegister": 13,
-    "studentAccepted": 16,
+    "studentRegister": 12,
+    "studentAccepted": 17,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
     "adminMaxRegister": 10,
@@ -1462,6 +1467,11 @@
         "_id": "680f3d623890995d799d932b",
         "name": "IVS_D2_TTNT_HK243.pdf",
         "path": "/company/644b346ce7ad7cc2b7232c45IVS_D2_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "6839279ebff0349643c5fdad",
+        "name": "IVS_D3_TTNT_HK243_20250530.pdf",
+        "path": "/company/644b346ce7ad7cc2b7232c45IVS_D3_TTNT_HK243_20250530.pdf"
       }
     ],
     "work": "Công ty Cổ phần IVS"
@@ -1938,7 +1948,7 @@
     "width": 512,
     "height": 288,
     "address": "The Grace Tower, 71 Hoàng Văn Thái, Tân Phú, Quận 7, Hồ Chí Minh",
-    "studentRegister": 25,
+    "studentRegister": 26,
     "studentAccepted": 0,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
@@ -2904,6 +2914,11 @@
         "_id": "681083033890995d799d955f",
         "name": "Fsoft_NT_D2_TTNT_HK243.pdf",
         "path": "/company/680a24ed3890995d799d8a48Fsoft_NT_D2_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "68392574bff0349643c5fda7",
+        "name": "Fsoft_NT_D3_TTNT_HK243_20250530.docx",
+        "path": "/company/680a24ed3890995d799d8a48Fsoft_NT_D3_TTNT_HK243_20250530.docx"
       }
     ],
     "work": ""
@@ -3109,7 +3124,7 @@
         "path": "/company/680b75f23890995d799d8ca6BioTuring_D2_TTNT_HK243_Signed.pdf"
       }
     ],
-    "work": ""
+    "work": "<p>Công ty TNHH Bioturing Việt Nam</p>"
   },
   "680ccd753890995d799d8efa": {
     "id": "680ccd753890995d799d8efa",
@@ -3725,7 +3740,7 @@
     "width": 512,
     "height": 287,
     "address": "26 Nguyễn Đình Khơi, Phường 4, Quận Tân Bình, Thành phố Hồ Chí Minh",
-    "studentRegister": 7,
+    "studentRegister": 6,
     "studentAccepted": 6,
     "maxRegister": 18,
     "maxAcceptedStudent": 6,
@@ -4172,8 +4187,8 @@
     "width": 512,
     "height": 516,
     "address": "269 Lê Sao, Phường Phú Thạnh, Quận Tân Phú, Thành phố Hồ Chí Minh",
-    "studentRegister": 2,
-    "studentAccepted": 0,
+    "studentRegister": 1,
+    "studentAccepted": 1,
     "maxRegister": 9,
     "maxAcceptedStudent": 3,
     "adminMaxRegister": 10,
@@ -4744,7 +4759,7 @@
     "shortname": "LCS - L.C.S",
     "fullname": "CÔNG TY TRÁCH NHIỆM HỮU HẠN L.C.S",
     "isSponsor": false,
-    "image": "/img/company/6837bf75bff0349643c5fb26.png?t=73414382",
+    "image": "/img/company/6837bf75bff0349643c5fb26.png?t=73483806",
     "level": 1,
     "width": 512,
     "height": 216,
