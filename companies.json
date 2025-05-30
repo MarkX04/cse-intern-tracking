@@ -610,7 +610,7 @@
     "width": 512,
     "height": 512,
     "address": "Phòng i102, Tòa Nhà A, khu công nghệ phần mềm, đường nội bộ ĐHQG-HCM, Khu Phố 6, Phường Linh Trung, Thành phố Thủ Đức",
-    "studentRegister": 13,
+    "studentRegister": 14,
     "studentAccepted": 2,
     "maxRegister": 36,
     "maxAcceptedStudent": 12,
@@ -818,7 +818,7 @@
     "width": 512,
     "height": 331,
     "address": "TMA Tower, Đường số 2, Lô 17, Khu CNPM Quang Trung, P. Tân Chánh Hiệp, Q.12, TPHCM",
-    "studentRegister": 70,
+    "studentRegister": 69,
     "studentAccepted": 0,
     "maxRegister": 300,
     "maxAcceptedStudent": 100,
@@ -3085,7 +3085,7 @@
     "width": 512,
     "height": 374,
     "address": "VP1: 31-33 Đ. Nguyễn Văn Đậu, Phường 6, Quận Bình Thạnh, Thành phố Hồ Chí Minh; VP2: C0013, Sarina Apt, 62 Hoàng Thế Thiện, An Lợi Đông, Thủ Đức, Thành phố Hồ Chí Minh",
-    "studentRegister": 7,
+    "studentRegister": 8,
     "studentAccepted": 0,
     "maxRegister": 12,
     "maxAcceptedStudent": 4,
@@ -4899,6 +4899,11 @@
         "_id": "68395aa7bff0349643c5fe07",
         "name": "TH_D2_TTNT_HK243_20250530.pdf",
         "path": "/company/6837bf76bff0349643c5fb28TH_D2_TTNT_HK243_20250530.pdf"
+      },
+      {
+        "_id": "6839b385bff0349643c5fec8",
+        "name": "TH_D3_TTNT_HK243_20250530.pdf",
+        "path": "/company/6837bf76bff0349643c5fb28TH_D3_TTNT_HK243_20250530.pdf"
       }
     ],
     "work": "<p>CÔNG TY CỔ PHẦN TRIPHUNTER</p>"
@@ -4913,7 +4918,7 @@
     "width": 512,
     "height": 289,
     "address": "Lô B3, đường Sáng Tạo, khu E-Office, KCX Tân Thuận, P. Tân Thuận Đông, Q.7, TPHCM",
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
