@@ -516,7 +516,7 @@
     "width": 512,
     "height": 152,
     "address": "27B/9 Nguyễn Đình Chiểu, P. Đa Kao, Q1, TPHCM",
-    "studentRegister": 45,
+    "studentRegister": 44,
     "studentAccepted": 0,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -3689,7 +3689,7 @@
     "width": 512,
     "height": 512,
     "address": "L17-11, Tầng 17, Tòa nhà Vincom Center, 72 Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
-    "studentRegister": 12,
+    "studentRegister": 11,
     "studentAccepted": 3,
     "maxRegister": 15,
     "maxAcceptedStudent": 5,
@@ -4099,6 +4099,11 @@
         "_id": "68359efc5d905d4f0dba6559",
         "name": "DE_D2_TTNT_HK243.pdf",
         "path": "/company/682d881b5d905d4f0dba5717DE_D2_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "68399a2cbff0349643c5fe9b",
+        "name": "DE_D3_TTNT_HK243_20250530.pdf",
+        "path": "/company/682d881b5d905d4f0dba5717DE_D3_TTNT_HK243_20250530.pdf"
       }
     ],
     "work": "<p>CÔNG TY TNHH DOCUMENT EASY</p>"
