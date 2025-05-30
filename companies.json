@@ -808,7 +808,7 @@
     "width": 512,
     "height": 331,
     "address": "TMA Tower, Đường số 2, Lô 17, Khu CNPM Quang Trung, P. Tân Chánh Hiệp, Q.12, TPHCM",
-    "studentRegister": 47,
+    "studentRegister": 48,
     "studentAccepted": 0,
     "maxRegister": 300,
     "maxAcceptedStudent": 100,
@@ -1612,9 +1612,9 @@
     "level": 1,
     "width": 512,
     "height": 196,
-    "address": "6, 7, 8th Floor, GOBRANDING & GSOFT Tower, 235 Ly Thuong Kiet St, W. 6, Tan Binh Dist., HCMC",
-    "studentRegister": 10,
-    "studentAccepted": 0,
+    "address": "163/14/12 Tô Hiến Thành phường 13, quận 10",
+    "studentRegister": 7,
+    "studentAccepted": 3,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
     "adminMaxRegister": 10,
@@ -1634,7 +1634,7 @@
         "path": "/company/647080bce7ad7cc2b7236ce8GSOFT_D2_TTNT_HK243.pdf"
       }
     ],
-    "work": "Công ty Cổ Phần Phần mềm Hoàn Cầu (GSOFT)"
+    "work": "<p>Công ty Cổ Phần Phần mềm Hoàn Cầu (GSOFT)</p>"
   },
   "64780f59e7ad7cc2b72379f6": {
     "id": "64780f59e7ad7cc2b72379f6",
@@ -1994,8 +1994,8 @@
     "width": 512,
     "height": 512,
     "address": "103/23 Nguyễn Hữu Dật, Phường Tây Thạnh, Quận Tân Phú, Thành phố Hồ Chí Minh",
-    "studentRegister": 3,
-    "studentAccepted": 0,
+    "studentRegister": 1,
+    "studentAccepted": 1,
     "maxRegister": 3,
     "maxAcceptedStudent": 1,
     "adminMaxRegister": 10,
