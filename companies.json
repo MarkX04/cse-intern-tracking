@@ -813,7 +813,7 @@
     "width": 512,
     "height": 331,
     "address": "TMA Tower, Đường số 2, Lô 17, Khu CNPM Quang Trung, P. Tân Chánh Hiệp, Q.12, TPHCM",
-    "studentRegister": 68,
+    "studentRegister": 69,
     "studentAccepted": 0,
     "maxRegister": 300,
     "maxAcceptedStudent": 100,
@@ -1090,7 +1090,7 @@
     "width": 512,
     "height": 163,
     "address": "C7B/125 Bình Hưng, Bình Chánh",
-    "studentRegister": 7,
+    "studentRegister": 8,
     "studentAccepted": 0,
     "maxRegister": 20,
     "maxAcceptedStudent": 20,
@@ -1524,7 +1524,7 @@
     "width": 512,
     "height": 565,
     "address": "12/20D Nguyễn Thị Minh Khai, P.Đao Kao , Q.1, TP. HCM",
-    "studentRegister": 7,
+    "studentRegister": 6,
     "studentAccepted": 4,
     "maxRegister": 12,
     "maxAcceptedStudent": 4,
@@ -3028,6 +3028,11 @@
         "_id": "6830369a5d905d4f0dba5bc5",
         "name": "GOSU_D3_TTNT_HK243.pdf",
         "path": "/company/680a24f03890995d799d8a4eGOSU_D3_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "68395e7abff0349643c5fe10",
+        "name": "GOSU_D3_TTNT_HK243_20250530.pdf",
+        "path": "/company/680a24f03890995d799d8a4eGOSU_D3_TTNT_HK243_20250530.pdf"
       }
     ],
     "work": ""
@@ -3176,8 +3181,8 @@
     "address": "Tầng 2, Tòa nhà hành chính TTC, Số 1 đường Tân Thuận, KCX Tân Thuận, Phường Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
     "studentRegister": 0,
     "studentAccepted": 2,
-    "maxRegister": 2,
-    "maxAcceptedStudent": 2,
+    "maxRegister": 15,
+    "maxAcceptedStudent": 5,
     "adminMaxRegister": 10,
     "acceptedIntern": true,
     "subscribeAcceptedEmail": false,
