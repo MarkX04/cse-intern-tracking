@@ -42,7 +42,7 @@
     "width": 512,
     "height": 512,
     "address": "149-151 Nguyễn Văn Trỗi, P.11, Q. Phú Nhuận, TP.HCM",
-    "studentRegister": 32,
+    "studentRegister": 31,
     "studentAccepted": 0,
     "maxRegister": 39,
     "maxAcceptedStudent": 13,
@@ -813,7 +813,7 @@
     "width": 512,
     "height": 331,
     "address": "TMA Tower, Đường số 2, Lô 17, Khu CNPM Quang Trung, P. Tân Chánh Hiệp, Q.12, TPHCM",
-    "studentRegister": 49,
+    "studentRegister": 51,
     "studentAccepted": 0,
     "maxRegister": 300,
     "maxAcceptedStudent": 100,
@@ -1552,7 +1552,7 @@
     "width": 512,
     "height": 515,
     "address": "B10 Nội khu Nam Thông 2A, P.Tân Phú, Q.7, Tp.HCM",
-    "studentRegister": 10,
+    "studentRegister": 9,
     "studentAccepted": 2,
     "maxRegister": 12,
     "maxAcceptedStudent": 4,
@@ -1887,7 +1887,7 @@
     "width": 512,
     "height": 304,
     "address": "55-57 Bau Cat 4 St., Tan Binh Dist., Ho Chi Minh City, Vietnam",
-    "studentRegister": 10,
+    "studentRegister": 9,
     "studentAccepted": 2,
     "maxRegister": 15,
     "maxAcceptedStudent": 5,
@@ -2316,8 +2316,8 @@
     "width": 512,
     "height": 193,
     "address": "8Bis Hoàng Hoa Thám, Phường 7, Quận Bình Thạnh, TP. Hồ Chí Minh",
-    "studentRegister": 2,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 2,
     "maxRegister": 2,
     "maxAcceptedStudent": 2,
     "adminMaxRegister": 10,
@@ -2330,6 +2330,11 @@
         "_id": "67f737b9502455a6d3605822",
         "name": "ECQ_D2&3_TTNT_HK243.docx",
         "path": "/company/67f53d84502455a6d36054adECQ_D2&3_TTNT_HK243.docx"
+      },
+      {
+        "_id": "683928d0bff0349643c5fdb0",
+        "name": "ECQ_D2_TTNT_HK243_20250530.pdf",
+        "path": "/company/67f53d84502455a6d36054adECQ_D2_TTNT_HK243_20250530.pdf"
       }
     ],
     "work": ""
@@ -3895,8 +3900,8 @@
     "width": 512,
     "height": 518,
     "address": "168/6 Bùi Thị Xuân, P.3, Q. Tân Bình, TP.HCM",
-    "studentRegister": 10,
-    "studentAccepted": 0,
+    "studentRegister": 9,
+    "studentAccepted": 1,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
     "adminMaxRegister": 10,
@@ -4717,6 +4722,11 @@
         "_id": "6837c29fbff0349643c5fb33",
         "name": "FA_FireApps_D2_TTNT_HK243.docx",
         "path": "/company/6837bf73bff0349643c5fb22FA_FireApps_D2_TTNT_HK243.docx"
+      },
+      {
+        "_id": "68392c98bff0349643c5fdb7",
+        "name": "FA_D2_TTNT_HK243_20250530.pdf",
+        "path": "/company/6837bf73bff0349643c5fb22FA_D2_TTNT_HK243_20250530.pdf"
       }
     ],
     "work": "<p>Công Ty Cổ Phần Công Nghệ FireApps</p>"
