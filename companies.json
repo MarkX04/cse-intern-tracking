@@ -225,7 +225,7 @@
     "width": 512,
     "height": 512,
     "address": "Lot W.29-30-31a, Tan Thuan Road, Tan Thuan Export Processing Zone, Tan Thuan Dong Ward, District 7, HCMC.",
-    "studentRegister": 3,
+    "studentRegister": 4,
     "studentAccepted": 4,
     "maxRegister": 15,
     "maxAcceptedStudent": 5,
@@ -1372,6 +1372,34 @@
     ],
     "work": "VieRobot Ltd., also VierCycle, a leading innovation and greentech company in the e-mobility market in\nSoutheast Asia.\nWe focus on:\n● AIOT Technologies\n● Industrial Design\n● High-Quality Products\n● Cloud Management Platform\n● Low Emissions and Sustainable Solution\nVisit us at\nhttps://www.facebook.com/vierobot\nhttps://www.facebook.com/viercycle\nhttps://www.linkedin.com/company/viercycle"
   },
+  "643df297e7ad7cc2b7231520": {
+    "id": "643df297e7ad7cc2b7231520",
+    "shortname": "FPT Telecom",
+    "fullname": "Công ty Cổ phần Viễn thông FPT (FPT Telecom)",
+    "isSponsor": false,
+    "image": "/img/company/643df297e7ad7cc2b7231520.png?t=81597392",
+    "level": 1,
+    "width": 512,
+    "height": 433,
+    "address": "Tòa nhà FPT Tân Thuận 2 (Lô L29B-31B-33B, Đường Tân Thuận, KCX Tân Thuận, Quận 7, Tp.HCM)",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 2,
+    "maxAcceptedStudent": 2,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p><p><span style=\"color:#c0392b;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, email cho DN nữa.</strong></span></p><p><span style=\"color:#c0392b;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập, SV bấm đăng ký, DN bấm accept thỉ kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "68399500bff0349643c5fe91",
+        "name": "FPT_Telecom_D2&3_TTNT_HK243.docx",
+        "path": "/company/643df297e7ad7cc2b7231520FPT_Telecom_D2&3_TTNT_HK243.docx"
+      }
+    ],
+    "work": "Là thành viên thuộc Tập đoàn công nghệ hàng đầu Việt Nam FPT\nCông ty Cổ phần Viễn thông FPT (tên gọi tắt là FPT Telecom) hiện là một trong những nhà cung cấp dịch vụ Viễn thông và Internet hàng đầu khu vực.\nThành lập ngày 31/01/1997, khởi nguồn từ Trung tâm Dịch vụ Trực tuyến do 4 thành viên sáng lập cùng sản phẩm mạng Intranet đầu tiên của Việt Nam mang tên “Trí tuệ Việt Nam – TTVN”, sản phẩm được coi là đặt nền móng cho sự phát triển của Internet tại Việt Nam.\nVới sứ mệnh tiên phong mang Internet, mang kết nối đến với người dân Việt Nam cùng mong muốn lớn lao mỗi gia đình Việt Nam đều sử dụng ít nhất một dịch vụ của Công ty, FPT Telecom đang nỗ lực thực thi Chiến lược “Mang đến trải nghiệm tuyệt vời cho khách hàng” trên cơ sở phát huy giá trị văn hóa cốt lõi “Lấy khách hàng làm trọng tâm” và nền tảng sức mạnh công nghệ FPT, từ đó tiên phong trở thành Nhà cung cấp dịch vụ số có trải nghiệm khách hàng vượt trội, tốt nhất tại Việt Nam."
+  },
   "6440fc60e7ad7cc2b7231a7d": {
     "id": "6440fc60e7ad7cc2b7231a7d",
     "shortname": "TA - TecAlliance",
@@ -1892,7 +1920,7 @@
     "width": 512,
     "height": 304,
     "address": "55-57 Bau Cat 4 St., Tan Binh Dist., Ho Chi Minh City, Vietnam",
-    "studentRegister": 9,
+    "studentRegister": 10,
     "studentAccepted": 2,
     "maxRegister": 15,
     "maxAcceptedStudent": 5,
@@ -1953,7 +1981,7 @@
     "width": 512,
     "height": 288,
     "address": "The Grace Tower, 71 Hoàng Văn Thái, Tân Phú, Quận 7, Hồ Chí Minh",
-    "studentRegister": 26,
+    "studentRegister": 27,
     "studentAccepted": 0,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
@@ -3948,7 +3976,7 @@
     "width": 512,
     "height": 162,
     "address": "14 đường 16, Khu dân cư Phong Phú 5, Bình Chánh, TPHCM",
-    "studentRegister": 6,
+    "studentRegister": 5,
     "studentAccepted": 3,
     "maxRegister": 9,
     "maxAcceptedStudent": 3,
@@ -4438,7 +4466,7 @@
     "width": 512,
     "height": 512,
     "address": "195A Hai Bà Trưng, P. Võ Thị Sáu, Q3, HCM",
-    "studentRegister": 3,
+    "studentRegister": 0,
     "studentAccepted": 3,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
@@ -4897,6 +4925,146 @@
       }
     ],
     "work": "<p>FIS - Chi nhánh Công ty TNHH FPT IS tại Thành phố Hồ Chí Minh</p>"
+  },
+  "68398e1bbff0349643c5fe6a": {
+    "id": "68398e1bbff0349643c5fe6a",
+    "shortname": "CTG",
+    "fullname": "Công ty TNHH Sản xuất Thương mại Kỹ thuật CTG",
+    "isSponsor": false,
+    "image": "/img/company/68398e1bbff0349643c5fe6a.png?t=04054343",
+    "level": 1,
+    "width": 512,
+    "height": 512,
+    "address": "Phòng Kỹ thuật, 126A Hoàng Ngân, Phường 16, Quận 8, TP.HCM",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683994a3bff0349643c5fe90",
+        "name": "CTG_D2&3_TTNT_HK243.pdf",
+        "path": "/company/68398e1bbff0349643c5fe6aCTG_D2&3_TTNT_HK243.pdf"
+      }
+    ],
+    "work": "<p>Công ty TNHH Sản xuất Thương mại Kỹ thuật CTG</p>"
+  },
+  "68398e1cbff0349643c5fe6c": {
+    "id": "68398e1cbff0349643c5fe6c",
+    "shortname": "SGL - Sài Gòn Lab",
+    "fullname": "Công ty cổ phần Sài Gòn Lab",
+    "isSponsor": false,
+    "image": "/img/company/68398e1cbff0349643c5fe6c.png?t=03934824",
+    "level": 1,
+    "width": 512,
+    "height": 512,
+    "address": "28/61 đường số 2 Cư Xá Lữ Gia, Phường 15, Quận 11, TP.HCM, Việt Nam",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "68399429bff0349643c5fe8d",
+        "name": "SGL_D2&3_TTNT_HK243.docx",
+        "path": "/company/68398e1cbff0349643c5fe6cSGL_D2&3_TTNT_HK243.docx"
+      }
+    ],
+    "work": "<p>Công ty cổ phần Sài Gòn Lab</p>"
+  },
+  "68398e1dbff0349643c5fe6e": {
+    "id": "68398e1dbff0349643c5fe6e",
+    "shortname": "VD - VIET DYNAMIC",
+    "fullname": "CÔNG TY CỔ PHẦN VIET DYNAMIC",
+    "isSponsor": false,
+    "image": "/img/company/68398e1dbff0349643c5fe6e.png?t=03809337",
+    "level": 1,
+    "width": 512,
+    "height": 159,
+    "address": "Toà nhà R1, Viện Công Nghệ Cao Hutech, Lô E2-B4, Đường D1 Phường Long Thạnh Mỹ, Thủ Đức, Hồ Chí Minh",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683993aabff0349643c5fe8c",
+        "name": "VD_Viet_Dynamic_D2&3_TTNT_HK243.docx",
+        "path": "/company/68398e1dbff0349643c5fe6eVD_Viet_Dynamic_D2&3_TTNT_HK243.docx"
+      }
+    ],
+    "work": "<p>CÔNG TY CỔ PHẦN VIET DYNAMIC</p>"
+  },
+  "68398e1fbff0349643c5fe70": {
+    "id": "68398e1fbff0349643c5fe70",
+    "shortname": "Bosch 5",
+    "fullname": "Bosch 5 - Công ty TNHH Bosch Global Software Technologies",
+    "isSponsor": false,
+    "image": "/img/company/68398e1fbff0349643c5fe70.png?t=03639514",
+    "level": 1,
+    "width": 512,
+    "height": 512,
+    "address": "Etown, 364 đường Cộng Hòa, phường 13, quận Tân Bình, TPHCM",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "68399302bff0349643c5fe89",
+        "name": "Bosch_5_D2&3_TTNT_HK243.docx",
+        "path": "/company/68398e1fbff0349643c5fe70Bosch_5_D2&3_TTNT_HK243.docx"
+      }
+    ],
+    "work": "<p>Bosch 5 - Công ty TNHH Bosch Global Software Technologies</p>"
+  },
+  "68398e20bff0349643c5fe72": {
+    "id": "68398e20bff0349643c5fe72",
+    "shortname": "SDVICO - HLPTV",
+    "fullname": "Công ty TNHH Hiệp Lực Phát Triển Việt (SDVICO)",
+    "isSponsor": false,
+    "image": "/img/company/68398e20bff0349643c5fe72.png?t=03452304",
+    "level": 1,
+    "width": 512,
+    "height": 539,
+    "address": "283 Nguyễn Hữu Cảnh, Phường Thắng Nhất, Thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 2,
+    "maxAcceptedStudent": 2,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "",
+    "internshipFiles": [
+      {
+        "_id": "68399248bff0349643c5fe88",
+        "name": "SDVICO_HLPTV_D2&3_TTNT_HK243.docx",
+        "path": "/company/68398e20bff0349643c5fe72SDVICO_HLPTV_D2&3_TTNT_HK243.docx"
+      }
+    ],
+    "work": "<p>Công ty TNHH Hiệp Lực Phát Triển Việt (SDVICO)</p>"
   },
   "68398e21bff0349643c5fe74": {
     "id": "68398e21bff0349643c5fe74",
