@@ -291,7 +291,7 @@
     "width": 512,
     "height": 512,
     "address": "Lô T2, Đường D1 Khu Công nghệ Cao, P. Tân Phú, TP. Thủ Đức",
-    "studentRegister": 46,
+    "studentRegister": 47,
     "studentAccepted": 54,
     "maxRegister": 210,
     "maxAcceptedStudent": 70,
@@ -818,7 +818,7 @@
     "width": 512,
     "height": 331,
     "address": "TMA Tower, Đường số 2, Lô 17, Khu CNPM Quang Trung, P. Tân Chánh Hiệp, Q.12, TPHCM",
-    "studentRegister": 69,
+    "studentRegister": 70,
     "studentAccepted": 0,
     "maxRegister": 300,
     "maxAcceptedStudent": 100,
@@ -917,7 +917,7 @@
     "width": 512,
     "height": 484,
     "address": "Tầng 3, Phòng 301, 57 Lê Thị Hồng Gấm, P. Nguyễn Thái Bình, Quận 1. TP. Hồ Chí Minh",
-    "studentRegister": 8,
+    "studentRegister": 7,
     "studentAccepted": 0,
     "maxRegister": 12,
     "maxAcceptedStudent": 4,
@@ -4922,6 +4922,11 @@
         "_id": "6837c55ebff0349643c5fb3b",
         "name": "FIS_D2_TTNT_HK243.docx",
         "path": "/company/6837c4dcbff0349643c5fb3aFIS_D2_TTNT_HK243.docx"
+      },
+      {
+        "_id": "68399939bff0349643c5fe9a",
+        "name": "FIS_D2&3_TTNT_HK243_20250530.pdf",
+        "path": "/company/6837c4dcbff0349643c5fb3aFIS_D2&3_TTNT_HK243_20250530.pdf"
       }
     ],
     "work": "<p>FIS - Chi nhánh Công ty TNHH FPT IS tại Thành phố Hồ Chí Minh</p>"
