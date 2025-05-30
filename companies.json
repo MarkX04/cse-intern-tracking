@@ -516,7 +516,7 @@
     "width": 512,
     "height": 152,
     "address": "27B/9 Nguyễn Đình Chiểu, P. Đa Kao, Q1, TPHCM",
-    "studentRegister": 49,
+    "studentRegister": 48,
     "studentAccepted": 0,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -2042,7 +2042,7 @@
     "width": 512,
     "height": 350,
     "address": "Lầu 3, Tòa nhà SaigonTel, Lô 46, CVPM Quang Trung, P. Tân Chánh Hiệp, Q. 12, TP HCM",
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 3,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -4620,6 +4620,11 @@
         "_id": "6837262abff0349643c5fa14",
         "name": "MBFP_MobiFonePlus_D2_TTNT_HK243.docx",
         "path": "/company/6835ae7a5d905d4f0dba6576MBFP_MobiFonePlus_D2_TTNT_HK243.docx"
+      },
+      {
+        "_id": "68396081bff0349643c5fe13",
+        "name": "MBFP_D2_TTNT_HK243_20250530.pdf",
+        "path": "/company/6835ae7a5d905d4f0dba6576MBFP_D2_TTNT_HK243_20250530.pdf"
       }
     ],
     "work": "<p>CÔNG TY CỔ PHẦN DỊCH VỤ GIA TĂNG MOBIFONE</p>"
