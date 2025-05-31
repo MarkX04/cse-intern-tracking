@@ -4824,8 +4824,8 @@
     "width": 512,
     "height": 132,
     "address": "45-47 Nguyễn Kiệm, Phường 3, Quận Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
-    "studentRegister": 1,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 1,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
     "adminMaxRegister": 10,
@@ -4845,7 +4845,7 @@
         "path": "/company/6837bf74bff0349643c5fb24VT_VietTech_D2&3_TTNT_HK243.pdf"
       }
     ],
-    "work": "<p>CÔNG TY CỔ PHẦN HỆ THỐNG THÔNG MINH VIETTECH</p>"
+    "work": "<p>CÔNG TY CỔ PHẦN HỆ THỐNG THÔNG MINH VIETTECH</p><h3><strong>Mục tiêu</strong></h3><ul><li>Xây dựng, phát triển và triển khai hệ thống ERP kết hợp thiết bị IoT cho ngành GAS Áp dụng các công nghệ mới: AI, BigData, FaceID, … từng bước hoàn thiện hệ thống để nâng cao hiệu quả cho doanh nghiệp.</li><li>Trở thành một doanh nghiệp phần mềm hàng đầu cung cấp, triển khai hệ thống và thiết bị IoT chuyên cho ngành GAS</li></ul><h3><strong>Thế mạnh</strong></h3><ul><li>Đội ngủ phát triển chính trên 10 năm kinh nghiệm trong lĩnh vực phát triển phần mềm và phần cứng</li><li>Đã hoàn thiện sản phẩm hệ thống ERP tích hợp một số thiết bị IoT, đã và đang triển khai cho hệ thống Gas4.0, NamGas, Ngọn Lửa Thần, Hà Nội Petro,…</li><li>Ở Việt Nam, VIETTECH là đơn vị tiên phong nguyên cứu và phát triển thành công thiết bị IoT Smart Meter, tích hợp với hệ thống ERP để trở thành một giải phát hoàn thiện cho ngành Gas</li></ul><h3>Liên hệ</h3><p>Địa chỉ:</p><p><strong>45-47 Nguyễn Kiệm, Phường 3, Quận Gò Vấp, Tp.Hồ Chí Minh</strong></p><p>Email:</p><p><strong>tri.tran@viettechsmart.com</strong></p><p>Điện thoại:</p><p><strong>0909275670</strong></p><p>Website:</p><p><strong>https://www.viettechsmart.com</strong></p>"
   },
   "6837bf75bff0349643c5fb26": {
     "id": "6837bf75bff0349643c5fb26",
