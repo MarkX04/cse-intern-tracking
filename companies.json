@@ -4961,7 +4961,7 @@
     "width": 512,
     "height": 512,
     "address": "Phòng Kỹ thuật, 126A Hoàng Ngân, Phường 16, Quận 8, TP.HCM",
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
