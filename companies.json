@@ -1486,7 +1486,7 @@
     "width": 512,
     "height": 512,
     "address": "Tầng 3, Tòa nhà Vina Giầy, 180-182 Lý Chính Thắng, P.9, Q.3, TP.HCM",
-    "studentRegister": 4,
+    "studentRegister": 5,
     "studentAccepted": 19,
     "maxRegister": 90,
     "maxAcceptedStudent": 30,
@@ -2818,8 +2818,8 @@
     "address": "146 đường Bình Lợi, phường 13, quận Bình Thạnh, Thành phố Hồ Chí Minh",
     "studentRegister": 0,
     "studentAccepted": 1,
-    "maxRegister": 1,
-    "maxAcceptedStudent": 1,
+    "maxRegister": 2,
+    "maxAcceptedStudent": 2,
     "adminMaxRegister": 10,
     "acceptedIntern": true,
     "subscribeAcceptedEmail": false,
@@ -2835,6 +2835,16 @@
         "_id": "6808a71e502455a6d360764f",
         "name": "CJS_D2&3_TTNT_HK243.pdf",
         "path": "/company/68084544502455a6d36075a1CJS_D2&3_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "683c66adbff0349643c6038a",
+        "name": "CJS_D2_TTNT_HK243_2025_06_01.pdf",
+        "path": "/company/68084544502455a6d36075a1CJS_D2_TTNT_HK243_2025_06_01.pdf"
+      },
+      {
+        "_id": "683c66b4bff0349643c6038b",
+        "name": "CJS_D3_TTNT_HK243_2025_06_01.pdf",
+        "path": "/company/68084544502455a6d36075a1CJS_D3_TTNT_HK243_2025_06_01.pdf"
       }
     ],
     "work": ""
@@ -3793,7 +3803,7 @@
     "width": 512,
     "height": 287,
     "address": "26 Nguyễn Đình Khơi, Phường 4, Quận Tân Bình, Thành phố Hồ Chí Minh",
-    "studentRegister": 8,
+    "studentRegister": 7,
     "studentAccepted": 6,
     "maxRegister": 27,
     "maxAcceptedStudent": 9,
@@ -5087,6 +5097,16 @@
         "_id": "68399248bff0349643c5fe88",
         "name": "SDVICO_HLPTV_D2&3_TTNT_HK243.docx",
         "path": "/company/68398e20bff0349643c5fe72SDVICO_HLPTV_D2&3_TTNT_HK243.docx"
+      },
+      {
+        "_id": "683c67f6bff0349643c6038e",
+        "name": "SDVICO_D2_TTNT_HK243_2025_06_01.pdf",
+        "path": "/company/68398e20bff0349643c5fe72SDVICO_D2_TTNT_HK243_2025_06_01.pdf"
+      },
+      {
+        "_id": "683c67fdbff0349643c6038f",
+        "name": "SDVICO_D3_TTNT_HK243_2025_06_01.pdf",
+        "path": "/company/68398e20bff0349643c5fe72SDVICO_D3_TTNT_HK243_2025_06_01.pdf"
       }
     ],
     "work": "<p>Công ty TNHH Hiệp Lực Phát Triển Việt (SDVICO)</p>"
