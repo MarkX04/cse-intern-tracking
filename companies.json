@@ -225,7 +225,7 @@
     "width": 512,
     "height": 512,
     "address": "Lot W.29-30-31a, Tan Thuan Road, Tan Thuan Export Processing Zone, Tan Thuan Dong Ward, District 7, HCMC.",
-    "studentRegister": 6,
+    "studentRegister": 7,
     "studentAccepted": 4,
     "maxRegister": 15,
     "maxAcceptedStudent": 5,
@@ -609,7 +609,7 @@
     "level": 1,
     "width": 512,
     "height": 512,
-    "address": "Phòng i102, Tòa Nhà A, khu công nghệ phần mềm, đường nội bộ ĐHQG-HCM, Khu Phố 6, Phường Linh Trung, Thành phố Thủ Đức",
+    "address": "1B Trengganu Street, Singapore (058455)",
     "studentRegister": 10,
     "studentAccepted": 9,
     "maxRegister": 36,
@@ -631,7 +631,7 @@
         "path": "/company/5ecf3c9bd1a3a42ea357e45bGcalls_D2_TTNT_HK243.pdf"
       }
     ],
-    "work": "<p>Software as a Service, Integrated Telephony Application, Voice Regconization</p>"
+    "work": "<p>Software as a Service, Integrated Telephony Application, Voice Regconization<br><br>Head Quarter: 1B Trengganu Street, Singapore (058455)<br>Branch Offfice: Phòng i102, Tòa Nhà A, khu công nghệ phần mềm, đường nội bộ ĐHQG-HCM, Khu Phố 6, Phường Linh Trung, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam<br>Coworking space: 27B/9 Nguyễn Đình Chiểu, Phường Đa Kao, Quận 1, TP.HCM</p>"
   },
   "5ed1c515d1a3a42ea357e8ba": {
     "id": "5ed1c515d1a3a42ea357e8ba",
