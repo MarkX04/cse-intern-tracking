@@ -615,7 +615,7 @@
     "width": 512,
     "height": 512,
     "address": "1B Trengganu Street, Singapore (058455)",
-    "studentRegister": 8,
+    "studentRegister": 7,
     "studentAccepted": 9,
     "maxRegister": 36,
     "maxAcceptedStudent": 12,
@@ -823,7 +823,7 @@
     "width": 512,
     "height": 331,
     "address": "TMA Tower, Đường số 2, Lô 17, Khu CNPM Quang Trung, P. Tân Chánh Hiệp, Q.12, TPHCM",
-    "studentRegister": 72,
+    "studentRegister": 71,
     "studentAccepted": 0,
     "maxRegister": 300,
     "maxAcceptedStudent": 100,
@@ -979,6 +979,11 @@
         "_id": "67eb3bec502455a6d3604358",
         "name": "R2S_D2_TTNT_HK243.pdf",
         "path": "/company/607d40f7ee96ff021b97a98fR2S_D2_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "683d84bebff0349643c60589",
+        "name": "R2S_D3_TTNT_HK243_2025_06_02.pdf",
+        "path": "/company/607d40f7ee96ff021b97a98fR2S_D3_TTNT_HK243_2025_06_02.pdf"
       }
     ],
     "work": "<p>C&ocirc;ng ty cổ phần R2S hoạt động ch&iacute;nh trong những lĩnh vực ph&aacute;t triển phần mềm, tư vấn giải ph&aacute;p c&ocirc;ng nghệ th&ocirc;ng tin v&agrave; huấn luyện nguồn nh&acirc;n lực cho doanh nghiệp. Ch&uacute;ng t&ocirc;i lu&ocirc;n cố gắng h&agrave;nh động để th&agrave;nh c&ocirc;ng; th&agrave;nh c&ocirc;ng của kh&aacute;ch h&agrave;ng l&agrave; th&agrave;nh c&ocirc;ng của ch&uacute;ng t&ocirc;i.</p>\n"
