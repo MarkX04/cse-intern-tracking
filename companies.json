@@ -5315,5 +5315,94 @@
       }
     ],
     "work": "<p>Công ty CP Digitallink Technology Solutions</p>"
+  },
+  "683a5f2abff0349643c6000b": {
+    "id": "683a5f2abff0349643c6000b",
+    "shortname": "CV - Chuyên Việt",
+    "fullname": "Công ty TNHH Một thành viên Phát triển Công nghệ Chuyên Việt",
+    "isSponsor": false,
+    "image": "/img/company/683a5f2abff0349643c6000b.png?t=64110057",
+    "level": 1,
+    "width": 512,
+    "height": 391,
+    "address": "232/6 Cộng Hòa, P.12, Q. Tân Bình, TPHCM",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 27,
+    "maxAcceptedStudent": 9,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683d8c7bbff0349643c6059f",
+        "name": "CV_ChuyenViet_D2_TTNT_HK243_2025_05_30.pdf",
+        "path": "/company/683a5f2abff0349643c6000bCV_ChuyenViet_D2_TTNT_HK243_2025_05_30.pdf"
+      }
+    ],
+    "work": "<p>Công ty TNHH Một thành viên Phát triển Công nghệ Chuyên Việt</p>"
+  },
+  "683a5f2bbff0349643c6000d": {
+    "id": "683a5f2bbff0349643c6000d",
+    "shortname": "SATY",
+    "fullname": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ SATY",
+    "isSponsor": false,
+    "image": "/img/company/683a5f2bbff0349643c6000d.png?t=63870726",
+    "level": 1,
+    "width": 512,
+    "height": 154,
+    "address": "850 Xa Lộ Hà Nội, Khu phố 6, Phường Hiệp Phú, TP. Thủ Đức, TP. HCM",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 36,
+    "maxAcceptedStudent": 12,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683d8b8bbff0349643c6059b",
+        "name": "SATY_D2_TTNT_HK243_2025_05_30.pdf",
+        "path": "/company/683a5f2bbff0349643c6000dSATY_D2_TTNT_HK243_2025_05_30.pdf"
+      },
+      {
+        "_id": "683d8b95bff0349643c6059c",
+        "name": "SATY_D2_TTNT_HK243_2025_05_30.docx",
+        "path": "/company/683a5f2bbff0349643c6000dSATY_D2_TTNT_HK243_2025_05_30.docx"
+      }
+    ],
+    "work": "<p>CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ SATY</p>"
+  },
+  "683a5f2cbff0349643c6000f": {
+    "id": "683a5f2cbff0349643c6000f",
+    "shortname": "SIGINX",
+    "fullname": "Công ty CP Công nghệ SIGINX",
+    "isSponsor": false,
+    "image": "/img/company/683a5f2cbff0349643c6000f.png?t=63697712",
+    "level": 1,
+    "width": 512,
+    "height": 406,
+    "address": "279 Tây Thạnh, Phường Tây Thạnh, Quận Tân Phú, Tp. Hồ Chí Min",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 36,
+    "maxAcceptedStudent": 12,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683d8ae2bff0349643c60598",
+        "name": "SIGIX_D2_TTNT_HK243_2025_05_30.docx",
+        "path": "/company/683a5f2cbff0349643c6000fSIGIX_D2_TTNT_HK243_2025_05_30.docx"
+      }
+    ],
+    "work": "<p>Công ty CP Công nghệ SIGINX</p>"
   }
 }
