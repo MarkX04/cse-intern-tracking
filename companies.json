@@ -851,7 +851,7 @@
     "width": 512,
     "height": 331,
     "address": "TMA Tower, Đường số 2, Lô 17, Khu CNPM Quang Trung, P. Tân Chánh Hiệp, Q.12, TPHCM",
-    "studentRegister": 69,
+    "studentRegister": 68,
     "studentAccepted": 0,
     "maxRegister": 300,
     "maxAcceptedStudent": 100,
@@ -1544,7 +1544,7 @@
     "width": 512,
     "height": 512,
     "address": "Tầng 3, Tòa nhà Vina Giầy, 180-182 Lý Chính Thắng, P.9, Q.3, TP.HCM",
-    "studentRegister": 5,
+    "studentRegister": 4,
     "studentAccepted": 20,
     "maxRegister": 90,
     "maxAcceptedStudent": 30,
@@ -3965,7 +3965,7 @@
     "width": 512,
     "height": 287,
     "address": "26 Nguyễn Đình Khơi, Phường 4, Quận Tân Bình, Thành phố Hồ Chí Minh",
-    "studentRegister": 7,
+    "studentRegister": 6,
     "studentAccepted": 6,
     "maxRegister": 27,
     "maxAcceptedStudent": 9,
@@ -5796,6 +5796,62 @@
       }
     ],
     "work": "<p>Công ty CP Công nghệ SIGINX</p>"
+  },
+  "683d1262bff0349643c604b2": {
+    "id": "683d1262bff0349643c604b2",
+    "shortname": "AURA",
+    "fullname": "CÔNG TY CỔ PHẦN THẨM MỸ VIỆN AURA",
+    "isSponsor": false,
+    "image": "/img/company/683d1262bff0349643c604b2.png?t=71816987",
+    "level": 1,
+    "width": 512,
+    "height": 256,
+    "address": "Tòa Lux 6, Vinhomes Golden River, số 2 Tôn Đức Thắng, Bến Nghé, Quận 1, Hồ Chí Min",
+    "studentRegister": 1,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683daa93bff0349643c605e3",
+        "name": "AURA_D2_TTNT_HK243_2025_05_31.docx",
+        "path": "/company/683d1262bff0349643c604b2AURA_D2_TTNT_HK243_2025_05_31.docx"
+      }
+    ],
+    "work": "<p>CÔNG TY CỔ PHẦN THẨM MỸ VIỆN AURA</p>"
+  },
+  "683d1263bff0349643c604b4": {
+    "id": "683d1263bff0349643c604b4",
+    "shortname": "ITC soft",
+    "fullname": "Công ty TNHH Phần mềm ITC",
+    "isSponsor": false,
+    "image": "/img/company/683d1263bff0349643c604b4.png?t=71680104",
+    "level": 1,
+    "width": 512,
+    "height": 512,
+    "address": "Tầng 2, Tòa nhà IOS, 673 Điện Biên Phủ, Phường 25, Quận Bình Thạnh, Tp.Hồ Chí Minh",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683daa0ebff0349643c605e2",
+        "name": "ITCsoft_D2_TTNT_HK243_2025_05_31.docx",
+        "path": "/company/683d1263bff0349643c604b4ITCsoft_D2_TTNT_HK243_2025_05_31.docx"
+      }
+    ],
+    "work": "<p>Công ty TNHH Phần mềm ITC</p>"
   },
   "683d1264bff0349643c604b6": {
     "id": "683d1264bff0349643c604b6",
