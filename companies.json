@@ -112,6 +112,11 @@
         "_id": "6801bcac502455a6d3606a54",
         "name": "SRMC_VN_Sorimachi_VN_D2_TTNT_HK243.pdf",
         "path": "/company/5caef41902c2e72195b4ce9cSRMC_VN_Sorimachi_VN_D2_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "683d7bedbff0349643c60573",
+        "name": "SRMC_VN_D3_TTNT_HK243_2025_06_02.pdf",
+        "path": "/company/5caef41902c2e72195b4ce9cSRMC_VN_D3_TTNT_HK243_2025_06_02.pdf"
       }
     ],
     "work": "<p>Công ty TNHH Sorimachi Việt Nam (SRMC VN)</p>"
@@ -818,7 +823,7 @@
     "width": 512,
     "height": 331,
     "address": "TMA Tower, Đường số 2, Lô 17, Khu CNPM Quang Trung, P. Tân Chánh Hiệp, Q.12, TPHCM",
-    "studentRegister": 71,
+    "studentRegister": 73,
     "studentAccepted": 0,
     "maxRegister": 300,
     "maxAcceptedStudent": 100,
@@ -1021,7 +1026,7 @@
     "width": 512,
     "height": 206,
     "address": "Lầu 5, Tòa nhà B, Khu nhà xưởng Văn Phòng, Lô D.01, Đường Tân Thuận, Khu chế xuất Tân Thuận, Phường Tân Thuận Đông, Quận 7, TP. Hồ Chí Minh",
-    "studentRegister": 34,
+    "studentRegister": 33,
     "studentAccepted": 0,
     "maxRegister": 45,
     "maxAcceptedStudent": 15,
@@ -1264,7 +1269,7 @@
     "level": 1,
     "width": 512,
     "height": 512,
-    "address": "Dreamplex Nguyễn Trung Ngạn, tòa nhà Miss Áo Dài, 21 Nguyễn Trung Ngạn, quận 1, TP.HCM",
+    "address": "WeWork, tòa nhà ETown Central, 11 Đoàn Văn Bơ, quận 4, TP.HCM",
     "studentRegister": 0,
     "studentAccepted": 1,
     "maxRegister": 1,
@@ -1286,7 +1291,7 @@
         "path": "/company/62748bbabbe74fe7122fa52catWare_D2_TTNT_HK243.pdf"
       }
     ],
-    "work": "Công ty TNHH atWare Việt Nam"
+    "work": "<p>Công ty TNHH atWare Việt Nam</p>"
   },
   "628ef005bbe74fe7122fd281": {
     "id": "628ef005bbe74fe7122fd281",
@@ -2686,8 +2691,8 @@
     "address": "Số 6 Lê Lợi, P. Vĩnh Ninh, Q. Thuận Hóa, TP. Huế",
     "studentRegister": 0,
     "studentAccepted": 1,
-    "maxRegister": 1,
-    "maxAcceptedStudent": 1,
+    "maxRegister": 2,
+    "maxAcceptedStudent": 2,
     "adminMaxRegister": 10,
     "acceptedIntern": true,
     "subscribeAcceptedEmail": false,
@@ -2698,6 +2703,16 @@
         "_id": "6805bf2a502455a6d360713e",
         "name": "HueCIT_D2_TTNT_HK243.pdf",
         "path": "/company/680265d8502455a6d3606b7dHueCIT_D2_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "683d7d25bff0349643c60576",
+        "name": "HueCIT_D2_TTNT_HK43_2025_06_02.pdf",
+        "path": "/company/680265d8502455a6d3606b7dHueCIT_D2_TTNT_HK43_2025_06_02.pdf"
+      },
+      {
+        "_id": "683d7d2abff0349643c60579",
+        "name": "HueCIT_D3_TTNT_HK43_2025_06_02.pdf",
+        "path": "/company/680265d8502455a6d3606b7dHueCIT_D3_TTNT_HK43_2025_06_02.pdf"
       }
     ],
     "work": "<p>Trung tâm Công nghệ thông tin thành phố Huế (HueCIT)</p>"
@@ -4237,7 +4252,7 @@
     "width": 512,
     "height": 437,
     "address": "114-B1 Trường ĐH Bách Khoa, 268 Lý Thường Kiệt, P14, Q10, TPHCM; Phòng 105-106 BK.B6 Trường ĐH Bách Khoa, P. Đông Hòa, TP. Dĩ An, tỉnh Bình Dương",
-    "studentRegister": 35,
+    "studentRegister": 36,
     "studentAccepted": 0,
     "maxRegister": 45,
     "maxAcceptedStudent": 15,
@@ -5164,7 +5179,7 @@
     "width": 512,
     "height": 512,
     "address": "120 Phùng Tá Chu, Phường An Lạc A, Quận Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
-    "studentRegister": 11,
+    "studentRegister": 10,
     "studentAccepted": 0,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
