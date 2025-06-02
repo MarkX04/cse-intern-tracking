@@ -5344,6 +5344,90 @@
     ],
     "work": "<p>Công ty CP Digitallink Technology Solutions</p>"
   },
+  "683a5f22bff0349643c5fffe": {
+    "id": "683a5f22bff0349643c5fffe",
+    "shortname": "WD - WORLDON",
+    "fullname": "CÔNG TY TNHH WORLDON (VIỆT NAM)",
+    "isSponsor": false,
+    "image": "",
+    "level": 1,
+    "width": 0,
+    "height": 0,
+    "address": "Lô D1,Đường D4 ,Khu Công nghiệp Đông Nam, Xã Hoà Phú, Huyện Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683d8fe9bff0349643c605ac",
+        "name": "WD_WORLDON_D2_TTNT_HK243_2025_05_30.docx",
+        "path": "/company/683a5f22bff0349643c5fffeWD_WORLDON_D2_TTNT_HK243_2025_05_30.docx"
+      }
+    ],
+    "work": "<p>CÔNG TY TNHH WORLDON (VIỆT NAM)</p>"
+  },
+  "683a5f23bff0349643c60000": {
+    "id": "683a5f23bff0349643c60000",
+    "shortname": "Amazon",
+    "fullname": "Công ty TNHH Amazon Web Services Việt Nam",
+    "isSponsor": false,
+    "image": "/img/company/683a5f23bff0349643c60000.png?t=64829770",
+    "level": 1,
+    "width": 512,
+    "height": 512,
+    "address": "Tầng 36, Tòa nhà Bitexco Financial Tower, Số 2 đường Hải Triều, Phường Bến Nghé, Quận 1, TP. Hồ Chí Minh",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 2,
+    "maxAcceptedStudent": 2,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683d8f49bff0349643c605a9",
+        "name": "Amazon_D2_TTNT_HK243_2025_05_30.docx",
+        "path": "/company/683a5f23bff0349643c60000Amazon_D2_TTNT_HK243_2025_05_30.docx"
+      }
+    ],
+    "work": "<p>Công ty TNHH Amazon Web Services Việt Nam</p>"
+  },
+  "683a5f24bff0349643c60002": {
+    "id": "683a5f24bff0349643c60002",
+    "shortname": "WOKA",
+    "fullname": "Công ty CP WOKA Việt Nam",
+    "isSponsor": false,
+    "image": "/img/company/683a5f24bff0349643c60002.png?t=64705396",
+    "level": 1,
+    "width": 512,
+    "height": 127,
+    "address": "161/1-3 Cộng Hòa, P.12, Q. Tân Bình, TPHCM",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683d8ec9bff0349643c605a8",
+        "name": "WOKA_D2&3_TTNT_HK243_2025_05_30.pdf",
+        "path": "/company/683a5f24bff0349643c60002WOKA_D2&3_TTNT_HK243_2025_05_30.pdf"
+      }
+    ],
+    "work": "<p>Công ty CP WOKA Việt Nam</p>"
+  },
   "683a5f26bff0349643c60005": {
     "id": "683a5f26bff0349643c60005",
     "shortname": "FINT",
