@@ -815,7 +815,7 @@
   },
   "607057bd87e8b4bd3d4b51d0": {
     "id": "607057bd87e8b4bd3d4b51d0",
-    "shortname": "TMA - TPHCM",
+    "shortname": "TMA - HCM",
     "fullname": "Công ty TNHH Giải pháp Phần mềm Tường Minh  (TMA SOLUTIONS)",
     "isSponsor": false,
     "image": "/img/company/607057bd87e8b4bd3d4b51d0.jpeg?t=60361610",
@@ -823,7 +823,7 @@
     "width": 512,
     "height": 331,
     "address": "TMA Tower, Đường số 2, Lô 17, Khu CNPM Quang Trung, P. Tân Chánh Hiệp, Q.12, TPHCM",
-    "studentRegister": 73,
+    "studentRegister": 72,
     "studentAccepted": 0,
     "maxRegister": 300,
     "maxAcceptedStudent": 100,
@@ -837,6 +837,11 @@
         "_id": "6837c5c6bff0349643c5fb3e",
         "name": "TMA_HCM_D2_TTNT_HK243.docx",
         "path": "/company/607057bd87e8b4bd3d4b51d0TMA_HCM_D2_TTNT_HK243.docx"
+      },
+      {
+        "_id": "683d809cbff0349643c6057e",
+        "name": "TMA_HCM_D2_TTNT_HK243_2025_06_02.pdf",
+        "path": "/company/607057bd87e8b4bd3d4b51d0TMA_HCM_D2_TTNT_HK243_2025_06_02.pdf"
       }
     ],
     "work": "<p>Công ty TNHH Giải pháp Phần mềm Tường Minh &nbsp;(TMA SOLUTIONS)</p>"
@@ -1355,6 +1360,11 @@
         "_id": "67ebcfc1502455a6d3604459",
         "name": "VGS_D2_TTNT_HK243.pdf",
         "path": "/company/62a6ba53bbe74fe7122ffb61VGS_D2_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "683d8172bff0349643c60581",
+        "name": "VGS_D3_TTNT_HK243_2025_06_02.pdf",
+        "path": "/company/62a6ba53bbe74fe7122ffb61VGS_D3_TTNT_HK243_2025_06_02.pdf"
       }
     ],
     "work": "<p>CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ VGS</p>"
@@ -3983,7 +3993,7 @@
     "width": 512,
     "height": 518,
     "address": "168/6 Bùi Thị Xuân, P.3, Q. Tân Bình, TP.HCM",
-    "studentRegister": 8,
+    "studentRegister": 7,
     "studentAccepted": 2,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
