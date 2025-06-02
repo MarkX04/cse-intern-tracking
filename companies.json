@@ -5344,15 +5344,71 @@
     ],
     "work": "<p>Công ty CP Digitallink Technology Solutions</p>"
   },
+  "683a5f20bff0349643c5fffa": {
+    "id": "683a5f20bff0349643c5fffa",
+    "shortname": "PTCAD",
+    "fullname": "CÔNG TY TNHH CÔNG NGHỆ PTCAD",
+    "isSponsor": false,
+    "image": "/img/company/683a5f20bff0349643c5fffa.png?t=65364064",
+    "level": 1,
+    "width": 512,
+    "height": 180,
+    "address": "25/1 Đường số 38, Khu phố 8, Phường Hiệp Bình Chánh, Thành phố Thủ Đức, Thành phố Hồ Chí Minh",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683d9165bff0349643c605b0",
+        "name": "PTCAD_D2_TTNT_HK243_2025_05_30.docx",
+        "path": "/company/683a5f20bff0349643c5fffaPTCAD_D2_TTNT_HK243_2025_05_30.docx"
+      }
+    ],
+    "work": "<p>CÔNG TY TNHH CÔNG NGHỆ PTCAD</p>"
+  },
+  "683a5f21bff0349643c5fffc": {
+    "id": "683a5f21bff0349643c5fffc",
+    "shortname": "CNTT.CDKTCT",
+    "fullname": "Khoa Công nghệ thông tin - Trường Cao đẳng Kỹ Thuật Cao Thắng",
+    "isSponsor": false,
+    "image": "/img/company/683a5f21bff0349643c5fffc.png?t=65144894",
+    "level": 1,
+    "width": 512,
+    "height": 738,
+    "address": "65 Huỳnh Thúc Kháng, P.Bến Nghé, Q.1, Tp.HCM",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683d9087bff0349643c605ad",
+        "name": "CNTT.CDKTCT_D2&3_TTNT_HK243.docx",
+        "path": "/company/683a5f21bff0349643c5fffcCNTT.CDKTCT_D2&3_TTNT_HK243.docx"
+      }
+    ],
+    "work": "<p>Khoa Công nghệ thông tin - Trường Cao đẳng Kỹ Thuật Cao Thắng</p>"
+  },
   "683a5f22bff0349643c5fffe": {
     "id": "683a5f22bff0349643c5fffe",
     "shortname": "WD - WORLDON",
     "fullname": "CÔNG TY TNHH WORLDON (VIỆT NAM)",
     "isSponsor": false,
-    "image": "",
+    "image": "/img/company/683a5f22bff0349643c5fffe.png?t=65075379",
     "level": 1,
-    "width": 0,
-    "height": 0,
+    "width": 512,
+    "height": 521,
     "address": "Lô D1,Đường D4 ,Khu Công nghiệp Đông Nam, Xã Hoà Phú, Huyện Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
     "studentRegister": 0,
     "studentAccepted": 0,
