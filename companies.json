@@ -2039,6 +2039,34 @@
     ],
     "work": ""
   },
+  "66441403202e8257da007155": {
+    "id": "66441403202e8257da007155",
+    "shortname": "ADSUN - Ánh Dương",
+    "fullname": "Công ty CP Điện Tử Viễn Thông Ánh Dương (ADSUN JSC)",
+    "isSponsor": false,
+    "image": "/img/company/66441403202e8257da007155.png?t=38653492",
+    "level": 1,
+    "width": 512,
+    "height": 156,
+    "address": "CS2 của công ty, số 366/16C Lê Văn Quới, KP 23, P. Bình Hưng Hòa A, Q. Bình Tân, Tp. HCM (Phòng Nghiên Cứu)",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683d8e43bff0349643c605a5",
+        "name": "Adsun_D2_TTNT_HK243_2025_05_30.pdf",
+        "path": "/company/66441403202e8257da007155Adsun_D2_TTNT_HK243_2025_05_30.pdf"
+      }
+    ],
+    "work": "<p style=\"margin-left:0in; margin-right:0in\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri,sans-serif\"><strong>Y&ecirc;u cầu thực tập</strong>&nbsp;: <span style=\"color:#e74c3c\">Phần mềm quản l&yacute; Smart Home</span></span></span></p>\n\n<p style=\"margin-left:0in; margin-right:0in\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri,sans-serif\"><strong>Kỹ năng cần</strong>&nbsp;:</span></span></p>\n\n<ul>\n\t<li><span style=\"color:#2980b9\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri,sans-serif\">C#</span></span></span></li>\n\t<li><span style=\"color:#2980b9\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri,sans-serif\">.NET framework</span></span></span></li>\n\t<li><span style=\"color:#2980b9\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri,sans-serif\">.NET CORE framework</span></span></span></li>\n\t<li><span style=\"color:#2980b9\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri,sans-serif\">Cơ sở dữ liệu: Ms SQL</span></span></span></li>\n\t<li><span style=\"color:#2980b9\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri,sans-serif\">GIT</span></span></span></li>\n</ul>\n"
+  },
   "6657e01e24c9a126993b7c98": {
     "id": "6657e01e24c9a126993b7c98",
     "shortname": "BOS",
@@ -5315,6 +5343,90 @@
       }
     ],
     "work": "<p>Công ty CP Digitallink Technology Solutions</p>"
+  },
+  "683a5f26bff0349643c60005": {
+    "id": "683a5f26bff0349643c60005",
+    "shortname": "FINT",
+    "fullname": "Công ty Cổ phần FINT Việt Nam",
+    "isSponsor": false,
+    "image": "/img/company/683a5f26bff0349643c60005.png?t=64475129",
+    "level": 1,
+    "width": 512,
+    "height": 292,
+    "address": "Tầng 5, tòa D’Office, tổ 28 phố Thành Thái, Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683d8de6bff0349643c605a4",
+        "name": "FINT_D2_TTNT_HK243_2025_05_30.docx",
+        "path": "/company/683a5f26bff0349643c60005FINT_D2_TTNT_HK243_2025_05_30.docx"
+      }
+    ],
+    "work": "<p>Công ty Cổ phần FINT Việt Nam</p>"
+  },
+  "683a5f28bff0349643c60007": {
+    "id": "683a5f28bff0349643c60007",
+    "shortname": "BNK",
+    "fullname": "CÔNG TY CỔ PHẦN GIẢI PHÁP BNK",
+    "isSponsor": false,
+    "image": "/img/company/683a5f28bff0349643c60007.png?t=64376858",
+    "level": 1,
+    "width": 512,
+    "height": 127,
+    "address": "Tầng 1, Tòa nhà Thiên Sơn, 05 Nguyễn Gia Thiều, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "",
+    "internshipFiles": [
+      {
+        "_id": "683d8d84bff0349643c605a1",
+        "name": "BnK_D2&3_TTNT_HK243_2025_05_30.docx",
+        "path": "/company/683a5f28bff0349643c60007BnK_D2&3_TTNT_HK243_2025_05_30.docx"
+      }
+    ],
+    "work": "<p>CÔNG TY CỔ PHẦN GIẢI PHÁP BNK</p>"
+  },
+  "683a5f29bff0349643c60009": {
+    "id": "683a5f29bff0349643c60009",
+    "shortname": "ALCHERA",
+    "fullname": "Công ty TNHH ALCHERA Việt Nam",
+    "isSponsor": false,
+    "image": "/img/company/683a5f29bff0349643c60009.png?t=64261771",
+    "level": 1,
+    "width": 512,
+    "height": 479,
+    "address": "Tòa nhà văn phòng Qcoop Building ,150 Nguyễn Xí, Phường 26, Quận Bình Thạnh, TP.HCM",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683d8d10bff0349643c605a0",
+        "name": "ALCHERA_D2_TTNT_HK243_2025_05_30.docx",
+        "path": "/company/683a5f29bff0349643c60009ALCHERA_D2_TTNT_HK243_2025_05_30.docx"
+      }
+    ],
+    "work": "<p>Công ty TNHH ALCHERA Việt Nam</p>"
   },
   "683a5f2abff0349643c6000b": {
     "id": "683a5f2abff0349643c6000b",
