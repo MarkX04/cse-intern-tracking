@@ -5634,7 +5634,7 @@
     "width": 512,
     "height": 292,
     "address": "Tầng 5, tòa D’Office, tổ 28 phố Thành Thái, Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội",
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
