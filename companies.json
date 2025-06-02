@@ -903,6 +903,11 @@
         "_id": "683575e45d905d4f0dba650a",
         "name": "BV_D3_TTNT_HK243.pdf",
         "path": "/company/6078e9a9ee96ff021b97a21fBV_D3_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "683d7322bff0349643c60561",
+        "name": "BV_D3_TTNT_HK243_2025_06_02.pdf",
+        "path": "/company/6078e9a9ee96ff021b97a21fBV_D3_TTNT_HK243_2025_06_02.pdf"
       }
     ],
     "work": "<p style=\"margin-left:24px;text-align:justify;\">Được thành lập từ 2010, đến nay Bản Viên đã trở thành Đối tác Công nghệ uy tín hàng đầu trong lĩnh vực phát triển phần mềm và hệ thống nhúng (Software Development &amp; Embedded System Development) mang tầm ảnh hưởng trong nước và quốc tế.&nbsp;</p><p style=\"margin-left:24px;text-align:justify;\"><span style=\"color:windowtext;\">Bản Viên không ngừng đổi mới sáng tạo trong nhiều lĩnh vực như Công nghệ giáo dục (Edutech), Công nghệ tài chính (Fintech), Bán lẻ, Ô tô, IoT thông minh và Logistics. Các dịch vụ toàn diện bao gồm Tư vấn chuyển đổi số, Phát triển phần mềm theo yêu cầu, Trung tâm phát triển chuyên biệt và Dịch vụ kiểm thử phần mềm. Quá trình mở rộng toàn cầu của Bản Viên bao gồm các khách hàng và đối tác chiến lược tại Hoa Kỳ, Đức, Nhật Bản, Singapore, Trung Quốc, Hồng Kông, Thái Lan, Malaysia và Việt Nam.&nbsp;</span></p><p style=\"margin-left:24px;text-align:justify;\"><span style=\"color:windowtext;\">Với tầm nhìn “Trao quyền thành công bằng các giải pháp CNTT hàng đầu toàn cầu”, Bản Viên không ngừng phát triển với đội ngũ hơn 600 nhân tài, cùng nhau xây dựng dựa trên các giá trị cốt lõi: Tin tưởng, Hợp tác, Cam kết, Đa dạng, Chính trực và Phát triển. Những nguyên tắc này chính là động lực thúc đẩy đổi mới sáng tạo, xây dựng quan hệ đối tác lâu dài và tạo nên một văn hóa doanh nghiệp năng động.&nbsp;</span></p><p style=\"margin-left:24px;text-align:justify;\"><span style=\"background-color:rgb(255,255,255);color:rgb(8,8,9);\">Ứng tuyển ngay tại đây: </span><a href=\"https://career.banvien.com/internship-program?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExMHR3WGJrMFVudTNoRW9EeAEeu0fqObxKGUywTxtJuKBGysakrew8RiiLALWLddTrkmLsZcRN6ZFH9-UGe8Q_aem_PEVzqdgcmbp9OBVAs-IJ4g\"><span style=\"background-color:rgb(255,255,255);color:rgb(8,8,9);\"><strong>https://career.banvien.com/internship-program</strong></span></a><span style=\"background-color:rgb(255,255,255);color:rgb(8,8,9);\">&nbsp;</span></p><p>&nbsp;</p>"
@@ -5004,8 +5009,8 @@
     "width": 512,
     "height": 512,
     "address": "28/61 đường số 2 Cư Xá Lữ Gia, Phường 15, Quận 11, TP.HCM, Việt Nam",
-    "studentRegister": 1,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 1,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
     "adminMaxRegister": 10,
@@ -5201,6 +5206,11 @@
         "_id": "68399029bff0349643c5fe81",
         "name": "CL_D2_TTNT_HK243.docx",
         "path": "/company/68398e23bff0349643c5fe78CL_D2_TTNT_HK243.docx"
+      },
+      {
+        "_id": "683d73fabff0349643c60565",
+        "name": "CL_D2_TTNT_HK243_2025_06_02.pdf",
+        "path": "/company/68398e23bff0349643c5fe78CL_D2_TTNT_HK243_2025_06_02.pdf"
       }
     ],
     "work": "<p>Công ty TNHH Codelight</p>"
