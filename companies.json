@@ -42,7 +42,7 @@
     "width": 512,
     "height": 512,
     "address": "149-151 Nguyễn Văn Trỗi, P.11, Q. Phú Nhuận, TP.HCM",
-    "studentRegister": 28,
+    "studentRegister": 29,
     "studentAccepted": 0,
     "maxRegister": 39,
     "maxAcceptedStudent": 13,
@@ -1610,6 +1610,34 @@
     ],
     "work": "IT"
   },
+  "64530d08e7ad7cc2b72339de": {
+    "id": "64530d08e7ad7cc2b72339de",
+    "shortname": "Viettel Group",
+    "fullname": "Tập đoàn Công nghiệp - Viễn thông Quân đội (Viettel Group)",
+    "isSponsor": false,
+    "image": "/img/company/64530d08e7ad7cc2b72339de.png?t=56722130",
+    "level": 1,
+    "width": 512,
+    "height": 96,
+    "address": "Tòa N06, hẻm 158 Hoàng Hoa Thám, Q. Tân Bình, TPHCM",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 9,
+    "maxAcceptedStudent": 9,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683d86f5bff0349643c6058e",
+        "name": "Viettel_D2&3_TTNT_HK243_2025_05_30.pdf",
+        "path": "/company/64530d08e7ad7cc2b72339deViettel_D2&3_TTNT_HK243_2025_05_30.pdf"
+      }
+    ],
+    "work": "Viễn thông, CNTT, ATTT, Nghiên cứu phát triển sản phẩm, Fintech, Semiconductor...."
+  },
   "64545ff2e7ad7cc2b7233c34": {
     "id": "64545ff2e7ad7cc2b7233c34",
     "shortname": "TECHLAB",
@@ -1760,7 +1788,7 @@
   "648c1293e6dfc5e17fdb5600": {
     "id": "648c1293e6dfc5e17fdb5600",
     "shortname": "Bosch 4",
-    "fullname": "Bosch 4 - CÔNG TY TNHH ROBERT BOSCH ENGINEERING AND BUSINESS SOLUTIONS VIỆT NAM",
+    "fullname": "Bosch  - CÔNG TY TNHH ROBERT BOSCH ENGINEERING AND BUSINESS SOLUTIONS VIỆT NAM",
     "isSponsor": false,
     "image": "/img/company/648c1293e6dfc5e17fdb5600.png?t=01531277",
     "level": 1,
@@ -1793,7 +1821,7 @@
         "path": "/company/648c1293e6dfc5e17fdb5600Bosch_4_D2_TTNT_HK243_2025_06_02.pdf"
       }
     ],
-    "work": "[Bosch 4] CÔNG TY TNHH ROBERT BOSCH ENGINEERING AND BUSINESS SOLUTIONS VIỆT NAM"
+    "work": "<p>[Bosch] CÔNG TY TNHH ROBERT BOSCH ENGINEERING AND BUSINESS SOLUTIONS VIỆT NAM</p>"
   },
   "648fbcece6dfc5e17fdb5c45": {
     "id": "648fbcece6dfc5e17fdb5c45",
@@ -2558,9 +2586,14 @@
         "_id": "67ff28b6502455a6d36065da",
         "name": "CARE_D2_TTNT_HK243.pdf",
         "path": "/company/67fd176e502455a6d3606243CARE_D2_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "683d88fcbff0349643c60594",
+        "name": "CARE_D3_TTNT_HK243_2025_06_02.pdf",
+        "path": "/company/67fd176e502455a6d3606243CARE_D3_TTNT_HK243_2025_06_02.pdf"
       }
     ],
-    "work": ""
+    "work": "<p>Phòng thí nghiệm nghiên cứu về nước khu vực châu Á (CARE)</p>"
   },
   "67ff0dea502455a6d36065a0": {
     "id": "67ff0dea502455a6d36065a0",
@@ -4639,6 +4672,11 @@
         "_id": "68356aa25d905d4f0dba64ed",
         "name": "Appvity_D2&3_TTNT_HK243.docx",
         "path": "/company/68355d6a5d905d4f0dba64c9Appvity_D2&3_TTNT_HK243.docx"
+      },
+      {
+        "_id": "683d899ebff0349643c60595",
+        "name": "Appvity_D2&3_TTNT_HK243_2025_06_02.pdf",
+        "path": "/company/68355d6a5d905d4f0dba64c9Appvity_D2&3_TTNT_HK243_2025_06_02.pdf"
       }
     ],
     "work": "<p>A ONE MEMBER APPVITY SYSTEM VIET NAM COMPANY LIMITED</p>"
