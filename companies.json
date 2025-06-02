@@ -704,6 +704,34 @@
     ],
     "work": "<p>Game Development (Product)</p>"
   },
+  "5ef2bf9819aee6cac7d136c2": {
+    "id": "5ef2bf9819aee6cac7d136c2",
+    "shortname": "TV - Trí Việt",
+    "fullname": "CÔNG TY CP DỊCH VỤ CÔNG NGHỆ THÔNG TIN TRÍ VIỆT",
+    "isSponsor": false,
+    "image": "/img/company/5ef2bf9819aee6cac7d136c2.png?t=67462730",
+    "level": 1,
+    "width": 512,
+    "height": 512,
+    "address": "19 Bà Huyện Thanh Quan, Phường Võ Thị Sáu, Quận 3, Tp. Hồ Chí Minh",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683d9285bff0349643c605b5",
+        "name": "TV_TriViet_D2_TTNT_HK243_2025_05_30.docx",
+        "path": "/company/5ef2bf9819aee6cac7d136c2TV_TriViet_D2_TTNT_HK243_2025_05_30.docx"
+      }
+    ],
+    "work": "Phát triển sản phẩm, dự án phần mềm"
+  },
   "606b081987e8b4bd3d4b4800": {
     "id": "606b081987e8b4bd3d4b4800",
     "shortname": "HS - Holistics Software",
@@ -823,7 +851,7 @@
     "width": 512,
     "height": 331,
     "address": "TMA Tower, Đường số 2, Lô 17, Khu CNPM Quang Trung, P. Tân Chánh Hiệp, Q.12, TPHCM",
-    "studentRegister": 71,
+    "studentRegister": 72,
     "studentAccepted": 0,
     "maxRegister": 300,
     "maxAcceptedStudent": 100,
@@ -856,7 +884,7 @@
     "width": 512,
     "height": 590,
     "address": "12/1 Nguyễn Thị Minh Khai, P. Đa Kao, Quận 1, TP.HCM",
-    "studentRegister": 12,
+    "studentRegister": 11,
     "studentAccepted": 17,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -965,7 +993,7 @@
     "width": 512,
     "height": 307,
     "address": "Sài Gòn Villas Hill, 99 Lê Văn Việt, P. Tăng Phú Nhơn A, TP. Thủ Đức, TP. Hồ Chí Minh, Việt Nam",
-    "studentRegister": 16,
+    "studentRegister": 17,
     "studentAccepted": 2,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
@@ -1516,7 +1544,7 @@
     "width": 512,
     "height": 512,
     "address": "Tầng 3, Tòa nhà Vina Giầy, 180-182 Lý Chính Thắng, P.9, Q.3, TP.HCM",
-    "studentRegister": 5,
+    "studentRegister": 6,
     "studentAccepted": 20,
     "maxRegister": 90,
     "maxAcceptedStudent": 30,
@@ -1955,7 +1983,7 @@
     "width": 512,
     "height": 216,
     "address": "Tầng 11, tòa nhà Vina, 131 Xô Viết Nghệ Tĩnh, Phường 17, Quận Bình Thạnh, TP. Hồ Chí Minh",
-    "studentRegister": 21,
+    "studentRegister": 22,
     "studentAccepted": 0,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
@@ -2193,6 +2221,34 @@
       }
     ],
     "work": ""
+  },
+  "666b97ddf5911d0a68b8109c": {
+    "id": "666b97ddf5911d0a68b8109c",
+    "shortname": "TB - TepBac - Tép Bạc",
+    "fullname": "Công ty Cổ phần Tép Bạc",
+    "isSponsor": false,
+    "image": "/img/company/666b97ddf5911d0a68b8109c.png?t=61060552",
+    "level": 1,
+    "width": 512,
+    "height": 512,
+    "address": "35 Nguyễn Thông. P. Võ Thị Sáu, Q.3, TP.HCM",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p><p><span style=\"color:#c0392b;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, email cho DN nữa.</strong></span></p><p><span style=\"color:#c0392b;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập, SV bấm đăng ký, DN bấm accept thỉ kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683d9224bff0349643c605b2",
+        "name": "TB_D2_TTNT_HK243_2025_05_30.docx",
+        "path": "/company/666b97ddf5911d0a68b8109cTB_D2_TTNT_HK243_2025_05_30.docx"
+      }
+    ],
+    "work": "<p>T&eacute;p Bạc được biết đến l&agrave; k&ecirc;nh th&ocirc;ng tin thủy sản h&agrave;ng đầu Việt Nam. Với mục ti&ecirc;u mang đến th&ocirc;ng tin nhanh v&agrave; ch&iacute;nh x&aacute;c để th&uacute;c đẩy ng&agrave;nh thủy sản ph&aacute;t triển bền vững. Hoạt động hiện tại của ch&uacute;ng t&ocirc;i hiện tại gồm truyền th&ocirc;ng thủy sản, nền tảng quản l&yacute; trại nu&ocirc;i thủy sản, ph&aacute;t triển thiết bị tự động trong ao nu&ocirc;i.</p>\n"
   },
   "666b97def5911d0a68b8109e": {
     "id": "666b97def5911d0a68b8109e",
@@ -3059,7 +3115,7 @@
     "width": 512,
     "height": 512,
     "address": "Tầng 6 Tòa nhà VCN Tower, số 2 Đường Tố Hữu, Phường Phước Hải, Thành  phố Nha Trang, Tỉnh Khánh Hòa",
-    "studentRegister": 4,
+    "studentRegister": 3,
     "studentAccepted": 14,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -5344,6 +5400,90 @@
     ],
     "work": "<p>Công ty CP Digitallink Technology Solutions</p>"
   },
+  "683a5f1abff0349643c5ffef": {
+    "id": "683a5f1abff0349643c5ffef",
+    "shortname": "iTechwx",
+    "fullname": "ITECHWX COMPANY LIMITED",
+    "isSponsor": false,
+    "image": "/img/company/683a5f1abff0349643c5ffef.png?t=65983984",
+    "level": 1,
+    "width": 512,
+    "height": 395,
+    "address": "Tòa nhà VISTA, 19 đường Tân cảng, quận Bình Thạnh, thành phố HCM",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683d93ccbff0349643c605b9",
+        "name": "Itechwx_D2_TTNT_HK243_2025_05_30.docx",
+        "path": "/company/683a5f1abff0349643c5ffefItechwx_D2_TTNT_HK243_2025_05_30.docx"
+      }
+    ],
+    "work": "<p>ITECHWX COMPANY LIMITED</p>"
+  },
+  "683a5f1bbff0349643c5fff1": {
+    "id": "683a5f1bbff0349643c5fff1",
+    "shortname": "CBS - Cybersoft",
+    "fullname": "CÔNG TY TNHH LẬP TRÌNH & CÔNG NGHỆ CYBERSOFT",
+    "isSponsor": false,
+    "image": "/img/company/683a5f1bbff0349643c5fff1.png?t=65838340",
+    "level": 1,
+    "width": 512,
+    "height": 154,
+    "address": "Tầng 5, tòa nhà Suri, 112 Cao Thắng, Phường 4, Quận 3, Thành phố Hồ Chí Minh",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683d9301bff0349643c605b6",
+        "name": "CBS_Cybersoft_D2_TTNT_HK243_2025_05_30.docx",
+        "path": "/company/683a5f1bbff0349643c5fff1CBS_Cybersoft_D2_TTNT_HK243_2025_05_30.docx"
+      }
+    ],
+    "work": "<p>CÔNG TY TNHH LẬP TRÌNH &amp; CÔNG NGHỆ CYBERSOFT</p>"
+  },
+  "683a5f1ebff0349643c5fff8": {
+    "id": "683a5f1ebff0349643c5fff8",
+    "shortname": "BM - BLOOM MEDIA",
+    "fullname": "CÔNG TY TNHH BLOOM MEDIA",
+    "isSponsor": false,
+    "image": "/img/company/683a5f1ebff0349643c5fff8.png?t=65481995",
+    "level": 1,
+    "width": 512,
+    "height": 512,
+    "address": "Số 9, Đường D, Khu đô thị Lakeview, Phường An Phú, Thành phố Thủ Đức, Thành phố Hồ Chí Minh",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "",
+    "internshipFiles": [
+      {
+        "_id": "683d91d3bff0349643c605b1",
+        "name": "BM_D2_TTNT_HK243_2025_05_30.docx",
+        "path": "/company/683a5f1ebff0349643c5fff8BM_D2_TTNT_HK243_2025_05_30.docx"
+      }
+    ],
+    "work": "<p>CÔNG TY TNHH BLOOM MEDIA</p>"
+  },
   "683a5f20bff0349643c5fffa": {
     "id": "683a5f20bff0349643c5fffa",
     "shortname": "PTCAD",
@@ -5639,7 +5779,7 @@
     "width": 512,
     "height": 406,
     "address": "279 Tây Thạnh, Phường Tây Thạnh, Quận Tân Phú, Tp. Hồ Chí Min",
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0,
     "maxRegister": 36,
     "maxAcceptedStudent": 12,
