@@ -648,7 +648,7 @@
     "width": 512,
     "height": 258,
     "address": "Viettel Tower, 285 đường Cách mạng tháng 8, phường 12, quận 10, TP HCM",
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
@@ -728,6 +728,11 @@
         "_id": "683d9285bff0349643c605b5",
         "name": "TV_TriViet_D2_TTNT_HK243_2025_05_30.docx",
         "path": "/company/5ef2bf9819aee6cac7d136c2TV_TriViet_D2_TTNT_HK243_2025_05_30.docx"
+      },
+      {
+        "_id": "683ea773bff0349643c6079d",
+        "name": "TV_TriViet_D2_TTNT_HK243_2025_06_03.pdf",
+        "path": "/company/5ef2bf9819aee6cac7d136c2TV_TriViet_D2_TTNT_HK243_2025_06_03.pdf"
       }
     ],
     "work": "Phát triển sản phẩm, dự án phần mềm"
@@ -1648,7 +1653,7 @@
     "width": 512,
     "height": 96,
     "address": "Viettel Complex Building 285 Cách Mạng Tháng Tám, Phường 12, Quận 10, TP Hồ Chí Minh",
-    "studentRegister": 1,
+    "studentRegister": 3,
     "studentAccepted": 5,
     "maxRegister": 9,
     "maxAcceptedStudent": 9,
@@ -3970,8 +3975,8 @@
     "width": 512,
     "height": 287,
     "address": "26 Nguyễn Đình Khơi, Phường 4, Quận Tân Bình, Thành phố Hồ Chí Minh",
-    "studentRegister": 7,
-    "studentAccepted": 6,
+    "studentRegister": 6,
+    "studentAccepted": 7,
     "maxRegister": 27,
     "maxAcceptedStudent": 9,
     "adminMaxRegister": 10,
