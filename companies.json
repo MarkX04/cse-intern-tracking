@@ -714,7 +714,7 @@
     "width": 512,
     "height": 512,
     "address": "19 Bà Huyện Thanh Quan, Phường Võ Thị Sáu, Quận 3, Tp. Hồ Chí Minh",
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
