@@ -521,7 +521,7 @@
     "width": 512,
     "height": 152,
     "address": "27B/9 Nguyễn Đình Chiểu, P. Đa Kao, Q1, TPHCM",
-    "studentRegister": 39,
+    "studentRegister": 38,
     "studentAccepted": 0,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -2364,7 +2364,7 @@
     "width": 512,
     "height": 107,
     "address": "The Manor Officetel, Nguyễn Hữu Cảnh, P.22, Quận Bình Thạnh, Thành phố Hồ Chí Minh",
-    "studentRegister": 21,
+    "studentRegister": 20,
     "studentAccepted": 2,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
@@ -2610,7 +2610,7 @@
   },
   "67f7ad2d502455a6d36058f0": {
     "id": "67f7ad2d502455a6d36058f0",
-    "shortname": "DayOne",
+    "shortname": "DO - DayOne",
     "fullname": "Công ty TNHH Công Nghệ Phần Mềm DayOne",
     "isSponsor": false,
     "image": "/img/company/67f7ad2d502455a6d36058f0.png?t=85022197",
@@ -2637,6 +2637,11 @@
         "_id": "68086340502455a6d36075da",
         "name": "DO_DAYONE_D2_TTNT_HK243.pdf",
         "path": "/company/67f7ad2d502455a6d36058f0DO_DAYONE_D2_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "683e98dfbff0349643c60782",
+        "name": "DO_DayOne_D3_TTNT_HK243_2025_06_03.pdf",
+        "path": "/company/67f7ad2d502455a6d36058f0DO_DayOne_D3_TTNT_HK243_2025_06_03.pdf"
       }
     ],
     "work": ""
