@@ -820,8 +820,8 @@
     "address": "25/1 Cữu Long, Phường 2, Quận Tân Bình TP. Hồ Chí Minh",
     "studentRegister": 0,
     "studentAccepted": 1,
-    "maxRegister": 1,
-    "maxAcceptedStudent": 1,
+    "maxRegister": 2,
+    "maxAcceptedStudent": 2,
     "adminMaxRegister": 10,
     "acceptedIntern": true,
     "subscribeAcceptedEmail": true,
@@ -842,6 +842,11 @@
         "_id": "6837cd97bff0349643c5fb4b",
         "name": "AIPower_D3_TTNT_HK243.pdf",
         "path": "/company/606d0b0087e8b4bd3d4b4b90AIPower_D3_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "683eb61ebff0349643c607b9",
+        "name": "AIPower_D3_TTNT_HK243_2025_06_03.pdf",
+        "path": "/company/606d0b0087e8b4bd3d4b4b90AIPower_D3_TTNT_HK243_2025_06_03.pdf"
       }
     ],
     "work": "<p>Web, App, AI</p>"
@@ -889,7 +894,7 @@
     "width": 512,
     "height": 590,
     "address": "12/1 Nguyễn Thị Minh Khai, P. Đa Kao, Quận 1, TP.HCM",
-    "studentRegister": 10,
+    "studentRegister": 11,
     "studentAccepted": 17,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -1757,7 +1762,7 @@
     "width": 512,
     "height": 196,
     "address": "163/14/12 Tô Hiến Thành phường 13, quận 10",
-    "studentRegister": 9,
+    "studentRegister": 10,
     "studentAccepted": 4,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
@@ -3229,7 +3234,7 @@
     "width": 512,
     "height": 119,
     "address": "Số 10 Phổ Quang, Phường 2, Tân Bình, TP. Hồ Chí Minh",
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 4,
     "maxRegister": 18,
     "maxAcceptedStudent": 6,
