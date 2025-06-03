@@ -648,7 +648,7 @@
     "width": 512,
     "height": 258,
     "address": "Viettel Tower, 285 đường Cách mạng tháng 8, phường 12, quận 10, TP HCM",
-    "studentRegister": 1,
+    "studentRegister": 0,
     "studentAccepted": 0,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
@@ -1096,9 +1096,9 @@
     "level": 1,
     "width": 512,
     "height": 128,
-    "address": "34/31 Cư xá Lữ Gia, P.15, Q.11, TP.HCM",
-    "studentRegister": 13,
-    "studentAccepted": 0,
+    "address": "39 Cư xá Lữ Gia, P.15, Q.11, TP.HCM",
+    "studentRegister": 0,
+    "studentAccepted": 13,
     "maxRegister": 13,
     "maxAcceptedStudent": 13,
     "adminMaxRegister": 10,
@@ -1118,7 +1118,7 @@
         "path": "/company/60823ef7ee96ff021b97b224ABC_D2&3_TTNT_HK243.pdf"
       }
     ],
-    "work": "Công ty TNHH Thương mại Dịch vụ Sản xuât ABC Solutions"
+    "work": "<p>Công ty TNHH Thương mại Dịch vụ Sản xuât ABC Solutions</p>"
   },
   "60a4791aee96ff021b97ecdc": {
     "id": "60a4791aee96ff021b97ecdc",
@@ -1653,8 +1653,8 @@
     "width": 512,
     "height": 96,
     "address": "Viettel Complex Building 285 Cách Mạng Tháng Tám, Phường 12, Quận 10, TP Hồ Chí Minh",
-    "studentRegister": 3,
-    "studentAccepted": 5,
+    "studentRegister": 0,
+    "studentAccepted": 8,
     "maxRegister": 9,
     "maxAcceptedStudent": 9,
     "adminMaxRegister": 10,
