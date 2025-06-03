@@ -615,7 +615,7 @@
     "width": 512,
     "height": 512,
     "address": "1B Trengganu Street, Singapore (058455)",
-    "studentRegister": 7,
+    "studentRegister": 9,
     "studentAccepted": 9,
     "maxRegister": 36,
     "maxAcceptedStudent": 12,
@@ -1752,7 +1752,7 @@
     "width": 512,
     "height": 196,
     "address": "163/14/12 Tô Hiến Thành phường 13, quận 10",
-    "studentRegister": 8,
+    "studentRegister": 9,
     "studentAccepted": 3,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
@@ -4179,7 +4179,7 @@
         "path": "/company/682c73f55d905d4f0dba552cBO_D3_TTNT_HK243.pdf"
       }
     ],
-    "work": ""
+    "work": "<p>Công ty TNHH Công nghệ &amp; Dịch vụ BeOne</p>"
   },
   "682c73f75d905d4f0dba552e": {
     "id": "682c73f75d905d4f0dba552e",
@@ -5067,7 +5067,7 @@
     "width": 512,
     "height": 146,
     "address": "107/15 Trương Định, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh",
-    "studentRegister": 2,
+    "studentRegister": 1,
     "studentAccepted": 1,
     "maxRegister": 6,
     "maxAcceptedStudent": 2,
@@ -5718,7 +5718,7 @@
     "width": 512,
     "height": 391,
     "address": "232/6 Cộng Hòa, P.12, Q. Tân Bình, TPHCM",
-    "studentRegister": 4,
+    "studentRegister": 5,
     "studentAccepted": 0,
     "maxRegister": 27,
     "maxAcceptedStudent": 9,
@@ -5880,5 +5880,33 @@
       }
     ],
     "work": "<p>Infinite Software Company Limited</p>"
+  },
+  "683e4c63bff0349643c606f9": {
+    "id": "683e4c63bff0349643c606f9",
+    "shortname": "PL - PHYGITAL LABS",
+    "fullname": "CÔNG TY CỔ PHẦN PHYGITAL LABS",
+    "isSponsor": false,
+    "image": "/img/company/683e4c63bff0349643c606f9.png?t=13326857",
+    "level": 1,
+    "width": 512,
+    "height": 48,
+    "address": "Phòng 1901, Tòa nhà Saigon Trade Center, Số 37 Tôn Đức Thắng, Phường Bến Nghé, Quận 1, TP. Hồ Chí Minh",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683e4cbdbff0349643c606fd",
+        "name": "PL_PhygitalLabs_D2_TTNT_HK243_2025_06_02.docx",
+        "path": "/company/683e4c63bff0349643c606f9PL_PhygitalLabs_D2_TTNT_HK243_2025_06_02.docx"
+      }
+    ],
+    "work": "<p>CÔNG TY CỔ PHẦN PHYGITAL LABS</p>"
   }
 }
