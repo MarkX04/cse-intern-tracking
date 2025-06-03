@@ -1658,7 +1658,7 @@
     "width": 512,
     "height": 96,
     "address": "Viettel Complex Building 285 Cách Mạng Tháng Tám, Phường 12, Quận 10, TP Hồ Chí Minh",
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 8,
     "maxRegister": 9,
     "maxAcceptedStudent": 9,
