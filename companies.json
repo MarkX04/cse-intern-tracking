@@ -521,7 +521,7 @@
     "width": 512,
     "height": 152,
     "address": "27B/9 Nguyễn Đình Chiểu, P. Đa Kao, Q1, TPHCM",
-    "studentRegister": 34,
+    "studentRegister": 33,
     "studentAccepted": 0,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -2601,6 +2601,11 @@
         "_id": "67f4ed61502455a6d3605420",
         "name": "Datalogic_D2_TTNT_HK243.pdf",
         "path": "/company/67efcc43502455a6d3604b47Datalogic_D2_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "683ff6a4bff0349643c609ff",
+        "name": "Datalogic_D3_TTNT_HK243.pdf",
+        "path": "/company/67efcc43502455a6d3604b47Datalogic_D3_TTNT_HK243.pdf"
       }
     ],
     "work": ""
