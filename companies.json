@@ -5600,7 +5600,7 @@
     "width": 512,
     "height": 512,
     "address": "Số 9, Đường D, Khu đô thị Lakeview, Phường An Phú, Thành phố Thủ Đức, Thành phố Hồ Chí Minh",
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
