@@ -28068,5 +28068,12 @@
     "maxRegister": 210,
     "maxAcceptedStudent": 73,
     "timestamp": 1749013846
+  },
+  {
+    "studentRegister": 6,
+    "studentAccepted": 73,
+    "maxRegister": 210,
+    "maxAcceptedStudent": 73,
+    "timestamp": 1749015207
   }
 ]
