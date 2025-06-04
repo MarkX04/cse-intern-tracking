@@ -42,7 +42,7 @@
     "width": 512,
     "height": 512,
     "address": "149-151 Nguyễn Văn Trỗi, P.11, Q. Phú Nhuận, TP.HCM",
-    "studentRegister": 30,
+    "studentRegister": 31,
     "studentAccepted": 0,
     "maxRegister": 39,
     "maxAcceptedStudent": 13,
@@ -296,8 +296,8 @@
     "width": 512,
     "height": 512,
     "address": "Lô T2, Đường D1 Khu Công nghệ Cao, P. Tân Phú, TP. Thủ Đức",
-    "studentRegister": 5,
-    "studentAccepted": 72,
+    "studentRegister": 7,
+    "studentAccepted": 73,
     "maxRegister": 210,
     "maxAcceptedStudent": 73,
     "adminMaxRegister": 10,
@@ -894,7 +894,7 @@
     "width": 512,
     "height": 590,
     "address": "12/1 Nguyễn Thị Minh Khai, P. Đa Kao, Quận 1, TP.HCM",
-    "studentRegister": 11,
+    "studentRegister": 12,
     "studentAccepted": 17,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -1134,9 +1134,9 @@
     "level": 1,
     "width": 512,
     "height": 179,
-    "address": "4th floor, IMC building, 62 Tran Quang Khai, Dist.1, Ho Chi Minh City",
+    "address": "34th floor, Lim Tower, 9-11 Ton Duc Thang, Dist.1, Ho Chi Minh City",
     "studentRegister": 0,
-    "studentAccepted": 0,
+    "studentAccepted": 1,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
     "adminMaxRegister": 10,
@@ -1468,6 +1468,34 @@
     ],
     "work": "<p>CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ VGS</p>"
   },
+  "6434b369e7ad7cc2b7230504": {
+    "id": "6434b369e7ad7cc2b7230504",
+    "shortname": "SNS - Synopsys",
+    "fullname": "Công ty TNHH Synopsys Viet Nam",
+    "isSponsor": false,
+    "image": "/img/company/6434b369e7ad7cc2b7230504.png?t=75608985",
+    "level": 1,
+    "width": 512,
+    "height": 109,
+    "address": "Trung Tâm Đào Tạo Khu Công Nghệ Cao, 930 Xa Lộ Hà Nội, phường Hiệp Phú, Thủ Đức",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 5,
+    "maxAcceptedStudent": 5,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CE).</strong></span></p><p><span style=\"color:#c0392b;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, email cho DN nữa.</strong></span></p><p><span style=\"color:#c0392b;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập, SV bấm đăng ký, DN bấm accept thỉ kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683fa534bff0349643c6096a",
+        "name": "SNS_Synopsys_D2_TTNT_HK243_2025_06_03.pdf",
+        "path": "/company/6434b369e7ad7cc2b7230504SNS_Synopsys_D2_TTNT_HK243_2025_06_03.pdf"
+      }
+    ],
+    "work": "<p>Công ty TNHH Synopsys Viet Nam</p>"
+  },
   "643a13bae7ad7cc2b7230e76": {
     "id": "643a13bae7ad7cc2b7230e76",
     "shortname": "VIEROBOT",
@@ -1511,8 +1539,8 @@
     "width": 512,
     "height": 433,
     "address": "Tòa nhà FPT Tân Thuận 2 (Lô L29B-31B-33B, Đường Tân Thuận, KCX Tân Thuận, Quận 7, Tp.HCM)",
-    "studentRegister": 2,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 2,
     "maxRegister": 2,
     "maxAcceptedStudent": 2,
     "adminMaxRegister": 10,
@@ -1525,6 +1553,11 @@
         "_id": "68399500bff0349643c5fe91",
         "name": "FPT_Telecom_D2&3_TTNT_HK243.docx",
         "path": "/company/643df297e7ad7cc2b7231520FPT_Telecom_D2&3_TTNT_HK243.docx"
+      },
+      {
+        "_id": "683fad48bff0349643c6097a",
+        "name": "FPT_Telecom_D2&3_TTNT_HK243_2025_06_04.pdf",
+        "path": "/company/643df297e7ad7cc2b7231520FPT_Telecom_D2&3_TTNT_HK243_2025_06_04.pdf"
       }
     ],
     "work": "Là thành viên thuộc Tập đoàn công nghệ hàng đầu Việt Nam FPT\nCông ty Cổ phần Viễn thông FPT (tên gọi tắt là FPT Telecom) hiện là một trong những nhà cung cấp dịch vụ Viễn thông và Internet hàng đầu khu vực.\nThành lập ngày 31/01/1997, khởi nguồn từ Trung tâm Dịch vụ Trực tuyến do 4 thành viên sáng lập cùng sản phẩm mạng Intranet đầu tiên của Việt Nam mang tên “Trí tuệ Việt Nam – TTVN”, sản phẩm được coi là đặt nền móng cho sự phát triển của Internet tại Việt Nam.\nVới sứ mệnh tiên phong mang Internet, mang kết nối đến với người dân Việt Nam cùng mong muốn lớn lao mỗi gia đình Việt Nam đều sử dụng ít nhất một dịch vụ của Công ty, FPT Telecom đang nỗ lực thực thi Chiến lược “Mang đến trải nghiệm tuyệt vời cho khách hàng” trên cơ sở phát huy giá trị văn hóa cốt lõi “Lấy khách hàng làm trọng tâm” và nền tảng sức mạnh công nghệ FPT, từ đó tiên phong trở thành Nhà cung cấp dịch vụ số có trải nghiệm khách hàng vượt trội, tốt nhất tại Việt Nam."
@@ -2171,7 +2204,7 @@
     "width": 512,
     "height": 288,
     "address": "The Grace Tower, 71 Hoàng Văn Thái, Tân Phú, Quận 7, Hồ Chí Minh",
-    "studentRegister": 25,
+    "studentRegister": 26,
     "studentAccepted": 0,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
@@ -2265,8 +2298,8 @@
     "width": 512,
     "height": 350,
     "address": "Lầu 3, Tòa nhà SaigonTel, Lô 46, CVPM Quang Trung, P. Tân Chánh Hiệp, Q. 12, TP HCM",
-    "studentRegister": 4,
-    "studentAccepted": 6,
+    "studentRegister": 3,
+    "studentAccepted": 7,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
     "adminMaxRegister": 10,
@@ -2284,6 +2317,11 @@
         "_id": "6834216d5d905d4f0dba6297",
         "name": "NINA_D2_TTNT_HK243.pdf",
         "path": "/company/666a51d9f5911d0a68b80e66NINA_D2_TTNT_HK243.pdf"
+      },
+      {
+        "_id": "683faf75bff0349643c6097f",
+        "name": "NINA_D3_TTNT_HK243_2025_06_04.png",
+        "path": "/company/666a51d9f5911d0a68b80e66NINA_D3_TTNT_HK243_2025_06_04.png"
       }
     ],
     "work": ""
@@ -3186,7 +3224,7 @@
     "width": 512,
     "height": 512,
     "address": "Tầng 6 Tòa nhà VCN Tower, số 2 Đường Tố Hữu, Phường Phước Hải, Thành  phố Nha Trang, Tỉnh Khánh Hòa",
-    "studentRegister": 3,
+    "studentRegister": 0,
     "studentAccepted": 13,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -3290,7 +3328,7 @@
     "width": 512,
     "height": 119,
     "address": "Số 10 Phổ Quang, Phường 2, Tân Bình, TP. Hồ Chí Minh",
-    "studentRegister": 1,
+    "studentRegister": 0,
     "studentAccepted": 4,
     "maxRegister": 18,
     "maxAcceptedStudent": 6,
@@ -3744,7 +3782,7 @@
     "width": 512,
     "height": 152,
     "address": "Tầng 24, Saigon Centre 2, 65 Lê Lợi, phường Bến Nghé, quận 1, TP Hồ Chí Minh",
-    "studentRegister": 1,
+    "studentRegister": 2,
     "studentAccepted": 0,
     "maxRegister": 9,
     "maxAcceptedStudent": 3,
@@ -4568,6 +4606,11 @@
         "_id": "68347b0a5d905d4f0dba6335",
         "name": "SKYLINK_D2&3_TTNT_HK243.docx",
         "path": "/company/6830934e5d905d4f0dba5c6eSKYLINK_D2&3_TTNT_HK243.docx"
+      },
+      {
+        "_id": "683fabccbff0349643c60977",
+        "name": "Skylink_D3_TTNT_HK243_2025_06_04.docx",
+        "path": "/company/6830934e5d905d4f0dba5c6eSkylink_D3_TTNT_HK243_2025_06_04.docx"
       }
     ],
     "work": "<p>SKYLINK Technology</p>"
@@ -5724,6 +5767,11 @@
         "_id": "683d8de6bff0349643c605a4",
         "name": "FINT_D2_TTNT_HK243_2025_05_30.docx",
         "path": "/company/683a5f26bff0349643c60005FINT_D2_TTNT_HK243_2025_05_30.docx"
+      },
+      {
+        "_id": "683faa8ebff0349643c60974",
+        "name": "FINT_D2&3_TTNT_HK243_2025_06_04.pdf",
+        "path": "/company/683a5f26bff0349643c60005FINT_D2&3_TTNT_HK243_2025_06_04.pdf"
       }
     ],
     "work": "<p>Công ty Cổ phần FINT Việt Nam</p>"
@@ -5799,7 +5847,7 @@
     "width": 512,
     "height": 391,
     "address": "232/6 Cộng Hòa, P.12, Q. Tân Bình, TPHCM",
-    "studentRegister": 7,
+    "studentRegister": 5,
     "studentAccepted": 0,
     "maxRegister": 27,
     "maxAcceptedStudent": 9,
@@ -5860,7 +5908,7 @@
     "width": 512,
     "height": 406,
     "address": "279 Tây Thạnh, Phường Tây Thạnh, Quận Tân Phú, Tp. Hồ Chí Min",
-    "studentRegister": 5,
+    "studentRegister": 6,
     "studentAccepted": 0,
     "maxRegister": 36,
     "maxAcceptedStudent": 12,
@@ -5995,6 +6043,34 @@
     ],
     "work": "<p>CÔNG TY CỔ PHẦN PHYGITAL LABS</p>"
   },
+  "683ee25abff0349643c60806": {
+    "id": "683ee25abff0349643c60806",
+    "shortname": "ACB",
+    "fullname": "Ngân hàng TMCP Á Châu",
+    "isSponsor": false,
+    "image": "/img/company/683ee25abff0349643c60806.png?t=01656607",
+    "level": 1,
+    "width": 512,
+    "height": 196,
+    "address": "442 Nguyễn Thị Minh Khai, P5, Q3",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683fa5c6bff0349643c6096b",
+        "name": "ACB_D2_TTNT_HK243_2025_06_03.docx",
+        "path": "/company/683ee25abff0349643c60806ACB_D2_TTNT_HK243_2025_06_03.docx"
+      }
+    ],
+    "work": "<p>Ngân hàng TMCP Á Châu</p>"
+  },
   "683ee25cbff0349643c60809": {
     "id": "683ee25cbff0349643c60809",
     "shortname": "CKVT",
@@ -6033,7 +6109,7 @@
     "width": 512,
     "height": 142,
     "address": "Tầng 9, Tòa nhà Victory, số 12 Tân Trào, Phường Tân Phú, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
