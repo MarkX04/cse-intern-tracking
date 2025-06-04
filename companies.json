@@ -1125,6 +1125,62 @@
     ],
     "work": "<p>Công ty TNHH Thương mại Dịch vụ Sản xuât ABC Solutions</p>"
   },
+  "60823ef9ee96ff021b97b228": {
+    "id": "60823ef9ee96ff021b97b228",
+    "shortname": "Raksul Việt Nam",
+    "fullname": "Công ty TNHH Raksul Việt Nam",
+    "isSponsor": false,
+    "image": "/img/company/60823ef9ee96ff021b97b228.png?t=58859059",
+    "level": 1,
+    "width": 512,
+    "height": 179,
+    "address": "4th floor, IMC building, 62 Tran Quang Khai, Dist.1, Ho Chi Minh City",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683fa037bff0349643c6095b",
+        "name": "RAKSUL_D2_TTNT_HK243_2025_06_03.pdf",
+        "path": "/company/60823ef9ee96ff021b97b228RAKSUL_D2_TTNT_HK243_2025_06_03.pdf"
+      }
+    ],
+    "work": "<p>Software engineering</p>"
+  },
+  "609b3d8aee96ff021b97dd08": {
+    "id": "609b3d8aee96ff021b97dd08",
+    "shortname": "TGDD - TGDĐ - Thế Giới Di Động",
+    "fullname": "Công ty Cổ phần Đầu Tư Thế Giới Di Động",
+    "isSponsor": false,
+    "image": "/img/company/609b3d8aee96ff021b97dd08.png?t=86598338",
+    "level": 1,
+    "width": 512,
+    "height": 148,
+    "address": "Tòa nhà MWG, lô T2-1.2 đường D1, phường Tân Phú, khu Công Nghệ Cao Quận 9, TP. Thủ Đức",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 30,
+    "maxAcceptedStudent": 10,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683fa1d4bff0349643c60961",
+        "name": "TGDD_D2&3_TTNT_HK243_2025_06_03.docx",
+        "path": "/company/609b3d8aee96ff021b97dd08TGDD_D2&3_TTNT_HK243_2025_06_03.docx"
+      }
+    ],
+    "work": "Công ty Cổ phần Đầu Tư Thế Giới Di Động"
+  },
   "60a4791aee96ff021b97ecdc": {
     "id": "60a4791aee96ff021b97ecdc",
     "shortname": "Bosch 2",
@@ -5938,5 +5994,117 @@
       }
     ],
     "work": "<p>CÔNG TY CỔ PHẦN PHYGITAL LABS</p>"
+  },
+  "683ee25cbff0349643c60809": {
+    "id": "683ee25cbff0349643c60809",
+    "shortname": "CKVT",
+    "fullname": "Công ty TNHH MTV Cơ khí Vũ Toàn",
+    "isSponsor": false,
+    "image": "/img/company/683ee25cbff0349643c60809.png?t=01361163",
+    "level": 1,
+    "width": 512,
+    "height": 195,
+    "address": "60/7 Lê Tấn Bê, Phường An Lạc, Quận Bình Tân, TP. Hồ Chí Minh",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683fa4a1bff0349643c60967",
+        "name": "CKVT_CoKhiVuToan_D2&3_TTNT_HK243_2025_06_03.docx",
+        "path": "/company/683ee25cbff0349643c60809CKVT_CoKhiVuToan_D2&3_TTNT_HK243_2025_06_03.docx"
+      }
+    ],
+    "work": "<p>Công ty TNHH MTV Cơ khí Vũ Toàn</p>"
+  },
+  "683ee25dbff0349643c6080b": {
+    "id": "683ee25dbff0349643c6080b",
+    "shortname": "TC DATA",
+    "fullname": "Công ty TNHH TC DATA",
+    "isSponsor": false,
+    "image": "/img/company/683ee25dbff0349643c6080b.png?t=01211387",
+    "level": 1,
+    "width": 512,
+    "height": 142,
+    "address": "Tầng 9, Tòa nhà Victory, số 12 Tân Trào, Phường Tân Phú, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683fa40abff0349643c60966",
+        "name": "TCDATA_D2_TTNT_HK243_2025_06_03.docx",
+        "path": "/company/683ee25dbff0349643c6080bTCDATA_D2_TTNT_HK243_2025_06_03.docx"
+      }
+    ],
+    "work": "<p>Công ty TNHH TC DATA</p>"
+  },
+  "683ee25fbff0349643c6080e": {
+    "id": "683ee25fbff0349643c6080e",
+    "shortname": "PAV - Pascalia Asia Vietnam",
+    "fullname": "CÔNG TY TNHH PASCALIA ASIA VIỆT NAM",
+    "isSponsor": false,
+    "image": "/img/company/683ee25fbff0349643c6080e.png?t=00412479",
+    "level": 1,
+    "width": 512,
+    "height": 87,
+    "address": "Số 1B, đường 30, Khu phố 1, Phường An Khánh, Thành phố Thủ Đức",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683fa0e7bff0349643c6095e",
+        "name": "PAV_D2&3_TTNT_HK243_2025_06_03.docx",
+        "path": "/company/683ee25fbff0349643c6080ePAV_D2&3_TTNT_HK243_2025_06_03.docx"
+      }
+    ],
+    "work": "<p>CÔNG TY TNHH PASCALIA ASIA VIỆT NAM</p>"
+  },
+  "683ee261bff0349643c60812": {
+    "id": "683ee261bff0349643c60812",
+    "shortname": "Vocado",
+    "fullname": "Vocado Kitchen Inc",
+    "isSponsor": false,
+    "image": "/img/company/683ee261bff0349643c60812.png?t=00075283",
+    "level": 1,
+    "width": 512,
+    "height": 512,
+    "address": "No. 04, Lot C, Alley 160, Nguyen Van Quy Street, Phu Thuan Ward, District 7, Ho Chi Minh City, Vietnam",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "683f9f51bff0349643c60959",
+        "name": "Vocado_D2_TTNT_HK243_2025_06_03.docx",
+        "path": "/company/683ee261bff0349643c60812Vocado_D2_TTNT_HK243_2025_06_03.docx"
+      }
+    ],
+    "work": "<p>Vocado Kitchen Inc</p>"
   }
 }
