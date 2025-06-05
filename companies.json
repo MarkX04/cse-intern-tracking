@@ -460,7 +460,7 @@
     "width": 512,
     "height": 112,
     "address": "53-55-57 Phó Đức Chính, P. Nguyễn Thái Bình, Q.1, TP.HCM",
-    "studentRegister": 24,
+    "studentRegister": 23,
     "studentAccepted": 5,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -531,7 +531,7 @@
     "width": 512,
     "height": 152,
     "address": "27B/9 Nguyễn Đình Chiểu, P. Đa Kao, Q1, TPHCM",
-    "studentRegister": 30,
+    "studentRegister": 31,
     "studentAccepted": 0,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -2102,7 +2102,7 @@
     "width": 512,
     "height": 216,
     "address": "Tầng 11, tòa nhà Vina, 131 Xô Viết Nghệ Tĩnh, Phường 17, Quận Bình Thạnh, TP. Hồ Chí Minh",
-    "studentRegister": 18,
+    "studentRegister": 17,
     "studentAccepted": 0,
     "maxRegister": 30,
     "maxAcceptedStudent": 10,
@@ -2135,7 +2135,7 @@
     "width": 512,
     "height": 304,
     "address": "55-57 Bau Cat 4 St., Tan Binh Dist., Ho Chi Minh City, Vietnam",
-    "studentRegister": 9,
+    "studentRegister": 10,
     "studentAccepted": 2,
     "maxRegister": 15,
     "maxAcceptedStudent": 5,
@@ -5381,7 +5381,7 @@
     "width": 512,
     "height": 159,
     "address": "Toà nhà R1, Viện Công Nghệ Cao Hutech, Lô E2-B4, Đường D1 Phường Long Thạnh Mỹ, Thủ Đức, Hồ Chí Minh",
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
@@ -6437,7 +6437,7 @@
         "path": "/company/6840f100bff0349643c60bbcBN_D2_TTNT_HK243_2025_06_05.pdf"
       }
     ],
-    "work": "<p>CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT BẢO NGHI</p>"
+    "work": "<p><span style=\"color:#231F20;\"><strong>CÔNG TY TNHH TM DV KỸ THUẬT BẢO NGHI&nbsp;</strong>được thành lập từ năm 2007, với lĩnh vực hoạt động chính là cung cấp hệ thống bơm chất lỏng,hệ thống điện – điều khiển, hệ thống van tay, van điều khiển, thiết bị đo lường, thiết bị điện công nghiệp, thiết bị điều khiển, khí cụ và tự động hóa cho các ngành công nghiệp Dầu khí &amp; Khai khoáng, Năng lượng, Hàng hải, Cao su, Dệt may, Thực phẩm &amp; Ðồ uống, Cấp nước &amp; Xử lý nước….</span></p>"
   },
   "6840f101bff0349643c60bbe": {
     "id": "6840f101bff0349643c60bbe",
