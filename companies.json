@@ -871,7 +871,7 @@
     "width": 512,
     "height": 331,
     "address": "TMA Tower, Đường số 2, Lô 17, Khu CNPM Quang Trung, P. Tân Chánh Hiệp, Q.12, TPHCM",
-    "studentRegister": 55,
+    "studentRegister": 56,
     "studentAccepted": 15,
     "maxRegister": 300,
     "maxAcceptedStudent": 100,
@@ -2446,6 +2446,11 @@
         "_id": "6840f619bff0349643c60bcf",
         "name": "ITC_GROUP_D2_TTNT_HK243_2025_06_04.docx",
         "path": "/company/666c420986c0129f495ab04bITC_GROUP_D2_TTNT_HK243_2025_06_04.docx"
+      },
+      {
+        "_id": "68416129bff0349643c60c91",
+        "name": "ITC_GROUP_D2_TTNT_HK243_2025_06_05.pdf",
+        "path": "/company/666c420986c0129f495ab04bITC_GROUP_D2_TTNT_HK243_2025_06_05.pdf"
       }
     ],
     "work": "<p>Công ty TNHH ITC Group</p>"
@@ -6332,7 +6337,7 @@
     "width": 512,
     "height": 130,
     "address": "83 Tạ Hiện, Phường Thạnh Mỹ Lợi, Thành phố Thủ Đức, TP. Hồ Chí Minh",
-    "studentRegister": 0,
+    "studentRegister": 2,
     "studentAccepted": 0,
     "maxRegister": 6,
     "maxAcceptedStudent": 2,
