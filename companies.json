@@ -240,7 +240,7 @@
     "width": 512,
     "height": 512,
     "address": "Lot W.29-30-31a, Tan Thuan Road, Tan Thuan Export Processing Zone, Tan Thuan Dong Ward, District 7, HCMC.",
-    "studentRegister": 8,
+    "studentRegister": 9,
     "studentAccepted": 4,
     "maxRegister": 15,
     "maxAcceptedStudent": 5,
@@ -871,7 +871,7 @@
     "width": 512,
     "height": 331,
     "address": "TMA Tower, Đường số 2, Lô 17, Khu CNPM Quang Trung, P. Tân Chánh Hiệp, Q.12, TPHCM",
-    "studentRegister": 53,
+    "studentRegister": 54,
     "studentAccepted": 15,
     "maxRegister": 300,
     "maxAcceptedStudent": 100,
@@ -904,7 +904,7 @@
     "width": 512,
     "height": 590,
     "address": "12/1 Nguyễn Thị Minh Khai, P. Đa Kao, Quận 1, TP.HCM",
-    "studentRegister": 1,
+    "studentRegister": 2,
     "studentAccepted": 16,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -1318,8 +1318,8 @@
     "width": 512,
     "height": 588,
     "address": "437/16 Hoàng Văn Thụ, phường 4, quận Tân Bình, TP. Hồ Chí Minh",
-    "studentRegister": 14,
-    "studentAccepted": 11,
+    "studentRegister": 11,
+    "studentAccepted": 12,
     "maxRegister": 39,
     "maxAcceptedStudent": 13,
     "adminMaxRegister": 10,
@@ -1488,7 +1488,7 @@
     "width": 512,
     "height": 109,
     "address": "Trung Tâm Đào Tạo Khu Công Nghệ Cao, 930 Xa Lộ Hà Nội, phường Hiệp Phú, Thủ Đức",
-    "studentRegister": 2,
+    "studentRegister": 3,
     "studentAccepted": 0,
     "maxRegister": 5,
     "maxAcceptedStudent": 5,
@@ -2416,6 +2416,34 @@
       }
     ],
     "work": ""
+  },
+  "666c420986c0129f495ab04b": {
+    "id": "666c420986c0129f495ab04b",
+    "shortname": "ITC",
+    "fullname": "Công ty TNHH ITC Group",
+    "isSponsor": false,
+    "image": "/img/company/666c420986c0129f495ab04b.png?t=02259027",
+    "level": 1,
+    "width": 512,
+    "height": 460,
+    "address": "214 Nguyễn Trường Tộ, P. Tân Thành, Q. Tân Phú, TPHCM",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 3,
+    "maxAcceptedStudent": 3,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"color:#c0392b;\"><strong>Chương trình TTNT HK243 (CS&amp;CE).</strong></span></p><p><span style=\"color:#c0392b;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, email cho DN nữa.</strong></span></p><p><span style=\"color:#c0392b;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập, SV bấm đăng ký, DN bấm accept thỉ kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "6840f619bff0349643c60bcf",
+        "name": "ITC_GROUP_D2_TTNT_HK243_2025_06_04.docx",
+        "path": "/company/666c420986c0129f495ab04bITC_GROUP_D2_TTNT_HK243_2025_06_04.docx"
+      }
+    ],
+    "work": "<p>Công ty TNHH ITC Group</p>"
   },
   "6676c4f128ce7ef5bfd64d02": {
     "id": "6676c4f128ce7ef5bfd64d02",
@@ -4533,7 +4561,7 @@
     "width": 512,
     "height": 437,
     "address": "114-B1 Trường ĐH Bách Khoa, 268 Lý Thường Kiệt, P14, Q10, TPHCM; Phòng 105-106 BK.B6 Trường ĐH Bách Khoa, P. Đông Hòa, TP. Dĩ An, tỉnh Bình Dương",
-    "studentRegister": 36,
+    "studentRegister": 37,
     "studentAccepted": 0,
     "maxRegister": 45,
     "maxAcceptedStudent": 15,
@@ -5892,7 +5920,7 @@
     "width": 512,
     "height": 391,
     "address": "232/6 Cộng Hòa, P.12, Q. Tân Bình, TPHCM",
-    "studentRegister": 8,
+    "studentRegister": 9,
     "studentAccepted": 0,
     "maxRegister": 27,
     "maxAcceptedStudent": 9,
@@ -6227,5 +6255,229 @@
       }
     ],
     "work": "<p>Vocado Kitchen Inc</p>"
+  },
+  "6840f0fabff0349643c60bb3": {
+    "id": "6840f0fabff0349643c60bb3",
+    "shortname": "HINNOVA",
+    "fullname": "HINNOVA JOINT STOCK COMPANY",
+    "isSponsor": false,
+    "image": "/img/company/6840f0fabff0349643c60bb3.png?t=89171254",
+    "level": 1,
+    "width": 512,
+    "height": 512,
+    "address": "181 Cao Thắng, Phường 12, Quận 10, TP.HCM, Việt Nam",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "6840fb9abff0349643c60be1",
+        "name": "HINNOVA_HCM_D2_TTNT_HK243_2025_06_04.docx",
+        "path": "/company/6840f0fabff0349643c60bb3HINNOVA_HCM_D2_TTNT_HK243_2025_06_04.docx"
+      }
+    ],
+    "work": "<p>HINNOVA JOINT STOCK COMPANY</p>"
+  },
+  "6840f0fbbff0349643c60bb5": {
+    "id": "6840f0fbbff0349643c60bb5",
+    "shortname": "AA - Ads Agency",
+    "fullname": "CÔNG TY TNHH ADSAGENCY VN",
+    "isSponsor": false,
+    "image": "/img/company/6840f0fbbff0349643c60bb5.png?t=89038479",
+    "level": 1,
+    "width": 512,
+    "height": 106,
+    "address": "Tầng 2 Toà nhà Gold Star, 217/4 Nơ Trang Long, Phường 12, Quận Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "6840fb17bff0349643c60bde",
+        "name": "AA_ADS_Agency_D2&3_TTNT_HK243.docx",
+        "path": "/company/6840f0fbbff0349643c60bb5AA_ADS_Agency_D2&3_TTNT_HK243.docx"
+      }
+    ],
+    "work": "<p>CÔNG TY TNHH ADSAGENCY VN</p>"
+  },
+  "6840f0fcbff0349643c60bb7": {
+    "id": "6840f0fcbff0349643c60bb7",
+    "shortname": "HN - Hưng Nghiệp",
+    "fullname": "Công ty TNHH Tư vấn Xây dựng Hưng Nghiệp",
+    "isSponsor": false,
+    "image": "/img/company/6840f0fcbff0349643c60bb7.png?t=88904544",
+    "level": 1,
+    "width": 512,
+    "height": 130,
+    "address": "83 Tạ Hiện, Phường Thạnh Mỹ Lợi, Thành phố Thủ Đức, TP. Hồ Chí Minh",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 6,
+    "maxAcceptedStudent": 2,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p>",
+    "internshipFiles": [
+      {
+        "_id": "6840fa90bff0349643c60bdd",
+        "name": "HN_HungNghiep_D2_TTNT_HK243.docx",
+        "path": "/company/6840f0fcbff0349643c60bb7HN_HungNghiep_D2_TTNT_HK243.docx"
+      }
+    ],
+    "work": "<p>Công ty TNHH Tư vấn Xây dựng Hưng Nghiệp</p>"
+  },
+  "6840f0fdbff0349643c60bb9": {
+    "id": "6840f0fdbff0349643c60bb9",
+    "shortname": "CP - CarPassion",
+    "fullname": "CarPassion.vn",
+    "isSponsor": false,
+    "image": "/img/company/6840f0fdbff0349643c60bb9.png?t=88775107",
+    "level": 1,
+    "width": 512,
+    "height": 250,
+    "address": "460/6/13 Đ. Lê Văn Lương, Tân Phong, Quận 7, Hồ Chí Minh",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "6840fa13bff0349643c60bda",
+        "name": "CP_CarPassion_D2&3_TTNT_HK243_2025_06_04.docx",
+        "path": "/company/6840f0fdbff0349643c60bb9CP_CarPassion_D2&3_TTNT_HK243_2025_06_04.docx"
+      }
+    ],
+    "work": "<p>CarPassion.vn</p>"
+  },
+  "6840f0ffbff0349643c60bbb": {
+    "id": "6840f0ffbff0349643c60bbb",
+    "shortname": "EQT - EyeQ Tech",
+    "fullname": "Công ty Cổ phần Công nghệ EyeQ Tech",
+    "isSponsor": false,
+    "image": "/img/company/6840f0ffbff0349643c60bbb.png?t=88596350",
+    "level": 1,
+    "width": 512,
+    "height": 512,
+    "address": "Số D3 đường Hồng Kỳ, Phường Cát Lái, Thành phố Thủ Đức, Thành phố Hồ Chí Minh",
+    "studentRegister": 1,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "6840f95cbff0349643c60bd9",
+        "name": "EQT_EYEQ_TECH_D2_TTNT_HK243_2025_06_04.docx",
+        "path": "/company/6840f0ffbff0349643c60bbbEQT_EYEQ_TECH_D2_TTNT_HK243_2025_06_04.docx"
+      }
+    ],
+    "work": "<p>Công ty Cổ phần Công nghệ EyeQ Tech</p>"
+  },
+  "6840f100bff0349643c60bbc": {
+    "id": "6840f100bff0349643c60bbc",
+    "shortname": "BN - Bảo Nghi",
+    "fullname": "CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT BẢO NGHI",
+    "isSponsor": false,
+    "image": "/img/company/6840f100bff0349643c60bbc.png?t=88413628",
+    "level": 1,
+    "width": 512,
+    "height": 486,
+    "address": "25/27 đường 711A, P. Phú Hữu, Tp.Thủ Đức, Tp.Hồ Chí Minh",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "6840f8a7bff0349643c60bd6",
+        "name": "BN_BaoNghi_D2_TTNT_HK243_2025_06_04.docx",
+        "path": "/company/6840f100bff0349643c60bbcBN_BaoNghi_D2_TTNT_HK243_2025_06_04.docx"
+      }
+    ],
+    "work": "<p>CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT BẢO NGHI</p>"
+  },
+  "6840f101bff0349643c60bbe": {
+    "id": "6840f101bff0349643c60bbe",
+    "shortname": "SZ - SoftZ",
+    "fullname": "Công ty cổ phần SoftZ",
+    "isSponsor": false,
+    "image": "/img/company/6840f101bff0349643c60bbe.png?t=88187829",
+    "level": 1,
+    "width": 512,
+    "height": 358,
+    "address": "33 Nguyễn Hữu Thọ, Tân Hưng, Quận 7, TP Hồ Chí Minh",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 6,
+    "maxAcceptedStudent": 2,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p>",
+    "internshipFiles": [
+      {
+        "_id": "6840f7c5bff0349643c60bd3",
+        "name": "SoftZ_D2_TTNT_HK243_2025_06_04.docx",
+        "path": "/company/6840f101bff0349643c60bbeSoftZ_D2_TTNT_HK243_2025_06_04.docx"
+      }
+    ],
+    "work": "<p>Công ty cổ phần SoftZ</p>"
+  },
+  "6840f102bff0349643c60bc0": {
+    "id": "6840f102bff0349643c60bc0",
+    "shortname": "GN - Gia Nghi",
+    "fullname": "Công ty TNHH TMDV Thiết bị Gia Nghi",
+    "isSponsor": false,
+    "image": "/img/company/6840f102bff0349643c60bc0.png?t=87995383",
+    "level": 1,
+    "width": 512,
+    "height": 523,
+    "address": "56/3 Ngô Chí Quốc, Kp.2, P. Bình Chiểu, TP. Thủ Đức",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK243 (CS&amp;CE)</strong>.</span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; Chương trình đã nhận đủ SV -&gt; Đề nghị SV không gửi đăng ký, hồ sơ, email cho DN nữa.</strong></span></p><p><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống: SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "6840f706bff0349643c60bd2",
+        "name": "GN_GiaNghi_D2&3_TTNT_HK243_2025_06_04.pdf",
+        "path": "/company/6840f102bff0349643c60bc0GN_GiaNghi_D2&3_TTNT_HK243_2025_06_04.pdf"
+      }
+    ],
+    "work": "<p>Công ty TNHH TMDV Thiết bị Gia Nghi</p>"
   }
 }
