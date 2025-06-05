@@ -42,7 +42,7 @@
     "width": 512,
     "height": 512,
     "address": "149-151 Nguyễn Văn Trỗi, P.11, Q. Phú Nhuận, TP.HCM",
-    "studentRegister": 31,
+    "studentRegister": 32,
     "studentAccepted": 0,
     "maxRegister": 39,
     "maxAcceptedStudent": 13,
@@ -84,6 +84,11 @@
         "_id": "68269481841f239ff1b31fa3",
         "name": "Vinova_D2&3_HK243_TTNT.docx",
         "path": "/company/5caef41802c2e72195b4ce9aVinova_D2&3_HK243_TTNT.docx"
+      },
+      {
+        "_id": "6840f2ffbff0349643c60bc8",
+        "name": "Vinova_D2&3_TTNT_HK243_2025_06_04.pdf",
+        "path": "/company/5caef41802c2e72195b4ce9aVinova_D2&3_TTNT_HK243_2025_06_04.pdf"
       }
     ],
     "work": "VINOVA was founded in 2010. Headquarter is in Singapore\nOffshore Development Center (ODC) is in Ho Chi Minh City, Viet Nam\nWe are passionate developers, remarkable artist, and challenge talkers. We design and build innovative Mobile Apps, Web Apps, Mobile Games.\nWe combine agile development methodologies with the latest technologies to build your applications in the shortest possible time"
@@ -131,8 +136,8 @@
     "width": 512,
     "height": 167,
     "address": "G Floor, Etown 2 Building, 364 Cong Hoa St, Ward 13, Tan Binh District, Ho Chi Minh City, VIETNAM",
-    "studentRegister": 1,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 1,
     "maxRegister": 1,
     "maxAcceptedStudent": 1,
     "adminMaxRegister": 10,
@@ -526,7 +531,7 @@
     "width": 512,
     "height": 152,
     "address": "27B/9 Nguyễn Đình Chiểu, P. Đa Kao, Q1, TPHCM",
-    "studentRegister": 31,
+    "studentRegister": 30,
     "studentAccepted": 0,
     "maxRegister": 60,
     "maxAcceptedStudent": 20,
@@ -1313,7 +1318,7 @@
     "width": 512,
     "height": 588,
     "address": "437/16 Hoàng Văn Thụ, phường 4, quận Tân Bình, TP. Hồ Chí Minh",
-    "studentRegister": 15,
+    "studentRegister": 14,
     "studentAccepted": 11,
     "maxRegister": 39,
     "maxAcceptedStudent": 13,
