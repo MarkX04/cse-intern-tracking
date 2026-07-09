@@ -11240,25 +11240,7 @@
     "image": "/img/company/6a447ca9b27be6b9a5ee27df.png?t=74601142",
     "level": 1,
     "width": 512,
-    "height": 154,
-    "address": "Lầu 1, Tòa nhà Sài Gòn Tel, Lô 46 Công viên phần mềm Quang Trung, Phường Trung Mỹ Tây, Thành phố Hồ Chí Minh, Việt Nam",
-    "studentRegister": 1,
-    "studentAccepted": 0,
-    "maxRegister": 1,
-    "maxAcceptedStudent": 1,
-    "adminMaxRegister": 10,
-    "acceptedIntern": true,
-    "subscribeAcceptedEmail": false,
-    "active": true,
-    "description": "<p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK253 (CS&amp;CE).</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV cần xem kỹ chương trình/ file D2, tìm hiểu thêm về DN trên thị trường,... trước khi quyết định gửi đăng ký trên hệ thống; liên hệ/ gửi hồ sơ cho DN.</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff00ff;\"><strong>=&gt; Chương trình đã nhận đủ SV &gt;&gt; đề nghị SV không gửi đăng ký, email, hồ sơ cho DN nữa.</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff00ff;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống &gt;&gt; SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
-    "internshipFiles": [
-      {
-        "_id": "6a45c4f8b27be698eaf0592e",
-        "name": "Nasani_2_D2_TTNT_HK253_2026-07-01.docx",
-        "path": "/company/6a447ca9b27be6b9a5ee27dfNasani_2_D2_TTNT_HK253_2026-07-01.docx"
-      }
-    ],
-    "work": "<p>Công ty TNHH Công nghệ Phần mềm NASANI</p>"
+    "height": 154
   },
   "6a4786cb0dac56b446110d37": {
     "id": "6a4786cb0dac56b446110d37",
@@ -11268,35 +11250,7 @@
     "image": "/img/company/6a4786cb0dac56b446110d37.png?t=73051212",
     "level": 1,
     "width": 512,
-    "height": 278,
-    "address": "266 - 268 Nam Kỳ Khởi Nghĩa, phường Xuân Hòa, Thành phố Hồ Chí Minh, Việt Nam",
-    "studentRegister": 0,
-    "studentAccepted": 1,
-    "maxRegister": 1,
-    "maxAcceptedStudent": 1,
-    "adminMaxRegister": 10,
-    "acceptedIntern": true,
-    "subscribeAcceptedEmail": false,
-    "active": true,
-    "description": "<p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK253 (CS&amp;CE).</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV cần xem kỹ chương trình/ file D2, tìm hiểu thêm về DN trên thị trường,... trước khi quyết định gửi đăng ký trên hệ thống; liên hệ/ gửi hồ sơ cho DN.</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff00ff;\"><strong>=&gt; Chương trình đã nhận đủ SV &gt;&gt; đề nghị SV không gửi đăng ký, email, hồ sơ cho DN nữa.</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff00ff;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống &gt;&gt; SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
-    "internshipFiles": [
-      {
-        "_id": "6a4789550dac561b441111ac",
-        "name": "SCB_2_Sacombank_D2_TTNT_HK253_2026-07-02.docx",
-        "path": "/company/6a4786cb0dac56b446110d37SCB_2_Sacombank_D2_TTNT_HK253_2026-07-02.docx"
-      },
-      {
-        "_id": "6a4dbe1ed0d69b7eed11e6fd",
-        "name": "SCB_2_Sacombank_D2_TTNT_HK253_2026-07-08.pdf",
-        "path": "/company/6a4786cb0dac56b446110d37SCB_2_Sacombank_D2_TTNT_HK253_2026-07-08.pdf"
-      },
-      {
-        "_id": "6a4dbe24d0d69b6ec911e704",
-        "name": "SCB_2_Sacombank_D3_TTNT_HK253_2026-07-08.pdf",
-        "path": "/company/6a4786cb0dac56b446110d37SCB_2_Sacombank_D3_TTNT_HK253_2026-07-08.pdf"
-      }
-    ],
-    "work": "<p>Ngân hàng Thương mại cổ phần Sài Gòn Tài Lộc - Sacombank</p>"
+    "height": 278
   },
   "6a4dc24bd0d69b8a0f11ee2b": {
     "id": "6a4dc24bd0d69b8a0f11ee2b",
@@ -11306,25 +11260,7 @@
     "image": "/img/company/6a4dc24bd0d69b8a0f11ee2b.png?t=81158495",
     "level": 1,
     "width": 512,
-    "height": 197,
-    "address": "Tổng Công ty Giải pháp Doanh nghiệp Viettel – Tầng 10 Tòa nhà Viettel, số 285 Cách Mạng Tháng 8 – Phường Hòa Hưng – Tp.HCM",
-    "studentRegister": 0,
-    "studentAccepted": 0,
-    "maxRegister": 1,
-    "maxAcceptedStudent": 1,
-    "adminMaxRegister": 10,
-    "acceptedIntern": true,
-    "subscribeAcceptedEmail": false,
-    "active": true,
-    "description": "<p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK253 (CE).</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV cần xem kỹ chương trình/ file D2, tìm hiểu thêm về DN trên thị trường,... trước khi quyết định gửi đăng ký trên hệ thống; liên hệ/ gửi hồ sơ cho DN.</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff00ff;\"><strong>=&gt; Chương trình đã nhận đủ SV &gt;&gt; đề nghị SV không gửi đăng ký, email, hồ sơ cho DN nữa.</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff00ff;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống &gt;&gt; SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
-    "internshipFiles": [
-      {
-        "_id": "6a4dc34fd0d69b7cac11f08c",
-        "name": "Viettel_VHT_4_D2_TTNT_HK253_2026-07-07_CE.docx",
-        "path": "/company/6a4dc24bd0d69b8a0f11ee2bViettel_VHT_4_D2_TTNT_HK253_2026-07-07_CE.docx"
-      }
-    ],
-    "work": "<p>Tổng Công ty Công nghiệp Công nghệ cao Viettel (Viettel High Technology Industries Corporation)</p>"
+    "height": 197
   },
   "6a4dc250d0d69bbc4711ee3b": {
     "id": "6a4dc250d0d69bbc4711ee3b",
@@ -11334,25 +11270,7 @@
     "image": "/img/company/6a4dc250d0d69bbc4711ee3b.png?t=89997158",
     "level": 1,
     "width": 512,
-    "height": 256,
-    "address": "25-27 Đường B4, P. An Khánh, TP.HCM",
-    "studentRegister": 0,
-    "studentAccepted": 1,
-    "maxRegister": 1,
-    "maxAcceptedStudent": 1,
-    "adminMaxRegister": 10,
-    "acceptedIntern": true,
-    "subscribeAcceptedEmail": false,
-    "active": true,
-    "description": "<p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK253 (CE).</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV cần xem kỹ chương trình/ file D2, tìm hiểu thêm về DN trên thị trường,... trước khi quyết định gửi đăng ký trên hệ thống; liên hệ/ gửi hồ sơ cho DN.</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff00ff;\"><strong>=&gt; Chương trình đã nhận đủ SV &gt;&gt; đề nghị SV không gửi đăng ký, email, hồ sơ cho DN nữa.</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff00ff;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống &gt;&gt; SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
-    "internshipFiles": [
-      {
-        "_id": "6a4dc296d0d69b292411ee70",
-        "name": "STYL_D2_TTNT_HK253_2026-07-07_CE.pdf",
-        "path": "/company/6a4dc250d0d69bbc4711ee3bSTYL_D2_TTNT_HK253_2026-07-07_CE.pdf"
-      }
-    ],
-    "work": "<p>VĂN&nbsp;PHÒNG&nbsp;ĐẠI&nbsp;DIỆN&nbsp;STYL SOLUTIONS PTE. LTD. TẠI TP.HỒ CHÍ MINH</p>"
+    "height": 256
   },
   "6a4f1b21d0d69b8279144a6d": {
     "id": "6a4f1b21d0d69b8279144a6d",
@@ -11362,24 +11280,6 @@
     "image": "/img/company/6a4f1b21d0d69b8279144a6d.png?t=69269238",
     "level": 1,
     "width": 512,
-    "height": 387,
-    "address": "Unit 03.44, Block B, Chamington La Pointe, 181 Cao Thắng, phường Hòa Hưng, thành phố Hồ Chí Minh, Việt Nam",
-    "studentRegister": 0,
-    "studentAccepted": 1,
-    "maxRegister": 1,
-    "maxAcceptedStudent": 1,
-    "adminMaxRegister": 10,
-    "acceptedIntern": true,
-    "subscribeAcceptedEmail": false,
-    "active": true,
-    "description": "<p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK253 (CE).</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV cần xem kỹ chương trình/ file D2, tìm hiểu thêm về DN trên thị trường,... trước khi quyết định gửi đăng ký trên hệ thống; liên hệ/ gửi hồ sơ cho DN.</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff00ff;\"><strong>=&gt; Chương trình đã nhận đủ SV &gt;&gt; đề nghị SV không gửi đăng ký, email, hồ sơ cho DN nữa.</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff00ff;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống &gt;&gt; SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
-    "internshipFiles": [
-      {
-        "_id": "6a4f1b7ed0d69b98b2144ab7",
-        "name": "D2N_D2_TTNT_HK253_2026-07-08_CE.pdf",
-        "path": "/company/6a4f1b21d0d69b8279144a6dD2N_D2_TTNT_HK253_2026-07-08_CE.pdf"
-      }
-    ],
-    "work": "<p>CÔNG TY CỔ PHẦN THƯƠNG MẠI VÀ DỊCH VỤ D2N</p>"
+    "height": 387
   }
 }
