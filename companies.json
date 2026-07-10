@@ -11381,5 +11381,61 @@
       }
     ],
     "work": "<p>CÔNG TY CỔ PHẦN THƯƠNG MẠI VÀ DỊCH VỤ D2N</p>"
+  },
+  "6a507205d0d69b612817b494": {
+    "id": "6a507205d0d69b612817b494",
+    "shortname": "SATA - Sáng Tạo",
+    "fullname": "Công ty CP phát triển công nghệ và DV Sáng Tạo",
+    "isSponsor": false,
+    "image": "/img/company/6a507205d0d69b612817b494.png?t=57520851",
+    "level": 1,
+    "width": 512,
+    "height": 477,
+    "address": "77 đường số 5, p gò vấp TPHCM",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK253 (CS&amp;CE).</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV cần xem kỹ chương trình/ file D2, tìm hiểu thêm về DN trên thị trường,... trước khi quyết định gửi đăng ký trên hệ thống; liên hệ/ gửi hồ sơ cho DN.</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff00ff;\"><strong>=&gt; Chương trình đã nhận đủ SV &gt;&gt; đề nghị SV không gửi đăng ký, email, hồ sơ cho DN nữa.</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff00ff;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống &gt;&gt; SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "6a5074fcd0d69b2bf217baca",
+        "name": "SATA_D2_TTNT_HK253_2026-07-09.docx",
+        "path": "/company/6a507205d0d69b612817b494SATA_D2_TTNT_HK253_2026-07-09.docx"
+      }
+    ],
+    "work": "<p>Công ty CP phát triển công nghệ và DV Sáng Tạo</p>"
+  },
+  "6a507207d0d69b733b17b4a1": {
+    "id": "6a507207d0d69b733b17b4a1",
+    "shortname": "VNG 2",
+    "fullname": "Công ty Cổ phần Tập đoàn VNG",
+    "isSponsor": false,
+    "image": "/img/company/6a507207d0d69b733b17b4a1.png?t=57317383",
+    "level": 1,
+    "width": 512,
+    "height": 313,
+    "address": "Z06 Đường số 13, Phường Tân Thuận, Thành phố Hồ Chí Minh, Việt Nam",
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "maxRegister": 1,
+    "maxAcceptedStudent": 1,
+    "adminMaxRegister": 10,
+    "acceptedIntern": true,
+    "subscribeAcceptedEmail": false,
+    "active": true,
+    "description": "<p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>Chương trình TTNT HK253 (CS&amp;CE).</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff0000;\"><strong>=&gt; SV cần xem kỹ chương trình/ file D2, tìm hiểu thêm về DN trên thị trường,... trước khi quyết định gửi đăng ký trên hệ thống; liên hệ/ gửi hồ sơ cho DN.</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff00ff;\"><strong>=&gt; Chương trình đã nhận đủ SV &gt;&gt; đề nghị SV không gửi đăng ký, email, hồ sơ cho DN nữa.</strong></span></p><p style=\"text-align:justify;\"><span style=\"background-color:#ffffff;color:#ff00ff;\"><strong>=&gt; SV trúng tuyển và DN cần đăng nhập hệ thống &gt;&gt; SV bấm đăng ký, DN bấm accept thì kết quả xét tuyển mới hợp lệ.</strong></span></p>",
+    "internshipFiles": [
+      {
+        "_id": "6a507376d0d69b04da17b793",
+        "name": "VNG_2_D2_TTNT_HK253_2026-07-09.docx",
+        "path": "/company/6a507207d0d69b733b17b4a1VNG_2_D2_TTNT_HK253_2026-07-09.docx"
+      }
+    ],
+    "work": "<p>Công ty Cổ phần Tập đoàn VNG</p>"
   }
 }
